@@ -1,0 +1,16 @@
+{
+    "Hu Investigate": [
+      ["Chief Wang", "dislike of x"], 
+      ["Officer Li", "acquaintance of x"], 
+      ["Zhao Cishan", "hate of x"]
+    ],
+    "Chief Wang": [
+      ["Hu Investigate", "dislike of x"]
+    ],
+    "Officer Li": [
+      ["Hu Investigate", "acquaintance of x"]
+    ],
+    "Zhao Cishan": [
+      ["Hu Investigate", "hate of x"]
+    ]
+}

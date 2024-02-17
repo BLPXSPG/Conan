@@ -1,0 +1,24 @@
+{
+    "Jue Ming": [
+      ["Saint of Thieves", "same person as x (different identity)"], 
+      ["Mysterious Ice Sect's Messenger", "same person as x (different identity)"], 
+      ["Feng", "messenger of x"]
+    ],
+    "Saint of Thieves": [
+      ["Jue Ming", "same person as x (different identity)"]
+    ],
+    "Mysterious Ice Sect's Messenger": [
+      ["Jue Ming", "same person as x (different identity)"], 
+      ["Zi Su", "acquaintance of x"], 
+      ["Lu Ying", "host of x"]
+    ],
+    "Lu Ying": [
+      ["Mysterious Ice Sect's Messenger", "guest of x"]
+    ],
+    "Feng": [
+      ["Jue Ming", "customer of x"]
+    ],
+    "Zi Su": [
+      ["Mysterious Ice Sect's Messenger", "acquaintance of x"]
+    ]
+}

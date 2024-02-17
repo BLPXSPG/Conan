@@ -1,0 +1,22 @@
+{
+    "林校花": [
+      ["张恶霸", "fiance of x, murderer of x"]
+    ],
+    "郝闺蜜": [
+      ["张恶霸", "rebellion against x"]
+    ],
+    "赵帅哥": [
+      ["张恶霸", "sibling of x"]
+    ],
+    "李小弟": [
+      ["张恶霸", "rebellion against x"]
+    ],
+    "李大哥": [
+      ["张恶霸", "victim of x"]
+    ],
+    "张恶霸": [
+      ["林校花", "fiance of x, victim of x"], 
+      ["赵帅哥", "sibling of x"], 
+      ["李大哥", "bully of x"]
+    ]
+}

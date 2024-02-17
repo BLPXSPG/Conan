@@ -1,0 +1,154 @@
+{
+    "Lan Rui": [
+        [
+            "Zhang Fanghao",
+            "father of X, adversary of X"
+        ],
+        [
+            "Ms. Yao",
+            "mother of X"
+        ],
+        [
+            "Yang Shuixun",
+            "host of X"
+        ],
+        [
+            "Minxi",
+            "classmate of X"
+        ],
+        [
+            "Xiting",
+            "classmate of X, friend of X, helper of X"
+        ]
+    ],
+    "Zhang Fanghao": [
+        [
+            "Lan Rui",
+            "daughter of X"
+        ],
+        [
+            "Ms. Yao",
+            "wife of X"
+        ],
+        [
+            "Yang Shuixun",
+            "friend of X"
+        ],
+        [
+            "Zhang Shanren",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Zhang Shanren": [
+        [
+            "Zhang Fanghao",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Ms. Yao": [
+        [
+            "Lan Rui",
+            "daughter of X"
+        ],
+        [
+            "Zhang Fanghao",
+            "husband of X, adversary of X"
+        ]
+    ],
+    "Xiting": [
+        [
+            "Mu Xiting",
+            "same person as X (different reference)"
+        ],
+        [
+            "Lan Rui",
+            "classmate of X, friend of X, helped by X"
+        ],
+        [
+            "Minxi",
+            "classmate of X"
+        ],
+        [
+            "Xinger",
+            "servant of X"
+        ],
+        [
+            "Mu Boxuan",
+            "brother of X"
+        ],
+        [
+            "Gu Mengchu",
+            "husband of X"
+        ]
+    ],
+    "Mu Xiting": [
+        [
+            "Xiting",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Gu Mengchu": [
+        [
+            "Xiting",
+            "wife of X"
+        ]
+    ],
+    "Mu Boxuan": [
+        [
+            "Xiting",
+            "sister of X"
+        ]
+    ],
+    "Xinger": [
+        [
+            "Xiting",
+            "master of X"
+        ]
+    ],
+    "Yang Shuixun": [
+        [
+            "Zhang Fanghao",
+            "friend of X"
+        ],
+        [
+            "Lan Rui",
+            "guest of X"
+        ],
+        [
+            "Minxi",
+            "daughter of X"
+        ],
+        [
+            "Shen Wusheng",
+            "employee of X"
+        ]
+    ],
+    "Shen Wusheng": [
+        [
+            "Yang Shuixun",
+            "employer of X"
+        ],
+        [
+            "Minxi",
+            "employer of X"
+        ],
+        [
+            "Lan Rui",
+            "employer of X"
+        ]
+    ],
+    "Minxi": [
+        [
+            "Yang Shuixun",
+            "father of X"
+        ],
+        [
+            "Lan Rui",
+            "classmate of X"
+        ],
+        [
+            "Xiting",
+            "classmate of X"
+        ]
+    ]
+}

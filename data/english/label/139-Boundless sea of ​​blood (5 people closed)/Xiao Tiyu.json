@@ -1,0 +1,42 @@
+{
+    "Xiao Tiyu": [
+        [
+            "Xue Meiniang",
+            "Romantic relationships with X"
+        ],
+        [
+            "Zhuang Qingchun",
+            "Romantic relationships with X"
+        ],
+        [
+            "Jia Meili",
+            "Student of X, Perpetrator of X"
+        ]
+    ],
+    "Xue Meiniang": [
+        [
+            "Xiao Tiyu",
+            "Romantic relationships with X"
+        ]
+    ],
+    "Zhuang Qingchun": [
+        [
+            "Xiao Tiyu",
+            "Romantic relationships with X, Suspicious of X"
+        ],
+        [
+            "Jia Meili",
+            "Friend of X, Hate of X"
+        ]
+    ],
+    "Jia Meili": [
+        [
+            "Xiao Tiyu",
+            "Teacher of X, Victim of X"
+        ],
+        [
+            "Zhuang Qingchun",
+            "Friend of X, Hate of X"
+        ]
+    ]
+}

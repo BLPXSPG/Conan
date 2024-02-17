@@ -1,0 +1,49 @@
+{
+  "周忱纱": [
+    ["周景鱼", "brother of X"],
+    ["周允堂", "father of X"],
+    ["汪氏", "mother of X"],
+    ["郑函贞", "friend of X"],
+    ["巴隼", "friend of X, secret admirer of X"],
+    ["甘玛", "friend of X, rival in love of X"]
+  ],
+  "周景鱼": [
+    ["周忱纱", "sister of X"]
+  ],
+  "周允堂": [
+    ["周忱纱", "daughter of X"],
+    ["汪氏", "wife of X"],
+    ["郑函贞", "niece of X"],
+    ["郑昌珉", "friend of X"]
+  ],
+  "郑昌珉": [
+    ["郑函贞", "son of X"],
+    ["周允堂", "friend of X"]
+  ],
+  "汪氏": [
+    ["周忱纱", "daughter of X"],
+    ["周允堂", "husband of X"],
+    ["郑函贞", "niece of X"]
+  ],
+  "巴府山": [
+    ["周忱纱", "guest of X"],
+    ["周允堂", "guest of X"],
+    ["郑函贞", "guest of X, patient of X"],
+    ["巴隼", "son of X"],
+    ["甘玛", "helper of X"],
+    ["李德木", "employee of X"]
+  ],
+  "巴隼": [
+    ["巴府山", "father of X"],
+    ["李德木", "killed by X"],
+    ["周忱纱", "friend of X"]
+  ],
+  "李德木": [
+    ["巴府山", "employer of X"],
+    ["巴隼", "murderer of X"]
+  ],
+  "甘玛": [
+    ["巴府山", "employee of X"],
+    ["周忱纱", "friend of X"]
+  ]
+}

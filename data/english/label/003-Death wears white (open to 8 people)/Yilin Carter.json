@@ -1,0 +1,162 @@
+{
+    "Yilin Carter": [
+        [
+            "James Lai Li",
+            "Suspected by X, Subject of investigation for X"
+        ],
+        [
+            "Dean Berkeley",
+            "Quest Companion of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Mentor of X, Colleague of X, Subject of investigation for X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X, Subject of investigation for X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X, Subject of investigation for X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague of X, Subject of investigation for X"
+        ],
+        [
+            "Father Tom",
+            "Suspected by X, Subject of investigation for X"
+        ],
+        [
+            "Elaine Carter",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Elaine Carter": [
+        [
+            "Yilin Carter",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Dean Berkeley": [
+        [
+            "Yilin Carter",
+            "Quest Companion of X, Colleague of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Subordinate of X, Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Subordinate of X, Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Subordinate of X, Colleague of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Subordinate of X, Colleague of X"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Dean Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Yilin Carter",
+            "Student of X, Mentor of X, Colleague of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Dean Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Yilin Carter",
+            "Colleague of X"
+        ],
+        [
+            "Jim Mason",
+            "in the lawsuit against x"
+        ],
+        [
+            "Head Nurse Costa",
+            "Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Colleague of X"
+        ]
+    ],
+    "Jim Mason": [
+        [
+            "Hans Li Morette",
+            "in the lawsuit against x"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Dean Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Yilin Carter",
+            "Colleague of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Colleague of X"
+        ]
+    ],
+    "Head Nurse Costa": [
+        [
+            "Dean Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Yilin Carter",
+            "Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Colleague of X"
+        ]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Zhuang Qingchun": [
+      ["Qin Expert", "adoptive father of x"], 
+      ["Qin Laoda", "adoptive brother of x"], 
+      ["Xiao Tiyu", "romantic relationships with x"], 
+      ["Jia Meili", "friend of x, victim of x"], 
+      ["Xue Meiniang", "rival in love of x"], 
+      ["Zhuang Qingchun's Mother", "mother of x"]
+    ],
+    "Qin Expert": [
+      ["Zhuang Qingchun's Mother", "wife of x"], 
+      ["Qin Laoda", "son of x"], 
+      ["Zhuang Qingchun", "adoptive daughter of x, hate of x"], 
+      ["Jia Meili", "ex-romantic relationships with x"]
+    ],
+    "Qin Laoda": [
+      ["Qin Expert", "father of x"], 
+      ["Zhuang Qingchun", "adoptive sister of x"], 
+      ["Zheng Youhao", "friend of x"], 
+      ["Wei Xiaodi", "friend of x"]
+    ],
+    "Jia Meili": [
+      ["Zhuang Qingchun", "friend of x, hate of x, murderer of x"], 
+      ["Qin Expert", "ex-romantic relationships with x"]
+    ],
+    "Xiao Tiyu": [
+      ["Zhuang Qingchun", "romantic relationships with x"], 
+      ["Xue Meiniang", "romantic relationships with x"]
+    ],
+    "Xue Meiniang": [
+      ["Xiao Tiyu", "romantic relationships with x"]
+    ],
+    "Zhuang Qingchun's Mother": [
+      ["Zhuang Qingchun", "daughter of x"], 
+      ["Qin Expert", "husband of x"]
+    ],
+    "Zheng Youhao": [
+      ["Qin Laoda", "friend of x"], 
+      ["Zhuang Qingchun", "dislike of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Qin Laoda", "friend of x"], 
+      ["Zhuang Qingchun", "dislike of x"]
+    ]
+}

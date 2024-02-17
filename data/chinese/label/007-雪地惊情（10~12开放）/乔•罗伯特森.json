@@ -1,0 +1,42 @@
+{
+    "乔•罗伯特森": [
+      ["麦克斯•琼斯", "Friend of X"], 
+      ["国际刑警组织", "Employer of X"], 
+      ["丹尼尔•佩里", "Acquaintance of X"], 
+      ["约翰•摩根", "Acquaintance of X"], 
+      ["艾米•摩根", "Acquaintance of X"], 
+      ["露西•哈里森","Acquaintance of X"],
+      ["乔纳森•佩里", "Acquaintance of X"]
+    ],
+    "国际刑警组织":[
+      ["乔•罗伯特森", "Employee of X"]
+    ],
+    "Sleer&Leech":[
+      ["麦克斯•琼斯", "Employee of X"]
+    ],
+    "露西•哈里森":[
+      ["丹尼尔•佩里", "Uncle of X"],
+      ["乔纳森•佩里", "Secret lover of X, Cousin of X"]
+    ],
+    "乔纳森•佩里":[
+      ["露西•哈里森", "Secret lover of X, Cousin of X"],
+      ["丹尼尔•佩里", "Father of X"],
+      ["乔•罗伯特森", "Deceiver of X "]
+    ],
+    "麦克斯•琼斯": [
+      ["麦克斯•派克", "Same person as X (different reference)"],
+      ["Sleer&Leech", "Employer of X"]
+    ],
+    "丹尼尔•佩里": [
+      ["乔•罗伯特森", "Acquaintance of X"],
+      ["乔纳森•佩里", "Son of X"]
+    ],
+    "约翰•摩根": [
+      ["艾米•摩根", "Wife of X"],
+      ["乔•罗伯特森", "Acquaintance of X"]
+    ],
+    "艾米•摩根": [
+      ["约翰•摩根", "Husband of X"],
+      ["乔•罗伯特森", "Acquaintance of X"]
+    ]
+}

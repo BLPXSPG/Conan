@@ -1,0 +1,65 @@
+{
+    "Yu Junhong": [
+      ["Yu Beichen", "father of x"], 
+      ["Ren", "mother of x"], 
+      ["Ren Zhongyuan", "grandfather of x"], 
+      ["Yao Zhongyi", "friend of x"], 
+      ["Meng Shen", "acquaintance of x"], 
+      ["Fang Chengshan", "acquaintance of x"], 
+      ["Fan", "acquaintance of x"]
+    ],
+    "Yu Beichen": [
+      ["Yu Junhong", "son of x"], 
+      ["Ren", "wife of x"], 
+      ["Meng Shen", "friend of x"], 
+      ["Fang Chengshan", "acquaintance of x"], 
+      ["Fan", "acquaintance of x"], 
+      ["Ren Zhongyuan", "father in law of x"]
+    ],
+    "Ren": [
+      ["Yu Junhong", "son of x"], 
+      ["Yu Beichen", "husband of x"], 
+      ["Ren Zhongyuan", "father of x"]
+    ],
+    "Ren Zhongyuan": [
+      ["Yu Junhong", "grandson of x"], 
+      ["Ren", "daughter of x"], 
+      ["Yu Beichen", "son in law of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yu Junhong", "friend of x"], 
+      ["Yao Changshou", "father of x"], 
+      ["Lady Hong", "adoptive mother of x"], 
+      ["Yao Mengren", "half brother of x"]
+    ],
+    "Meng Shen": [
+      ["Yu Beichen", "friend of x"], 
+      ["Yao Changshou", "employee of x"], 
+      ["Fang Chengshan", "employee of x"], 
+      ["Fan", "employee of x"]
+    ],
+    "Fang Chengshan": [
+      ["Yu Beichen", "acquaintance of x"], 
+      ["Meng Shen", "employer of x"], 
+      ["Fan", "superior of x, colleague of x"]
+    ],
+    "Fan": [
+      ["Meng Shen", "employer of x"], 
+      ["Fang Chengshan", "subordinate of x"]
+    ],
+    "Yao Changshou": [
+      ["Yao Zhongyi", "son of x"], 
+      ["Lady Hong", "wife of x"], 
+      ["Yao Mengren", "son of x"]
+    ],
+    "Lady Hong": [
+      ["Yao Changshou", "husband of x"], 
+      ["Yao Zhongyi", "adoptive son of x"], 
+      ["Yao Mengren", "adoptive son of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Changshou", "father of x"], 
+      ["Lady Hong", "adoptive mother of x"], 
+      ["Yao Zhongyi", "half brother of x"]
+    ]
+}

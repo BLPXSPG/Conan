@@ -1,0 +1,102 @@
+{
+    "Hong Jiangshui": [
+        [
+            "Hong Zhaizhu",
+            "Father of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Employer of X, Victim of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Employer of X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Employer of X"
+        ],
+        [
+            "Cai Siniang",
+            "Colleague of X, Admired by X"
+        ]
+    ],
+    "Hong Zhaizhu": [
+        [
+            "Hong Jiangshui",
+            "Son of X"
+        ]
+    ],
+    "Meng Sanchun": [
+        [
+            "Hong Jiangshui",
+            "Employee of X, Murderer of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Business Partner of X, Friend of X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Wife of X"
+        ],
+        [
+            "Cai Siniang",
+            "Employee of X"
+        ]
+    ],
+    "Zhang Jinyin": [
+        [
+            "Hong Jiangshui",
+            "Employee of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Business Partner of X, Friend of X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Employee of X"
+        ],
+        [
+            "Cai Siniang",
+            "Employee of X"
+        ]
+    ],
+    "Zhang Hongsheng": [
+        [
+            "Hong Jiangshui",
+            "Employee of x"
+        ],
+        [
+            "Meng Sanchun",
+            "Husband of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Employee of X"
+        ],
+        [
+            "Cai Siniang",
+            "Employee of X"
+        ]
+    ],
+    "Cai Siniang": [
+        [
+            "Hong Jiangshui",
+            "Colleague of X, admirer of x"
+        ],
+        [
+            "Meng Sanchun",
+            "Employer of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Employer of X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Employer of X"
+        ]
+    ]
+}

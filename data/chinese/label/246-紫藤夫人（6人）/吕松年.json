@@ -1,0 +1,66 @@
+{
+    "吕松年": [
+        ["吕陆升", "Brother of X"],
+        ["严义充", "Murderer of X"],
+        ["葛继先", "Quest Companion of X"],
+        ["薛达财", "Acquaintance of X"],
+        ["朱陵山", "Quest Companion of X"],
+        ["乐婉", "Acquaintance of X"],
+        ["薛玉帆", "Acquaintance of X"]
+    ],
+    "吕陆升": [
+        ["吕松年", "Brother of X"],
+        ["严义充", "Murderer of X"],
+        ["葛继先", "Acquaintance of X"],
+        ["薛达财", "Acquaintance of X"],
+        ["朱陵山", "Disliked by X"],
+        ["乐婉", "Acquaintance of X"],
+        ["薛玉帆", "Acquaintance of X"],
+        ["于彦诚", "Customer of X"]
+    ],
+    "葛继先": [
+        ["葛月萝", "Daughter of X"],
+        ["葛月曼", "Daughter of X"],
+        ["朱陵山", "Nephew of X"],
+        ["吕松年", "Friend of X"],
+        ["吕陆升", "Acquaintance of X"]
+    ],
+    "朱陵山": [
+        ["葛月萝", "Wife of X"],
+        ["葛继先", "Father in law of X"],
+        ["吕松年", "Friend of X"],
+        ["吕陆升", "Disliked by X"],
+        ["乐婉", "Secret lover of X"],
+        ["薛玉帆", "Acquaintance of X"],
+        ["于彦诚", "Friend of X"]
+    ],
+    "薛达财": [
+        ["薛玉帆", "Son of X"],
+        ["朱陵山", "Cousin of X"],
+        ["吕松年", "Customer of X"],
+        ["吕陆升", "Customer of X"]
+    ],
+    "严义充": [
+        ["吕松年", "Acquaintance of X, Killed by X"],
+        ["吕陆升", "Acquaintance of X, Killed by X"]
+    ],
+    "乐婉": [
+        ["朱陵山", "Secret lover of X"],
+        ["于尚勇", "Acquaintance of X"]
+    ],
+    "薛玉帆": [
+        ["薛达财", "Father of X"],
+        ["吕松年", "Acquaintance of X"],
+        ["吕陆升", "Acquaintance of X"]
+    ],
+    "于彦诚": [
+        ["于尚勇", "Brother of X"],
+        ["吕松年", "Customer of X"],
+        ["吕陆升", "Customer of X"]
+    ],
+    "于尚勇": [
+        ["于彦诚", "Brother of X"],
+        ["吕陆升", "Acquaintance of X"],
+        ["乐婉", "Acquaintance of X"]
+    ]
+}

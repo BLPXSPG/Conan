@@ -1,0 +1,38 @@
+{
+    "林夕": [
+      ["林惟仁", "father of x"], 
+      ["林阳", "brother of x"], 
+      ["顾宇", "ex-boyfriend of x"], 
+      ["顾晴", "friend of x, dislike of x"], 
+      ["苏阳", "fiance of x"], 
+      ["沈城", "servant of x"]
+    ],
+    "林惟仁": [
+      ["林夕", "daughter of x"], 
+      ["林阳", "son of x"], 
+      ["苏阳", "student of x"], 
+      ["沈城", "servant of x, employee of x"]
+    ],
+    "林阳": [
+      ["林惟仁", "father of x"], 
+      ["林夕", "sister of x"], 
+      ["顾晴", "romantic relationships with x"]
+    ],
+    "顾宇": [
+      ["林夕", "ex-girlfriend of x"], 
+      ["顾晴", "sister of x"]
+    ],
+    "顾晴": [
+      ["林夕", "friend of x, dislike of x"], 
+      ["林阳", "romantic relationships with x"], 
+      ["顾宇", "brother of x"]
+    ],
+    "苏阳": [
+      ["林夕", "fiancee of x"], 
+      ["林惟仁", "teacher of x"]
+    ],
+    "沈城": [
+      ["林夕", "master of x"], 
+      ["林惟仁", "master of x, employer of x"]
+    ]
+}

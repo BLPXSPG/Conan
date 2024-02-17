@@ -1,0 +1,242 @@
+{
+    "Uncle Gui": [
+        [
+            "Du Guicheng",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Du Huixin",
+            "Father of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ],
+        [
+            "Physician Yu",
+            "Acquaintance of X"
+        ],
+        [
+            "Yun Ling",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Acquaintance of X"
+        ],
+        [
+            "Lady Hong",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Changshou",
+            "Acquaintance of X"
+        ]
+    ],
+    "Du Guicheng": [
+        [
+            "Uncle Gui",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Du Huixin",
+            "Father of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ],
+        [
+            "Physician Yu",
+            "Acquaintance of X"
+        ],
+        [
+            "Yun Ling",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Acquaintance of X"
+        ],
+        [
+            "Lady Hong",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Changshou",
+            "Acquaintance of X"
+        ]
+    ],
+    "Du Huixin": [
+        [
+            "Uncle Gui",
+            "Son of X"
+        ],
+        [
+            "Du Guicheng",
+            "Son of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "Uncle Gui",
+            "Employee of X"
+        ],
+        [
+            "Du Guicheng",
+            "Employee of X"
+        ],
+        [
+            "Du Huixin",
+            "Employee of X"
+        ]
+    ],
+    "Physician Yu": [
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Sister in law of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Employer of X"
+        ]
+    ],
+    "Yun Ling": [
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Short-haired Woman",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Physician Yu",
+            "Employee of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Sister in law of X"
+        ],
+        [
+            "Lady Hong",
+            "Adoptive mother of X"
+        ],
+        [
+            "Yao Changshou",
+            "Father of X"
+        ]
+    ],
+    "Chen Junmeng": [
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Physician Yu",
+            "Brother in law of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Brother in law of X"
+        ],
+        [
+            "Long-haired Girl",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Adoptive son of X"
+        ],
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Son of X"
+        ],
+        [
+            "Lady Hong",
+            "Wife of X"
+        ]
+    ],
+    "Long-haired Girl": [
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Short-haired Woman": [
+        [
+            "Yun Ling",
+            "Same person as X (different reference)"
+        ]
+    ]
+}

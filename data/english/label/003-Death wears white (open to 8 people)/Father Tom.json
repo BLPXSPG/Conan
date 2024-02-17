@@ -1,0 +1,44 @@
+{
+    "Father Tom": [
+        [
+            "Drake Li Morette",
+            "Doctor of X"
+        ],
+        [
+            "Tony",
+            "manipulated by x, Deceived by X"
+        ],
+        [
+            "Frank",
+            "Employee of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Seeker of Help from X"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Father Tom",
+            "Patient of X"
+        ]
+    ],
+    "Tony": [
+        [
+            "Father Tom",
+            "Manipulator of X"
+        ]
+    ],
+    "Frank": [
+        [
+            "Father Tom",
+            "Employer of X"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Father Tom",
+            "Helper of X"
+        ]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Song Jie": [
+      ["Feng", "employer of x"], 
+      ["Mysterious Ice Sect's Messenger", "same person as x (different identity)"], 
+      ["Saint of Thieves", "suspected by x"], 
+      ["Ren Dong", "helper of x, quest companion of x, colleague of x"], 
+      ["Martial Alliance's Messenger", "same person as x (different identity)"]
+    ],
+    "Martial Alliance's Messenger": [
+      ["Song Jie", "same person as x (different identity)"], 
+      ["Xuan Can", "host of x"], 
+      ["Lu Ying", "suspect to x"]
+    ],
+    "Feng": [
+      ["Song Jie", "employee of x"]
+    ],
+    "Lu Ying": [
+      ["Martial Alliance's Messenger", "suspected by x"]
+    ],
+    "Xuan Can": [
+      ["Song Jie", "guest of x"]
+    ],
+    "Ren Dong": [
+      ["Song Jie", "seeker of help from x, quest companion of x, colleague of x"]
+    ]
+}

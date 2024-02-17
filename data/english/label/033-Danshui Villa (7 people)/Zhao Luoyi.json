@@ -1,0 +1,118 @@
+{
+    "Zhao Luoyi": [
+        [
+            "Zhao Wanlei",
+            "Father of X"
+        ],
+        [
+            "Zhao Men Li Shi",
+            "Mother of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Servant of X"
+        ],
+        [
+            "Qi Yue",
+            "Servant of X"
+        ],
+        [
+            "Yin Shaoming",
+            "Helper of X"
+        ],
+        [
+            "Zhao An",
+            "Servant of X"
+        ],
+        [
+            "Zhao Wei",
+            "Brother of X"
+        ],
+        [
+            "Zhao Qiuer",
+            "Friend of X, Servant of X"
+        ]
+    ],
+    "Zhao Wanlei": [
+        [
+            "Zhao Luoyi",
+            "Daughter of X"
+        ],
+        [
+            "Zhao Men Li Shi",
+            "Wife of X"
+        ],
+        [
+            "Zhao Wei",
+            "Son of X"
+        ]
+    ],
+    "Zhao Wei": [
+        [
+            "Zhao Luoyi",
+            "Sister of X"
+        ],
+        [
+            "Zhao Men Li Shi",
+            "Mother of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Father of X"
+        ]
+    ],
+    "Feng Shuangji": [
+        [
+            "Zhao Luoyi",
+            "Master of X"
+        ],
+        [
+            "Feng Zhu",
+            "Daughter of X"
+        ],
+        [
+            "Yin Shaoming",
+            "Relative of X"
+        ],
+        [
+            "Qi Yue",
+            "Colleague of X"
+        ]
+    ],
+    "Feng Zhu": [
+        [
+            "Feng Shuangji",
+            "Father of X"
+        ],
+        [
+            "Zhao Luoyi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Qi Yue": [
+        [
+            "Zhao Luoyi",
+            "Master of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Superior of X"
+        ]
+    ],
+    "Yin Shaoming": [
+        [
+            "Zhao Luoyi",
+            "helped by X"
+        ],
+        [
+            "Feng Shuangji",
+            "servant of X, mentor of X"
+        ]
+    ],
+    "Zhao Qiuer": [
+        [
+            "Zhao Luoyi",
+            "Master of X, Friend of X"
+        ]
+    ]
+}

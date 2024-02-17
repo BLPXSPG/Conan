@@ -1,0 +1,55 @@
+{
+    "Andrew Paloski": [
+      ["Dean Berkeley", "superior of x, colleague of x"], 
+      ["Andrew Paloski's wife", "wife of x"], 
+      ["Scott", "son of x"], 
+      ["Hans Li Morette", "colleague of x, student of x, rival of x, unsuccessful helper of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Elaine Carter", "colleague of x, student of x"], 
+      ["Sylvia Costa", "colleague of x"], 
+      ["Father Tom", "seeker of help from x"]
+    ],
+    "Scott": [
+      ["Andrew Paloski", "father of x"], 
+      ["Andrew Paloski's wife", "mother of x"], 
+      ["Hans Li Morette", "doctor of x, unsuccessful helper of x"]
+    ],
+    "Hans Li Morette": [
+      ["Dean Berkeley", "superior of x, colleague of x"], 
+      ["Andrew Paloski", "colleague of x, mentor of x"], 
+      ["Gale Li Morette", "wife of x"], 
+      ["Drake Li Morette", "brother of x"], 
+      ["Scott", "patient of x"]
+    ],
+    "Drake Li Morette": [
+      ["Dean Berkeley", "superior of x, colleague of x"], 
+      ["Andrew Paloski", "colleague of x"], 
+      ["Hans Li Morette", "brother of x, colleague of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"]
+    ],
+    "Elaine Carter": [
+      ["Dean Berkeley", "superior of x, colleague of x"], 
+      ["Andrew Paloski", "colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Hans Li Morette", "colleague of x"]
+    ],
+    "Dean Berkeley": [
+      ["Andrew Paloski", "employee of x"], 
+      ["Elaine Carter", "subordinate of x, colleague of x"], 
+      ["Drake Li Morette", "subordinate of x, colleague of x"], 
+      ["Hans Li Morette", "subordinate of x, colleague of x"], 
+      ["Head Nurse Costa", "subordinate of x, colleague of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Dean Berkeley", "superior of x, colleague of x"], 
+      ["Andrew Paloski", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Hans Li Morette", "colleague of x"]
+    ],
+    "Father Tom": [
+      ["Andrew Paloski", "seeker of help from x"]
+    ]
+}

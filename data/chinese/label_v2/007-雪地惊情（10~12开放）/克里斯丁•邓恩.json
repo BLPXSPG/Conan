@@ -1,0 +1,14 @@
+{
+    "克里斯丁•邓恩": [
+      ["麦克斯•派克", "business partner of x"], 
+      ["乔•罗伯特森", "acquaintance of x"]
+    ],
+    "麦克斯•派克": [
+      ["克里斯丁•邓恩", "business partner of x"], 
+      ["乔•罗伯特森", "business partner of x"]
+    ],
+    "乔•罗伯特森": [
+      ["麦克斯•派克", "business partner of x"], 
+      ["克里斯丁•邓恩", "acquaintance of x"]
+    ]
+}

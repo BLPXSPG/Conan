@@ -1,0 +1,220 @@
+{
+    "小茜": [
+        [
+            "方叶",
+            "father of X"
+        ],
+        [
+            "奶奶",
+            "grandmother of X"
+        ],
+        [
+            "方絮",
+            "aunt of X"
+        ],
+        [
+            "方眠",
+            "aunt of X"
+        ],
+        [
+            "方竹",
+            "uncle of X"
+        ],
+        [
+            "草藤居士",
+            "adoptive father of X"
+        ],
+        [
+            "陈倩",
+            "adoptive sister of X, Same person as X (different reference)"
+        ],
+        [
+            "李延",
+            "saviour of X, deceived by X"
+        ],
+        [
+            "李仲",
+            "friend of X, deceived by X"
+        ],
+        [
+          "李钦仁",
+          "rival of X"
+        ]
+    ],
+    "方柳": [
+      [
+        "小茜",
+        "Same person as X (different reference)"
+      ]
+    ],
+    "方叶": [
+        [
+            "小茜",
+            "daughter of X"
+        ],
+        [
+            "奶奶",
+            "mother of X"
+        ],
+        [
+            "方絮",
+            "younger sister of X"
+        ],
+        [
+            "方眠",
+            "younger sister of X"
+        ],
+        [
+            "方竹",
+            "brother of X"
+        ]
+    ],
+    "奶奶": [
+        [
+            "小茜",
+            "granddaughter of X"
+        ],
+        [
+            "方叶",
+            "son of X"
+        ],
+        [
+            "方絮",
+            "daughter of X"
+        ],
+        [
+            "方眠",
+            "daughter of X"
+        ],
+        [
+            "方竹",
+            "adoptive son of X"
+        ]
+    ],
+    "方絮": [
+        [
+            "小茜",
+            "niece of X"
+        ],
+        [
+            "方叶",
+            "brother of X"
+        ],
+        [
+            "方眠",
+            "sister of X"
+        ],
+        [
+            "方竹",
+            "nephew of X"
+        ],
+        [
+          "李王爷",
+          "father in law of x"
+        ]
+    ],
+    "李王爷": [
+      [
+        "李钦仁",
+        "Same person as X (different reference)"
+      ]
+    ],
+    "李钦仁": [
+        [
+          "李王爷",
+          "Same person as X (different reference)"
+        ]
+      ],
+    "方眠": [
+        [
+            "小茜",
+            "niece of X"
+        ],
+        [
+            "方叶",
+            "brother of X"
+        ],
+        [
+            "方絮",
+            "sister of X"
+        ],
+        [
+            "方竹",
+            "nephew of X"
+        ]
+    ],
+    "方竹": [
+        [
+            "小茜",
+            "cousin of X"
+        ],
+        [
+            "方叶",
+            "adoptive father of X"
+        ],
+        [
+            "方絮",
+            "aunt of X"
+        ],
+        [
+            "方眠",
+            "aunt of X"
+        ]
+    ],
+    "草藤居士": [
+        [
+            "小茜",
+            "adoptive daughter of X"
+        ],
+        [
+            "陈倩",
+            "daughter of X"
+        ]
+    ],
+    "陈倩": [
+        [
+            "小茜",
+            "adoptive sister of X"
+        ],
+        [
+            "草藤居士",
+            "father of X"
+        ],
+        [
+            "李延",
+            "admirer of X"
+        ],
+        [
+            "李仲",
+            "admirer of X"
+        ]
+    ],
+    "李延": [
+        [
+            "小茜",
+            "saved by X, admirer of X"
+        ],
+        [
+            "李仲",
+            "friend of X"
+        ],
+        [
+            "陈倩",
+            "friend of X"
+        ]
+    ],
+    "李仲": [
+        [
+            "小茜",
+            "acquaintance of X"
+        ],
+        [
+            "李延",
+            "brother of X"
+        ],
+        [
+            "陈倩",
+            "fiancee of X"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Hong Zilian": [
+      ["Captain Hong", "same person as x (different reference)"]
+    ],
+    "Liu Qi": [
+      ["Hong Zilian", "classmate of x, superior of x"]
+    ],
+    "Xiu Renjie": [
+      ["Hong Zilian", "acquaintance of x"]
+    ],
+    "Han Yimu": [
+      ["Hong Zilian", "disliked by x, superior of x"]
+    ],
+    "Lin Ruotong": [
+      ["Hong Zilian", "romantic relationships with x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Hong Zilian", "acquaintance of x"], 
+      ["Liu Qi", "acquaintance of x"]
+    ],
+    "Captain Hong": [
+      ["Liu Qi", "classmate of x, subordinate of x"], 
+      ["Xiu Renjie", "acquaintance of x"], 
+      ["Han Yimu", "dislike of x, subordinate of x"], 
+      ["Lin Ruotong", "romantic relationships with x"], 
+      ["Zhang Wenyuan", "acquaintance of x"], 
+      ["Hong Zilian", "same person as x (different reference)"]
+    ]
+}

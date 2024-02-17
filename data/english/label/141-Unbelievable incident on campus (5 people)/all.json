@@ -1,0 +1,162 @@
+{
+    "Lin Xiaohua": [
+        [
+            "Zhang Eba",
+            "Fiance of X, Murderer of X"
+        ],
+        [
+            "Hao Guimi",
+            "Friend of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Secret admirer of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Hao Guimi": [
+        [
+            "Cousin Sister",
+            "Cousin of X"
+        ],
+        [
+            "Zhang Eba",
+            "Rebellion against X"
+        ],
+        [
+            "Lin Xiaohua",
+            "Friend of X"
+        ]
+    ],
+    "Wang Xuexi": [
+        [
+            "Lin Xiaohua",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Acquaintance of X"
+        ],
+        [
+            "Hao Guimi",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Schoolmate of X"
+        ]
+    ],
+    "Zhao Shuaige": [
+        [
+            "Lin Xiaohua",
+            "Schoolmate of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Sibling of X"
+        ]
+    ],
+    "Li Xiaodi": [
+        [
+            "Li Dage",
+            "Cousin of X"
+        ],
+        [
+            "Lin Xiaohua",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Acquaintance of X"
+        ],
+        [
+            "Hao Guimi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Rebellion against X"
+        ]
+    ],
+    "Li Dage": [
+        [
+            "Li Xiaodi",
+            "Cousin of X"
+        ],
+        [
+            "Zhang Eba",
+            "Schoolmate of X, Victim of X"
+        ]
+    ],
+    "Zhang Eba": [
+        [
+            "Lin Xiaohua",
+            "Fiance of X, Victim of X"
+        ],
+        [
+            "Hao Guimi",
+            "Acquaintance of X"
+        ],
+        [
+            "Cousin Sister",
+            "Schoolmate of X, Murderer of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Sibling of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Schoolmate of X"
+        ],
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Dage",
+            "Schoolmate of X, Bully of X"
+        ]
+    ],
+    "Cousin Sister": [
+        [
+            "Hao Guimi",
+            "Cousin of X"
+        ],
+        [
+            "Zhang Eba",
+            "Murderer of X"
+        ]
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "Lü Songnian": [
+      ["Lü Lusheng", "brother of x"], 
+      ["Yan Yichong", "murderer of x"], 
+      ["Ge Jixian", "quest companion of x"], 
+      ["Xue Dacai", "acquaintance of x"], 
+      ["Zhu Lingshan", "quest companion of x"], 
+      ["Le Wan", "acquaintance of x"], 
+      ["Xue Yufan", "acquaintance of x"]
+    ],
+    "Lü Lusheng": [
+      ["Lü Songnian", "brother of x"], 
+      ["Yan Yichong", "murderer of x"], 
+      ["Ge Jixian", "acquaintance of x"], 
+      ["Xue Dacai", "acquaintance of x"], 
+      ["Zhu Lingshan", "disliked by x"], 
+      ["Le Wan", "acquaintance of x"], 
+      ["Xue Yufan", "acquaintance of x"], 
+      ["Yu Yancheng", "customer of x"]
+    ],
+    "Ge Jixian": [
+      ["Ge Yueluo", "daughter of x"], 
+      ["Ge Yueman", "daughter of x"], 
+      ["Zhu Lingshan", "nephew of x"], 
+      ["Lü Songnian", "friend of x"], 
+      ["Lü Lusheng", "acquaintance of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Ge Yueluo", "wife of x"], 
+      ["Ge Jixian", "father in law of x"], 
+      ["Lü Songnian", "friend of x"], 
+      ["Lü Lusheng", "disliked by x"], 
+      ["Le Wan", "secret lover of x"], 
+      ["Xue Yufan", "acquaintance of x"], 
+      ["Yu Yancheng", "friend of x"]
+    ],
+    "Xue Dacai": [
+      ["Xue Yufan", "son of x"], 
+      ["Zhu Lingshan", "cousin of x"], 
+      ["Lü Songnian", "customer of x"], 
+      ["Lü Lusheng", "customer of x"]
+    ],
+    "Yan Yichong": [
+      ["Lü Songnian", "acquaintance of x, killed by x"], 
+      ["Lü Lusheng", "acquaintance of x, killed by x"]
+    ],
+    "Le Wan": [
+      ["Zhu Lingshan", "secret lover of x"], 
+      ["Yu Shangyong", "acquaintance of x"]
+    ],
+    "Xue Yufan": [
+      ["Xue Dacai", "father of x"], 
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Lü Lusheng", "acquaintance of x"]
+    ],
+    "Yu Yancheng": [
+      ["Yu Shangyong", "brother of x"], 
+      ["Lü Songnian", "customer of x"], 
+      ["Lü Lusheng", "customer of x"]
+    ],
+    "Yu Shangyong": [
+      ["Yu Yancheng", "brother of x"], 
+      ["Lü Lusheng", "acquaintance of x"], 
+      ["Le Wan", "acquaintance of x"]
+    ]
+}

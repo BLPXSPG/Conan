@@ -1,0 +1,65 @@
+{
+    "薛达财": [
+      ["薛玉帆", "son of x"], 
+      ["朱陵山", "cousin of x"], 
+      ["葛继先", "friend of x"], 
+      ["吕松年", "acquaintance of x, buyer of x"], 
+      ["吕陆升", "acquaintance of x, buyer of x"], 
+      ["张太太", "acquaintance of x"], 
+      ["于尚勇", "acquaintance of x"]
+    ],
+    "薛玉帆": [
+      ["薛达财", "father of x"], 
+      ["张太太", "acquaintance of x"], 
+      ["于彦诚", "acquaintance of x"], 
+      ["吕陆升", "acquaintance of x, buyer of x"], 
+      ["葛月萝", "relative of x"], 
+      ["葛月曼", "relative of x"]
+    ],
+    "朱陵山": [
+      ["葛月萝", "wife of x"], 
+      ["葛继先", "father in law of x"], 
+      ["薛达财", "cousin of x"], 
+      ["薛玉帆", "relative of x"]
+    ],
+    "葛继先": [
+      ["葛月萝", "daughter of x"], 
+      ["葛月曼", "daughter of x"], 
+      ["朱陵山", "son in law of x"], 
+      ["薛达财", "friend of x"]
+    ],
+    "葛月萝": [
+      ["葛继先", "father of x"], 
+      ["葛月曼", "sister of x"], 
+      ["朱陵山", "husband of x"], 
+      ["薛玉帆", "relative of x"]
+    ],
+    "葛月曼": [
+      ["葛继先", "father of x"], 
+      ["葛月萝", "sister of x"], 
+      ["朱陵山", "brother in law of x"], 
+      ["薛玉帆", "relative of x"]
+    ],
+    "张太太": [
+      ["薛玉帆", "secret admirer of x"], 
+      ["于彦诚", "acquaintance of x"]
+    ],
+    "吕松年": [
+      ["薛达财", "acquaintance of x, customer of x"], 
+      ["吕陆升", "brother of x"], 
+      ["薛玉帆", "acquaintance of x, customer of x"]
+    ],
+    "吕陆升": [
+      ["薛达财", "acquaintance of x, customer of x"], 
+      ["吕松年", "brother of x"], 
+      ["薛玉帆", "acquaintance of x, customer of x"]
+    ],
+    "于彦诚": [
+      ["薛玉帆", "rival of x"], 
+      ["张太太", "acquaintance of x"]
+    ],
+    "于尚勇": [
+      ["薛达财", "acquaintance of x"], 
+      ["薛玉帆", "acquaintance of x"]
+    ]
+}

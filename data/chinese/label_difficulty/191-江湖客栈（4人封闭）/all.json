@@ -1,0 +1,27 @@
+{
+    "张红生": [
+      ["蔡思娘", "admirer of x, fondness of x"]
+    ],
+    "孟三春": [
+      ["张红生", "enemy of x, wife of x"], 
+      ["蔡思娘", "dislike of x, enemy of x"], 
+      ["张金银", "deceived by x, murderer of x, sworn brother of x"], 
+      ["张金山", "deceived by x"], 
+      ["洪江水", "murderer of x"]
+    ],
+    "洪江水": [
+      ["蔡思娘", "admired by x"], 
+      ["孟三春", "victim of x"]
+    ],
+    "蔡思娘": [
+      ["张红生", "admired by x"], 
+      ["洪江水", "admirer of x"]
+    ],
+    "张金银": [
+      ["张红生", "enemy of x"], 
+      ["孟三春", "deceiver of x, sworn brother of x, victim of x"]
+    ],
+    "张金山": [
+      ["孟三春", "deceiver of x"]
+    ]
+}

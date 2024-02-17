@@ -1,0 +1,146 @@
+{
+    "Yue Dongwen": [
+        [
+            "Master Meng",
+            "employer of X"
+        ],
+        [
+            "Wu Baian",
+            "Schoolmate of X, Friend of X, Employee of X"
+        ],
+        [
+            "Yue Kesa",
+            "Son of X"
+        ],
+        [
+            "Bai Changgong",
+            "Customer of X, Acquaintance of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Debtor of X, Dislike of X"
+        ],
+        [
+            "Xia Shue",
+            "Employer of X"
+        ],
+        [
+            "Alun",
+            "Employer of X"
+        ],
+        [
+            "Li Zicai",
+            "Schoolmate of X"
+        ],
+        [
+            "Li Luoming",
+            "Helped by X, Employee of X"
+        ],
+        [
+            "Yue Gu",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yue Gu": [
+        [
+            "Yue Dongwen",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Wu Baian": [
+        [
+            "Yue Dongwen",
+            "Schoolmate of X, employer of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Customer of X"
+        ],
+        [
+            "Yue Kesa",
+            "Dislike of X"
+        ]
+    ],
+    "Yue Kesa": [
+        [
+            "Yue Dongwen",
+            "Father of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Mentor of X"
+        ],
+        [
+            "Wu Baian",
+            "Dislike of X"
+        ]
+    ],
+    "Xia Sanhu": [
+        [
+            "Yue Dongwen",
+            "creditor of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Brother of X, murderer of X"
+        ],
+        [
+            "Xia Shue",
+            "Niece of X"
+        ],
+        [
+            "Wu Baian",
+            "Product provider of X"
+        ],
+        [
+            "Yue Kesa",
+            "Student of X"
+        ]
+    ],
+    "Xia Zhongpeng": [
+        [
+            "Xia Sanhu",
+            "Brother of X"
+        ],
+        [
+            "Xia Shue",
+            "Niece of X"
+        ]
+    ],
+    "Xia Shue": [
+        [
+            "Xia Sanhu",
+            "uncle of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "uncle of X"
+        ]
+    ],
+    "Li Luoming": [
+        [
+            "Yue Dongwen",
+            "Helper of X, Employer of X"
+        ],
+        [
+            "Aming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Aming": [
+        [
+            "Li Luoming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Li Zicai": [
+        [
+            "Yue Dongwen",
+            "Schoolmate of X, Quest Companion of X"
+        ],
+        [
+            "Li Luoming",
+            "Son of X"
+        ]
+    ]
+}

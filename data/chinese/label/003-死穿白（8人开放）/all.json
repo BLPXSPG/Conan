@@ -1,0 +1,117 @@
+{
+    "西尔维娅·科斯塔": [
+      ["西尔维娅·科斯塔的母亲", "Mother of X"],
+      ["汉斯·里莫瑞特", "Colleague of X, Manipulated by X, Deceived by X"],
+      ["盖尔·里莫瑞特", "Lawyer of X"],
+      ["德雷克·里莫瑞特", "Colleague of X"],
+      ["安德鲁·帕洛斯基", "Colleague of X"],
+      ["伊莱恩·卡特尔", "Colleague of X"],
+      ["理查德·伯克利", "Superior of X, Colleague of X"],
+      ["詹姆斯·莱利", "Creditor of X, Manipulator of X"],
+      ["护士长科斯塔", "Same person as X (different reference)"]
+    ],
+    "护士长科斯塔": [
+      ["西尔维娅·科斯塔", "Same person as X (different reference)"]
+    ],
+    "西尔维娅·科斯塔的母亲": [
+      ["西尔维娅·科斯塔", "Daughter of X"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["西尔维娅·科斯塔", "Colleague of X, Manipulator of X, Deceiver of X"],
+      ["盖尔·里莫瑞特", "Wife of X, Attempted Murderer of X, betrayer of X"],
+      ["德雷克·里莫瑞特", "Colleague of X, Brother of X, Rival in love of X"],
+      ["安德鲁·帕洛斯基", "Colleague of X, Mentor of X, Jealous of x, Rival of X"],
+      ["依琳·卡特", "Colleague of X"],
+      ["理查德·伯克利", "Superior of X, Colleague of X"],
+      ["吉姆梅森", "in the lawsuit against x, victim of X, Patient of X"],
+      ["斯科特", "Patient of X"]
+    ],
+    "吉姆·梅森": [
+      ["西尔维娅·科斯塔", "Perpetrator of X"],
+      ["汉斯·里莫瑞特", "in the lawsuit against x, perpetrator of x, Doctor of X"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["西尔维娅·科斯塔", "Customer of X"],
+      ["汉斯·里莫瑞特", "Husband of X, betrayed by X"],
+      ["德雷克·里莫瑞特", "Extramarital Affair with X, brother in law of x, victim of X"],
+      ["詹姆斯·莱利", "Helper of X, Customer of X"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["盖尔·里莫瑞特", "Extramarital Affair with X, sister in law of x"],
+      ["理查德·伯克利", "Superior of X, Colleague of X"],
+      ["安德鲁·帕洛斯基", "Colleague of X"],
+      ["伊莱恩·卡特尔", "Colleague of X"],
+      ["西尔维娅·科斯塔", "Colleague of X"],
+      ["汉斯·里莫瑞特", "Colleague of X, Brother of X, Rival in love of X"],
+      ["弗兰克·比杰利", "Customer of X"]
+    ],
+    "依琳·卡特": [
+      ["詹姆斯·莱利", "Suspected by X, Subject of investigation for X"],
+      ["院长伯克利", "Quest Companion of X"],
+      ["帕洛斯基医生", "Mentor of X, Colleague of X, Subject of investigation for X"],
+      ["汉斯·里莫瑞提", "Colleague of X, Subject of investigation for X"],
+      ["德雷克·里莫瑞特", "Colleague of X, Subject of investigation for X"],
+      ["西尔维娅·科斯塔", "Colleague of X, Subject of investigation for X"],
+      ["神父汤姆", "Suspected by X, Subject of investigation for X"],
+      ["伊莱恩·卡特尔", "Same person as X (different identity)"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["依琳·卡特", "Same person as X (different identity)"],
+      ["理查德·伯克利", "Quest Companion of X"]
+    ],
+    "理查德·伯克利": [
+      ["院长伯克利", "Same person as X (different reference)"],
+      ["安德鲁·帕洛斯基", "Subordinate of X, Colleague of X"],
+      ["西尔维娅·科斯塔", "Subordinate of X, Colleague of X"],
+      ["德雷克·里莫瑞特", "Subordinate of X, Colleague of X"],
+      ["汉斯·里莫瑞特", "Subordinate of X, Colleague of X"]
+    ],
+    "院长伯克利": [
+      ["理查德·伯克利", "Same person as X (different reference)"],
+      ["伊莱恩·卡特尔", "Quest Companion of X"]
+    ],
+    "詹姆斯·莱利": [
+      ["西尔维娅·科斯塔", "Manipulated by X, Debtor of X"],
+      ["盖尔·里莫瑞特", "Helped by X, Lawyer of X"]
+    ],
+    "安德鲁·帕洛斯基": [
+      ["安德鲁·帕洛斯基的妻子", "Wife of X"],
+      ["斯科特", "Son of X"],
+      ["汉斯·里莫瑞特", "Colleague of X, Student of X, Rival of X, Unsuccessful helper of x"],
+      ["德雷克·里莫瑞特", "Colleague of X"],
+      ["依琳·卡特", "Colleague of X, Student of X"],
+      ["理查德·伯克利", "Superior of X, Colleague of X"],
+      ["西尔维娅·科斯塔", "Colleague of X"],
+      ["神父汤姆", "Helper of X"],
+      ["帕洛斯基医生", "Same person as X (different reference)"]
+    ],
+    "帕洛斯基医生": [
+      ["安德鲁·帕洛斯基", "Same person as X (different reference)"],
+      ["理查德·伯克利", "Superior of X, Colleague of X"]
+    ],
+    "斯科特": [
+      ["安德鲁·帕洛斯基", "Father of X"],
+      ["安德鲁·帕洛斯基的妻子", "Mother of X"],
+      ["汉斯·里莫瑞特", "Doctor of X, Unsuccessful helper of x"]
+    ],
+    "神父汤姆": [
+      ["弗兰克·比杰利", "Employee of X"],
+      ["德雷克·里莫瑞特", "Doctor of X"],
+      ["托尼", "manipulated by x, Deceived by X"],
+      ["安德鲁·帕洛斯基", "Seeker of Help from X"]
+    ],
+    "弗兰克·比杰利": [
+      ["托尼", "Brother of X"],
+      ["神父汤姆", "Employer of X"],
+      ["德雷克·里莫瑞特", "Doctor of X"]
+    ],
+    "托尼": [
+      ["弗兰克·比杰利", "Brother of X"],
+      ["神父汤姆", "Manipulator of X"],
+      ["托尼·比杰利", "Same person as X (different reference)"]
+    ],
+    "托尼·比杰利": [
+      ["托尼", "Same person as X (different reference)"]
+    ]
+  }
+  

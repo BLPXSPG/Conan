@@ -1,0 +1,186 @@
+{
+    "Li Gaobai": [
+        [
+            "Li Demu",
+            "brother of X"
+        ],
+        [
+            "Li Liangsong",
+            "brother of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "employer of X"
+        ],
+        [
+            "Ruya",
+            "friend of X"
+        ],
+        [
+            "Falcon",
+            "classmate of X, friend of X"
+        ],
+        [
+            "Professor Zhou",
+            "employer of X, teacher of X, helper of X"
+        ],
+        [
+            "Zheng Hanzhen",
+            "employer of X"
+        ],
+        [
+            "Gui Yin",
+            "employer of X"
+        ]
+    ],
+    "Professor Zhou": [
+        [
+            "Li Gaobai",
+            "tour guide of X, student of X, helped by X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "host of X"
+        ]
+    ],
+    "Li Demu": [
+        [
+            "Li Gaobai",
+            "younger brother of X"
+        ],
+        [
+            "Li Liangsong",
+            "younger brother of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "employer of X"
+        ],
+        [
+            "Mountain Spirit",
+            "superior of X"
+        ]
+    ],
+    "Mountain Spirit": [
+        [
+            "Li Demu",
+            "subordinate of X"
+        ]
+    ],
+    "Li Liangsong": [
+        [
+            "Li Gaobai",
+            "younger brother of X"
+        ],
+        [
+            "Li Demu",
+            "older brother of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "employer of X"
+        ]
+    ],
+    "Ba Mansion Mountain": [
+        [
+            "Li Gaobai",
+            "employee of X"
+        ],
+        [
+            "Li Demu",
+            "employee of X"
+        ],
+        [
+            "Li Liangsong",
+            "employee of X"
+        ],
+        [
+            "Falcon",
+            "son of X"
+        ],
+        [
+            "Gui Yin",
+            "guest of X"
+        ],
+        [
+            "Ruya",
+            "guest of X"
+        ],
+        [
+            "Gan Ma",
+            "guest of X"
+        ],
+        [
+            "Daughter of Ba Mansion Mountain",
+            "daughter of X"
+        ],
+        [
+            "Professor Zhou",
+            "guest of X"
+        ]
+    ],
+    "Gui Yin": [
+        [
+            "Ba Mansion Mountain",
+            "host of X"
+        ],
+        [
+            "Gan Ma",
+            "younger sister of X"
+        ],
+        [
+            "Daughter of Ba Mansion Mountain",
+            "fiance of X"
+        ],
+        [
+            "Li Gaobai",
+            "employee of X"
+        ]
+    ],
+    "Gan Ma": [
+        [
+            "Gui Yin",
+            "older brother of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "host of X"
+        ]
+    ],
+    "Daughter of Ba Mansion Mountain": [
+        [
+            "Gui Yin",
+            "fiance of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "father of X"
+        ]
+    ],
+    "Ruya": [
+        [
+            "Ba Mansion Mountain",
+            "guest of X"
+        ],
+        [
+            "Li Gaobai",
+            "friend of X, secret admirer of X"
+        ]
+    ],
+    "Falcon": [
+        [
+            "Ba Mansion Mountain",
+            "father of X"
+        ],
+        [
+            "Li Gaobai",
+            "classmate of X"
+        ]
+    ],
+    "Zheng Hanzhen": [
+        [
+            "Li Gaobai",
+            "tour guide of X"
+        ]
+    ]
+}

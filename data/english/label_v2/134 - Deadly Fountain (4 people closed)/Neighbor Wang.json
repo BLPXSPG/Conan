@@ -1,0 +1,22 @@
+{
+    "Neighbor Wang": [
+      ["Li Guofu", "debtor of x"], 
+      ["He Laoliu", "acquaintance of x"]
+    ],
+    "Li Guofu": [
+      ["Neighbor Wang", "creditor of x"], 
+      ["He Laoliu", "subordinate of x"], 
+      ["Zhang Jie", "subordinate of x"], 
+      ["Mu Bei", "subordinate of x"]
+    ],
+    "He Laoliu": [
+      ["Neighbor Wang", "acquaintance of x"], 
+      ["Li Guofu", "superior of x"]
+    ],
+    "Zhang Jie": [
+      ["Li Guofu", "superior of x"]
+    ],
+    "Mu Bei": [
+      ["Li Guofu", "superior of x"]
+    ]
+}

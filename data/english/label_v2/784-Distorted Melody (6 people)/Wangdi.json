@@ -1,0 +1,86 @@
+{
+    "Ruan Wangdi": [
+      ["Ruan Qiande", "father of x"], 
+      ["Mrs. Ruan", "mother of x, victim of x"], 
+      ["Zhaonan", "sister of x, victim of x"], 
+      ["Guilang", "brother of x"], 
+      ["Luo Xiucai", "acquaintance of x"], 
+      ["Luo Younuo", "adoptive brother of x, extramarital affair with x"], 
+      ["Qi Gufei", "acquaintance of x"], 
+      ["Wang Zimo", "husband of x"]
+    ],
+    "Ruan Qiande": [
+      ["Ruan Wangdi", "daughter of x"], 
+      ["Mrs. Ruan", "wife of x"], 
+      ["Zhaonan", "daughter of x"], 
+      ["Guilang", "son of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Ruan Wangdi", "daughter of x, murderer of x"], 
+      ["Ruan Qiande", "husband of x"], 
+      ["Luo Xiucai", "tenant of x"], 
+      ["Guilang", "son of x"], 
+      ["Qi Gufei", "tenant of x"], 
+      ["Zhaonan", "daughter of x"], 
+      ["Luo Younuo", "adoptive son of x"], 
+      ["Xue Yan", "adoptive daughter of x"]
+    ],
+    "Zhaonan": [
+      ["Ruan Zhaonan", "same person as x (different reference)"]
+    ],
+    "Guilang": [
+      ["Ruan Wangdi", "sister of x"], 
+      ["Mrs. Ruan", "mother of x"], 
+      ["Ruan Qiande", "father of x"], 
+      ["Zhaonan", "sister of x"], 
+      ["Luo Xiucai", "teacher of x"], 
+      ["Ruan Guilang", "same person as x (different reference)"]
+    ],
+    "Luo Xiucai": [
+      ["Luo Younuo", "son of x"], 
+      ["Ruan Guilang", "student of x"], 
+      ["Mrs. Ruan", "landlord of x"]
+    ],
+    "Luo Younuo": [
+      ["Ruan Guilang", "adoptive brother of x"], 
+      ["Mrs. Ruan", "adoptive mother of x"], 
+      ["Luo Xiucai", "father of x"], 
+      ["Xue Yan", "sister of x"], 
+      ["Ruan Wangdi", "adoptive sister of x, extramarital affair with x"], 
+      ["Zhaonan", "adoptive sister of x"]
+    ],
+    "Xue Yan": [
+      ["Ruan Guilang", "adoptive brother of x"], 
+      ["Mrs. Ruan", "adoptive mother of x"], 
+      ["Luo Xiucai", "father of x"], 
+      ["Luo Younuo", "brother of x"], 
+      ["Hei Li", "acquaintance of x"], 
+      ["Ruan Wangdi", "adoptive sister of x"], 
+      ["Zhaonan", "adoptive sister of x"]
+    ],
+    "Qi Gufei": [
+      ["Hei Li", "adoptive sister of x"], 
+      ["Zhaonan", "student of x"], 
+      ["Mrs. Ruan", "landlord of x"]
+    ],
+    "Hei Li": [
+      ["Qi Gufei", "adoptive brother of x"]
+    ],
+    "Wang Zimo": [
+      ["Zhaonan", "wife of x"]
+    ],
+    "Ruan Zhaonan": [
+      ["Ruan Wangdi", "sister of x, replaced x's identity, murderer of x"], 
+      ["Mrs. Ruan", "mother of x"], 
+      ["Ruan Qiande", "father of x"], 
+      ["Guilang", "brother of x"], 
+      ["Luo Younuo", "acquaintance of x"], 
+      ["Qi Gufei", "colleague of x"], 
+      ["Hei Li", "colleague of x"], 
+      ["Wang Zimo", "husband of x"], 
+      ["Zhaonan", "same person as x (different reference)"]
+    ],
+    "Ruan Guilang": [
+      ["Guilang", "same person as x (different reference)"]
+    ]
+}

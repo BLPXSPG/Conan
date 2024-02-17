@@ -1,0 +1,75 @@
+{
+    "Duan Yuetong": [
+      ["Bai Changgong", "step-father of x, informant of x"], 
+      ["Duan Hejun", "mother of x"], 
+      ["Anqi", "girlfriend of x"], 
+      ["Yue Kesa", "friend of x, helper of x, informant of x"], 
+      ["Zhong Bo", "informant of x"], 
+      ["Li Zicai", "possibly family of x"], 
+      ["Wu Baian", "subject of investigation for x"], 
+      ["Xia Sanhu", "subject of investigation for x"], 
+      ["Yu Zu Chengmu", "informant of x"]
+    ],
+    "Bai Changgong": [
+      ["Duan Yuetong", "step-son of x"], 
+      ["Duan Hejun", "wife of x, superior of x"], 
+      ["Auntie Yi", "creditor of x"], 
+      ["Hard Horse Iron Fist", "perpetrator of x"]
+    ],
+    "Hard Horse Iron Fist": [
+      ["Bai Changgong", "victim of x"], 
+      ["Yue Dongwen", "superior of x, employer of x"]
+    ],
+    "Duan Hejun": [
+      ["Duan Yuetong", "son of x"], 
+      ["Bai Changgong", "husband of x, subordinate of x"], 
+      ["Auntie Yi", "friend of x"]
+    ],
+    "Anqi": [
+      ["Duan Yuetong", "boyfriend of x"], 
+      ["Auntie Yi", "mother of x"], 
+      ["Lan Qin", "same person as x (different reference)"]
+    ],
+    "Lan Qin": [
+      ["Anqi", "same person as x (different reference)"]
+    ],
+    "Auntie Yi": [
+      ["Duan Hejun", "friend of x"], 
+      ["Bai Changgong", "debtor of x"], 
+      ["Anqi", "daughter of x"]
+    ],
+    "Yue Kesa": [
+      ["Duan Yuetong", "friend of x, helped by x"], 
+      ["Yue Dongwen", "father of x"]
+    ],
+    "Wu Baian": [
+      ["Wu Xiao", "son of x"], 
+      ["Yue Dongwen", "employer of x"], 
+      ["Li Zicai", "schoolmate of x"]
+    ],
+    "Wu Xiao": [
+      ["Wu Baian", "father of x"]
+    ],
+    "Li Zicai": [
+      ["Duan Hejun", "ex-romantic relationships with x"], 
+      ["Duan Yuetong", "possibly family of x"], 
+      ["Wu Baian", "schoolmate of x"]
+    ],
+    "Xia Bolong": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Japanese", "rival of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Sanhu", "brother of x"], 
+      ["Japanese", "rival of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Zhongpeng", "brother of x"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Duan Yuetong", "information receiver from x"]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "张文远": [
+    ["刘奇", "dislike of X, Superior of X"],
+    ["洪子廉", "Dislike of X"],
+    ["韩亦暮", "Acquaintance of X"],
+    ["修仁杰", "Acquaintance of X"],
+    ["林若彤", "Acquaintance of X"],
+    ["张二副", "same person as x (different reference)"]
+  ],
+  "刘奇": [
+    ["张文远", "Bully of X, Subordinate of X, dislike of X"]
+  ],
+  "洪子廉": [
+    ["张文远", "Dislike of X"]
+  ],
+  "韩亦暮": [
+    ["张文远", "Acquaintance of X"]
+  ],
+  "修仁杰": [
+    ["张文远", "Acquaintance of X"]
+  ],
+  "林若彤": [
+    ["张文远", "Acquaintance of X"]
+  ],
+  "张二副": [
+    ["张文远", "same person as x (different reference)"]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+    "阮贵郎": [
+      ["阮太太", "mother of x"], 
+      ["招楠", "sister of x"], 
+      ["望娣", "sister of x"], 
+      ["罗秀才", "teacher of x"], 
+      ["罗有诺", "adoptive brother of x"], 
+      ["雪嫣", "adoptive sister of x"], 
+      ["王子摩", "brother in law of x"], 
+      ["黑莉", "admired by x"]
+    ],
+    "阮太太": [
+      ["阮贵郎", "son of x"], 
+      ["罗秀才", "tenant of x"], 
+      ["齐故飞", "tenant of x"], 
+      ["招楠", "daughter of x"], 
+      ["望娣", "daughter of x"], 
+      ["王子摩", "son in law of x"], 
+      ["罗有诺", "adoptive son of x"], 
+      ["雪嫣", "adoptive daughter of x"]
+    ],
+    "招楠": [
+      ["阮贵郎", "brother of x"], 
+      ["阮太太", "mother of x"], 
+      ["望娣", "sister of x"], 
+      ["齐故飞", "friend of x"], 
+      ["王子摩", "wife of x"], 
+      ["黑莉", "friend of x"]
+    ],
+    "王子摩": [
+      ["阮贵郎", "brother in law of x"], 
+      ["阮太太", "mother in law of x"], 
+      ["招楠", "wife of x"], 
+      ["望娣", "sister in law of x"]
+    ],
+    "齐故飞": [
+      ["黑莉", "adoptive sister of x"], 
+      ["招楠", "friend of x"], 
+      ["阮太太", "landlord of x"]
+    ],
+    "望娣": [
+      ["阮贵郎", "brother of x"], 
+      ["阮太太", "mother of x"], 
+      ["招楠", "sister of x"], 
+      ["王子摩", "brother in law of x"], 
+      ["罗有诺", "friend of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "罗秀才": [
+      ["阮贵郎", "student of x"], 
+      ["阮太太", "landlord of x"], 
+      ["罗有诺", "son of x"], 
+      ["雪嫣", "daughter of x"]
+    ],
+    "罗有诺": [
+      ["阮贵郎", "adoptive brother of x"], 
+      ["阮太太", "adoptive mother of x"], 
+      ["罗秀才", "father of x"], 
+      ["雪嫣", "sister of x"], 
+      ["望娣", "adoptive sister of x"], 
+      ["招楠", "adoptive sister of x"]
+    ],
+    "雪嫣": [
+      ["阮贵郎", "adoptive brother of x"], 
+      ["阮太太", "adoptive mother of x"], 
+      ["罗秀才", "father of x"], 
+      ["罗有诺", "brother of x"], 
+      ["黑莉", "acquaintance of x"], 
+      ["望娣", "adoptive sister of x"], 
+      ["招楠", "adoptive sister of x"]
+    ],
+    "黑莉": [
+      ["阮贵郎", "admirer of x"], 
+      ["招楠", "friend of x"], 
+      ["望娣", "acquaintance of x"], 
+      ["罗有诺", "acquaintance of x"], 
+      ["齐故飞", "adoptive brother of x"]
+    ]
+}

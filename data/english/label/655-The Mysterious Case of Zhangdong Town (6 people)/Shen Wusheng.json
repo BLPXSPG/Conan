@@ -1,0 +1,134 @@
+{
+    "Shen Wusheng": [
+        [
+            "Li Shijia",
+            "same person as X (different reference)"
+        ],
+        [
+            "Li Houshi",
+            "father of X"
+        ],
+        [
+            "Ms. Zhang",
+            "mother of X"
+        ],
+        [
+            "Caiya",
+            "fiance of X, wife of X, killed by X"
+        ],
+        [
+            "Boss Zhang",
+            "disliked by X"
+        ],
+        [
+            "Master Yang",
+            "employer of X"
+        ],
+        [
+            "Minxi",
+            "employer of X, fiancee of X"
+        ],
+        [
+            "Xiting",
+            "helped by X"
+        ]
+    ],
+    "Li Shijia": [
+        [
+            "Shen Wusheng",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Caiya": [
+        [
+            "Shen Wusheng",
+            "fiancee of X, Murderer of X"
+        ]
+    ],
+    "Master Yang": [
+        [
+            "Yang Shuixun",
+            "same person as X (different reference)"
+        ],
+        [
+            "Shen Wusheng",
+            "employee of X, son in law of X"
+        ],
+        [
+            "Minxi",
+            "daughter of X"
+        ]
+    ],
+    "Yang Shuixun": [
+        [
+            "Master Yang",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Minxi": [
+        [
+            "Master Yang",
+            "father of X"
+        ],
+        [
+            "Shen Wusheng",
+            "employee of X, secret admirer of X, fiance of X"
+        ],
+        [
+            "Gu Mengchu",
+            "friend of X"
+        ],
+        [
+            "Xiting",
+            "classmate of X"
+        ],
+        [
+            "Lan Rui",
+            "classmate of X"
+        ]
+    ],
+    "Gu Mengchu": [
+        [
+            "Minxi",
+            "friend of X, admirer of X"
+        ],
+        [
+            "Shen Wusheng",
+            "dislike of X"
+        ]
+    ],
+    "Lan Rui": [
+        [
+            "Boss Zhang",
+            "father of X"
+        ],
+        [
+            "Minxi",
+            "classmate of X"
+        ],
+        [
+            "Xiting",
+            "classmate of X"
+        ]
+    ],
+    "Boss Zhang": [
+        [
+            "Lan Rui",
+            "daughter of X"
+        ]
+    ],
+    "Xiting": [
+        [
+            "Lan Rui",
+            "classmate of X"
+        ],
+        [
+            "Minxi",
+            "classmate of X"
+        ],
+        [
+            "Shen Wusheng",
+            "helper of X"
+        ]
+    ]
+}

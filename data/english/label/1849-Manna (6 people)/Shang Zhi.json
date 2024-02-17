@@ -1,0 +1,210 @@
+{
+    "Tan Shangzhi": [
+        [
+            "Tan Renxing",
+            "father of x"
+        ],
+        [
+            "Tan Renchang",
+            "uncle of x, thief of x"
+        ],
+        [
+            "Luo Hengli",
+            "acquaintance of x"
+        ],
+        [
+            "Luo Mingsha",
+            "aunt of x, Deceiver of X"
+        ],
+        [
+            "Lv Mingran",
+            "friend of x"
+        ],
+        [
+            "Mrs. Wei",
+            "acquaintance of x"
+        ],
+        [
+            "Hai You",
+            "friend of x"
+        ],
+        [
+            "Zina",
+            "romantic relationships with x"
+        ],
+        [
+            "Professor He",
+            "employer of x"
+        ],
+        [
+            "Cheng Ge",
+            "student of x"
+        ]
+    ],
+    "Tan Renxing": [
+        [
+            "Tan Shangzhi",
+            "son of x"
+        ],
+        [
+            "Tan Renchang",
+            "brother of x"
+        ]
+    ],
+    "Tan Renchang": [
+        [
+            "Tan Renxing",
+            "brother of x"
+        ],
+        [
+            "Tan Shangzhi",
+            "nephew of x, Deceived by X"
+        ],
+        [
+            "Luo Mingsha",
+            "wife of x"
+        ],
+        [
+            "Lv Mingran",
+            "acquaintance of x"
+        ]
+    ],
+    "Luo Hengli": [
+        [
+            "Luo Mingsha",
+            "sister of x"
+        ],
+        [
+            "Tan Renchang",
+            "brother in law of x"
+        ],
+        [
+            "Tan Shangzhi",
+            "acquaintance of x"
+        ]
+    ],
+    "Luo Mingsha": [
+        [
+            "Luo Hengli",
+            "brother of x"
+        ],
+        [
+            "Hai You",
+            "adoptive daughter of x"
+        ],
+        [
+            "Tan Shangzhi",
+            "nephew of x, Deceived by X"
+        ],
+        [
+            "Tan Renchang",
+            "husband of x"
+        ]
+    ],
+    "Lv Mingran": [
+        [
+            "Tan Shangzhi",
+            "friend of x"
+        ],
+        [
+            "Luo Hengli",
+            "acquaintance of x"
+        ],
+        [
+            "Mrs. Wei",
+            "sister of x"
+        ],
+        [
+            "Hai You",
+            "uncle of x"
+        ]
+    ],
+    "Mrs. Wei": [
+        [
+            "Lv Mingran",
+            "brother of x"
+        ],
+        [
+            "Hai You",
+            "niece of x"
+        ]
+    ],
+    "Hai You": [
+        [
+            "Tan Shangzhi",
+            "friend of x"
+        ],
+        [
+            "Mrs. Wei",
+            "aunt of x"
+        ],
+        [
+            "Luo Mingsha",
+            "adoptive daughter of x"
+        ],
+        [
+            "Lv Mingran",
+            "uncle of x"
+        ]
+    ],
+    "Zina": [
+        [
+            "Tan Shangzhi",
+            "romantic relationships with x"
+        ]
+    ],
+    "Professor He": [
+        [
+            "Tan Shangzhi",
+            "employee of x"
+        ]
+    ],
+    "Cheng Ge": [
+        [
+            "Tan Shangzhi",
+            "teacher of x"
+        ],
+        [
+            "Tan Renchang",
+            "adoptive father of x"
+        ],
+        [
+            "Tan Chengge",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Tan Chengge": [
+        [
+            "Cheng Ge",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Liao Gongzi": [
+        [
+            "Tan Shangzhi",
+            "acquaintance of x"
+        ],
+        [
+            "Mrs. Wei",
+            "acquaintance of x"
+        ],
+        [
+            "Hai You",
+            "acquaintance of x"
+        ]
+    ],
+    "A Ping": [
+        [
+            "Tan Renchang",
+            "master of x"
+        ],
+        [
+            "Luo Mingsha",
+            "master of x"
+        ],
+        [
+            "Tan Shangzhi",
+            "acquaintance of x"
+        ]
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "草藤居士": [
+        [
+            "方夫人",
+            "Adoptive mother of X, enemy of X"
+        ],
+        [
+            "方絮",
+            "older sister of X, lover of X"
+        ],
+        [
+            "方叶",
+            "brother of X, adversary of X"
+        ],
+        [
+            "方眠",
+            "sister of X, adversary of X"
+        ],
+        [
+            "陈孜靖",
+            "quest companion of X, friend of X"
+        ],
+        [
+            "小茜",
+            "adoptive daughter of X, student of X"
+        ],
+        [
+            "李钦仁",
+            "rival of X"
+        ],
+        [
+            "李仲",
+            "Biological son of X"
+        ],
+        [
+            "李延",
+            "Biological son of X"
+        ],
+        [
+          "方叶的女儿",
+          "saved by X, niece of X"
+        ]
+    ],
+    "小茜": [
+      [
+        "方叶的女儿",
+        "Same person as X (different reference)"
+      ],
+      [
+        "陈倩",
+        "friend of X"
+      ]
+    ],
+    "方叶的女儿": [
+      [
+        "小茜",
+        "Same person as X (different reference)"
+      ]
+
+    ],
+    "方竹": [
+      [
+        "草藤居士",
+        "Same person as X (different reference)"
+      ]
+    ],
+    "尔矢斯芭嗒": [
+      [
+        "草藤居士",
+        "Same person as X (different reference)"
+      ]
+    ],
+    "陈倩": [
+      [
+        "小茜",
+        "friend of X"
+      ],
+      [
+        "陈孜靖",
+        "father of X"
+      ]
+    ],
+    "陈孜靖": [
+      [
+        "陈倩",
+        "father of X"
+      ],
+      [
+        "草藤居士",
+        "quest companion of X, friend of X"
+      ],
+      [
+        "李钦仁",
+        "rival of X"
+      ]
+    ]
+}

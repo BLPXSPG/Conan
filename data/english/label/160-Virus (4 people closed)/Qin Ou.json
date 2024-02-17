@@ -1,0 +1,46 @@
+{
+    "Qin Ou": [
+        [
+            "Tian Zhuli",
+            "Romantic relationships with X"
+        ],
+        [
+            "Professor Jia",
+            "Acquaintance of X"
+        ]
+    ],
+    "Tian Zhuli": [
+        [
+            "Qin Ou",
+            "Romantic relationships with X"
+        ],
+        [
+            "Professor Jia",
+            "Superior of X"
+        ],
+        [
+            "Li Bao'an",
+            "Hate of X"
+        ]
+    ],
+    "Professor Jia": [
+        [
+            "Qin Ou",
+            "Acquaintance of X"
+        ],
+        [
+            "Tian Zhuli",
+            "Subordinate of X"
+        ]
+    ],
+    "Li Bao'an": [
+        [
+            "Qin Ou",
+            "helper of x"
+        ],
+        [
+            "Tian Zhuli",
+            "Acquaintance of X"
+        ]
+    ]
+}

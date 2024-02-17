@@ -1,0 +1,16 @@
+{
+    "Li Yan": [
+      ["Li Qinren", "father of x"], 
+      ["Li Zhong", "older brother of x, rival in love of x"], 
+      ["Chen Qian", "lover of x"], 
+      ["Madam Li or Li family", "mother of x"]
+    ],
+    "Chen Zijing": [
+      ["Chen Qian", "daughter of x"]
+    ],
+    "Chen Qian": [
+      ["Chen Zijing", "father of x"], 
+      ["Li Yan", "lover of x"], 
+      ["Li Zhong", "lover of x"]
+    ]
+}

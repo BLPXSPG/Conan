@@ -1,0 +1,12 @@
+{
+    "师父": [
+      ["凌霄", "attempted murderer of x"]
+    ],
+    "石燕": [
+      ["红花夫人", "master of x, mentor of x"]
+    ],
+    "红花夫人": [
+      ["石燕", "servant of x"], 
+      ["杜仲", "adversary of x, ex-romantic relationships with x"]
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "Jacqueline Perry": [
+        [
+            "Marina Harrison",
+            "Sister of X, Hate of X"
+        ],
+        [
+            "Daniel Perry",
+            "Husband of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Son of X"
+        ],
+        [
+            "Davis Perry",
+            "Brother in law of X"
+        ],
+        [
+            "Harold Harrison",
+            "Brother in law of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Niece of X"
+        ],
+        [
+            "Alex Harvey",
+            "Cousin of X"
+        ]
+    ],
+    "Marina Harrison": [
+        [
+            "Jacqueline Perry",
+            "Sister of X"
+        ],
+        [
+            "Harold Harrison",
+            "Husband of X"
+        ],
+        [
+            "Daniel Perry",
+            "Brother in law of X, Secret lover of X"
+        ],
+        [
+            "Davis Perry",
+            "Acquaintance of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Daughter of X"
+        ],
+        [
+            "Alex Harvey",
+            "Secret lover of X"
+        ]
+    ],
+    "Harold Harrison": [
+        [
+            "Jacqueline Perry",
+            "Sister in law of X"
+        ],
+        [
+            "Marina Harrison",
+            "Wife of X"
+        ],
+        [
+            "Daniel Perry",
+            "Brother in law of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Daughter of X"
+        ]
+    ],
+    "Daniel Perry": [
+        [
+            "Marina Harrison",
+            "Brother in law of X, Secret lover of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Wife of X"
+        ],
+        [
+            "Harold Harrison",
+            "Brother in law of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Nephew of X"
+        ],
+        [
+            "Davis Perry",
+            "Brother of X"
+        ]
+    ],
+    "Lucy Harrison": [
+        [
+            "Marina Harrison",
+            "Mother of X"
+        ],
+        [
+            "Harold Harrison",
+            "Father of X"
+        ],
+        [
+            "Daniel Perry",
+            "Uncle of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Aunt of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Cousin of X"
+        ]
+    ],
+    "Jonathan Perry": [
+        [
+            "Daniel Perry",
+            "Father of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Mother of X"
+        ],
+        [
+            "Marina Harrison",
+            "Aunt of X"
+        ],
+        [
+            "Harold Harrison",
+            "Uncle of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Cousin of X"
+        ]
+    ],
+    "Alex Harvey": [
+        [
+            "Jacqueline Perry",
+            "Cousin of X"
+        ],
+        [
+            "Marina Harrison",
+            "Secret lover of X"
+        ]
+    ]
+}

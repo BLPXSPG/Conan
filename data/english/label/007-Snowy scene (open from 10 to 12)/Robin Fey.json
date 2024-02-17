@@ -1,0 +1,216 @@
+{
+    "Robin Fey": [
+        [
+            "Daniel Perry",
+            "Friend of X"
+        ],
+        [
+            "Marina Harrison",
+            "Acquaintance of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Acquaintance of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Acquaintance of X"
+        ],
+        [
+            "Davis Perry",
+            "Acquaintance of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Acquaintance of X"
+        ],
+        [
+            "Harold Harrison",
+            "Acquaintance of X"
+        ],
+        [
+            "Amy Morgan",
+            "Acquaintance of X"
+        ],
+        [
+            "Max Pike",
+            "Acquaintance of X"
+        ]
+    ],
+    "Daniel Perry": [
+        [
+            "Jacqueline Perry",
+            "Wife of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Son of X"
+        ],
+        [
+            "Davis Perry",
+            "Brother of X"
+        ],
+        [
+            "Marina Harrison",
+            "Sister in law of X, Secret lover of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Niece of X"
+        ],
+        [
+            "Harold Harrison",
+            "Brother in law of X"
+        ],
+        [
+            "Robin Fey",
+            "Acquaintance of X"
+        ]
+    ],
+    "Jacqueline Perry": [
+        [
+            "Daniel Perry",
+            "Husband of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Son of X"
+        ],
+        [
+            "Davis Perry",
+            "Brother in law of X"
+        ],
+        [
+            "Marina Harrison",
+            "Sister of X, Hate of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Niece of X"
+        ],
+        [
+            "Harold Harrison",
+            "Brother in law of X"
+        ],
+        [
+            "Robin Fey",
+            "Acquaintance of X"
+        ]
+    ],
+    "Jonathan Perry": [
+        [
+            "Daniel Perry",
+            "Father of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Mother of X"
+        ],
+        [
+            "Davis Perry",
+            "Uncle of X"
+        ],
+        [
+            "Marina Harrison",
+            "Aunt of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Cousin of X"
+        ],
+        [
+            "Harold Harrison",
+            "Uncle of X"
+        ],
+        [
+            "Robin Fey",
+            "Acquaintance of X"
+        ]
+    ],
+    "Davis Perry": [
+        [
+            "Daniel Perry",
+            "Brother of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Nephew of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Sister in law of X"
+        ],
+        [
+            "Marina Harrison",
+            "Sister in law of X, Secret lover of X"
+        ],
+        [
+            "Robin Fey",
+            "Acquaintance of X"
+        ]
+    ],
+    "Lucy Harrison": [
+        [
+            "Daniel Perry",
+            "Uncle of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Aunt of X"
+        ],
+        [
+            "Marina Harrison",
+            "Mother of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Cousin of X"
+        ],
+        [
+            "Harold Harrison",
+            "Father of X"
+        ]
+    ],
+    "Marina Harrison": [
+        [
+            "Jacqueline Perry",
+            "Sister of X"
+        ],
+        [
+            "Harold Harrison",
+            "Husband of X"
+        ],
+        [
+            "Daniel Perry",
+            "Brother in law of X, Secret lover of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Daughter of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Nephew of X"
+        ],
+        [
+            "Robin Fey",
+            "Acquaintance of X"
+        ]
+    ],
+    "Amy Morgan": [
+        [
+            "Max Pike",
+            "Acquaintance of X"
+        ],
+        [
+            "Robin Fey",
+            "Acquaintance of X"
+        ]
+    ],
+    "Max Pike": [
+        [
+            "Robin Fey",
+            "Acquaintance of X"
+        ]
+    ]
+}

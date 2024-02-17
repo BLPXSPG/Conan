@@ -1,0 +1,164 @@
+{
+    "Feng Shuangji": [
+        [
+            "Ren Shifu",
+            "Mentor of X, Adoptive Father of X"
+        ],
+        [
+            "Li Yu",
+            "Extramarital Affair with X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Schoolmate of X, Employer of X"
+        ],
+        [
+            "Zhao Wei",
+            "Helped by X, Master of X"
+        ],
+        [
+            "Zhao Luoyi",
+            "Daughter of X"
+        ],
+        [
+            "Feng Zhu",
+            "Daughter of X"
+        ]
+    ],
+    "Ren Shifu": [
+        [
+            "Feng Shuangji",
+            "Mentor of X, Adoptive Son of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Student of X"
+        ]
+    ],
+    "Li Yu": [
+        [
+            "Feng Shuangji",
+            "Extramarital Affair with X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Husband of X"
+        ],
+        [
+            "Zhao Luoyi",
+            "Adoptive Daughter of X"
+        ],
+        [
+            "Zhao Wei",
+            "Son of X"
+        ]
+    ],
+    "Zhao Wanlei": [
+        [
+            "Feng Shuangji",
+            "Schoolmate of X, Employee of X"
+        ],
+        [
+            "Li Yu",
+            "Wife of X"
+        ],
+        [
+            "Zhao Luoyi",
+            "Daughter of X"
+        ],
+        [
+            "Zhao Wei",
+            "Son of X"
+        ],
+        [
+            "Ren Shifu",
+            "Mentor of X"
+        ],
+        [
+            "Guo Wangshan",
+            "Business Partner of X"
+        ]
+    ],
+    "Zhao Wei": [
+        [
+            "Emperor Guangxu",
+            "Stranger to X"
+        ],
+        [
+            "Yu Fei",
+            "Stranger to X"
+        ],
+        [
+            "Feng Shuangji",
+            "Servant of X, Mentor of X"
+        ],
+        [
+            "Li Yu",
+            "Mother of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Father of X"
+        ],
+        [
+            "Zhao Luoyi",
+            "Sister of X"
+        ]
+    ],
+    "Zhao Luoyi": [
+        [
+            "Feng Shuangji",
+            "Father of X"
+        ],
+        [
+            "Li Yu",
+            "Mother of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Father of X"
+        ],
+        [
+            "Zhao Wei",
+            "Brother of X"
+        ],
+        [
+            "Zhao Qiuer",
+            "Master of X"
+        ]
+    ],
+    "Feng Zhu": [
+        [
+            "Feng Shuangji",
+            "Father of X"
+        ]
+    ],
+    "Yin Shaoming": [
+        [
+            "Feng Shuangji",
+            "Mentor of X, Helper of X, servant of X"
+        ]
+    ],
+    "Guo Wangshan": [
+        [
+            "Zhao Wanlei",
+            "Business Partner of X"
+        ]
+    ],
+    "Zhao Qiuer": [
+        [
+            "Zhao Luoyi",
+            "Servant of X"
+        ]
+    ],
+    "Qi Yue": [
+        [
+            "Feng Shuangji",
+            "Colleague of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Employer of X"
+        ]
+    ]
+}

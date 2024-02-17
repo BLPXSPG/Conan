@@ -1,0 +1,202 @@
+{
+    "Anqi": [
+        [
+            "Yi Lianzhi",
+            "mother of X"
+        ],
+        [
+            "A'an",
+            "brother of X"
+        ],
+        [
+            "Duan Yuetong",
+            "boyfriend of X"
+        ],
+        [
+            "Big Brother Li",
+            "Helper of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Customer of X, Helped by X, Debtor of X, friend of X"
+        ],
+        [
+            "Luo Yisi",
+            "friend of X"
+        ],
+        [
+            "Lan Qin",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Anqi Angel",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Anqi Angel": [
+        [
+            "Anqi",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lan Qin",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Lan Qin": [
+        [
+            "Anqi",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Anqi Angel",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yi Lianzhi": [
+        [
+            "Anqi",
+            "daughter of X"
+        ],
+        [
+            "Auntie Duan",
+            "friend of X"
+        ],
+        [
+            "Duan Yuetong",
+            "Acquaintance of X"
+        ],
+        [
+            "Bai Changgong",
+            "Debtor of X, Dislike of X"
+        ],
+        [
+            "Yi Clan",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yi Clan": [
+        [
+            "Yi Lianzhi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Duan Yuetong": [
+        [
+            "Anqi",
+            "girlfriend of X"
+        ],
+        [
+            "Auntie Duan",
+            "mother of X"
+        ],
+        [
+            "Bai Changgong",
+            "step-father of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Acquaintance of X"
+        ],
+        [
+            "Atong",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Atong": [
+        [
+            "Duan Yuetong",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Auntie Duan": [
+        [
+            "Duan Yuetong",
+            "son of X"
+        ],
+        [
+            "Bai Changgong",
+            "husband of X"
+        ],
+        [
+            "Anqi",
+            "Acquaintance of X"
+        ],
+        [
+            "Auntie Yi",
+            "friend of X"
+        ]
+    ],
+    "Bai Changgong": [
+        [
+            "Duan Yuetong",
+            "step-son of X"
+        ],
+        [
+            "Duan Hejun",
+            "wife of X"
+        ],
+        [
+            "Auntie Yi",
+            "Creditor of X"
+        ]
+    ],
+    "Big Brother Li": [
+        [
+            "Anqi",
+            "Helped by X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Friend of X, Business Partner of X"
+        ],
+        [
+            "Aming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Aming": [
+        [
+            "Big Brother Li",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yu Zu Chengmu": [
+        [
+            "Anqi",
+            "helper of X, Creditor of X, friend of X"
+        ],
+        [
+            "Xia Sanhu",
+            "perpetrator of X"
+        ],
+        [
+            "Duan Yuetong",
+            "Acquaintance of X"
+        ],
+        [
+            "Big Brother Li",
+            "Friend of X, Business Partner of X"
+        ]
+    ],
+    "Xia Sanhu": [
+        [
+            "Xia Bolong",
+            "Brother of X"
+        ],
+        [
+            "Xia Shue",
+            "Niece of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Victim of X"
+        ]
+    ],
+    "Luo Yisi": [
+        [
+            "Anqi",
+            "friend of x"
+        ]
+    ]
+}

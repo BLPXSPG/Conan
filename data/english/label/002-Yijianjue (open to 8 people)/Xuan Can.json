@@ -1,0 +1,38 @@
+{
+    "Xuan Can": [
+        [
+            "Du Zhong",
+            "Sworn Brother of X, Victim of X"
+        ],
+        [
+            "Ren Dong",
+            "Informant of X"
+        ],
+        [
+            "Lu Ying",
+            "Student of X, Subordinate of X"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "Xuan Can",
+            "Sworn Brother of X, Mentor of X, Murderer of X"
+        ]
+    ],
+    "Ren Dong": [
+        [
+            "Xuan Can",
+            "Information Receiver from X"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Xuan Can",
+            "Mentor of X, Superior of X"
+        ],
+        [
+            "Suspicious Person",
+            "Suspected by X"
+        ]
+    ]
+}

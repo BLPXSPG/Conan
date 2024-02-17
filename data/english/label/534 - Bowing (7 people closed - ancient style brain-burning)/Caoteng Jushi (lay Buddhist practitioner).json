@@ -1,0 +1,96 @@
+{
+    "Caoteng Jushi (lay Buddhist practitioner)": [
+        [
+            "Madam Fang",
+            "Adoptive mother of X, enemy of X"
+        ],
+        [
+            "Fang Xu",
+            "older sister of X, lover of X"
+        ],
+        [
+            "Fang Ye",
+            "brother of X, adversary of X"
+        ],
+        [
+            "Fang Mian",
+            "sister of X, adversary of X"
+        ],
+        [
+            "Chen Zijing",
+            "quest companion of X, friend of X"
+        ],
+        [
+            "Xiao Qian",
+            "adoptive daughter of X, student of X"
+        ],
+        [
+            "Li Qinren",
+            "rival of X"
+        ],
+        [
+            "Li Zhong",
+            "Biological son of X"
+        ],
+        [
+            "Li Yan",
+            "Biological son of X"
+        ],
+        [
+            "Daughter of Fang Ye",
+            "saved by X, niece of X"
+        ]
+    ],
+    "Xiao Qian": [
+        [
+            "Daughter of Fang Ye",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Chen Qian",
+            "friend of X"
+        ]
+    ],
+    "Daughter of Fang Ye": [
+        [
+            "Xiao Qian",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Fang Zhu": [
+        [
+            "Caoteng Jushi (lay Buddhist practitioner)",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Er Yisi Bada": [
+        [
+            "Caoteng Jushi (lay Buddhist practitioner)",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Chen Qian": [
+        [
+            "Xiao Qian",
+            "friend of X"
+        ],
+        [
+            "Chen Zijing",
+            "father of X"
+        ]
+    ],
+    "Chen Zijing": [
+        [
+            "Chen Qian",
+            "father of X"
+        ],
+        [
+            "Caoteng Jushi (lay Buddhist practitioner)",
+            "quest companion of X, friend of X"
+        ],
+        [
+            "Li Qinren",
+            "rival of X"
+        ]
+    ]
+}

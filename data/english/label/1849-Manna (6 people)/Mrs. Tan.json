@@ -1,0 +1,156 @@
+{
+    "Luo Mingsha": [
+        [
+            "Luo Hengli",
+            "Brother of x"
+        ],
+        [
+            "Tan Renchang",
+            "Husband of x"
+        ],
+        [
+            "Xinya",
+            "Servant of x"
+        ],
+        [
+            "Cai Qian",
+            "Friend of x"
+        ],
+        [
+            "Lv Mingran",
+            "Extramarital Affair with X"
+        ],
+        [
+            "Hai You",
+            "Adoptive Daughter of x"
+        ],
+        [
+            "Shang Zhi",
+            "relative of x"
+        ],
+        [
+            "Cheng Ge",
+            "Adoptive Son of x"
+        ],
+        [
+            "A Ping",
+            "Servant of x"
+        ],
+        [
+            "Rosa",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Mrs. Tan",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Rosa": [
+        [
+            "Mrs. Tan",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Rosa",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Mrs. Tan": [
+        [
+            "Luo Mingsha",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Rosa",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Luo Hengli": [
+        [
+            "Luo Mingsha",
+            "Sister of x"
+        ]
+    ],
+    "Tan Renchang": [
+        [
+            "Luo Mingsha",
+            "Wife of x"
+        ],
+        [
+            "Shang Zhi",
+            "Nephew of x"
+        ],
+        [
+            "Cheng Ge",
+            "Adoptive Son of x"
+        ]
+    ],
+    "Xinya": [
+        [
+            "Luo Mingsha",
+            "master of x"
+        ]
+    ],
+    "Cai Qian": [
+        [
+            "Luo Mingsha",
+            "Friend of x"
+        ],
+        [
+            "Mrs. Wei",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Lv Mingran",
+            "Brother of x"
+        ]
+    ],
+    "Mrs. Wei": [
+        [
+            "Cai Qian",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Lv Mingran": [
+        [
+            "Luo Mingsha",
+            "Extramarital Affair with X, hate of x"
+        ],
+        [
+            "Cai Qian",
+            "Sister of x"
+        ]
+    ],
+    "Hai You": [
+        [
+            "Luo Mingsha",
+            "Adoptive Mother of x"
+        ]
+    ],
+    "Shang Zhi": [
+        [
+            "Tan Renchang",
+            "Uncle of x"
+        ],
+        [
+            "Luo Mingsha",
+            "Aunt of x"
+        ]
+    ],
+    "Cheng Ge": [
+        [
+            "Tan Renchang",
+            "Adoptive Father of x"
+        ],
+        [
+            "Luo Mingsha",
+            "Adoptive Mother of x"
+        ]
+    ],
+    "A Ping": [
+        [
+            "Luo Mingsha",
+            "master of x"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "安琪": [
+      ["易莲芝", "mother of X"],
+      ["阿安", "brother of X"],
+      ["段约同", "boyfriend of X"],
+      ["李大哥", "Helper of X"],
+      ["宇祖成木", "Customer of X, Helped by X, Debtor of X, friend of X"],
+      ["洛意丝", "friend of X"],
+      ["兰秦", "Same person as X (different reference)"],
+      ["安琪angel", "Same person as X (different reference)"]
+    ],
+    "安琪angel": [
+      ["安琪", "Same person as X (different reference)"],
+      ["兰秦", "Same person as X (different reference)"]
+    ],
+    "兰秦": [
+      ["安琪", "Same person as X (different reference)"],
+      ["安琪angel", "Same person as X (different reference)"]
+    ],
+    "易莲芝": [
+      ["安琪", "daughter of X"],
+      ["段阿姨", "friend of X"],
+      ["段约同", "Acquaintance of X"],
+      ["白常恭", "Debtor of X, Dislike of X"],
+      ["易氏", "Same person as X (different reference)"]
+    ],
+    "易氏": [
+      ["易莲芝", "Same person as X (different reference)"]
+    ],
+    "段约同": [
+      ["安琪", "girlfriend of X"],
+      ["段阿姨", "mother of X"],
+      ["白常恭", "step-father of X"],
+      ["宇祖成木", "Acquaintance of X"],
+      ["阿同", "Same person as X (different reference)"]
+    ],
+    "阿同": [
+      ["段约同", "Same person as X (different reference)"]
+    ],
+    "段阿姨": [
+      ["段约同", "son of X"],
+      ["白常恭", "husband of X"],
+      ["安琪", "Acquaintance of X"],
+      ["易阿姨", "friend of X"]
+    ],
+    "白常恭": [
+      ["段约同", "step-son of X"],
+      ["段和君", "wife of X"],
+      ["易阿姨", "Creditor of X"]
+    ],
+    "李大哥": [
+      ["安琪", "Helped by X"],
+      ["宇祖成木", "Friend of X, Business Partner of X"],
+      ["阿明", "Same person as X (different reference)"]
+    ],
+    "阿明": [
+      ["李大哥", "Same person as X (different reference)"]
+    ],
+    "宇祖成木": [
+      ["安琪", "helper of X, Creditor of X, friend of X"],
+      ["夏三虎", "perpetrator of X"],
+      ["段约同", "Acquaintance of X"],
+      ["李大哥", "Friend of X, Business Partner of X"]
+    ],
+    "夏三虎": [
+      ["夏伯龙", "Brother of X"],
+      ["夏叔娥", "Niece of X"],
+      ["宇祖成木", "Victim of X"]
+    ],
+    "洛意丝": [
+      ["安琪", "friend of x"]
+    ]
+  }
+  

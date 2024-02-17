@@ -1,0 +1,114 @@
+{
+    "Wei Xiaodi": [
+        [
+            "Wei Xiaodi's Father",
+            "Son of X"
+        ],
+        [
+            "Wei Xiaodi's Mother",
+            "Son of X"
+        ],
+        [
+            "Qin Expert",
+            "Adversary of X"
+        ],
+        [
+            "Qin Laoda",
+            "Schoolmate of X, Victim of X"
+        ],
+        [
+            "Zhuang Qingchun",
+            "Schoolmate of X"
+        ],
+        [
+            "Jia Meili",
+            "Schoolmate of X"
+        ],
+        [
+            "Zheng Youhao",
+            "Schoolmate of X"
+        ]
+    ],
+    "Wei Xiaodi's Father": [
+        [
+            "Wei Xiaodi",
+            "Father of X"
+        ],
+        [
+            "Qin Expert",
+            "Deceiver of X"
+        ]
+    ],
+    "Wei Xiaodi's Mother": [
+        [
+            "Wei Xiaodi",
+            "Mother of X"
+        ]
+    ],
+    "Qin Expert": [
+        [
+            "Wei Xiaodi's Father",
+            "Hate of X, Deceived by X"
+        ],
+        [
+            "Qin Laoda",
+            "Son of X, Hate of X"
+        ]
+    ],
+    "Qin Laoda": [
+        [
+            "Wei Xiaodi",
+            "Schoolmate of X, Hate of X, Murderer of X"
+        ],
+        [
+            "Zhuang Qingchun",
+            "Schoolmate of X"
+        ],
+        [
+            "Jia Meili",
+            "Schoolmate of X"
+        ],
+        [
+            "Zheng Youhao",
+            "Schoolmate of X"
+        ]
+    ],
+    "Zhuang Qingchun": [
+        [
+            "Wei Xiaodi",
+            "Schoolmate of X"
+        ],
+        [
+            "Qin Laoda",
+            "Schoolmate of X"
+        ],
+        [
+            "Jia Meili",
+            "Friend of X"
+        ]
+    ],
+    "Jia Meili": [
+        [
+            "Wei Xiaodi",
+            "Schoolmate of X"
+        ],
+        [
+            "Qin Laoda",
+            "Schoolmate of X"
+        ],
+        [
+            "Zhuang Qingchun",
+            "Friend of X"
+        ]
+    ],
+    "Zheng Youhao": [
+        [
+            "Wei Xiaodi",
+            "Schoolmate of X"
+        ],
+        [
+            "Qin Laoda",
+            "Schoolmate of X"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "Zhang Jinyin": [
+        [
+            "Meng Sanchun",
+            "Sworn Brother of X"
+        ],
+        [
+            "Zhang Jinshan",
+            "Brother of X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Employee of X"
+        ],
+        [
+            "Cai Siniang",
+            "Employee of X"
+        ],
+        [
+            "Hong Changlie",
+            "Enemy of X"
+        ],
+        [
+            "Hong Erlang",
+            "Enemy of X"
+        ]
+    ],
+    "Meng Sanchun": [
+        [
+            "Zhang Jinyin",
+            "Sworn Brother of X"
+        ],
+        [
+            "Zhang Jinshan",
+            "Friend of X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Wife of X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Employee of X"
+        ],
+        [
+            "Cai Siniang",
+            "Employee of X"
+        ],
+        [
+            "Hong Changlie",
+            "Enemy of X"
+        ],
+        [
+            "Hong Erlang",
+            "Enemy of X"
+        ]
+    ],
+    "Zhang Jinshan": [
+        [
+            "Zhang Jinyin",
+            "Brother of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Friend of X"
+        ]
+    ],
+    "Hong Jiangshui": [
+        [
+            "Zhang Jinyin",
+            "Employer of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Employer of X"
+        ],
+        [
+            "Cai Siniang",
+            "Colleague of X"
+        ]
+    ],
+    "Cai Siniang": [
+        [
+            "Zhang Jinyin",
+            "Employer of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Employer of X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Colleague of X"
+        ]
+    ],
+    "Hong Changlie": [
+        [
+            "Zhang Jinyin",
+            "Enemy of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Enemy of X"
+        ]
+    ],
+    "Hong Erlang": [
+        [
+            "Zhang Jinyin",
+            "Enemy of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Enemy of X"
+        ]
+    ]
+}

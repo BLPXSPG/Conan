@@ -1,0 +1,382 @@
+{
+    "Miao Ruya": [
+        [
+            "Tian Shi",
+            "mother of X"
+        ],
+        [
+            "Miao Na",
+            "father of X, authority over X"
+        ],
+        [
+            "Miao Shi",
+            "aunt of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "uncle of X"
+        ],
+        [
+            "Juan Ge",
+            "sister of X"
+        ],
+        [
+            "Li Demu",
+            "lover of X, friend of X"
+        ],
+        [
+            "Middle-Aged Man",
+            "victim of X"
+        ],
+        [
+            "Mountain Spirit",
+            "authority over X"
+        ]
+    ],
+    "Ruya": [
+        [
+            "Miao Ruya",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Mountain Spirit": [
+        [
+            "Miao Na",
+            "subordinate of X"
+        ],
+        [
+            "Miao Ruya",
+            "subordinate of X"
+        ],
+        [
+            "Miao Shi",
+            "subordinate of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "subordinate of X"
+        ],
+        [
+            "Juan Ge",
+            "subordinate of X"
+        ],
+        [
+            "Falcon",
+            "subordinate of X"
+        ],
+        [
+            "Gui Yin",
+            "subordinate of X, helper of X"
+        ],
+        [
+            "Gan Ma",
+            "subordinate of X, saviour of X"
+        ],
+        [
+            "Li Gaobai",
+            "subordinate of X"
+        ],
+        [
+            "Li Demu",
+            "subordinate of X"
+        ],
+        [
+            "Li Liangsong",
+            "subordinate of X"
+        ],
+        [
+            "Middle-Aged Man",
+            "subordinate of X"
+        ],
+        [
+            "Private Tutor",
+            "subordinate of X"
+        ]
+    ],
+    "Tian Shi": [
+        [
+            "Juan Ge",
+            "niece of X"
+        ],
+        [
+            "Miao Ruya",
+            "daughter of X"
+        ],
+        [
+            "Miao Na",
+            "husband of X"
+        ],
+        [
+            "Miao Shi",
+            "sister of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "brother of X"
+        ]
+    ],
+    "Miao Na": [
+        [
+            "Miao Ruya",
+            "daughter of X, subordinate of X"
+        ],
+        [
+            "Tian Shi",
+            "wife of X, subordinate of X"
+        ],
+        [
+            "Miao Shi",
+            "sister of X, subordinate of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "brother of X, subordinate of X"
+        ],
+        [
+            "Juan Ge",
+            "niece of X, subordinate of X"
+        ],
+        [
+            "Gui Yin",
+            "student of X, saviour of X, subordinate of X"
+        ],
+        [
+            "Gan Ma",
+            "subordinate of X"
+        ],
+        [
+            "Li Gaobai",
+            "subordinate of X"
+        ],
+        [
+            "Li Demu",
+            "subordinate of X"
+        ],
+        [
+            "Li Liangsong",
+            "subordinate of X"
+        ],
+        [
+            "Middle-Aged Man",
+            "subordinate of X"
+        ],
+        [
+            "Private Tutor",
+            "subordinate of X"
+        ],
+        [
+            "Mountain Spirit",
+            "authority over X"
+        ]
+    ],
+    "Miao Shi": [
+        [
+            "Ba Mansion Mountain",
+            "husband of X"
+        ],
+        [
+            "Miao Na",
+            "brother of X"
+        ],
+        [
+            "Miao Ruya",
+            "niece of X"
+        ],
+        [
+            "Juan Ge",
+            "daughter of X"
+        ],
+        [
+            "Falcon",
+            "son of X"
+        ]
+    ],
+    "Ba Mansion Mountain": [
+        [
+            "Miao Shi",
+            "wife of X"
+        ],
+        [
+            "Miao Na",
+            "brother of X"
+        ],
+        [
+            "Miao Ruya",
+            "niece of X"
+        ],
+        [
+            "Juan Ge",
+            "daughter of X"
+        ],
+        [
+            "Falcon",
+            "son of X"
+        ],
+        [
+            "Li Demu",
+            "employee of X"
+        ],
+        [
+            "Li Liangsong",
+            "employee of X"
+        ],
+        [
+            "Li Gaobai",
+            "employee of X"
+        ]
+    ],
+    "Gui Yin": [
+        [
+            "Miao Na",
+            "teacher of X, saved by X"
+        ],
+        [
+            "Gan Ma",
+            "sister of X"
+        ],
+        [
+            "Juan Ge",
+            "fiancee of X"
+        ]
+    ],
+    "Gan Ma": [
+        [
+            "Gui Yin",
+            "brother of X"
+        ],
+        [
+            "Li Gaobai",
+            "friend of X"
+        ]
+    ],
+    "Juan Ge": [
+        [
+            "Miao Shi",
+            "mother of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "father of X"
+        ],
+        [
+            "Miao Ruya",
+            "sister of X"
+        ],
+        [
+            "Miao Na",
+            "uncle of X"
+        ],
+        [
+            "Falcon",
+            "brother of X"
+        ],
+        [
+            "Gui Yin",
+            "fiance of X"
+        ]
+    ],
+    "Falcon": [
+        [
+            "Miao Shi",
+            "mother of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "father of X"
+        ],
+        [
+            "Miao Ruya",
+            "sister of X"
+        ],
+        [
+            "Miao Na",
+            "uncle of X"
+        ],
+        [
+            "Juan Ge",
+            "sister of X"
+        ],
+        [
+            "Li Gaobai",
+            "schoolmate of X"
+        ],
+        [
+            "Private Tutor",
+            "teacher of X"
+        ]
+    ],
+    "Li Gaobai": [
+        [
+            "Gan Ma",
+            "friend of X"
+        ],
+        [
+            "Li Demu",
+            "older brother of X"
+        ],
+        [
+            "Li Liangsong",
+            "older brother of X"
+        ],
+        [
+            "Falcon",
+            "schoolmate of X"
+        ],
+        [
+            "Private Tutor",
+            "teacher of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "employer of X"
+        ]
+    ],
+    "Li Demu": [
+        [
+            "Li Gaobai",
+            "younger brother of X"
+        ],
+        [
+            "Li Liangsong",
+            "younger brother of X"
+        ],
+        [
+            "Miao Ruya",
+            "lover of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "employer of X"
+        ]
+    ],
+    "Li Liangsong": [
+        [
+            "Li Gaobai",
+            "younger brother of X"
+        ],
+        [
+            "Li Demu",
+            "older brother of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "employer of X"
+        ]
+    ],
+    "Middle-Aged Man": [
+        [
+            "Miao Ruya",
+            "murderer of X"
+        ]
+    ],
+    "Private Tutor": [
+        [
+            "Falcon",
+            "student of X"
+        ],
+        [
+            "Li Gaobai",
+            "student of X"
+        ]
+    ]
+}

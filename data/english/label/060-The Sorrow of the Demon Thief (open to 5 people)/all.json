@@ -1,0 +1,194 @@
+{
+    "Security Kevin": [
+        [
+            "Assistant Ella",
+            "acquaintance of x, helper of x"
+        ],
+        [
+            "Publicity Rowling",
+            "sister of x, acquaintance of x, friend of x"
+        ],
+        [
+            "Theatrical Work David",
+            "suspicious of x, acquaintance of x, dislike of x"
+        ],
+        [
+            "Logistics Griff",
+            "suspicious of x, acquaintance of x"
+        ],
+        [
+            "Magician Gust",
+            "acquaintance of x"
+        ],
+        [
+            "Kevin",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Assistant Ella": [
+        [
+            "Security Kevin",
+            "seeker of help from x , acquaintance of x"
+        ],
+        [
+            "Magician Gust",
+            "victim of x, superior of x, fondness of x"
+        ],
+        [
+            "Publicity Rowling",
+            "friend of x"
+        ],
+        [
+            "Theatrical Work David",
+            "acquaintance of x"
+        ],
+        [
+            "Logistics Griff",
+            "deceived by x"
+        ],
+        [
+            "Ella",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Publicity Rowling": [
+        [
+            "Security Kevin",
+            "friend of x, brother of x"
+        ],
+        [
+            "Theatrical Work David",
+            "quest companion of x, fondness of x"
+        ],
+        [
+            "Magician Gust",
+            "victim of x, quest companion of x, acquaintance of x"
+        ],
+        [
+            "Assistant Ella",
+            "friend of x"
+        ],
+        [
+            "Logistics Griff",
+            "suspicious of x"
+        ],
+        [
+            "Rowling",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Theatrical Work David": [
+        [
+            "Security Kevin",
+            "hate of x, acquaintance of x, suspicious of x"
+        ],
+        [
+            "Publicity Rowling",
+            "hate of x, acquaintance of x, quest companion of x"
+        ],
+        [
+            "Magician Gust",
+            "debtor of x, murderer of x, acquaintance of x, quest companion of x"
+        ],
+        [
+            "Assistant Ella",
+            "acquaintance of x"
+        ],
+        [
+            "Logistics Griff",
+            "suspicious of x, dislike of x"
+        ],
+        [
+            "David",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Logistics Griff": [
+        [
+            "Security Kevin",
+            "acquaintance of x"
+        ],
+        [
+            "Theatrical Work David",
+            "acquaintance of x, dislike of x"
+        ],
+        [
+            "Assistant Ella",
+            "deceiver of x"
+        ],
+        [
+            "Magician Gust",
+            "deceiver of x"
+        ],
+        [
+            "Publicity Rowling",
+            "acquaintance of x"
+        ],
+        [
+            "Griff",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Magician Gust": [
+        [
+            "Gust",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Ella": [
+        [
+            "Assistant Ella",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Gust": [
+        [
+            "Security Kevin",
+            "acquaintance of x, subordinate of x"
+        ],
+        [
+            "Assistant Ella",
+            "dislike of x, admired by x, acquaintance of x, subordinate of x, murderer of x"
+        ],
+        [
+            "Publicity Rowling",
+            "murderer of x, acquaintance of x, quest companion of x"
+        ],
+        [
+            "Theatrical Work David",
+            "hate of x, acquaintance of x, quest companion of x, creditor of x"
+        ],
+        [
+            "Logistics Griff",
+            "suspicious of x, deceived by x"
+        ],
+        [
+            "Magician Gust",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Kevin": [
+        [
+            "Security Kevin",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Griff": [
+        [
+            "Logistics Griff",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Rowling": [
+        [
+            "Publicity Rowling",
+            "same person as x (different reference)"
+        ]
+    ],
+    "David": [
+        [
+            "Theatrical Work David",
+            "same person as x (different reference)"
+        ]
+    ]
+}

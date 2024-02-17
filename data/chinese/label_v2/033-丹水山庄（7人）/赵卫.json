@@ -1,0 +1,51 @@
+{
+    "赵卫": [
+      ["光绪皇帝", "father of x"], 
+      ["瑜妃", "mother of x"], 
+      ["李叔逊", "uncle of x"], 
+      ["赵万雷", "adoptive father of x,  adversary of x"], 
+      ["冯双骥", "mentor of x, servant of x"], 
+      ["赵洛意", "sister of x"], 
+      ["张御医", "doctor of x"]
+    ],
+    "光绪皇帝": [
+      ["赵卫", "son of x"], 
+      ["瑜妃", "wife of x"], 
+      ["西太后叶赫那拉氏", "mother of x"], 
+      ["皇后叶赫那拉氏", "wife of x"]
+    ],
+    "瑜妃": [
+      ["赵卫", "son of x"], 
+      ["光绪皇帝", "husband of x"], 
+      ["李叔逊", "brother of x"], 
+      ["赵万雷", "servant of x, manipulator of x, husband of x"]
+    ],
+    "李叔逊": [
+      ["瑜妃", "sister of x"], 
+      ["光绪皇帝", "servant of x"]
+    ],
+    "赵万雷": [
+      ["赵卫", "adoptive son of x, adversary of x"], 
+      ["瑜妃", "master of x, manipulated by x, wife of x"], 
+      ["冯双骥", "schoolmate of x, employee of x"], 
+      ["赵洛意", "daughter of x"]
+    ],
+    "冯双骥": [
+      ["赵卫", "master of x"], 
+      ["瑜妃", "master of x"], 
+      ["赵万雷", "schoolmate of x, employer of x"]
+    ],
+    "赵洛意": [
+      ["赵卫", "brother of x"], 
+      ["赵万雷", "father of x"], 
+      ["瑜妃", "mother of x"], 
+      ["赵秋儿", "servant of x"]
+    ],
+    "张御医": [
+      ["赵卫", "patient of x"], 
+      ["赵万雷", "employer of x"]
+    ],
+    "赵秋儿": [
+      ["赵洛意", "master of x"]
+    ]
+}

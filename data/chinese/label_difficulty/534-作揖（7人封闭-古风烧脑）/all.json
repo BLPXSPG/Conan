@@ -1,0 +1,18 @@
+{
+    "李仲": [
+      ["陈倩", "fiance of x"]
+    ],
+    "小茜": [
+      ["陈倩", "adoptive sister of x"], 
+      ["李延", "saviour of x"], 
+      ["李仲", "deceived by x"]
+    ],
+    "李延": [
+      ["李仲", "older brother of x, rival in love of x"], 
+      ["陈倩", "lover of x"]
+    ],
+    "陈倩": [
+      ["李仲", "fiance of x, lover of x"], 
+      ["李延", "fiance of x, lover of x"]
+    ]
+}

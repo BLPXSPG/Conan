@@ -1,0 +1,77 @@
+{
+    "Yu Yancheng": [
+      ["Yu Shangyong", "brother of x"], 
+      ["Ge Jixian", "acquaintance of x"], 
+      ["Zhang Junshi", "saved by x"], 
+      ["Zhu Lingshan", "acquaintance of x"], 
+      ["Le Wan", "saved by x, acquaintance of x"], 
+      ["Mrs. Zhang", "buyer of x"], 
+      ["Lü Songnian", "acquaintance of x"], 
+      ["Xue Yufan", "acquaintance of x"], 
+      ["Zhi Jun", "acquaintance of x"]
+    ],
+    "Yu Shangyong": [
+      ["Yu Yancheng", "brother of x"], 
+      ["Ge Jixian", "victim of x"], 
+      ["Zhang Junshi", "saved by x"], 
+      ["Yan Yichong", "acquaintance of x, victim of x"], 
+      ["Xue Dacai", "acquaintance of x"], 
+      ["Zhu Lingshan", "acquaintance of x"], 
+      ["Le Wan", "lover of x"], 
+      ["Mrs. Zhang", "acquaintance of x"], 
+      ["Zhi Jun", "acquaintance of x"]
+    ],
+    "Zhang Junshi": [
+      ["Yu Yancheng", "saved by x"], 
+      ["Yu Shangyong", "saved by x"], 
+      ["Mrs. Zhang", "wife of x"], 
+      ["Zhi Jun", "niece of x"]
+    ],
+    "Mrs. Zhang": [
+      ["Zhang Junshi", "husband of x"], 
+      ["Yu Yancheng", "buyer of x"], 
+      ["Le Wan", "employee of x"], 
+      ["Zhi Jun", "aunt of x"]
+    ],
+    "Ge Jixian": [
+      ["Ge Yueluo", "daughter of x"], 
+      ["Ge Yueman", "daughter of x"], 
+      ["Yu Yancheng", "acquaintance of x"], 
+      ["Yu Shangyong", "victim of x, acquaintance of x"]
+    ],
+    "Ge Yueluo": [
+      ["Ge Jixian", "father of x"], 
+      ["Ge Yueman", "sister of x"], 
+      ["Zhu Lingshan", "brother in law of x"]
+    ],
+    "Ge Yueman": [
+      ["Ge Jixian", "father of x"], 
+      ["Ge Yueluo", "sister of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Ge Yueluo", "wife of x"], 
+      ["Yu Yancheng", "acquaintance of x"], 
+      ["Yu Shangyong", "acquaintance of x"], 
+      ["Le Wan", "wife of x"], 
+      ["Yan Yichong", "acquaintance of x"]
+    ],
+    "Le Wan": [
+      ["Zhu Lingshan", "acquaintance of x"], 
+      ["Yu Yancheng", "saved by x"], 
+      ["Yu Shangyong", "secret lover of x"], 
+      ["Mrs. Zhang", "employer of x"]
+    ],
+    "Zhi Jun": [
+      ["Zhang Junshi", "uncle of x"], 
+      ["Mrs. Zhang", "aunt of x"], 
+      ["Yu Shangyong", "acquaintance of x"]
+    ],
+    "Lü Songnian": [
+      ["Yu Yancheng", "acquaintance of x"], 
+      ["Yu Shangyong", "acquaintance of x"]
+    ],
+    "Xue Yufan": [
+      ["Yu Yancheng", "acquaintance of x"], 
+      ["Zhu Lingshan", "acquaintance of x"]
+    ]
+}

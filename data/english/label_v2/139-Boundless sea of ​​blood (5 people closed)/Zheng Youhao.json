@@ -1,0 +1,23 @@
+{
+    "Zheng Youhao": [
+      ["Qin Laoda", "friend of x, victim of x"], 
+      ["Zhuang Qingchun", "acquaintance of x"], 
+      ["Wei Xiaodi", "friend of x"]
+    ],
+    "Qin Laoda": [
+      ["Zheng Youhao", "friend of x, murderer of x"], 
+      ["Wei Xiaodi", "friend of x"]
+    ],
+    "Jia Meili": [
+      ["Zhuang Qingchun", "friend of x"], 
+      ["Qin Laoda", "acquaintance of x"]
+    ],
+    "Zhuang Qingchun": [
+      ["Jia Meili", "friend of x"], 
+      ["Zheng Youhao", "secret admirer of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Qin Laoda", "friend of x"], 
+      ["Zheng Youhao", "friend of x"]
+    ]
+}

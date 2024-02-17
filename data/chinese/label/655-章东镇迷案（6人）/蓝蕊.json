@@ -1,0 +1,58 @@
+{
+  "蓝蕊": [
+    ["章方豪", "father of X, adversary of X"],
+    ["姚氏", "mother of X"],
+    ["杨水巡", "host of X"],
+    ["敏兮", "classmate of X"],
+    ["夕婷", "classmate of X, friend of X, helper of X"]
+  ],
+  "章方豪": [
+    ["蓝蕊", "daughter of X"],
+    ["姚氏", "wife of X"],
+    ["杨水巡", "friend of X"],
+    ["章善人", "same person as X (different reference)"]
+  ],
+  "章善人": [
+    ["章方豪", "same person as X (different reference)"]
+  ],
+  "姚氏": [
+    ["蓝蕊", "daughter of X"],
+    ["章方豪", "husband of X, adversary of X"]
+  ],
+  "夕婷": [
+    ["穆夕婷", "same person as X (different reference)"],
+    ["蓝蕊", "classmate of X, friend of X, helped by X"],
+    ["敏兮", "classmate of X"],
+    ["杏儿", "servant of X"],
+    ["穆伯宣", "brother of X"],
+    ["顾梦楚", "husband of X"]
+  ],
+  "穆夕婷": [
+    ["夕婷", "same person as X (different reference)"]
+  ],
+  "顾梦楚": [
+    ["夕婷", "wife of X"]
+  ],
+  "穆伯宣": [
+    ["夕婷", "sister of X"]
+  ],
+  "杏儿": [
+    ["夕婷", "master of X"]
+  ],
+  "杨水巡": [
+    ["章方豪", "friend of X"],
+    ["蓝蕊", "guest of X"],
+    ["敏兮", "daughter of X"],
+    ["申午生", "employee of X"]
+  ],
+  "申午生": [
+    ["杨水巡", "employer of X"],
+    ["敏兮", "employer of X"],
+    ["蓝蕊", "employer of X"]
+  ],
+  "敏兮": [
+    ["杨水巡", "father of X"],
+    ["蓝蕊", "classmate of X"],
+    ["夕婷", "classmate of X"]
+  ]
+}

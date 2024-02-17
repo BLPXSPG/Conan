@@ -1,0 +1,48 @@
+{
+  "顾宇": [
+    ["林夕", "Fondness of X, ex-girlfriend of x"],
+    ["陈静雯", "Romantic relationships with X, Hate of X"],
+    ["顾明和", "Father of X, Superior of X"],
+    ["顾晴", "Sister of X"],
+    ["苏阳", "Acquaintance of X"]
+  ],
+  "林夕": [
+    ["顾宇", "ex-boyfriend of x"],
+    ["苏阳", "Fiance of X"],
+    ["陈静雯", "Acquaintance of X"]
+  ],
+  "陈静雯": [
+    ["顾宇", "Romantic relationships with X"],
+    ["郑心媚", "Mother of X"],
+    ["林夕", "Rival in love of X"]
+  ],
+  "顾明和": [
+    ["顾宇", "Son of X, Subordinate of X"],
+    ["林惟仁", "Business Partner of X"],
+    ["秦思琴", "Hate of X"],
+    ["顾晴", "Daughter of X"],
+    ["郑心媚", "Hate of X"]
+  ],
+  "顾晴": [
+    ["顾宇", "Brother of X"],
+    ["顾明和", "Father of X"]
+  ],
+  "苏阳": [
+    ["林夕", "Fiancee of X"],
+    ["顾宇", "Hate of X"]
+  ],
+  "林惟仁": [
+    ["顾明和", "Business Partner of X"],
+    ["林夕", "Daughter of X"]
+  ],
+  "秦思琴": [
+    ["林惟仁", "Hate of X"],
+    ["顾明和", "Hate of X"]
+  ],
+  "郑心媚": [
+    ["陈静雯", "Daughter of X"],
+    ["林惟仁", "Hate of X"],
+    ["顾明和", "Hate of X"],
+    ["顾宇", "helper of x"]
+  ]
+}

@@ -1,0 +1,94 @@
+{
+    "Xue Meiniang": [
+        [
+            "Xiao Tiyu",
+            "Romantic relationships with X"
+        ],
+        [
+            "Qin Laoda",
+            "Teacher of X, Romantic relationships with X"
+        ],
+        [
+            "Jia Meili",
+            "Student of X"
+        ],
+        [
+            "Zhuang Qingchun",
+            "Student of X"
+        ]
+    ],
+    "Xiao Tiyu": [
+        [
+            "Xue Meiniang",
+            "Romantic relationships with X"
+        ],
+        [
+            "Jia Meili",
+            "Student of X"
+        ]
+    ],
+    "Qin Laoda": [
+        [
+            "Xue Meiniang",
+            "Student of X, Romantic relationships with X"
+        ],
+        [
+            "Qin Expert",
+            "Father of X"
+        ],
+        [
+            "Zhuang Qingchun",
+            "Schoolmate of X"
+        ],
+        [
+            "Zheng Youhao",
+            "Friend of X"
+        ],
+        [
+            "Wei Xiaodi",
+            "Friend of X"
+        ]
+    ],
+    "Qin Expert": [
+        [
+            "Qin Laoda",
+            "Son of X"
+        ]
+    ],
+    "Jia Meili": [
+        [
+            "Xue Meiniang",
+            "Teacher of X, Attempted Perpetrator of X"
+        ],
+        [
+            "Xiao Tiyu",
+            "Teacher of X"
+        ],
+        [
+            "Qin Laoda",
+            "Schoolmate of X"
+        ]
+    ],
+    "Zhuang Qingchun": [
+        [
+            "Xue Meiniang",
+            "Teacher of X"
+        ],
+        [
+            "Qin Laoda",
+            "Schoolmate of X"
+        ]
+    ],
+    "Zheng Youhao": [
+        [
+            "Qin Laoda",
+            "Friend of X"
+        ]
+    ],
+    "Wei Xiaodi": [
+        [
+            "Qin Laoda",
+            "Friend of X"
+        ]
+    ]
+}

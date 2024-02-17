@@ -1,0 +1,97 @@
+{
+    "于宿年": [
+      ["于氏", "sister of X"], 
+      ["周蒙当", "brother in law of x"], 
+      ["周持同", "Relative of X"], 
+      ["崔寿亨", "enemy of X, Perpetrator of X's family"], 
+      ["周琏逸", "nephew of X, friend of x"], 
+      ["崔嫣楠", "lover of x, student of x, friend of x"], 
+      ["汪氏", "killed by X"],
+      ["宝柑", "Acquaintance of X"],
+      ["河嫂", "Acquaintance of X"]
+    ],
+    "河嫂":[
+      ["于宿年", "Acquaintance of X"],
+      ["汪氏", "master of X"],
+      ["嫣楠", "master of X"],
+      ["昔颜", "master of X"],
+      ["崔寿亨", "master of X"]
+    ],
+    "汪氏":[
+      ["周琏逸", "Helped by X"],
+      ["于氏", "Helped by X, servant of x"],
+      ["于宿年", "Murderer of X"],
+      ["嫣楠", "daughter of x"],
+      ["崔寿亨", "husband of X"],
+      ["宝柑", "servant of X"],
+      ["河嫂", "servant of X"],
+      ["昔颜", "sister of x, co-wives of X"]
+    ],
+    "于氏": [
+      ["于宿年", "brother of x"], 
+      ["周蒙当", "husband of x"], 
+      ["周持同", "brother in law of x"], 
+      ["琏逸", "son of X"],
+      ["汪氏", "Helper of X, master of x"],
+      ["崔寿亨", "master of X"]
+    ],
+    "周蒙当": [
+      ["周持同", "brother of x"], 
+      ["于宿年", "brother in law of x"], 
+      ["于氏", "wife of x"], 
+      ["崔寿亨", "master of x, employer of x"], 
+      ["琏逸", "son of x"]
+    ],
+    "周持同": [
+      ["周蒙当", "brother of x"], 
+      ["于宿年", "Acquaintance of X, Neighbour of X"], 
+      ["于氏", "sister in law of x"], 
+      ["琏逸", "nephew of x"]
+    ],
+    "崔寿亨": [
+      ["于宿年", "Acquaintance of X"], 
+      ["汪氏", "wife of x"], 
+      ["周蒙当", "servant of x, employee of x"], 
+      ["昔颜", "wife of x, sister in law of x"], 
+      ["嫣楠", "daughter of x"],
+      ["河嫂", "servant of x"],
+      ["宝柑", "servant of X"]
+    ],
+    "琏逸":[
+      ["于宿年", "uncle of x, friend of x"], 
+      ["于氏", "mother of x"], 
+      ["周蒙当", "father of x"], 
+      ["周持同", "uncle of x"], 
+      ["嫣楠", "friend of x"],
+      ["周琏逸", "Same person as X (different reference)"]
+    ],
+    "周琏逸": [
+      ["琏逸", "Same person as X (different reference)"]
+    ],
+    "嫣楠": [
+      ["于宿年", "lover of x, mentor of x, friend of x"], 
+      ["崔寿亨", "father of x"], 
+      ["琏逸", "friend of x"], 
+      ["宝柑", "Servant of x"],
+      ["河嫂", "servant of X"],
+      ["汪氏", "mother of x"],
+      ["崔嫣楠", "Same person as X (different reference)"],
+      ["昔颜", "step-mother of X, aunt of x"]
+    ],
+    "崔嫣楠": [
+      ["嫣楠", "Same person as X (different reference)"]
+    ],
+    "昔颜": [
+      ["河嫂", "servant of X"],
+      ["崔寿亨", "brother in law of x, husband of x"],
+      ["汪氏", "sister of x, co-wives of X"],
+      ["崔嫣楠", "Niece of X, step-daughter of X"]
+    ],
+    "宝柑": [
+      ["崔寿亨", "master of x"], 
+      ["嫣楠", "master of x"], 
+      ["汪氏", "master of x"], 
+      ["于宿年", "acquaintance of x"],
+      ["河嫂", "Acquaintance of X"]
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Su Yang": [
+      ["Lin Weiren", "teacher of x"], 
+      ["Lin Xi", "fiancee of x"], 
+      ["Lin Tong", "ex-girlfriend of x"], 
+      ["Gu Minghe", "hate of x"], 
+      ["Gu Qing", "secret admirer of x"]
+    ],
+    "Lin Weiren": [
+      ["Su Yang", "student of x, hate of x"], 
+      ["Shen Cheng", "servant of x, employee of x"], 
+      ["Lin Xi", "daughter of x"], 
+      ["Lin Tong", "hate of x"]
+    ],
+    "Lin Xi": [
+      ["Su Yang", "fiance of x"], 
+      ["Lin Weiren", "father of x"], 
+      ["Gu Yu", "ex-boyfriend of x"], 
+      ["Gu Minghe", "victim of x"], 
+      ["Gu Qing", "acquaintance of x"]
+    ],
+    "Lin Tong": [
+      ["Su Yang", "ex-boyfriend of x"], 
+      ["Shen Cheng", "father of x"]
+    ],
+    "Gu Minghe": [
+      ["Gu Qing", "daughter of x"], 
+      ["Lin Xi", "murderer of x"]
+    ],
+    "Gu Qing": [
+      ["Gu Minghe", "father of x"], 
+      ["Lin Xi", "dislike of x"]
+    ],
+    "Gu Yu": [
+      ["Lin Xi", "ex-girlfriend of x"]
+    ],
+    "Shen Cheng": [
+      ["Lin Tong", "daughter of x"], 
+      ["Lin Weiren", "master of x, employer of x"]
+    ]
+}

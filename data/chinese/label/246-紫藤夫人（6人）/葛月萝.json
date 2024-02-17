@@ -1,0 +1,52 @@
+{
+    "葛继先": [
+        ["葛月萝", "Daughter of X"],
+        ["葛月曼", "Daughter of X"]
+    ],
+    "葛月萝": [
+        ["葛继先", "Father of X"],
+        ["朱陵山", "Husband of X, Manipulated by X, Bully of X"],
+        ["葛月曼", "Sister of X, Same person as x (different identity)"],
+        ["张太太", "Friend of X, Victim of X, Saviour of x"],
+        ["乐婉", "Acquaintance of X"],
+        ["薛达财", "Acquaintance of x, Victim of x"],
+        ["薛玉帆", "Acquaintance of X"],
+        ["于尚勇", "information receiver from x, suspect of x, victim of x"]
+    ],
+    "葛月曼": [
+        ["张俊诗", "extramarital affair with x"],
+        ["葛继先", "child of x"],
+        ["葛月萝", "sister of x, same person as x (different identity), same person as x (different reference)"],
+        ["张太太", "same person as x (different identity)"]
+    ],
+    "张太太": [
+        ["葛月萝", "friend of x,  victim of x"],
+        ["葛月曼", "same person as x (different identity)"],
+        ["张俊诗", "extramarital affair with x"],
+        ["稚筠", "acquaintance of x"],
+        ["乐婉", "acquaintance of x"]
+    ],
+    "朱陵山": [
+        ["葛月萝", "wife of x, manipulated by x, suspect of x"],
+        ["薛达财", "acquaintance of x"]
+    ],
+    "薛达财": [
+        ["葛月萝", "victim of x"],
+        ["朱陵山", "acquaintance of x"]
+    ],
+    "乐婉": [
+        ["葛月萝", "acquaintance of x"],
+        ["张太太", "acquaintance of x"]
+    ],
+    "张俊诗": [
+        ["葛月曼", "extramarital affair with x"],
+        ["张太太", "same person as x (different identity)"]
+    ],
+    "稚筠": [
+        ["张太太", "acquaintance of x"]
+    ],
+    "于尚勇": [
+        ["葛月萝", "victim of x"],
+        ["葛月曼", "suspect of x"]
+    ]
+}

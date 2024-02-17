@@ -1,0 +1,33 @@
+{
+    "Zhao Shuaige": [
+      ["Zhang Eba", "sibling of x"], 
+      ["Lin Xiaohua", "schoolmate of x"], 
+      ["Li Xiaodi", "acquaintance of x"], 
+      ["Wang Xuexi", "acquaintance of x"], 
+      ["Hao Guimi", "acquaintance of x"]
+    ],
+    "Zhang Eba": [
+      ["Zhao Shuaige", "sibling of x"], 
+      ["Lin Xiaohua", "fiance of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Zhang Eba", "fiance of x"], 
+      ["Zhao Shuaige", "secret admirer of x"]
+    ],
+    "Li Xiaodi": [
+      ["Zhao Shuaige", "acquaintance of x"], 
+      ["Zhang Eba", "acquaintance of x"], 
+      ["Wang Xuexi", "acquaintance of x"]
+    ],
+    "Wang Xuexi": [
+      ["Zhao Shuaige", "acquaintance of x"], 
+      ["Li Xiaodi", "acquaintance of x"], 
+      ["Zhang Eba", "acquaintance of x"]
+    ],
+    "Hao Guimi": [
+      ["Zhao Shuaige", "acquaintance of x"], 
+      ["Li Xiaodi", "acquaintance of x"], 
+      ["Wang Xuexi", "acquaintance of x"], 
+      ["Zhang Eba", "acquaintance of x"]
+    ]
+}

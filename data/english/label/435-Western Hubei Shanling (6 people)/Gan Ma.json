@@ -1,0 +1,334 @@
+{
+    "Gan Ma": [
+        [
+            "Gan Yin",
+            "brother of X, saviour of X, teacher of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "landlord of X, employer of X"
+        ],
+        [
+            "Miao Shi",
+            "landlord of X, saved by X"
+        ],
+        [
+            "Li Gaobai",
+            "friend of X"
+        ],
+        [
+            "Juan Ge",
+            "friend of X"
+        ],
+        [
+            "Wang Jingji",
+            "lover of X, killed by X"
+        ],
+        [
+            "Falcon",
+            "fiance of X"
+        ],
+        [
+            "Mountain Spirit",
+            "superior of X, saviour of X"
+        ],
+        [
+            "Ruya",
+            "helper of X, sister in law of X"
+        ],
+        [
+            "Chen Sha",
+            "friend of X, student of X"
+        ]
+    ],
+    "Gan Yin": [
+        [
+            "Gan Ma",
+            "sister of X, saved by X, student of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "landlord of X"
+        ],
+        [
+            "Miao Shi",
+            "landlord of X, helper of X"
+        ],
+        [
+            "Gui Yin",
+            "same person as X (different reference)"
+        ],
+        [
+            "Wizard",
+            "teacher of X, saviour of X"
+        ],
+        [
+            "Juan Ge",
+            "fiancee of X, lover of X, wife of X"
+        ],
+        [
+            "Mountain Spirit",
+            "superior of X, helper of X"
+        ]
+    ],
+    "Mountain Spirit": [
+        [
+            "Gan Ma",
+            "subordinate of X, saved by X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "subordinate of X"
+        ],
+        [
+            "Gan Yin",
+            "subordinate of X, helped by X"
+        ],
+        [
+            "Miao Shi",
+            "subordinate of X"
+        ],
+        [
+            "Gui Yin",
+            "subordinate of X"
+        ],
+        [
+            "Wizard",
+            "subordinate of X"
+        ],
+        [
+            "Juan Ge",
+            "subordinate of X"
+        ],
+        [
+            "Falcon",
+            "subordinate of X"
+        ],
+        [
+            "Ruya",
+            "subordinate of X"
+        ],
+        [
+            "Wizard",
+            "subordinate of X"
+        ],
+        [
+            "Chen Sha",
+            "subordinate of X"
+        ]
+    ],
+    "Ba Mansion Mountain": [
+        [
+            "Gan Ma",
+            "employee of X, servant of X"
+        ],
+        [
+            "Gan Yin",
+            "employee of X, servant of X, helped by X"
+        ],
+        [
+            "Miao Shi",
+            "wife of X"
+        ],
+        [
+            "Juan Ge",
+            "daughter of X"
+        ],
+        [
+            "Professor",
+            "guest of X"
+        ],
+        [
+            "Chen Sha",
+            "guest of X"
+        ],
+        [
+            "Intern",
+            "guest of X"
+        ],
+        [
+            "Miao Shi",
+            "wife of X"
+        ],
+        [
+            "Li Gaobai",
+            "employee of X"
+        ],
+        [
+            "Wang Jingji",
+            "employee of X"
+        ],
+        [
+            "Falcon",
+            "son of X"
+        ],
+        [
+            "Youth",
+            "employee of X"
+        ]
+    ],
+    "Miao Shi": [
+        [
+            "Ba Mansion Mountain",
+            "husband of X"
+        ],
+        [
+            "Gan Ma",
+            "employee of X, saviour of X"
+        ],
+        [
+            "Gan Yin",
+            "employee of X"
+        ],
+        [
+            "Juan Ge",
+            "daughter of X"
+        ],
+        [
+            "Falcon",
+            "son of X"
+        ]
+    ],
+    "Ruya": [
+        [
+            "Wizard",
+            "father of X"
+        ],
+        [
+            "Gan Ma",
+            "helped by X"
+        ]
+    ],
+    "Wizard": [
+        [
+            "Ruya",
+            "daughter of X"
+        ],
+        [
+            "Gui Yin",
+            "student of X, saved by X"
+        ]
+    ],
+    "Gui Yin": [
+        [
+            "Gan Yin",
+            "same person as X (different reference)"
+        ],
+        [
+            "Wizard",
+            "teacher of X, saviour of X"
+        ]
+    ],
+    "Li Gaobai": [
+        [
+            "Wizard",
+            "employer of X"
+        ],
+        [
+            "Gan Ma",
+            "friend of X"
+        ],
+        [
+            "Youth",
+            "informant of X"
+        ]
+    ],
+    "Youth": [
+        [
+            "Li Gaobai",
+            "information receiver from X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "employer of X"
+        ]
+    ],
+    "Juan Ge": [
+        [
+            "Ba Mansion Mountain",
+            "father of X"
+        ],
+        [
+            "Miao Shi",
+            "mother of X"
+        ],
+        [
+            "Gan Yin",
+            "fiance of X, lover of X, husband of X"
+        ],
+        [
+            "Gan Ma",
+            "friend of X, sister in law of X"
+        ],
+        [
+            "Falcon",
+            "brother of X"
+        ]
+    ],
+    "Professor": [
+        [
+            "Professor's Daughter",
+            "daughter of X"
+        ],
+        [
+            "Intern",
+            "employee of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "host of X"
+        ]
+    ],
+    "Chen Sha": [
+        [
+            "Professor",
+            "father of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "host of X"
+        ],
+        [
+            "Gan Ma",
+            "friend of X, teacher of X"
+        ]
+    ],
+    "Intern": [
+        [
+            "Professor",
+            "employer of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "host of X"
+        ]
+    ],
+    "Wang Jingji": [
+        [
+            "Ba Mansion Mountain",
+            "landlord of X"
+        ],
+        [
+            "Gan Ma",
+            "lover of X, secret admirer of X, murderer of X"
+        ]
+    ],
+    "Falcon": [
+        [
+            "Ba Mansion Mountain",
+            "father of X"
+        ],
+        [
+            "Gan Ma",
+            "fiancee of X"
+        ],
+        [
+            "Juan Ge",
+            "sister of X"
+        ],
+        [
+            "Miao Shi",
+            "mother of X"
+        ]
+    ]
+}

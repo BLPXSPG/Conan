@@ -1,0 +1,44 @@
+{
+  "赵秋儿": [
+    ["赵洛意", "Master of X, Friend of X, Jealous by X"],
+    ["赵万雷", "Employer of X"],
+    ["赵卫", "Colleague of X"],
+    ["冯双骥", "Colleague of X"],
+    ["冯竹", "Acquaintance of X"],
+    ["齐岳", "Colleague of X"]
+  ],
+  "赵洛意": [
+    ["赵秋儿", "Master of X, Friend of X, Jealous of X"],
+    ["赵万雷", "Father of X"],
+    ["赵卫", "Brother of X"],
+    ["冯双骥", "Servant of X"],
+    ["齐岳", "Employee of X"]
+  ],
+  "赵万雷": [
+    ["赵秋儿", "Secret admirer of X"],
+    ["赵洛意", "Daughter of X"],
+    ["赵卫", "Brother of X"],
+    ["冯双骥", "Employee of X, Servant of X, Schoolmate of X"]
+  ],
+  "赵卫": [
+    ["赵洛意", "Sister of X"],
+    ["赵秋儿", "Colleague of X"],
+    ["赵万雷", "Father of X"]
+  ],
+  "冯双骥": [
+    ["赵秋儿", "Colleague of X"],
+    ["赵洛意", "Master of X"],
+    ["赵万雷", "Employer of X, Schoolmate of X"],
+    ["冯竹", "Daughter of X"],
+    ["赵卫", "Master of X"]
+  ],
+  "冯竹": [
+    ["赵秋儿", "Acquaintance of X"],
+    ["冯双骥", "Father of X"]
+  ],
+  "齐岳": [
+    ["赵秋儿", "Colleague of X"],
+    ["赵洛意", "Master of X"],
+    ["赵万雷", "Employer of X, Master of X"]
+  ]
+}

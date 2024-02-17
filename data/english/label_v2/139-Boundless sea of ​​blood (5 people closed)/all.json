@@ -1,0 +1,71 @@
+{
+    "Zhuang Qingchun": [
+      ["Qin Expert", "adoptive father of x"], 
+      ["Qin Laoda", "schoolmate of x, adoptive brother of x"], 
+      ["Xiao Tiyu", "suspicious of x, romantic relationships with x"], 
+      ["Jia Meili", "friend of x, victim of x, hate of x"], 
+      ["Xue Meiniang", "teacher of x, rival in love of x"], 
+      ["Zhuang Qingchun's Mother", "mother of x"], 
+      ["Zheng Youhao", "secret admirer of x"], 
+      ["Wei Xiaodi", "schoolmate of x"]
+    ],
+    "Qin Expert": [
+      ["Zhuang Qingchun's Mother", "wife of x"], 
+      ["Qin Laoda", "hate of x, son of x"], 
+      ["Zhuang Qingchun", "adoptive daughter of x, hate of x"], 
+      ["Jia Meili", "ex-romantic relationships with x"], 
+      ["Wei Xiaodi's Father", "hate of x, deceived by x"]
+    ],
+    "Qin Laoda": [
+      ["Qin Expert", "father of x"], 
+      ["Zhuang Qingchun", "schoolmate of x, adoptive sister of x"], 
+      ["Zheng Youhao", "friend of x, schoolmate of x"], 
+      ["Wei Xiaodi", "friend of x, schoolmate of x, murderer of x, hate of x"], 
+      ["Xue Meiniang", "romantic relationships with x, student of x"], 
+      ["Jia Meili", "schoolmate of x"]
+    ],
+    "Jia Meili": [
+      ["Zhuang Qingchun", "friend of x, murderer of x, hate of x"], 
+      ["Qin Expert", "ex-romantic relationships with x"], 
+      ["Xiao Tiyu", "teacher of x, victim of x"], 
+      ["Xue Meiniang", "teacher of x, attempted perpetrator of x"], 
+      ["Qin Laoda", "schoolmate of x, acquaintance of x"], 
+      ["Wei Xiaodi", "schoolmate of x"]
+    ],
+    "Xiao Tiyu": [
+      ["Zhuang Qingchun", "romantic relationships with x"], 
+      ["Xue Meiniang", "romantic relationships with x"], 
+      ["Jia Meili", "perpetrator of x, student of x"]
+    ],
+    "Xue Meiniang": [
+      ["Xiao Tiyu", "romantic relationships with x"], 
+      ["Qin Laoda", "teacher of x, romantic relationships with x"], 
+      ["Jia Meili", "student of x"], 
+      ["Zhuang Qingchun", "student of x"]
+    ],
+    "Zhuang Qingchun's Mother": [
+      ["Zhuang Qingchun", "daughter of x"], 
+      ["Qin Expert", "husband of x"]
+    ],
+    "Zheng Youhao": [
+      ["Qin Laoda", "friend of x, schoolmate of x"], 
+      ["Zhuang Qingchun", "dislike of x, acquaintance of x"], 
+      ["Wei Xiaodi", "friend of x, schoolmate of x"]
+    ],
+    "Wei Xiaodi": [
+      ["Qin Laoda", "friend of x, schoolmate of x, victim of x"], 
+      ["Zhuang Qingchun", "schoolmate of x, dislike of x"], 
+      ["Zheng Youhao", "friend of x, schoolmate of x"], 
+      ["Wei Xiaodi's Father", "son of x"], 
+      ["Wei Xiaodi's Mother", "son of x"], 
+      ["Qin Expert", "adversary of x"], 
+      ["Jia Meili", "schoolmate of x"]
+    ],
+    "Wei Xiaodi's Father": [
+      ["Wei Xiaodi", "father of x"], 
+      ["Qin Expert", "deceiver of x"]
+    ],
+    "Wei Xiaodi's Mother": [
+      ["Wei Xiaodi", "mother of x"]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+  "章方豪": [
+    ["章大通", "father of X"],
+    ["曹宗雷", "teacher of X"],
+    ["杨水巡", "friend of X"],
+    ["浣绫", "helped by X, wife of X"],
+    ["蓝蕊", "daughter of X"],
+    ["彩芽", "helped by X, lover of X"],
+    ["李小七", "employee of X"],
+    ["张白浪", "friend of X"]
+  ],
+  "张白浪": [
+    ["章方豪", "friend of X"] 
+  ],
+  "李小七": [
+    ["章方豪", "employer of X"]
+  ],
+  "彩芽": [
+    ["章方豪", "helper of X, secret admirer of X, lover of X"]
+  ],
+  "王彩芽": [
+    ["彩芽", "same person as X (different reference)"]
+  ],
+  "赛沉鱼": [
+    ["章方豪", "admirer of X, helper of X, husband of X"],
+    ["姚浣绫", "same person as X (different reference)"],
+    ["浣绫", "same person as X (different reference)"],
+    ["蓝蕊", "daughter of X"]
+  ],
+  "姚浣绫": [
+    ["赛沉鱼", "same person as X (different reference)"]
+  ],
+  "浣绫": [
+    ["赛沉鱼", "same person as X (different reference)"]
+  ],
+  "蓝蕊": [
+    ["章方豪", "father of X"],
+    ["赛沉鱼", "mother of X"],
+    ["敏兮", "classmate of X"],
+    ["夕婷", "classmate of X, friend of X"]
+  ],
+  "男人": [
+    ["章方豪", "Murderer of X"],
+    ["赛沉鱼", "adversary of X"]
+  ],
+  "曹宗雷": [
+    ["章方豪", "student of X"]
+  ],
+  "章大通": [
+    ["章方豪", "son of X"]
+  ],
+  "杨水巡": [
+    ["章方豪", "friend of X"],
+    ["敏兮", "daughter of X"]
+  ],
+  "敏兮": [
+    ["杨水巡", "father of X"],
+    ["蓝蕊", "classmate of X"],
+    ["夕婷", "classmate of X"]
+  ],
+  "夕婷": [
+    ["敏兮", "classmate of X"],
+    ["蓝蕊", "classmate of X, friend of X"]
+  ]
+}

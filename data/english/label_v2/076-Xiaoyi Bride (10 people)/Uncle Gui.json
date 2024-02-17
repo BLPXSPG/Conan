@@ -1,0 +1,70 @@
+{
+    "Uncle Gui": [
+      ["Du Guicheng", "same person as x (different reference)"]
+    ],
+    "Du Guicheng": [
+      ["Du Huixin", "father of x"], 
+      ["Master Meng", "employer of x"], 
+      ["Physician Yu", "acquaintance of x"], 
+      ["Yun Ling", "acquaintance of x"], 
+      ["Yao Zhongyi", "acquaintance of x"], 
+      ["Chen Junmeng", "acquaintance of x"], 
+      ["Lady Hong", "acquaintance of x"], 
+      ["Yao Changshou", "acquaintance of x"], 
+      ["Uncle Gui", "same person as x (different reference)"]
+    ],
+    "Du Huixin": [
+      ["Uncle Gui", "son of x"], 
+      ["Du Guicheng", "son of x"], 
+      ["Master Meng", "employer of x"]
+    ],
+    "Master Meng": [
+      ["Uncle Gui", "employee of x"], 
+      ["Du Guicheng", "employee of x"], 
+      ["Du Huixin", "employee of x"]
+    ],
+    "Physician Yu": [
+      ["Uncle Gui", "acquaintance of x"], 
+      ["Du Guicheng", "acquaintance of x"], 
+      ["Chen Junmeng", "sister in law of x"], 
+      ["Yao Zhongyi", "employer of x"]
+    ],
+    "Yun Ling": [
+      ["Short-haired Woman", "same person as x (different reference)"]
+    ],
+    "Yao Zhongyi": [
+      ["Uncle Gui", "acquaintance of x"], 
+      ["Du Guicheng", "acquaintance of x"], 
+      ["Physician Yu", "employee of x"], 
+      ["Chen Junmeng", "sister in law of x"], 
+      ["Lady Hong", "adoptive mother of x"], 
+      ["Yao Changshou", "father of x"]
+    ],
+    "Chen Junmeng": [
+      ["Uncle Gui", "acquaintance of x"], 
+      ["Du Guicheng", "acquaintance of x"], 
+      ["Physician Yu", "brother in law of x"], 
+      ["Yao Zhongyi", "brother in law of x"], 
+      ["Long-haired Girl", "same person as x (different reference)"]
+    ],
+    "Lady Hong": [
+      ["Uncle Gui", "acquaintance of x"], 
+      ["Du Guicheng", "acquaintance of x"], 
+      ["Yao Zhongyi", "adoptive son of x"], 
+      ["Yao Changshou", "husband of x"]
+    ],
+    "Yao Changshou": [
+      ["Uncle Gui", "acquaintance of x"], 
+      ["Du Guicheng", "acquaintance of x"], 
+      ["Yao Zhongyi", "son of x"], 
+      ["Lady Hong", "wife of x"]
+    ],
+    "Long-haired Girl": [
+      ["Chen Junmeng", "same person as x (different reference)"]
+    ],
+    "Short-haired Woman": [
+      ["Uncle Gui", "acquaintance of x"], 
+      ["Du Guicheng", "acquaintance of x"], 
+      ["Yun Ling", "same person as x (different reference)"]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "Yao Zhongyi": [
+      ["Yao Changshou", "father of x"], 
+      ["Zhang Yadi", "mother of x"], 
+      ["Madam Xu", "adoptive mother of x"], 
+      ["Yao Mengren", "half brother of x, victim of x"], 
+      ["Xu Boqing", "half brother of x, victim of x"], 
+      ["Minyue Sister", "friend of x, acquaintance of x"], 
+      ["Zhang Decai", "cousin of x"], 
+      ["Yu Junhong", "friend of x"], 
+      ["Lady Hong", "adoptive mother of x"], 
+      ["Chen Junmeng", "sister in law of x"], 
+      ["Uncle Gui", "stranger to x"]
+    ],
+    "Yao Changshou": [
+      ["Doctor Fang", "doctor of x"], 
+      ["Yao Zhongyi", "son of x"], 
+      ["Zhang Yadi", "concubine of x"], 
+      ["Madam Xu", "wife of x"], 
+      ["Lady Hong", "wife of x"], 
+      ["Yao Mengren", "son of x"]
+    ],
+    "Zhang Yadi": [
+      ["Yao Zhongyi", "son of x"], 
+      ["Yao Changshou", "lover of x"]
+    ],
+    "Madam Xu": [
+      ["Yao Zhongyi", "adoptive son of x"], 
+      ["Yao Mengren", "son of x"], 
+      ["Zhang Yadi", "co-wives of x, rival in love of x"], 
+      ["Yao Changshou", "husband of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Zhongyi", "half brother of x, murderer of x"], 
+      ["Chen Junmeng", "wife of x"]
+    ],
+    "Minyue Sister": [
+      ["Yao Zhongyi", "friend of x, acquaintance of x"]
+    ],
+    "Zhang Decai": [
+      ["Yao Zhongyi", "cousin of x"]
+    ],
+    "Yu Junhong": [
+      ["Yao Zhongyi", "friend of x"]
+    ],
+    "Lady Hong": [
+      ["Doctor Fang", "employee of x"], 
+      ["Yao Zhongyi", "adoptive son of x"], 
+      ["Yao Changshou", "husband of x"]
+    ],
+    "Chen Junmeng": [
+      ["Yao Zhongyi", "brother in law of x"], 
+      ["Yao Mengren", "husband of x"]
+    ],
+    "Yun Ling": [
+      ["Yao Zhongyi", "acquaintance of x"], 
+      ["Xu Boqing", "secret admirer of x"]
+    ],
+    "Uncle Gui": [
+      ["Yao Zhongyi", "acquaintance of x"]
+    ],
+    "Xu Boqing": [
+      ["Yao Mengren", "same person as x (different identity)"], 
+      ["Yao Zhongyi", "half brother of x, perpetrator of x"], 
+      ["Yun Ling", "fondness of x"]
+    ]
+}

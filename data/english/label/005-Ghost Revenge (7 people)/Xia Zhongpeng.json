@@ -1,0 +1,272 @@
+{
+    "Xia Zhongpeng": [
+        [
+            "Xia Beigui",
+            "Father of X, Mentor of X"
+        ],
+        [
+            "Li Zicai",
+            "Service provider of x"
+        ],
+        [
+            "Xia Bolong",
+            "Brother of X, Superior of X, Victim of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Brother of X, Helped by X, Killed by X"
+        ],
+        [
+            "Xia Shue",
+            "Niece of X, student of X, helped by x, helper of X"
+        ],
+        [
+            "Tian Jixiu Yi",
+            "Rival of X"
+        ],
+        [
+            "Luo Ming",
+            "Student of X, Subordinate of X"
+        ],
+        [
+            "Lu Dong",
+            "Student of X, Subordinate of X"
+        ],
+        [
+            "Abao",
+            "Student of X, Subordinate of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Hated by X, Guest of X"
+        ],
+        [
+            "Duan Yuetong",
+            "Suspected by X, Guest of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Suspected by X"
+        ]
+    ],
+    "Xia Beigui": [
+        [
+            "Xia Bolong",
+            "Son of X, Student of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Son of X, Student of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Son of X, Student of X"
+        ],
+        [
+            "Xia Shue",
+            "Grandchild of X"
+        ]
+    ],
+    "Xia Bolong": [
+        [
+            "Li Zicai",
+            "Doctor of X"
+        ],
+        [
+            "Xia Beigui",
+            "Father of X, Mentor of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Brother of X, Murderer of X"
+        ],
+        [
+            "Xia Shue",
+            "Daughter of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Brother of X, murderer of X"
+        ],
+        [
+            "The Tavern Owner's Daughter",
+            "Extramarital Affair with X"
+        ]
+    ],
+    "Xia Sanhu": [
+        [
+            "Xia Beigui",
+            "Father of X, Mentor of X"
+        ],
+        [
+            "Xia Bolong",
+            "Brother of X, Victim of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Brother of X, murderer of X"
+        ],
+        [
+            "Xia Shue",
+            "Niece of X"
+        ],
+        [
+            "Luo Ming",
+            "Student of X, Subordinate of X, victim of X"
+        ],
+        [
+            "Lu Dong",
+            "Student of X, Subordinate of X"
+        ],
+        [
+            "Abao",
+            "Student of X, Subordinate of X"
+        ],
+        [
+            "Tian Jixiu Yi",
+            "Creditor of X, Master of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Creditor of X"
+        ],
+        [
+            "Duan Yuetong",
+            "Suspect to X, Acquaintance of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Creditor of X, Victim of X"
+        ]
+    ],
+    "Li Zicai": [
+        [
+            "Xia Bolong",
+            "Patient of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Customer of X"
+        ]
+    ],
+    "Xia Shue": [
+        [
+            "Xia Beigui",
+            "Grandfather of X"
+        ],
+        [
+            "Xia Bolong",
+            "father of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "uncle of X, mentor of x, helper of x, Perpetrator of X's family, helped by X"
+        ],
+        [
+            "Xia Sanhu",
+            "uncle of X,  Perpetrator of X's family"
+        ],
+        [
+            "Luo Ming",
+            "Schoolmate of X, Colleague of X"
+        ],
+        [
+            "A'e",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "A'e": [
+        [
+            "Xia Shue",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Luo Ming": [
+        [
+            "Xia Zhongpeng",
+            "mentor of X, Superior of X"
+        ],
+        [
+            "Xia Sanhu",
+            "mentor of X, Superior of X, Perpetrator of X, Attempted Murderer of X"
+        ],
+        [
+            "Xia Shue",
+            "Schoolmate of X, Colleague of X"
+        ],
+        [
+            "Lu Dong",
+            "Schoolmate of X"
+        ],
+        [
+            "Abao",
+            "Schoolmate of X"
+        ],
+        [
+            "Aming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Aming": [
+        [
+            "Luo Ming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Lu Dong": [
+        [
+            "Xia Zhongpeng",
+            "mentor of X, Superior of X"
+        ],
+        [
+            "Xia Sanhu",
+            "mentor of X, Superior of X"
+        ],
+        [
+            "Luo Ming",
+            "Schoolmate of X"
+        ],
+        [
+            "Abao",
+            "Schoolmate of X"
+        ]
+    ],
+    "Abao": [
+        [
+            "Xia Zhongpeng",
+            "mentor of X, Superior of X"
+        ],
+        [
+            "Xia Sanhu",
+            "mentor of X, Superior of X"
+        ],
+        [
+            "Luo Ming",
+            "Schoolmate of X"
+        ],
+        [
+            "Lu Dong",
+            "Schoolmate of X"
+        ]
+    ],
+    "Yu Zu Chengmu": [
+        [
+            "Xia Sanhu",
+            "Debtor of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Host of X"
+        ]
+    ],
+    "Duan Yuetong": [
+        [
+            "Xia Zhongpeng",
+            "Host of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Subject of investigation for X, Acquaintance of X"
+        ]
+    ]
+}

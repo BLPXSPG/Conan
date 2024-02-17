@@ -1,0 +1,22 @@
+{
+  "王邻居": [
+    ["李国富", "Debtor of X"],
+    ["何老六", "Acquaintance of X"]
+  ],
+  "李国富": [
+    ["王邻居", "Creditor of X"],
+    ["何老六", "Subordinate of X"],
+    ["张洁", "Subordinate of X"],
+    ["慕北", "Subordinate of X"]
+  ],
+  "何老六": [
+    ["王邻居", "Acquaintance of X"],
+    ["李国富", "Superior of X"]
+  ],
+  "张洁": [
+    ["李国富", "Superior of X"]
+  ],
+  "慕北": [
+    ["李国富", "Superior of X"]
+  ]
+}

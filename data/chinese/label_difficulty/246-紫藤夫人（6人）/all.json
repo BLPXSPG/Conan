@@ -1,0 +1,69 @@
+{
+    "葛继先": [
+      ["朱陵山", "nephew of x"]
+    ],
+    "葛月萝": [
+      ["朱陵山", "bully of x, husband of x, manipulated by x"], 
+      ["葛月曼", "same person as x (different identity), sister of x"], 
+      ["张太太", "saviour of x, victim of x"], 
+      ["薛玉帆", "aunt of x, relative of x"], 
+      ["于尚勇", "information receiver from x, suspect of x, victim of x"]
+    ],
+    "葛月曼": [
+      ["葛继先", "father of x"], 
+      ["葛月萝", "same person as x (different identity), sister of x"], 
+      ["张太太", "same person as x (different identity)"], 
+      ["朱陵山", "brother in law of x"]
+    ],
+    "朱陵山": [
+      ["葛月萝", "bully of x, manipulated by x, wife of x"], 
+      ["葛继先", "father in law of x, nephew of x"], 
+      ["乐婉", "husband of x, secret lover of x, wife of x"], 
+      ["吕松年", "quest companion of x"]
+    ],
+    "乐婉": [
+      ["朱陵山", "husband of x, secret lover of x"], 
+      ["于尚勇", "lover of x, saviour of x"], 
+      ["于彦诚", "saviour of x"], 
+      ["吕陆升", "jealous of x"]
+    ],
+    "张太太": [
+      ["葛月萝", "murderer of x"], 
+      ["葛月曼", "same person as x (different identity)"], 
+      ["于彦诚", "brother of x, buyer of x, helper of x"], 
+      ["薛玉帆", "adversary of x, attempted murderer of x, secret admirer of x"], 
+      ["稚筠", "aunt of x, niece of x"], 
+      ["张俊诗", "extramarital affair with x, wife of x"]
+    ],
+    "薛玉帆": [
+      ["葛月萝", "aunt of x, relative of x"], 
+      ["朱陵山", "relative of x, uncle of x"], 
+      ["于彦诚", "rival of x"], 
+      ["吕陆升", "buyer of x"]
+    ],
+    "于彦诚": [
+      ["张太太", "brother of x, buyer of x, helper of x"], 
+      ["乐婉", "saved by x"], 
+      ["薛玉帆", "rival of x"], 
+      ["吕松年", "customer of x"]
+    ],
+    "于尚勇": [
+      ["乐婉", "lover of x"], 
+      ["稚筠", "helper of x"]
+    ],
+    "张俊诗": [
+      ["张太太", "extramarital affair with x, wife of x"]
+    ],
+    "稚筠": [
+      ["张太太", "aunt of x"], 
+      ["于尚勇", "helper of x"]
+    ],
+    "吕松年": [
+      ["葛继先", "quest companion of x"], 
+      ["朱陵山", "quest companion of x"], 
+      ["薛达财", "buyer of x, customer of x"]
+    ],
+    "吕陆升": [
+      ["乐婉", "jealous of x"]
+    ]
+}

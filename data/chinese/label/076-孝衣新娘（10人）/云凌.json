@@ -1,0 +1,46 @@
+{
+    "云凌": [
+      ["廖一乔", "Father of X"], 
+      ["唐婉枫", "Mother of X"], 
+      ["唐茂光", "Uncle of X"], 
+      ["任仲远", "Acquaintance of X"], 
+      ["徐伯清", "Acquaintance of X"]
+    ],
+    "廖一乔": [
+      ["云凌", "Daughter of X"],
+      ["唐婉枫", "Wife of X"],
+      ["任仲远", "Employee of X, Master of X"]
+    ],
+    "唐婉枫": [
+      ["云凌", "Daughter of X"],
+      ["廖一乔", "Husband of X"],
+      ["唐茂光", "Brother of X"]
+    ],
+    "唐茂光": [
+      ["云凌", "Niece of X"],
+      ["唐婉枫", "Sister of X"]
+    ],
+    "徐伯清": [
+      ["云凌", "Acquaintance of X"],
+      ["廖一乔", "Guest of X"],
+      ["姚仲义", "Acquaintance of X"]
+    ],
+    "任仲远": [
+      ["云凌", "Master of X"],
+      ["廖一乔", "Employer of X"]
+    ],
+    "姚仲义": [
+      ["徐伯清", "Acquaintance of X"],
+      ["红夫人", "Adoptive mother of X"],
+      ["陈均梦", "Sister in law of X"],
+      ["虞医师", "Employee of X"]
+    ],
+    "红夫人": [
+      ["姚仲义", "Adoptive son of X"]
+    ],
+    "虞医师": [
+      ["姚仲义", "Employer of X"],
+      ["陈均梦", "Doctor of X"]
+    ]
+
+}

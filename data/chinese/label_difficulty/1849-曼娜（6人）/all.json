@@ -1,0 +1,33 @@
+{
+    "谭尚致": [
+      ["谭仁昌", "thief of x, uncle of x"]
+    ],
+    "谭仁昌": [
+      ["谭尚致", "deceived by x, nephew of x"], 
+      ["承格", "adoptive son of x, deceiver of x"], 
+      ["海悠", "adoptive daughter of x, murderer of x"]
+    ],
+    "罗亨理": [
+      ["吕名然", "subordinate of x"]
+    ],
+    "吕名然": [
+      ["罗亨理", "superior of x"], 
+      ["承格", "murderer of x"]
+    ],
+    "海悠": [
+      ["韦太太", "aunt of x"], 
+      ["罗明纱", "adoptive daughter of x, adoptive mother of x"], 
+      ["承格", "adoptive brother of x"], 
+      ["谭仁昌", "adoptive father of x, uncle of x, victim of x"], 
+      ["吕采茜", "aunt of x, dislike of x"]
+    ],
+    "承格": [
+      ["谭仁昌", "adoptive father of x, deceived by x"], 
+      ["吕名然", "victim of x"]
+    ],
+    "吕采茜": [
+      ["海悠", "dislike of x, niece of x, relative of x"], 
+      ["海悠", "niece of x"], 
+      ["阿萍", "helped by x"]
+    ]
+}

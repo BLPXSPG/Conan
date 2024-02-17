@@ -1,0 +1,69 @@
+{
+    "Robin Fey": [
+      ["Daniel Perry", "friend of x"], 
+      ["Marina Harrison", "acquaintance of x"], 
+      ["Jacqueline Perry", "acquaintance of x"], 
+      ["Jonathan Perry", "acquaintance of x"], 
+      ["Davis Perry", "acquaintance of x"], 
+      ["Lucy Harrison", "acquaintance of x"], 
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Amy Morgan", "acquaintance of x"], 
+      ["Max Pike", "acquaintance of x"]
+    ],
+    "Daniel Perry": [
+      ["Jacqueline Perry", "wife of x"], 
+      ["Jonathan Perry", "son of x"], 
+      ["Davis Perry", "brother of x"], 
+      ["Marina Harrison", "sister in law of x, secret lover of x"], 
+      ["Lucy Harrison", "niece of x"], 
+      ["Harold Harrison", "brother in law of x"], 
+      ["Robin Fey", "acquaintance of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Daniel Perry", "husband of x"], 
+      ["Jonathan Perry", "son of x"], 
+      ["Davis Perry", "brother in law of x"], 
+      ["Marina Harrison", "sister of x, hate of x"], 
+      ["Lucy Harrison", "niece of x"], 
+      ["Harold Harrison", "brother in law of x"], 
+      ["Robin Fey", "acquaintance of x"]
+    ],
+    "Jonathan Perry": [
+      ["Daniel Perry", "father of x"], 
+      ["Jacqueline Perry", "mother of x"], 
+      ["Davis Perry", "uncle of x"], 
+      ["Marina Harrison", "aunt of x"], 
+      ["Lucy Harrison", "cousin of x"], 
+      ["Harold Harrison", "uncle of x"], 
+      ["Robin Fey", "acquaintance of x"]
+    ],
+    "Davis Perry": [
+      ["Daniel Perry", "brother of x"], 
+      ["Jonathan Perry", "nephew of x"], 
+      ["Jacqueline Perry", "sister in law of x"], 
+      ["Marina Harrison", "sister in law of x, secret lover of x"], 
+      ["Robin Fey", "acquaintance of x"]
+    ],
+    "Lucy Harrison": [
+      ["Daniel Perry", "uncle of x"], 
+      ["Jacqueline Perry", "aunt of x"], 
+      ["Marina Harrison", "mother of x"], 
+      ["Jonathan Perry", "cousin of x"], 
+      ["Harold Harrison", "father of x"]
+    ],
+    "Marina Harrison": [
+      ["Jacqueline Perry", "sister of x"], 
+      ["Harold Harrison", "husband of x"], 
+      ["Daniel Perry", "brother in law of x, secret lover of x"], 
+      ["Lucy Harrison", "daughter of x"], 
+      ["Jonathan Perry", "nephew of x"], 
+      ["Robin Fey", "acquaintance of x"]
+    ],
+    "Amy Morgan": [
+      ["Max Pike", "acquaintance of x"], 
+      ["Robin Fey", "acquaintance of x"]
+    ],
+    "Max Pike": [
+      ["Robin Fey", "acquaintance of x"]
+    ]
+}

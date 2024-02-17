@@ -1,0 +1,48 @@
+{
+    "Zhang Villager": [
+      ["Murderer", "same person as x (different reference)"]
+    ],
+    "Father of Zhang Villager": [
+      ["Zhang Villager", "father of x"]
+    ],
+    "Chief Wang": [
+      ["Zhang Villager", "acquaintance of x"], 
+      ["Officer Li", "acquaintance of x"], 
+      ["Hu Investigate", "dislike of x, acquaintance of x"], 
+      ["Zhao Cishan", "victim of x, hate of x"]
+    ],
+    "Hu Research": [
+      ["Zhang Villager", "acquaintance of x"], 
+      ["Officer Li", "colleague of x"]
+    ],
+    "Zhao Cishan": [
+      ["Zhang Villager", "attempted murderer of x"], 
+      ["Officer Li", "attempted murderer of x, dislike of x"], 
+      ["Officer Li's Girlfriend", "victim of x"], 
+      ["Hu Investigate", "hate of x, dislike of x"], 
+      ["Chief Wang", "hate of x, murderer of x"]
+    ],
+    "Officer Li": [
+      ["Hu Research", "colleague of x"], 
+      ["Officer Li's Girlfriend", "romantic relationships with x"], 
+      ["Chief Wang", "acquaintance of x"], 
+      ["Hu Investigate", "colleague of x"], 
+      ["Zhao Cishan", "hate of x, acquaintance of x"]
+    ],
+    "Murderer": [
+      ["Father of Zhang Villager", "son of x"], 
+      ["Chief Wang", "acquaintance of x"], 
+      ["Hu Research", "acquaintance of x"], 
+      ["Zhao Cishan", "hate of x"], 
+      ["Zhang Villager", "same person as x (different reference)"]
+    ],
+    "Officer Li's Girlfriend": [
+      ["Officer Li", "romantic relationships with x"], 
+      ["Zhao Cishan", "perpetrator of x"]
+    ],
+    "Hu Investigate": [
+      ["Officer Li", "acquaintance of x, colleague of x"], 
+      ["Zhao Cishan", "hate of x"], 
+      ["Chief Wang", "dislike of x, acquaintance of x"]
+    ]
+}

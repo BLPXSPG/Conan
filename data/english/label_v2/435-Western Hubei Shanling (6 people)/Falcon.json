@@ -1,0 +1,84 @@
+{
+    "Ba Falcon": [
+      ["Ba Mansion Mountain", "father of x"], 
+      ["Miao Shi", "mother of x"], 
+      ["Miao Na", "uncle of x, superior of x"], 
+      ["Mountain Spirit", "superior of x, rival of x"], 
+      ["Juan Ge", "older sister of x"], 
+      ["Li Gaobai", "classmate of x"], 
+      ["Chen Sha", "friend of x"], 
+      ["Adult Man", "killed by x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Ba Falcon", "son of x"], 
+      ["Miao Shi", "wife of x"], 
+      ["Mountain Spirit", "superior of x, rival of x"], 
+      ["Miao Na", "brother in law of x, superior of x"], 
+      ["Juan Ge", "daughter of x"], 
+      ["Professor Zhou", "guest of x"], 
+      ["Chen Sha", "guest of x"], 
+      ["Intern", "guest of x"], 
+      ["Gui Yin", "friend of x, son in law of x"]
+    ],
+    "Mountain Spirit": [
+      ["Ba Falcon", "subordinate of x, rival of x"], 
+      ["Ba Mansion Mountain", "subordinate of x, rival of x"], 
+      ["Miao Na", "subordinate of x"], 
+      ["Miao Shi", "subordinate of x"], 
+      ["Juan Ge", "subordinate of x"], 
+      ["Gui Yin", "subordinate of x"]
+    ],
+    "Miao Na": [
+      ["Ba Falcon", "nephew of x"], 
+      ["Ba Mansion Mountain", "brother in law of x"], 
+      ["Miao Shi", "sister of x"], 
+      ["Gui Yin", "student of x"], 
+      ["Ruya", "daughter of x"], 
+      ["Juan Ge", "niece of x"], 
+      ["Mountain Spirit", "superior of x"]
+    ],
+    "Miao Shi": [
+      ["Ba Falcon", "son of x"], 
+      ["Ba Mansion Mountain", "husband of x"], 
+      ["Miao Na", "brother of x"], 
+      ["Juan Ge", "daughter of x"]
+    ],
+    "Gui Yin": [
+      ["Miao Na", "master of x"], 
+      ["Juan Ge", "fiance of x"], 
+      ["Ba Mansion Mountain", "father in law of x"], 
+      ["Mountain Spirit", "superior of x"]
+    ],
+    "Ruya": [
+      ["Miao Na", "father of x"]
+    ],
+    "Juan Ge": [
+      ["Ba Falcon", "younger brother of x"], 
+      ["Ba Mansion Mountain", "father of x"], 
+      ["Miao Na", "uncle of x"], 
+      ["Miao Shi", "mother of x"], 
+      ["Gui Yin", "fiance of x"]
+    ],
+    "Li Gaobai": [
+      ["Ba Falcon", "classmate of x"]
+    ],
+    "Professor Zhou": [
+      ["Chen Sha", "daughter of x"], 
+      ["Ba Mansion Mountain", "host of x"], 
+      ["Intern", "employee of x"]
+    ],
+    "Chen Sha": [
+      ["Professor Zhou", "father of x"], 
+      ["Ba Falcon", "friend of x, secret admirer of x"], 
+      ["Intern", "colleague of x"], 
+      ["Ba Mansion Mountain", "host of x"]
+    ],
+    "Intern": [
+      ["Professor Zhou", "employer of x"], 
+      ["Chen Sha", "colleague of x"], 
+      ["Ba Mansion Mountain", "host of x"]
+    ],
+    "Adult Man": [
+      ["Ba Falcon", "murderer of x"]
+    ]
+}

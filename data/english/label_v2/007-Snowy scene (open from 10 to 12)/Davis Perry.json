@@ -1,0 +1,47 @@
+{
+    "Davis Perry": [
+      ["Marina Harrison", "secret lover of x, sister in law of x"], 
+      ["Daniel Perry", "brother of x"], 
+      ["Jacqueline Perry", "sister in law of x"], 
+      ["John Morgan", "customer of x"], 
+      ["Lucy Harrison", "niece of x"], 
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Amy Morgan", "acquaintance of x"]
+    ],
+    "Daniel Perry": [
+      ["Davis Perry", "brother of x"], 
+      ["Jacqueline Perry", "wife of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Daniel Perry", "husband of x"], 
+      ["Davis Perry", "brother in law of x"]
+    ],
+    "John Morgan": [
+      ["Davis Perry", "lawyer of x, murderer of x"], 
+      ["Amy Morgan", "wife of x"]
+    ],
+    "Marina Harrison": [
+      ["Davis Perry", "secret lover of x, brother in law of x"], 
+      ["Lucy Harrison", "daughter of x"], 
+      ["Harold Harrison", "husband of x"], 
+      ["Jacqueline Perry", "sister of x"]
+    ],
+    "Lucy Harrison": [
+      ["Davis Perry", "acquaintance of x"], 
+      ["Marina Harrison", "mother of x"], 
+      ["Harold Harrison", "father of x"]
+    ],
+    "Harold Harrison": [
+      ["Davis Perry", "brother in law of x"], 
+      ["Marina Harrison", "wife of x"], 
+      ["Lucy Harrison", "daughter of x"], 
+      ["Daniel Perry", "brother in law of x"], 
+      ["Jacqueline Perry", "sister in law of x"], 
+      ["Amy Morgan", "sister of x"]
+    ],
+    "Amy Morgan": [
+      ["Davis Perry", "acquaintance of x"], 
+      ["John Morgan", "husband of x"], 
+      ["Harold Harrison", "brother of x"]
+    ]
+}

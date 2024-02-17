@@ -1,0 +1,89 @@
+{
+    "Tian Chou": [
+      ["Bao Gan", "same person as x (different reference)"]
+    ],
+    "Bao Gan": [
+      ["Sun Xian'en", "brother of x"], 
+      ["Zhang Pozai", "enemy of x, perpetrator of x"], 
+      ["Zhou Mengdang", "enemy of x, perpetrator of x, perpetrator of x's family"], 
+      ["Wang Shi", "helper of x"], 
+      ["Bao Liu", "friend of x, helper of x, x's enemy's family, betrayer of x, victim of x"], 
+      ["Xi Yan", "master of x, bully of x, co-wives of x"], 
+      ["Cui Shouheng", "creditor of x, perpetrator of x, husband of x"], 
+      ["Zhou Chitong", "helper of x, x's enemy's family, informant of x, manipulated by x"], 
+      ["Zhou Lianyi", "x's enemy's family"], 
+      ["Cui Yannan", "master of x, step-daughter of x"], 
+      ["Tian Chou", "same person as x (different reference)"]
+    ],
+    "Zhou Mengdang": [
+      ["Bao Liu", "wife of x"], 
+      ["Zhou Chitong", "brother of x"], 
+      ["Lianyi", "son of x"], 
+      ["Cui Shouheng", "master of x, employer of x"]
+    ],
+    "Bao Liu": [
+      ["Wang Shi", "master of x"], 
+      ["Zhou Mengdang", "husband of x"], 
+      ["Zhou Chitong", "brother in law of x"], 
+      ["Zhou Lianyi", "son of x"], 
+      ["Cui Yannan", "master of x"], 
+      ["Cui Shouheng", "master of x"], 
+      ["Tian Chou", "friend of x, helped by x, betrayed by x, murderer of x"]
+    ],
+    "Zhou Chitong": [
+      ["Zhou Mengdang", "brother of x"], 
+      ["Bao Liu", "sister in law of x"], 
+      ["Lianyi", "nephew of x"], 
+      ["Cui Shouheng", "business partner of x"], 
+      ["Tian Chou", "helped by x, friend of x, manipulator of x"]
+    ],
+    "Zhou Lianyi": [
+      ["Lianyi", "same person as x (different reference)"]
+    ],
+    "Lianyi": [
+      ["Bao Liu", "mother of x"], 
+      ["Zhou Mengdang", "father of x"], 
+      ["Zhou Chitong", "uncle of x"], 
+      ["Zhou Lianyi", "same person as x (different reference)"]
+    ],
+    "Wang Shi": [
+      ["Taitai", "same person as x (different reference)"]
+    ],
+    "Taitai": [
+      ["Bao Liu", "helped by x, servant of x"], 
+      ["Cui Yannan", "daughter of x"], 
+      ["Cui Shouheng", "husband of x"], 
+      ["Tian Chou", "servant of x"], 
+      ["Xi Yan", "sister of x, co-wives of x"], 
+      ["Wang Shi", "same person as x (different reference)"]
+    ],
+    "Cui Shouheng": [
+      ["Cui Yannan", "daughter of x"], 
+      ["Wang Shi", "wife of x"], 
+      ["Xi Yan", "sister in law of x, wife of x"], 
+      ["Bao Gan", "servant of x, debtor of x"], 
+      ["Tian Chou", "wife of x"], 
+      ["Bao Liu", "servant of x"], 
+      ["Zhou Chitong", "business partner of x"], 
+      ["Zhou Mengdang", "minion of x"]
+    ],
+    "Cui Yannan": [
+      ["Wang Shi", "mother of x"], 
+      ["Cui Shouheng", "father of x"], 
+      ["Xi Yan", "aunt of x, step-mother of x"], 
+      ["Bao Gan", "servant of x, step-mother of x, friend of x"], 
+      ["Bao Liu", "servant of x"], 
+      ["Bao Yang", "servant of x"]
+    ],
+    "Xi Yan": [
+      ["Wang Xi Yan", "same person as x (different reference)"]
+    ],
+    "Wang Xi Yan": [
+      ["Cui Yannan", "niece of x, step-daughter of x"], 
+      ["Wang Shi", "sister of x, co-wives of x"], 
+      ["Cui Shouheng", "brother in law of x, husband of x"], 
+      ["Tian Chou", "servant of x, victim of x, co-wives of x"], 
+      ["Bao Gui", "servant of x"], 
+      ["Xi Yan", "same person as x (different reference)"]
+    ]
+}

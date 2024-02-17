@@ -1,0 +1,90 @@
+{
+    "Zhao Shuaige": [
+        [
+            "Zhang Eba",
+            "Sibling of X"
+        ],
+        [
+            "Lin Xiaohua",
+            "Schoolmate of X"
+        ],
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Hao Guimi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Zhang Eba": [
+        [
+            "Zhao Shuaige",
+            "Sibling of X"
+        ],
+        [
+            "Lin Xiaohua",
+            "Fiance of X"
+        ]
+    ],
+    "Lin Xiaohua": [
+        [
+            "Zhang Eba",
+            "Fiance of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Secret admirer of X"
+        ]
+    ],
+    "Li Xiaodi": [
+        [
+            "Zhao Shuaige",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Wang Xuexi": [
+        [
+            "Zhao Shuaige",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Acquaintance of X"
+        ]
+    ],
+    "Hao Guimi": [
+        [
+            "Zhao Shuaige",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Acquaintance of X"
+        ]
+    ]
+}

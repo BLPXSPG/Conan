@@ -1,0 +1,66 @@
+{
+    "Li Gaobai": [
+      ["Li Demu", "brother of x"], 
+      ["Li Liangsong", "brother of x"], 
+      ["Ba Mansion Mountain", "employer of x"], 
+      ["Ruya", "friend of x"], 
+      ["Falcon", "classmate of x, friend of x"], 
+      ["Professor Zhou", "employer of x, teacher of x, helper of x"], 
+      ["Zheng Hanzhen", "employer of x"], 
+      ["Gui Yin", "employer of x"]
+    ],
+    "Professor Zhou": [
+      ["Li Gaobai", "tour guide of x, student of x, helped by x"], 
+      ["Ba Mansion Mountain", "host of x"]
+    ],
+    "Li Demu": [
+      ["Li Gaobai", "younger brother of x"], 
+      ["Li Liangsong", "younger brother of x"], 
+      ["Ba Mansion Mountain", "employer of x"], 
+      ["Mountain Spirit", "superior of x"]
+    ],
+    "Mountain Spirit": [
+      ["Li Demu", "subordinate of x"]
+    ],
+    "Li Liangsong": [
+      ["Li Gaobai", "younger brother of x"], 
+      ["Li Demu", "older brother of x"], 
+      ["Ba Mansion Mountain", "employer of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Li Gaobai", "employee of x"], 
+      ["Li Demu", "employee of x"], 
+      ["Li Liangsong", "employee of x"], 
+      ["Falcon", "son of x"], 
+      ["Gui Yin", "guest of x"], 
+      ["Ruya", "guest of x"], 
+      ["Gan Ma", "guest of x"], 
+      ["Daughter of Ba Mansion Mountain", "daughter of x"], 
+      ["Professor Zhou", "guest of x"]
+    ],
+    "Gui Yin": [
+      ["Ba Mansion Mountain", "host of x"], 
+      ["Gan Ma", "younger sister of x"], 
+      ["Daughter of Ba Mansion Mountain", "fiance of x"], 
+      ["Li Gaobai", "employee of x"]
+    ],
+    "Gan Ma": [
+      ["Gui Yin", "older brother of x"], 
+      ["Ba Mansion Mountain", "host of x"]
+    ],
+    "Daughter of Ba Mansion Mountain": [
+      ["Gui Yin", "fiance of x"], 
+      ["Ba Mansion Mountain", "father of x"]
+    ],
+    "Ruya": [
+      ["Ba Mansion Mountain", "guest of x"], 
+      ["Li Gaobai", "friend of x, secret admirer of x"]
+    ],
+    "Falcon": [
+      ["Ba Mansion Mountain", "father of x"], 
+      ["Li Gaobai", "classmate of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Li Gaobai", "tour guide of x"]
+    ]
+}

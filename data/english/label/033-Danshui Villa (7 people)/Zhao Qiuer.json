@@ -1,0 +1,128 @@
+{
+    "Zhao Qiuer": [
+        [
+            "Zhao Luoyi",
+            "Master of X, Friend of X, Jealous by X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Employer of X"
+        ],
+        [
+            "Zhao Wei",
+            "Colleague of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Colleague of X"
+        ],
+        [
+            "Feng Zhu",
+            "Acquaintance of X"
+        ],
+        [
+            "Qi Yue",
+            "Colleague of X"
+        ]
+    ],
+    "Zhao Luoyi": [
+        [
+            "Zhao Qiuer",
+            "Master of X, Friend of X, Jealous of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Father of X"
+        ],
+        [
+            "Zhao Wei",
+            "Brother of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Servant of X"
+        ],
+        [
+            "Qi Yue",
+            "Employee of X"
+        ]
+    ],
+    "Zhao Wanlei": [
+        [
+            "Zhao Qiuer",
+            "Secret admirer of X"
+        ],
+        [
+            "Zhao Luoyi",
+            "Daughter of X"
+        ],
+        [
+            "Zhao Wei",
+            "Brother of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Employee of X, Servant of X, Schoolmate of X"
+        ]
+    ],
+    "Zhao Wei": [
+        [
+            "Zhao Luoyi",
+            "Sister of X"
+        ],
+        [
+            "Zhao Qiuer",
+            "Colleague of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Father of X"
+        ]
+    ],
+    "Feng Shuangji": [
+        [
+            "Zhao Qiuer",
+            "Colleague of X"
+        ],
+        [
+            "Zhao Luoyi",
+            "Master of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Employer of X, Schoolmate of X"
+        ],
+        [
+            "Feng Zhu",
+            "Daughter of X"
+        ],
+        [
+            "Zhao Wei",
+            "Master of X"
+        ]
+    ],
+    "Feng Zhu": [
+        [
+            "Zhao Qiuer",
+            "Acquaintance of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Father of X"
+        ]
+    ],
+    "Qi Yue": [
+        [
+            "Zhao Qiuer",
+            "Colleague of X"
+        ],
+        [
+            "Zhao Luoyi",
+            "Master of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Employer of X, Master of X"
+        ]
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "Zhou Chitong": [
+        [
+            "Zhou Mengdang",
+            "brother of x"
+        ],
+        [
+            "Bao Liu",
+            "sister in law of x"
+        ],
+        [
+            "Cui Shouheng",
+            "helper of x, Superior of X, Deceived by X, business partner of x"
+        ],
+        [
+            "Xi Yan",
+            "acquaintance of x"
+        ],
+        [
+            "Bao Gan",
+            "friend of x, Fondness of X"
+        ],
+        [
+            "Yu Sunian",
+            "relative of x, friend of x"
+        ],
+        [
+            "Lianyi",
+            "nephew of x"
+        ],
+        [
+            "Yannan",
+            "acquaintance of x"
+        ],
+        [
+            "Taitai",
+            "helper of x"
+        ]
+    ],
+    "Zhou Mengdang": [
+        [
+            "Zhou Chitong",
+            "brother of x"
+        ],
+        [
+            "Yu Sunian",
+            "brother in law of x"
+        ],
+        [
+            "Bao Liu",
+            "wife of x"
+        ],
+        [
+            "Cui Shouheng",
+            "helper of x, employer of x, Superior of X"
+        ],
+        [
+            "Lianyi",
+            "son of x"
+        ],
+        [
+            "Taitai",
+            "acquaintance of x"
+        ]
+    ],
+    "Cui Shouheng": [
+        [
+            "Yu Sunian",
+            "Acquaintance of X"
+        ],
+        [
+            "Taitai",
+            "wife of x"
+        ],
+        [
+            "Zhou Mengdang",
+            "helped by x, employee of x"
+        ],
+        [
+            "Zhou Chitong",
+            "helped by x, thief of x, business partner of x"
+        ],
+        [
+            "Xi Yan",
+            "wife of x, sister in law of x"
+        ],
+        [
+            "Yannan",
+            "daughter of x"
+        ],
+        [
+            "Bao Gan",
+            "servant of X"
+        ],
+        [
+            "Tian Chou",
+            "wife of X"
+        ]
+    ],
+    "Yu Sunian": [
+        [
+            "Bao Liu",
+            "sister of X"
+        ],
+        [
+            "Zhou Mengdang",
+            "brother in law of x"
+        ],
+        [
+            "Zhou Chitong",
+            "relative of X, friend of x"
+        ],
+        [
+            "Zhou Lianyi",
+            "nephew of X, friend of x"
+        ],
+        [
+            "Cui Yannan",
+            "friend of x"
+        ]
+    ],
+    "Taitai": [
+        [
+            "Zhou Lianyi",
+            "Helped by X"
+        ],
+        [
+            "Zhou Chitong",
+            "Helped by X"
+        ],
+        [
+            "Bao Liu",
+            "Helped by X, servant of x"
+        ],
+        [
+            "Yannan",
+            "daughter of x"
+        ],
+        [
+            "Cui Shouheng",
+            "husband of X"
+        ],
+        [
+            "Bao Gan",
+            "servant of X"
+        ],
+        [
+            "Xi Yan",
+            "sister of x, co-wives of X"
+        ]
+    ],
+    "Bao Liu": [
+        [
+            "Yu Sunian",
+            "brother of x"
+        ],
+        [
+            "Zhou Mengdang",
+            "husband of x"
+        ],
+        [
+            "Zhou Chitong",
+            "brother in law of x"
+        ],
+        [
+            "Lianyi",
+            "son of X"
+        ],
+        [
+            "Taitai",
+            "Helper of X, master of x"
+        ],
+        [
+            "Cui Shouheng",
+            "master of X"
+        ]
+    ],
+    "Lianyi": [
+        [
+            "Yu Sunian",
+            "uncle of x, friend of x"
+        ],
+        [
+            "Bao Liu",
+            "mother of x"
+        ],
+        [
+            "Zhou Mengdang",
+            "father of x"
+        ],
+        [
+            "Zhou Chitong",
+            "uncle of x"
+        ],
+        [
+            "Yannan",
+            "friend of x"
+        ],
+        [
+            "Zhou Lianyi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Zhou Lianyi": [
+        [
+            "Lianyi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yannan": [
+        [
+            "Yu Sunian",
+            "friend of x"
+        ],
+        [
+            "Cui Shouheng",
+            "father of x"
+        ],
+        [
+            "Lianyi",
+            "friend of x"
+        ],
+        [
+            "Bao Gan",
+            "Servant of x"
+        ],
+        [
+            "Taitai",
+            "mother of x"
+        ],
+        [
+            "Cui Yannan",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Xi Yan",
+            "step-mother of X, aunt of x"
+        ]
+    ],
+    "Cui Yannan": [
+        [
+            "Yannan",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Xi Yan": [
+        [
+            "Cui Shouheng",
+            "brother in law of x, husband of x"
+        ],
+        [
+            "Taitai",
+            "sister of x, co-wives of X"
+        ],
+        [
+            "Cui Yannan",
+            "Niece of X, step-daughter of X"
+        ]
+    ],
+    "Bao Gan": [
+        [
+            "Cui Shouheng",
+            "master of x"
+        ],
+        [
+            "Wang Xi Yan",
+            "master of x"
+        ],
+        [
+            "Yannan",
+            "master of x"
+        ],
+        [
+            "Taitai",
+            "master of x"
+        ],
+        [
+            "Tian Chou",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Zhou Chitong",
+            "friend of x, Fondness of X"
+        ]
+    ],
+    "Tian Chou": [
+        [
+            "Cui Shouheng",
+            "husband of x"
+        ],
+        [
+            "Yannan",
+            "step-daughter of X"
+        ],
+        [
+            "Wang Xi Yan",
+            "co-wives of X"
+        ],
+        [
+            "Bao Gan",
+            "Same person as X (different reference)"
+        ]
+    ]
+}

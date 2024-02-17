@@ -1,0 +1,58 @@
+{
+    "Lan Rui": [
+      ["Zhang Fanghao", "father of x, adversary of x"], 
+      ["Ms. Yao", "mother of x"], 
+      ["Yang Shuixun", "host of x"], 
+      ["Minxi", "classmate of x"], 
+      ["Xiting", "classmate of x, friend of x, helper of x"]
+    ],
+    "Zhang Fanghao": [
+      ["Lan Rui", "daughter of x"], 
+      ["Ms. Yao", "wife of x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Zhang Shanren", "same person as x (different reference)"]
+    ],
+    "Zhang Shanren": [
+      ["Zhang Fanghao", "same person as x (different reference)"]
+    ],
+    "Ms. Yao": [
+      ["Lan Rui", "daughter of x"], 
+      ["Zhang Fanghao", "husband of x, adversary of x"]
+    ],
+    "Xiting": [
+      ["Mu Xiting", "same person as x (different reference)"]
+    ],
+    "Mu Xiting": [
+      ["Lan Rui", "classmate of x, friend of x, helped by x"], 
+      ["Minxi", "classmate of x"], 
+      ["Xinger", "servant of x"], 
+      ["Mu Boxuan", "brother of x"], 
+      ["Gu Mengchu", "husband of x"], 
+      ["Xiting", "same person as x (different reference)"]
+    ],
+    "Gu Mengchu": [
+      ["Xiting", "wife of x"]
+    ],
+    "Mu Boxuan": [
+      ["Xiting", "sister of x"]
+    ],
+    "Xinger": [
+      ["Xiting", "master of x"]
+    ],
+    "Yang Shuixun": [
+      ["Zhang Fanghao", "friend of x"], 
+      ["Lan Rui", "guest of x"], 
+      ["Minxi", "daughter of x"], 
+      ["Shen Wusheng", "employee of x"]
+    ],
+    "Shen Wusheng": [
+      ["Yang Shuixun", "employer of x"], 
+      ["Minxi", "employer of x"], 
+      ["Lan Rui", "employer of x"]
+    ],
+    "Minxi": [
+      ["Yang Shuixun", "father of x"], 
+      ["Lan Rui", "classmate of x"], 
+      ["Xiting", "classmate of x"]
+    ]
+}

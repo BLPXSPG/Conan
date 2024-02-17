@@ -1,0 +1,40 @@
+{
+    "王学习": [
+        ["李小弟", "Acquaintance of X"], 
+        ["李大哥", "Acquaintance of X"], 
+        ["张恶霸", "Schoolmate of X, Bully of X"], 
+        ["赵帅哥", "Acquaintance of X"], 
+        ["林校花", "Acquaintance of X"], 
+        ["郝闺蜜", "Acquaintance of X"]], 
+    "张恶霸": [
+        ["王学习", "Victim of X"], 
+        ["李小弟", "Friend of X"], 
+        ["赵帅哥", "Friend of X"], 
+        ["林校花", "Fiance of X"], 
+        ["郝闺蜜", "Acquaintance of X"],
+        ["李大哥", "Victim of X"]
+    ], 
+    "李小弟": [
+        ["王学习", "Acquaintance of X"],
+        ["张恶霸", "Master of X"], 
+        ["赵帅哥", "Acquaintance of X"], 
+        ["林校花", "Acquaintance of X"], 
+        ["郝闺蜜", "Acquaintance of X"]
+    ], 
+    "李大哥":[
+        ["张恶霸", "Bully of X"]
+    ],
+    "林校花": [
+        ["王学习", "Acquaintance of X"], 
+        ["张恶霸", "fiance of X"], 
+        ["郝闺蜜", "Friend of X"]
+    ], 
+    "赵帅哥": [
+        ["王学习", "Acquaintance of X"], 
+        ["张恶霸", "Friend of X"], 
+        ["李小弟", "Acquaintance of X"]
+    ], 
+    "郝闺蜜": [
+        ["林校花", "Friend of X"]
+    ]
+}

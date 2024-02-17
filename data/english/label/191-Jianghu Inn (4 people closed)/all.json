@@ -1,0 +1,210 @@
+{
+    "Zhang Hongsheng": [
+        [
+            "Meng Sanchun",
+            "Husband of X"
+        ],
+        [
+            "Hong Erlang",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Hong Sanmei",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Hong Jiangshui",
+            "Employee of X, Colleague of X"
+        ],
+        [
+            "Cai Siniang",
+            "Employee of X, admirer of x, Fondness of X"
+        ],
+        [
+            "Hong Changlie",
+            "Father of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Employee of X, Employer of X"
+        ]
+    ],
+    "Meng Sanchun": [
+        [
+            "Zhang Hongsheng",
+            "Wife of X, Enemy of X"
+        ],
+        [
+            "Cai Siniang",
+            "Employee of X, Dislike of X, Enemy of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Sworn Brother of X, deceived by x, Friend of X, Business Partner of X, Murderer of X"
+        ],
+        [
+            "Zhang Jinshan",
+            "deceived by x, Friend of X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Employee of X, Murderer of X"
+        ],
+        [
+            "Hong Changlie",
+            "Enemy of X"
+        ],
+        [
+            "Hong Erlang",
+            "Enemy of X"
+        ]
+    ],
+    "Hong Jiangshui": [
+        [
+            "Zhang Hongsheng",
+            "Employer of X, Colleague of X"
+        ],
+        [
+            "Cai Siniang",
+            "Admired by X, Colleague of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Employer of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Employer of X, Victim of X"
+        ],
+        [
+            "Hong Zhaizhu",
+            "Father of X"
+        ]
+    ],
+    "Cai Siniang": [
+        [
+            "Zhang Hongsheng",
+            "Employer of X, Admired by X"
+        ],
+        [
+            "Meng Sanchun",
+            "Employer of X, Acquaintance of X"
+        ],
+        [
+            "Hong Jiangshui",
+            "admirer of x, Colleague of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Employer of X"
+        ]
+    ],
+    "Hong Changlie": [
+        [
+            "Zhang Hongsheng",
+            "Daughter of X"
+        ],
+        [
+            "Hong Erlang",
+            "Daughter of X"
+        ],
+        [
+            "Hong Sanmei",
+            "Daughter of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Enemy of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Enemy of X"
+        ]
+    ],
+    "Zhang Jinyin": [
+        [
+            "Hong Erlang",
+            "Enemy of X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Employee of X, Enemy of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Deceiver of X, Victim of X, Sworn Brother of X, Friend of X, Business Partner of X"
+        ],
+        [
+            "Zhang Jinshan",
+            "Brother of X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Employee of X"
+        ],
+        [
+            "Cai Siniang",
+            "Employee of X"
+        ],
+        [
+            "Hong Changlie",
+            "Enemy of X"
+        ]
+    ],
+    "Zhang Jinshan": [
+        [
+            "Hong Erlang",
+            "Enemy of X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Enemy of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Deceiver of X, Friend of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Brother of X"
+        ]
+    ],
+    "Hong Sanmei": [
+        [
+            "Zhang Hongsheng",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Hong Changlie",
+            "Father of X"
+        ]
+    ],
+    "Hong Erlang": [
+        [
+            "Zhang Hongsheng",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Meng Sanchun",
+            "Enemy of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Enemy of X"
+        ],
+        [
+            "Hong Changlie",
+            "Father of X"
+        ],
+        [
+            "Zhang Jinshan",
+            "Enemy of X"
+        ]
+    ],
+    "Hong Zhaizhu": [
+        [
+            "Hong Jiangshui",
+            "Son of X"
+        ]
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "Ge Jixian": [
+        [
+            "Ge Yueluo",
+            "Daughter of X"
+        ],
+        [
+            "Ge Yueman",
+            "Daughter of X"
+        ]
+    ],
+    "Ge Yueluo": [
+        [
+            "Ge Jixian",
+            "Father of X"
+        ],
+        [
+            "Zhu Lingshan",
+            "Husband of X, Manipulated by X, Bully of X"
+        ],
+        [
+            "Ge Yueman",
+            "Sister of X, Same person as x (different identity)"
+        ],
+        [
+            "Mrs. Zhang",
+            "Friend of X, Victim of X, Saviour of x"
+        ],
+        [
+            "Le Wan",
+            "Acquaintance of X"
+        ],
+        [
+            "Xue Dacai",
+            "Acquaintance of x, Victim of x"
+        ],
+        [
+            "Xue Yufan",
+            "Acquaintance of X"
+        ],
+        [
+            "Yu Shangyong",
+            "information receiver from x, suspect of x, victim of x"
+        ]
+    ],
+    "Ge Yueman": [
+        [
+            "Zhang Junshi",
+            "extramarital affair with x"
+        ],
+        [
+            "Ge Jixian",
+            "child of x"
+        ],
+        [
+            "Ge Yueluo",
+            "sister of x, same person as x (different identity), same person as x (different reference)"
+        ],
+        [
+            "Mrs. Zhang",
+            "same person as x (different identity)"
+        ]
+    ],
+    "Mrs. Zhang": [
+        [
+            "Ge Yueluo",
+            "friend of x,  victim of x"
+        ],
+        [
+            "Ge Yueman",
+            "same person as x (different identity)"
+        ],
+        [
+            "Zhang Junshi",
+            "extramarital affair with x"
+        ],
+        [
+            "Zhi Jun",
+            "acquaintance of x"
+        ],
+        [
+            "Le Wan",
+            "acquaintance of x"
+        ]
+    ],
+    "Zhu Lingshan": [
+        [
+            "Ge Yueluo",
+            "wife of x, manipulated by x, suspect of x"
+        ],
+        [
+            "Xue Dacai",
+            "acquaintance of x"
+        ]
+    ],
+    "Xue Dacai": [
+        [
+            "Ge Yueluo",
+            "victim of x"
+        ],
+        [
+            "Zhu Lingshan",
+            "acquaintance of x"
+        ]
+    ],
+    "Le Wan": [
+        [
+            "Ge Yueluo",
+            "acquaintance of x"
+        ],
+        [
+            "Mrs. Zhang",
+            "acquaintance of x"
+        ]
+    ],
+    "Zhang Junshi": [
+        [
+            "Ge Yueman",
+            "extramarital affair with x"
+        ],
+        [
+            "Mrs. Zhang",
+            "same person as x (different identity)"
+        ]
+    ],
+    "Zhi Jun": [
+        [
+            "Mrs. Zhang",
+            "acquaintance of x"
+        ]
+    ],
+    "Yu Shangyong": [
+        [
+            "Ge Yueluo",
+            "victim of x"
+        ],
+        [
+            "Ge Yueman",
+            "suspect of x"
+        ]
+    ]
+}

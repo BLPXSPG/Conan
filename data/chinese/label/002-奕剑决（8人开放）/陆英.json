@@ -1,0 +1,26 @@
+{
+    "陆英": [
+      ["玄参", "Mentor of X, Subordinate of X"],
+      ["可疑人员", "Suspected by X"],
+      ["杜仲", "Mentor of X, Subordinate of X"],
+      ["凌霄", "Schoolmate of X"],
+      ["紫苏", "Schoolmate of X"],
+      ["恋人", "Romantic relationships with X"]
+    ],
+    "恋人": [
+      ["陆英", "Romantic relationships with X"]
+    ],
+    "杜仲": [
+      ["陆英", "Student of X, Superior of X"]
+    ],
+    "凌霄": [
+      ["陆英", "Schoolmate of X"]
+    ],
+    "紫苏": [
+      ["陆英", "Schoolmate of X"]
+    ],
+    "玄参": [
+      ["陆英", "Mentor of X, Subordinate of X"]
+    ]
+  }
+  

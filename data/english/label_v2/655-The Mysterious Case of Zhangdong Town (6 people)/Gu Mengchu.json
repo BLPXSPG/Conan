@@ -1,0 +1,48 @@
+{
+    "Gu Mengchu": [
+      ["Brother Gu", "same person as x (different reference)"]
+    ],
+    "Xiting": [
+      ["Gu Mengchu", "fiancee of x"], 
+      ["Xinger", "servant of x"]
+    ],
+    "Xinger": [
+      ["Xiting", "master of x"], 
+      ["Gu Mengchu", "master of x"]
+    ],
+    "Gu Zhiyu": [
+      ["Gu Lianshan", "son of x"], 
+      ["Gu Mengchu", "grandson of x"], 
+      ["Ms. Mei", "daughter in law of x"]
+    ],
+    "Gu Lianshan": [
+      ["Gu Zhiyu", "father of x"], 
+      ["Ms. Mei", "wife of x"], 
+      ["Gu Mengchu", "son of x"], 
+      ["Yang Shuixun", "friend of x"]
+    ],
+    "Yang Shuixun": [
+      ["Gu Lianshan", "friend of x"], 
+      ["Minxi", "daughter of x"]
+    ],
+    "Minxi": [
+      ["Yang Shuixun", "father of x"], 
+      ["Gu Mengchu", "friend of x"]
+    ],
+    "Brother Gu": [
+      ["Gu Zhiyu", "grandfather of x"], 
+      ["Gu Lianshan", "father of x"], 
+      ["Ms. Mei", "mother of x"], 
+      ["Mu Boxuan", "friend of x"], 
+      ["Rou'er", "sister of x"], 
+      ["Xiting", "fiance of x"], 
+      ["Gu Mengchu", "same person as x (different reference)"]
+    ],
+    "Zhang Shanren": [
+      ["Zhang Fanghao", "same person as x (different reference)"]
+    ],
+    "Zhang Fanghao": [
+      ["Uncle Yu", "employee of x, servant of x"], 
+      ["Zhang Shanren", "same person as x (different reference)"]
+    ]
+}

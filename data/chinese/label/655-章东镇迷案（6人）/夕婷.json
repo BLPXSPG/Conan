@@ -1,0 +1,89 @@
+{
+  "夕婷": [
+    ["穆夕婷", "same person as x (different reference)"],
+    ["杏儿", "servant of X"],
+    ["顾梦楚", "fiance of X"],
+    ["穆伯宣", "brother of X"],
+    ["穆仲定", "brother of X"],
+    ["穆叔宜", "brother of X"],
+    ["穆存", "father of X"],
+    ["林氏", "mother of X"],
+    ["白老师", "teacher of X"],
+    ["蓝蕊", "friend of X, classmate of X"],
+    ["敏兮", "friend of X, classmate of X"],
+    ["申午生", "helper of X"]
+  ],
+  "穆夕婷": [
+    ["夕婷", "same person as x (different reference)"]
+  ],
+  "白老师": [
+    ["夕婷", "student of X"],
+    ["蓝蕊", "student of X"],
+    ["敏兮", "student of X"]
+  ],
+  "蓝蕊": [
+    ["夕婷", "friend of X"],
+    ["白老师", "teacher of X"],
+    ["敏兮", "friend of X, host of X"],
+    ["申午生", "service provider of X"]
+  ],
+  "敏兮": [
+    ["夕婷", "friend of X"],
+    ["白老师", "teacher of X"],
+    ["蓝蕊", "friend of X, guest of X"],
+    ["杨水巡", "father of X"],
+    ["申午生", "service provider of X"]
+  ],
+  "杨水巡": [
+    ["敏兮", "daughter of X"],
+    ["蓝蕊", "guest of X"],
+    ["申午生", "subordinate of X"]
+  ],
+  "申午生": [
+    ["敏兮", "employer of X"],
+    ["蓝蕊", " employer of X"],
+    ["杨水巡", "superior of X"],
+    ["夕婷", "helped by X"]
+  ],
+  "杏儿": [
+    ["夕婷", "master of X"]
+  ],
+  "顾梦楚": [
+    ["夕婷", "fiancee of X"]
+  ],
+  "穆伯宣": [
+    ["夕婷", "sister of X"],
+    ["穆仲定", "brother of X"],
+    ["穆叔宜", "brother of X"],
+    ["穆存", "father of X"],
+    ["林氏", "mother of X"]
+  ],
+  "穆仲定": [
+    ["夕婷", "sister of X"],
+    ["穆伯宣", "brother of X"],
+    ["穆叔宜", "brother of X"],
+    ["穆存", "father of X"],
+    ["林氏", "mother of X"]
+  ],
+  "穆叔宜": [
+    ["夕婷", "sister of X"],
+    ["穆伯宣", "brother of X"],
+    ["穆仲定", "brother of X"],
+    ["穆存", "father of X"],
+    ["林氏", "mother of X"]
+  ],
+  "穆存": [
+    ["夕婷", "daughter of X"],
+    ["穆伯宣", "son of X"],
+    ["穆仲定", "son of X"],
+    ["穆叔宜", "son of X"],
+    ["林氏", "wife of X"]
+  ],
+  "林氏": [
+    ["穆存", "husband of X"],
+    ["穆夕婷", "daughter of X"],
+    ["穆伯宣", "son of X"],
+    ["穆仲定", "son of X"],
+    ["穆叔宜", "son of X"]
+  ]
+}

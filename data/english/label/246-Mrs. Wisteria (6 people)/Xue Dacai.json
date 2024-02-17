@@ -1,0 +1,188 @@
+{
+    "Xue Dacai": [
+        [
+            "Xue Yufan",
+            "Son of X"
+        ],
+        [
+            "Zhu Lingshan",
+            "Cousin of X"
+        ],
+        [
+            "Ge Jixian",
+            "Friend of X"
+        ],
+        [
+            "Lü Songnian",
+            "Acquaintance of X, Buyer of X"
+        ],
+        [
+            "Lü Lusheng",
+            "Acquaintance of X, Buyer of X"
+        ],
+        [
+            "Mrs. Zhang",
+            "Acquaintance of X"
+        ],
+        [
+            "Yu Shangyong",
+            "Acquaintance of X"
+        ]
+    ],
+    "Xue Yufan": [
+        [
+            "Xue Dacai",
+            "Father of X"
+        ],
+        [
+            "Mrs. Zhang",
+            "Acquaintance of X"
+        ],
+        [
+            "Yu Yancheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Lü Lusheng",
+            "Acquaintance of X, Buyer of X"
+        ],
+        [
+            "Ge Yueluo",
+            "Relative of X"
+        ],
+        [
+            "Ge Yueman",
+            "Relative of X"
+        ]
+    ],
+    "Zhu Lingshan": [
+        [
+            "Ge Yueluo",
+            "Wife of X"
+        ],
+        [
+            "Ge Jixian",
+            "Father in law of X"
+        ],
+        [
+            "Xue Dacai",
+            "Cousin of X"
+        ],
+        [
+            "Xue Yufan",
+            "Relative of X"
+        ]
+    ],
+    "Ge Jixian": [
+        [
+            "Ge Yueluo",
+            "Daughter of X"
+        ],
+        [
+            "Ge Yueman",
+            "Daughter of X"
+        ],
+        [
+            "Zhu Lingshan",
+            "Son in law of X"
+        ],
+        [
+            "Xue Dacai",
+            "Friend of X"
+        ]
+    ],
+    "Ge Yueluo": [
+        [
+            "Ge Jixian",
+            "Father of X"
+        ],
+        [
+            "Ge Yueman",
+            "Sister of X"
+        ],
+        [
+            "Zhu Lingshan",
+            "Husband of X"
+        ],
+        [
+            "Xue Yufan",
+            "Relative of X"
+        ]
+    ],
+    "Ge Yueman": [
+        [
+            "Ge Jixian",
+            "Father of X"
+        ],
+        [
+            "Ge Yueluo",
+            "Sister of X"
+        ],
+        [
+            "Zhu Lingshan",
+            "Brother in law of X"
+        ],
+        [
+            "Xue Yufan",
+            "Relative of X"
+        ]
+    ],
+    "Mrs. Zhang": [
+        [
+            "Xue Yufan",
+            "Secret admirer of X"
+        ],
+        [
+            "Yu Yancheng",
+            "Acquaintance of X"
+        ]
+    ],
+    "Lü Songnian": [
+        [
+            "Xue Dacai",
+            "Acquaintance of X, Customer of X"
+        ],
+        [
+            "Lü Lusheng",
+            "Brother of X"
+        ],
+        [
+            "Xue Yufan",
+            "Acquaintance of X, Customer of X"
+        ]
+    ],
+    "Lü Lusheng": [
+        [
+            "Xue Dacai",
+            "Acquaintance of X, Customer of X"
+        ],
+        [
+            "Lü Songnian",
+            "Brother of X"
+        ],
+        [
+            "Xue Yufan",
+            "Acquaintance of X, Customer of X"
+        ]
+    ],
+    "Yu Yancheng": [
+        [
+            "Xue Yufan",
+            "Rival of X"
+        ],
+        [
+            "Mrs. Zhang",
+            "Acquaintance of X"
+        ]
+    ],
+    "Yu Shangyong": [
+        [
+            "Xue Dacai",
+            "Acquaintance of X"
+        ],
+        [
+            "Xue Yufan",
+            "Acquaintance of X"
+        ]
+    ]
+}

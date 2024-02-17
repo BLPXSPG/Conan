@@ -1,0 +1,69 @@
+{
+    "张红生": [
+      ["孟三春", "Husband of X"], 
+      ["洪二郎", "Same person as X (different identity)"], 
+      ["洪三妹", "Same person as X (different reference)"], 
+      ["洪江水", "Employee of X, Colleague of X"], 
+      ["蔡思娘", "Employee of X, admirer of x, Fondness of X"], 
+      ["洪长烈", "Father of X"], 
+      ["张金银", "Employee of X, Employer of X"]
+    ],
+    "孟三春": [
+      ["张红生", "Wife of X, Enemy of X"], 
+      ["蔡思娘", "Employee of X, Dislike of X, Enemy of X"], 
+      ["张金银", "Sworn Brother of X, deceived by x, Friend of X, Business Partner of X, Murderer of X"], 
+      ["张金山", "deceived by x, Friend of X"], 
+      ["洪江水", "Employee of X, Murderer of X"], 
+      ["洪长烈", "Enemy of X"], 
+      ["洪二郎", "Enemy of X"]
+    ],
+    "洪江水": [
+      ["张红生", "Employer of X, Colleague of X"], 
+      ["蔡思娘", "Admired by X, Colleague of X"], 
+      ["张金银", "Employer of X"], 
+      ["孟三春", "Employer of X, Victim of X"], 
+      ["洪寨主", "Father of X"]
+    ],
+    "蔡思娘": [
+      ["张红生", "Employer of X, Admired by X"], 
+      ["孟三春", "Employer of X, Acquaintance of X"], 
+      ["洪江水", "admirer of x, Colleague of X"], 
+      ["张金银", "Employer of X"]
+    ],
+    "洪长烈": [
+      ["张红生", "Daughter of X"], 
+      ["洪二郎", "Daughter of X"], 
+      ["洪三妹", "Daughter of X"], 
+      ["张金银", "Enemy of X"], 
+      ["孟三春", "Enemy of X"]
+    ],
+    "张金银": [
+      ["洪二郎", "Enemy of X"], 
+      ["张红生", "Employee of X, Enemy of X"], 
+      ["孟三春", "Deceiver of X, Victim of X, Sworn Brother of X, Friend of X, Business Partner of X"], 
+      ["张金山", "Brother of X"], 
+      ["洪江水", "Employee of X"], 
+      ["蔡思娘", "Employee of X"], 
+      ["洪长烈", "Enemy of X"]
+    ],
+    "张金山": [
+      ["洪二郎", "Enemy of X"], 
+      ["张红生", "Enemy of X"], 
+      ["孟三春", "Deceiver of X, Friend of X"], 
+      ["张金银", "Brother of X"]
+    ],
+    "洪三妹": [
+      ["张红生", "Same person as X (different reference)"], 
+      ["洪长烈", "Father of X"]
+    ],
+    "洪二郎": [
+      ["张红生", "Same person as X (different identity)"], 
+      ["孟三春", "Enemy of X"], 
+      ["张金银", "Enemy of X"], 
+      ["洪长烈", "Father of X"], 
+      ["张金山", "Enemy of X"]
+    ],
+    "洪寨主": [
+      ["洪江水", "Son of X"]
+    ]
+}

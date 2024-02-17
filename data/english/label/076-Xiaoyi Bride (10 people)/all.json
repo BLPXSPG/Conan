@@ -1,0 +1,1080 @@
+{
+    "Yun Ling": [
+        [
+            "Liao Yiqiao",
+            "Father of X"
+        ],
+        [
+            "Tang Wanfeng",
+            "Mother of X"
+        ],
+        [
+            "Tang Maoguang",
+            "Uncle of X"
+        ],
+        [
+            "Ren Zhongyuan",
+            "Acquaintance of X"
+        ],
+        [
+            "Xu Boqing",
+            "Secret admirer of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Acquaintance of X"
+        ],
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Short-haired Woman",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Short-haired Woman": [
+        [
+            "Yun Ling",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Liao Yiqiao": [
+        [
+            "Yun Ling",
+            "Daughter of X"
+        ],
+        [
+            "Tang Wanfeng",
+            "Wife of X"
+        ],
+        [
+            "Ren Zhongyuan",
+            "Employee of X, Master of X"
+        ]
+    ],
+    "Tang Wanfeng": [
+        [
+            "Yun Ling",
+            "Daughter of X"
+        ],
+        [
+            "Liao Yiqiao",
+            "Husband of X"
+        ],
+        [
+            "Tang Maoguang",
+            "Brother of X"
+        ]
+    ],
+    "Tang Maoguang": [
+        [
+            "Yun Ling",
+            "Niece of X"
+        ],
+        [
+            "Tang Wanfeng",
+            "Sister of X"
+        ]
+    ],
+    "Xu Boqing": [
+        [
+            "Yun Ling",
+            "Fondness of X"
+        ],
+        [
+            "Liao Yiqiao",
+            "Guest of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Perpetrator of X, Half brother of X"
+        ],
+        [
+            "Yao Mengren",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Ren Zhongyuan": [
+        [
+            "Yun Ling",
+            "Master of X"
+        ],
+        [
+            "Liao Yiqiao",
+            "Employer of X"
+        ],
+        [
+            "Yu Junhong",
+            "Grandson of X"
+        ],
+        [
+            "Ren",
+            "Daughter of X"
+        ],
+        [
+            "Yu Beichen",
+            "Son in law of X"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Xu Boqing",
+            "Victim of X, Half brother of X"
+        ],
+        [
+            "Lady Hong",
+            "Adoptive mother of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Sister in law of X"
+        ],
+        [
+            "Physician Yu",
+            "Employee of X"
+        ],
+        [
+            "Yao Changshou",
+            "Father of X"
+        ],
+        [
+            "Zhang Yadi",
+            "Mother of X"
+        ],
+        [
+            "Madam Xu",
+            "Adoptive Mother of X"
+        ],
+        [
+            "Yao Mengren",
+            "Victim of X, Half brother of X"
+        ],
+        [
+            "Minyue Sister",
+            "Acquaintance of X, Friend of X"
+        ],
+        [
+            "Zhang Decai",
+            "Cousin of X, Acquaintance of X"
+        ],
+        [
+            "Yu Junhong",
+            "Friend of X"
+        ],
+        [
+            "Uncle Gui",
+            "Stranger to X"
+        ],
+        [
+            "Fang Minyue",
+            "Teacher of X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Adoptive mother of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Servant of X"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Yao Zhongyi",
+            "Adoptive son of X"
+        ],
+        [
+            "Doctor Fang",
+            "Employee of X"
+        ],
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ],
+        [
+            "Judy",
+            "Relative of X"
+        ],
+        [
+            "Yao Mengren",
+            "Adoptive son of X"
+        ],
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Child of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Servant of X"
+        ]
+    ],
+    "Physician Yu": [
+        [
+            "Yao Zhongyi",
+            "Employer of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Sister in law of X, Doctor of X"
+        ],
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Doctor Fang",
+            "Doctor of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Son of X"
+        ],
+        [
+            "Zhang Yadi",
+            "Concubine of X"
+        ],
+        [
+            "Madam Xu",
+            "Wife of X"
+        ],
+        [
+            "Lady Hong",
+            "Wife of X"
+        ],
+        [
+            "Yao Mengren",
+            "Son of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Colleague of X, Perpetrator of X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Wife of X"
+        ],
+        [
+            "Zhang Decai",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Daughter in law of X"
+        ],
+        [
+            "Fang Minyue",
+            "Relative of X, Doctor of X"
+        ],
+        [
+            "Physician Yu",
+            "Doctor of X"
+        ],
+        [
+            "Judy",
+            "Relative of X"
+        ],
+        [
+            "Hu Renyu",
+            "Rival in love of X"
+        ],
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Servant of X"
+        ]
+    ],
+    "Zhang Yadi": [
+        [
+            "Yao Zhongyi",
+            "Son of X"
+        ],
+        [
+            "Yao Changshou",
+            "Lover of X"
+        ],
+        [
+            "Zhang Decai",
+            "Nephew of X"
+        ],
+        [
+            "Madam Xu",
+            "Rival in love of X, Co-wives of X, Rival of X"
+        ]
+    ],
+    "Madam Xu": [
+        [
+            "Yao Zhongyi",
+            "Adoptive son of X"
+        ],
+        [
+            "Yao Mengren",
+            "Son of X"
+        ],
+        [
+            "Zhang Yadi",
+            "Rival in love of X, Co-wives of X, Rival of X"
+        ],
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Yao Zhongyi",
+            "Murderer of X, Half brother of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Wife of X"
+        ],
+        [
+            "Yao Changshou",
+            "Father of X"
+        ],
+        [
+            "Fang Minyue",
+            "Teacher of X"
+        ],
+        [
+            "Madam Xu",
+            "Mother of X"
+        ],
+        [
+            "Zhang Decai",
+            "Acquaintance of X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Adoptive mother of X"
+        ],
+        [
+            "Lady Hong",
+            "Adoptive mother of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Servant of X"
+        ]
+    ],
+    "Minyue Sister": [
+        [
+            "Yao Zhongyi",
+            "Acquaintance of X, Friend of X"
+        ]
+    ],
+    "Zhang Decai": [
+        [
+            "Yao Zhongyi",
+            "Cousin of X, Acquaintance of X"
+        ],
+        [
+            "Fang Minyue",
+            "Romantic relationships with X"
+        ],
+        [
+            "Zhang Yadi",
+            "Aunt of X"
+        ],
+        [
+            "Yao Changshou",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Mengren",
+            "Acquaintance of X"
+        ],
+        [
+            "Lady Hong",
+            "Acquaintance of X"
+        ],
+        [
+            "White-headed Snake",
+            "Acquaintance of X"
+        ]
+    ],
+    "Yu Junhong": [
+        [
+            "Yao Zhongyi",
+            "Friend of X"
+        ],
+        [
+            "Yu Beichen",
+            "Father of X"
+        ],
+        [
+            "Ren",
+            "Mother of X"
+        ],
+        [
+            "Ren Zhongyuan",
+            "Grandfather of X"
+        ],
+        [
+            "Meng Shen",
+            "Acquaintance of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Acquaintance of X"
+        ],
+        [
+            "Fan",
+            "Acquaintance of X"
+        ]
+    ],
+    "Chen Junmeng": [
+        [
+            "Yao Zhongyi",
+            "Brother in law of X"
+        ],
+        [
+            "Yao Mengren",
+            "Husband of X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Mother in law of X"
+        ],
+        [
+            "Yao Changshou",
+            "Father in law of X"
+        ],
+        [
+            "Uncle Gui",
+            "Doctor of X, Acquaintance of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Cousin of X, Servant of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Physician Yu",
+            "Brother in law of X"
+        ],
+        [
+            "Long-haired Girl",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Chen Qingwu",
+            "Father of X"
+        ],
+        [
+            "Chen Shitian",
+            "Servant of X"
+        ],
+        [
+            "Lady Hong",
+            "mother of x"
+        ]
+    ],
+    "Uncle Gui": [
+        [
+            "Yao Zhongyi",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Acquaintance of X, Patient of X"
+        ],
+        [
+            "Du Guicheng",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Du Huixin",
+            "Father of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ],
+        [
+            "Physician Yu",
+            "Acquaintance of X"
+        ],
+        [
+            "Yun Ling",
+            "Acquaintance of X"
+        ],
+        [
+            "Lady Hong",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Changshou",
+            "Acquaintance of X"
+        ]
+    ],
+    "Fang Minyue": [
+        [
+            "Fang Chengshan",
+            "Father of X"
+        ],
+        [
+            "Zhang Decai",
+            "Romantic relationships with X"
+        ],
+        [
+            "Yao Mengren",
+            "Teacher of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Teacher of X"
+        ],
+        [
+            "Doctor Song",
+            "Schoolmate of X, Helper of X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Cousin of X"
+        ],
+        [
+            "Doctor Fang",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Fang Chengshan": [
+        [
+            "Fang Minyue",
+            "Daughter of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ],
+        [
+            "Steward Du",
+            "Colleague of X"
+        ],
+        [
+            "Yao Changshou",
+            "Colleague of X, Victim of X"
+        ],
+        [
+            "Fan Jinkui",
+            "Employer of X, Relative of X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Niece of X"
+        ],
+        [
+            "Hu Renyu",
+            "Employee of X"
+        ],
+        [
+            "Yu Beichen",
+            "Acquaintance of X"
+        ],
+        [
+            "Meng Shen",
+            "Employer of X"
+        ],
+        [
+            "Fan",
+            "Colleague of X, Superior of X"
+        ]
+    ],
+    "Tian Hongjiao": [
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ],
+        [
+            "Fang Minyue",
+            "Cousin of X"
+        ],
+        [
+            "Fan Jinkui",
+            "Fiance of X"
+        ],
+        [
+            "Yao Mengren",
+            "Adoptive son of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Adoptive son of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Daughter in law of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Master of X"
+        ],
+        [
+            "Hu Renyu",
+            "Seller of X, Guest of X"
+        ],
+        [
+            "Big-eyed Akun",
+            "Acquaintance of X"
+        ],
+        [
+            "Uncle Gui",
+            "Helper of X"
+        ],
+        [
+            "Guo Lizhu",
+            "Acquaintance of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Uncle of X"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "Fang Chengshan",
+            "Employee of X"
+        ],
+        [
+            "Uncle Gui",
+            "Employee of X"
+        ],
+        [
+            "Du Guicheng",
+            "Employee of X"
+        ],
+        [
+            "Du Huixin",
+            "Employee of X"
+        ],
+        [
+            "Chen Qingwu",
+            "Employee of X"
+        ],
+        [
+            "Yao Changshou",
+            "Employee of X"
+        ]
+    ],
+    "Doctor Fang": [
+        [
+            "Yao Changshou",
+            "Patient of X"
+        ],
+        [
+            "Fang Minyue",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Tian Hongjiao",
+            "Cousin of X"
+        ]
+    ],
+    "Judy": [
+        [
+            "Zhang Yadi",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Tian Hongjiao",
+            "Relative of X"
+        ],
+        [
+            "Yao Changshou",
+            "Relative of X"
+        ]
+    ],
+    "White-headed Snake": [
+        [
+            "Zhang Decai",
+            "Acquaintance of X"
+        ],
+        [
+            "Golden Beard",
+            "Business Partner of X"
+        ]
+    ],
+    "Fan Jinkui": [
+        [
+            "Fang Chengshan",
+            "Relative of X, Employer of X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Fiancee of X"
+        ],
+        [
+            "Li Kuansheng",
+            "Colleague of X, Friend of X"
+        ],
+        [
+            "Li Guangsheng",
+            "Colleague of X, Friend of X"
+        ],
+        [
+            "Steward Du",
+            "Employer of X"
+        ],
+        [
+            "Yao Changshou",
+            "Rival in love of X"
+        ],
+        [
+            "Yu Beichen",
+            "Superior of X"
+        ],
+        [
+            "Hu Renyu",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Golden Beard",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Chen Anqiao": [
+        [
+            "Tian Hongjiao",
+            "Master of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Cousin of X, Master of X"
+        ],
+        [
+            "Chen Qingwu",
+            "Uncle of X, Employer of X"
+        ],
+        [
+            "Chen Shitian",
+            "Father of X"
+        ],
+        [
+            "Yao Changshou",
+            "Employer of X"
+        ],
+        [
+            "Yao Mengren",
+            "Relative of X"
+        ],
+        [
+            "Lady Hong",
+            "Employer of X"
+        ]
+    ],
+    "Li Kuansheng": [
+        [
+            "Fan Jinkui",
+            "Colleague of X, Friend of X"
+        ],
+        [
+            "Li Guangsheng",
+            "Brother of X"
+        ]
+    ],
+    "Li Guangsheng": [
+        [
+            "Fan Jinkui",
+            "Colleague of X, Friend of X"
+        ],
+        [
+            "Li Kuansheng",
+            "Brother of X"
+        ]
+    ],
+    "Big-eyed Akun": [
+        [
+            "Tian Hongjiao",
+            "Fondness of X"
+        ]
+    ],
+    "Guo Lizhu": [
+        [
+            "Tian Hongjiao",
+            "Fondness of X"
+        ]
+    ],
+    "Hu Renyu": [
+        [
+            "Tian Hongjiao",
+            "Buyer of X"
+        ],
+        [
+            "Suzhou Girl",
+            "Helper of X"
+        ],
+        [
+            "Hu Renyu",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Golden Beard",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yao Changshou",
+            "Rival in love of X"
+        ],
+        [
+            "Short-haired Woman",
+            "Stranger to X"
+        ],
+        [
+            "Long-haired Girl",
+            "Helper of X"
+        ],
+        [
+            "Fair-skinned Youth",
+            "Stranger to X"
+        ]
+    ],
+    "Golden Beard": [
+        [
+            "Fan Jinkui",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Hu Renyu",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yao Changshou",
+            "Rival in love of X"
+        ],
+        [
+            "White-headed Snake",
+            "Business Partner of X"
+        ]
+    ],
+    "Steward Du": [
+        [
+            "Fang Chengshan",
+            "Colleague of X"
+        ]
+    ],
+    "Yu Beichen": [
+        [
+            "Fan Jinkui",
+            "Subordinate of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Subordinate of X"
+        ],
+        [
+            "Yu Junhong",
+            "Son of X"
+        ],
+        [
+            "Ren",
+            "Wife of X"
+        ],
+        [
+            "Meng Shen",
+            "Friend of X"
+        ],
+        [
+            "Fan",
+            "Acquaintance of X"
+        ],
+        [
+            "Ren Zhongyuan",
+            "Father in law of X"
+        ]
+    ],
+    "Long-haired Girl": [
+        [
+            "Suzhou Girl",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Fan Jinkui",
+            "Seeker of Help from X"
+        ],
+        [
+            "Uncle Gui",
+            "Acquaintance of X"
+        ],
+        [
+            "Du Guicheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Suzhou Girl": [
+        [
+            "Long-haired Girl",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Fan Jinkui",
+            "Seeker of Help from X"
+        ]
+    ],
+    "Ren": [
+        [
+            "Yu Junhong",
+            "Son of X"
+        ],
+        [
+            "Yu Beichen",
+            "Husband of X"
+        ],
+        [
+            "Ren Zhongyuan",
+            "Father of X"
+        ]
+    ],
+    "Meng Shen": [
+        [
+            "Yu Beichen",
+            "Friend of X"
+        ],
+        [
+            "Yao Changshou",
+            "Employee of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Employee of X"
+        ],
+        [
+            "Fan",
+            "Employee of X"
+        ]
+    ],
+    "Fan": [
+        [
+            "Meng Shen",
+            "Employer of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Subordinate of X"
+        ]
+    ],
+    "Du Guicheng": [
+        [
+            "Uncle Gui",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Du Huixin",
+            "Father of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ],
+        [
+            "Physician Yu",
+            "Acquaintance of X"
+        ],
+        [
+            "Yun Ling",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Acquaintance of X"
+        ],
+        [
+            "Lady Hong",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Changshou",
+            "Acquaintance of X"
+        ]
+    ],
+    "Du Huixin": [
+        [
+            "Uncle Gui",
+            "Son of X"
+        ],
+        [
+            "Du Guicheng",
+            "Son of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ]
+    ],
+    "Chen Qingwu": [
+        [
+            "Chen Junmeng",
+            "Daughter of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ],
+        [
+            "Chen Shitian",
+            "Servant of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Employee of X, Niece of X"
+        ]
+    ],
+    "Chen Shitian": [
+        [
+            "Chen Junmeng",
+            "Master of X"
+        ],
+        [
+            "Chen Qingwu",
+            "Master of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Daughter of X"
+        ]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Xia Shue": [
+      ["Xia Bolong", "father of x"], 
+      ["Xia Zhongpeng", "uncle of x, mentor of x, helper of x, helped by x"], 
+      ["Xia Sanhu", "uncle of x, mentor of x, helper of x"], 
+      ["Luo Ming", "student of x"], 
+      ["Yue Kesa", "student of x, helper of x, victim of x"], 
+      ["Wu Baian", "colleague of x, informant of x"], 
+      ["Wu Xiao", "informant of x"], 
+      ["Luo Yisi", "friend of x, informant of x"], 
+      ["Auntie Yi", "informant of x"]
+    ],
+    "Xia Bolong": [
+      ["Dr. Li", "doctor of x"], 
+      ["Xia Zhongpeng", "brother of x, subordinate of x"], 
+      ["Xia Shue", "daughter of x"], 
+      ["Xia Sanhu", "brother of x, subordinate of x, murderer of x"]
+    ],
+    "Xia Zhongpeng": [
+      ["Xia Bolong", "brother of x, superior of x"], 
+      ["Xia Sanhu", "brother of x, helped by x, killed by x"], 
+      ["Xia Shue", "niece of x, student of x, helped by x, helper of x"], 
+      ["Japanese", "rival of x"], 
+      ["Luo Ming", "subordinate of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Zhongpeng", "brother of x"], 
+      ["Xia Bolong", "brother of x, superior of x"], 
+      ["Xia Shue", "niece of x, helped by x"], 
+      ["Feng's Descendant", "rival of x"], 
+      ["Luo Ming", "subordinate of x, quest companion of x"]
+    ],
+    "Luo Ming": [
+      ["Aming", "same person as x (different reference)"]
+    ],
+    "Aming": [
+      ["Xia Zhongpeng", "superior of x"], 
+      ["Xia Sanhu", "superior of x"], 
+      ["Xia Shue", "mentor of x"], 
+      ["Yue Kesa", "schoolmate of x"], 
+      ["Xia Sanhu", "superior of x, quest companion of x"], 
+      ["Luo Ming", "same person as x (different reference)"]
+    ],
+    "Yue Kesa": [
+      ["Xia Shue", "mentor of x, helped by x, perpetrator of x"], 
+      ["Luo Ming", "schoolmate of x"], 
+      ["Xia Sanhu", "superior of x"]
+    ],
+    "Wu Baian": [
+      ["Xia Shue", "colleague of x, information receiver from x"], 
+      ["Wu Xiao", "son of x"]
+    ],
+    "Wu Xiao": [
+      ["Xia Shue", "information receiver from x"]
+    ],
+    "Luo Yisi": [
+      ["Xia Shue", "friend of x, information receiver from x"]
+    ],
+    "Auntie Yi": [
+      ["Xia Shue", "information receiver from x"]
+    ]
+}

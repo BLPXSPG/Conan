@@ -1,0 +1,26 @@
+{
+    "松节": [
+      ["蜂", "employer of x"], 
+      ["玄冰教的信使", "same person as x (different identity)"], 
+      ["盗圣", "suspected by x"], 
+      ["忍冬", "helper of x, quest companion of x, colleague of x"], 
+      ["武林盟的信使", "same person as x (different identity)"]
+    ],
+    "武林盟的信使": [
+      ["松节", "same person as x (different identity)"], 
+      ["玄参", "host of x"], 
+      ["陆英", "suspect to x"]
+    ],
+    "蜂": [
+      ["松节", "employee of x"]
+    ],
+    "陆英": [
+      ["武林盟的信使", "suspected by x"]
+    ],
+    "玄参": [
+      ["松节", "guest of x"]
+    ],
+    "忍冬": [
+      ["松节", "seeker of help from x, quest companion of x, colleague of x"]
+    ]
+}

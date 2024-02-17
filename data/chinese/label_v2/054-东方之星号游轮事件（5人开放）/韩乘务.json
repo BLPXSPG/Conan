@@ -1,0 +1,28 @@
+{
+    "韩亦暮": [
+      ["韩乘务", "same person as x (different reference)"]
+    ],
+    "刘奇": [
+      ["韩亦暮", "bully of x"]
+    ],
+    "修仁杰": [
+      ["韩亦暮", "friend of x"]
+    ],
+    "林若彤": [
+      ["韩亦暮", "dislike of x"]
+    ],
+    "洪子廉": [
+      ["韩亦暮", "dislike of x"]
+    ],
+    "张文远": [
+      ["韩亦暮", "acquaintance of x"]
+    ],
+    "韩乘务": [
+      ["刘奇", "dislike of x"], 
+      ["修仁杰", "friend of x"], 
+      ["林若彤", "dislike of x"], 
+      ["洪子廉", "dislike of x"], 
+      ["张文远", "acquaintance of x"], 
+      ["韩亦暮", "same person as x (different reference)"]
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "Andrew Paloski": [
+        [
+            "Dean Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Andrew Paloski's wife",
+            "Wife of X"
+        ],
+        [
+            "Scott",
+            "Son of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X, Student of X, Rival of X, unsuccessful helper of x"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X, Student of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague of X"
+        ],
+        [
+            "Father Tom",
+            "Seeker of Help from X"
+        ]
+    ],
+    "Scott": [
+        [
+            "Andrew Paloski",
+            "Father of X"
+        ],
+        [
+            "Andrew Paloski's wife",
+            "Mother of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Doctor of X, Unsuccessful helper of x"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Dean Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Andrew Paloski",
+            "Colleague of X, Mentor of X"
+        ],
+        [
+            "Gale Li Morette",
+            "Wife of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Brother of X"
+        ],
+        [
+            "Scott",
+            "Patient of X"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Dean Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Andrew Paloski",
+            "Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Brother of X, Colleague of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X"
+        ]
+    ],
+    "Elaine Carter": [
+        [
+            "Dean Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Andrew Paloski",
+            "Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ]
+    ],
+    "Dean Berkeley": [
+        [
+            "Andrew Paloski",
+            "Employee of X"
+        ],
+        [
+            "Elaine Carter",
+            "Subordinate of X, Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Subordinate of X, Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Subordinate of X, Colleague of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Subordinate of X, Colleague of X"
+        ]
+    ],
+    "Head Nurse Costa": [
+        [
+            "Dean Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Andrew Paloski",
+            "Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Andrew Paloski",
+            "Seeker of Help from X"
+        ]
+    ]
+}

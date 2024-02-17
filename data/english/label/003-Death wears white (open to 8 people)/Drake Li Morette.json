@@ -1,0 +1,60 @@
+{
+    "Hans Li Morette": [
+        [
+            "Sylvia Costa",
+            "Colleague of X"
+        ],
+        [
+            "Gale Li Morette",
+            "Wife of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Brother of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Colleague of X, Mentor of X"
+        ],
+        [
+            "Yilin Carter",
+            "Colleague of X"
+        ]
+    ],
+    "Gale Li Morette": [
+        [
+            "Drake Li Morette",
+            "brother in law of x"
+        ],
+        [
+            "Hans Li Morette",
+            "Husband of X"
+        ]
+    ],
+    "Sylvia Costa": [
+        [
+            "Hans Li Morette",
+            "Husband of X"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X, Student of X, unsuccessful helper of x"
+        ]
+    ],
+    "Richard Berkeley": [
+        [
+            "Hans Li Morette",
+            "Employer of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Employer of X"
+        ]
+    ]
+}

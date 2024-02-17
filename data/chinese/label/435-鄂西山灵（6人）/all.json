@@ -1,0 +1,74 @@
+{
+  "苗如娅": [
+    ["田氏", "mother of X"],
+    ["苗纳", "father of X"],
+    ["苗氏", "aunt of X"],
+    ["巴府山", "uncle of X"],
+    ["娟歌", "sister of X"],
+    ["李德木", "secret admirer of X"],
+    ["周允棠", "killed by X"],
+    ["李高柏", "friend of X, secret admirer of X"]
+  ],
+  "山灵": [
+    ["苗纳", "subordinate of X"],
+    ["苗如娅", "subordinate of X"],
+    ["苗氏", "subordinate of X"],
+    ["巴府山", "subordinate of X, rival of X"],
+    ["娟歌", "subordinate of X, rival of X"],
+    ["隼", "subordinate of X, rival of X"],
+    ["鬼印", "subordinate of X, helper of X"],
+    ["甘玛", "subordinate of X, saviour of X"],
+    ["私塾先生", "subordinate of X"]
+  ],
+  "李高柏": [
+    ["私塾先生", "teacher of X"],
+    ["李德木", "brother of X"],
+    ["李良松", "brother of X"],
+    ["巴府山", "employer of X"],
+    ["苗如娅", "friend of X"],
+    ["巴隼", "classmate of X, friend of X"],
+    ["周允棠", "employer of X, teacher of X, helper of X"],
+    ["郑函贞", "employer of X"],
+    ["鬼印", "employer of X"]
+  ],
+  "周忱纱": [
+    ["周景鱼", "brother of X"],
+    ["周允棠", "father of X"],
+    ["汪氏", "mother of X"],
+    ["郑函贞", "friend of X"],
+    ["巴隼", "friend of X, secret admirer of X"],
+    ["甘玛", "friend of X, rival in love of X"]
+  ],
+  "甘玛": [
+    ["甘印", "brother of X, saviour of X, teacher of X"],
+    ["巴府山", "landlord of X, employer of X"],
+    ["苗氏", "landlord of X, saved by X"],
+    ["李高柏", "friend of X"],
+    ["娟歌", "friend of X"],
+    ["王京吉", "lover of X, killed by X"],
+    ["巴隼", "fiance of X"],
+    ["山灵", "superior of X, saviour of X"],
+    ["苗如娅", "helper of X, sister in law of X"],
+    ["周忱纱", "friend of X, student of X"]
+  ],
+  "郑函贞": [ 
+    ["郑昌珉", "father of X"], 
+    ["周允棠", "teacher of X"], 
+    ["周忱纱", "colleague of X, fiance of X"], 
+    ["巴府山", "host of X"], 
+    ["娟歌", "lover of X"], 
+    ["甘印", "rival in love of X"], 
+    ["张氏", "mother of X"], 
+    ["又黑又瘦的男人", "stranger to X"]
+  ],
+  "巴隼": [
+    ["巴府山", "father of X"],
+    ["苗氏", "mother of X"],
+    ["苗纳", "uncle of X"],
+    ["娟歌", "older sister of X"],
+    ["李高柏", "classmate of X"],
+    ["周忱纱", "friend of X"],
+    ["李德木", "killed by X"],
+    ["私塾先生", "teacher of X"]
+  ]
+}

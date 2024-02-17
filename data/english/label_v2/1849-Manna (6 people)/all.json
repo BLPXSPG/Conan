@@ -1,0 +1,261 @@
+{
+    "Tan Shangzhi": [
+      ["Tan Renxing", "father of x"], 
+      ["Tan Renchang", "uncle of x, thief of x"], 
+      ["Luo Hengli", "acquaintance of x"], 
+      ["Luo Mingsha", "aunt of x, deceiver of x"], 
+      ["Lv Mingran", "friend of x"], 
+      ["Mrs. Wei", "acquaintance of x"], 
+      ["Hai You", "friend of x"], 
+      ["Zina", "romantic relationships with x"], 
+      ["Professor He", "employer of x"], 
+      ["Cheng Ge", "student of x"], 
+      ["Liao Xuehan", "acquaintance of x"]
+    ],
+    "Tan Renxing": [
+      ["Tan Shangzhi", "son of x"], 
+      ["Tan Renchang", "brother of x"]
+    ],
+    "Tan Renchang": [
+      ["Tan Renxing", "brother of x"], 
+      ["Tan Shangzhi", "deceived by x, nephew of x"], 
+      ["Luo Mingsha", "wife of x"], 
+      ["Lv Mingran", "acquaintance of x, employee of x"], 
+      ["Luo Hengli", "brother in law of x"], 
+      ["Cheng Ge", "adoptive son of x, deceiver of x"], 
+      ["Mrs. Wei", "acquaintance of x"], 
+      ["Xinya", "secret lover of x"], 
+      ["Hai You", "adoptive daughter of x, murderer of x"], 
+      ["Shang Zhi", "nephew of x"], 
+      ["Woman", "extramarital affair with x"], 
+      ["Lv Caiqian", "extramarital affair with x"], 
+      ["Mingsha", "wife of x"]
+    ],
+    "Luo Hengli": [
+      ["Luo Mingsha", "sister of x"], 
+      ["Tan Renchang", "brother in law of x"], 
+      ["Tan Shangzhi", "acquaintance of x"], 
+      ["Liao Xuehan", "business partner of x"], 
+      ["Lv Mingran", "employee of x, subordinate of x"], 
+      ["Lv Caiqian", "acquaintance of x"], 
+      ["Lv Shouben", "employee of x"], 
+      ["Mingsha", "sister of x"]
+    ],
+    "Luo Mingsha": [
+      ["Luo Hengli", "brother of x"], 
+      ["Hai You", "adoptive daughter of x"], 
+      ["Tan Shangzhi", "deceived by x, nephew of x"], 
+      ["Tan Renchang", "husband of x"], 
+      ["Xinya", "servant of x"], 
+      ["Cai Qian", "friend of x"], 
+      ["Lv Mingran", "extramarital affair with x"], 
+      ["Shang Zhi", "relative of x"], 
+      ["Cheng Ge", "adoptive son of x"], 
+      ["A Ping", "servant of x"], 
+      ["Lv Caiqian", "friend of x"], 
+      ["Shang Zhi", "nephew of x"], 
+      ["Mrs. Wei", "friend of x"], 
+      ["Lv Mingran", "acquaintance of x"], 
+      ["Mingsha", "same person as x (different reference)"], 
+      ["Mrs. Tan", "same person as x (different reference)"], 
+      ["Rosa", "same person as x (different reference)"]
+    ],
+    "Lv Mingran": [
+      ["Tan Shangzhi", "friend of x"], 
+      ["Luo Hengli", "superior of x, acquaintance of x"], 
+      ["Mrs. Wei", "sister of x"], 
+      ["Hai You", "uncle of x"], 
+      ["Liao Xuehan", "acquaintance of x"], 
+      ["Cheng Ge", "murderer of x, acquaintance of x, employee of x"], 
+      ["Xinya", "acquaintance of x"], 
+      ["Hong Er", "acquaintance of x"], 
+      ["Tan Renchang", "employer of x, acquaintance of x"], 
+      ["Lv Caiqian", "sister of x"], 
+      ["Mrs. Tan", "acquaintance of x"], 
+      ["Luo Mingsha", "hate of x, extramarital affair with x"], 
+      ["Cai Qian", "sister of x"], 
+      ["Lv Shouben", "father of x"], 
+      ["Li Shi", "mother of x"]
+    ],
+    "Mrs. Wei": [
+      ["Cai Qian", "same person as x (different reference)"], 
+      ["Lv Caiqian", "same person as x (different reference)"]
+    ],
+    "Hai You": [
+      ["Tan Shangzhi", "friend of x"], 
+      ["Mrs. Wei", "aunt of x, acquaintance of x"], 
+      ["Luo Mingsha", "adoptive daughter of x, adoptive mother of x"], 
+      ["Lv Mingran", "uncle of x"], 
+      ["Julie", "helped by x"], 
+      ["Cheng Ge", "adoptive brother of x, acquaintance of x"], 
+      ["Tan Renchang", "adoptive father of x, uncle of x, victim of x"], 
+      ["Wei Yangfeng", "father of x"], 
+      ["Zhou Shi", "mother of x"], 
+      ["Wei Yangyao", "uncle of x"], 
+      ["Lv Caiqian", "aunt of x, dislike of x"], 
+      ["Mrs. Tan", "adoptive mother of x"], 
+      ["Shang Zhi", "cousin of x"], 
+      ["Woman", "victim of x"], 
+      ["Mingsha", "adoptive mother of x"]
+    ],
+    "Zina": [
+      ["Tan Shangzhi", "romantic relationships with x"]
+    ],
+    "Professor He": [
+      ["Tan Shangzhi", "employee of x"]
+    ],
+    "Cheng Ge": [
+      ["A Fu", "same person as x (different reference)"], 
+      ["Tan Chengge", "same person as x (different reference)"]
+    ],
+    "Tan Chengge": [
+      ["A Fu", "same person as x (different reference)"], 
+      ["Cheng Ge", "same person as x (different reference)"]
+    ],
+    "Liao Gongzi": [
+      ["Tan Shangzhi", "acquaintance of x"], 
+      ["Mrs. Wei", "acquaintance of x"], 
+      ["Hai You", "acquaintance of x"], 
+      ["Cheng Ge", "stranger to x"]
+    ],
+    "A Ping": [
+      ["Tan Renchang", "master of x"], 
+      ["Luo Mingsha", "master of x"], 
+      ["Tan Shangzhi", "acquaintance of x"], 
+      ["Mrs. Wei", "master of x"], 
+      ["Mingsha", "master of x"]
+    ],
+    "Liao Xuehan": [
+      ["Liao Yiqiao", "father of x"], 
+      ["Dr. Zhang", "doctor of x"], 
+      ["Julie", "helper of x"], 
+      ["Hai You", "acquaintance of x"], 
+      ["Luo Hengli", "business partner of x"], 
+      ["Lv Mingran", "acquaintance of x"], 
+      ["Tan Shangzhi", "acquaintance of x"], 
+      ["Tan Renchang", "business partner of x"], 
+      ["Hong Er", "manipulated by x, helped by x, debtor of x"], 
+      ["Mrs. Wei", "acquaintance of x"], 
+      ["Cheng Ge", "acquaintance of x"], 
+      ["A Ping", "acquaintance of x"]
+    ],
+    "Liao Yiqiao": [
+      ["Liao Xuehan", "son of x"]
+    ],
+    "Dr. Zhang": [
+      ["Liao Xuehan", "patient of x"], 
+      ["Julie", "wife of x"], 
+      ["Cheng Ge", "helped by x"]
+    ],
+    "Julie": [
+      ["Dr. Zhang", "husband of x"], 
+      ["Liao Xuehan", "helped by x"], 
+      ["Hai You", "helper of x"]
+    ],
+    "Hong Er": [
+      ["Liao Xuehan", "manipulator of x, creditor of x, helper of x"], 
+      ["Cheng Ge", "murderer of x"], 
+      ["Xinya", "mother of x"]
+    ],
+    "A Fu": [
+      ["Tan Shangzhi", "teacher of x"], 
+      ["Tan Renchang", "adoptive father of x, deceived by x"], 
+      ["Lv Mingran", "employer of x, victim of x, acquaintance of x"], 
+      ["Hai You", "adoptive sister of x"], 
+      ["Mrs. Wei", "acquaintance of x"], 
+      ["Dr. Zhang", "helper of x"], 
+      ["Liao Gongzi", "stranger to x"], 
+      ["Xinya", "adoptive mother of x"], 
+      ["Shang Zhi", "cousin of x, acquaintance of x"], 
+      ["Hong Er", "victim of x"], 
+      ["Mrs. Tan", "adoptive mother of x"], 
+      ["Luo Mingsha", "adoptive mother of x"], 
+      ["Mingsha", "adoptive mother of x"], 
+      ["Cheng Ge", "same person as x (different reference)"], 
+      ["Tan Chengge", "same person as x (different reference)"]
+    ],
+    "Xinya": [
+      ["Cheng Ge", "adoptive son of x"], 
+      ["Lv Mingran", "helper of x"], 
+      ["Tan Renchang", "secret lover of x"], 
+      ["Hong Er", "daughter of x"], 
+      ["Luo Mingsha", "master of x"], 
+      ["Lv Caiqian", "acquaintance of x"], 
+      ["Mingsha", "master of x"]
+    ],
+    "Shang Zhi": [
+      ["Cheng Ge", "cousin of x, acquaintance of x"], 
+      ["Tan Renchang", "uncle of x"], 
+      ["Mrs. Tan", "aunt of x"], 
+      ["Hai You", "cousin of x"], 
+      ["Luo Mingsha", "aunt of x"], 
+      ["Mingsha", "aunt of x"]
+    ],
+    "Mrs. Tan": [
+      ["Luo Mingsha", "same person as x (different reference)"], 
+      ["Mingsha", "same person as x (different reference)"], 
+      ["Rosa", "same person as x (different reference)"]
+    ],
+    "Woman": [
+      ["Hai You", "murderer of x"], 
+      ["Tan Renchang", "extramarital affair with x"]
+    ],
+    "Wei Yangfeng": [
+      ["Zhou Shi", "wife of x"], 
+      ["Hai You", "daughter of x"]
+    ],
+    "Zhou Shi": [
+      ["Wei Yangfeng", "husband of x"], 
+      ["Hai You", "daughter of x"]
+    ],
+    "Wei Yangyao": [
+      ["Hai You", "niece of x"], 
+      ["Lv Caiqian", "wife of x"]
+    ],
+    "Lv Caiqian": [
+      ["Cai Qian", "same person as x (different reference)"], 
+      ["Mrs. Wei", "same person as x (different reference)"]
+    ],
+    "Rosa": [
+      ["Luo Mingsha", "same person as x (different reference)"], 
+      ["Mingsha", "same person as x (different reference)"], 
+      ["Mrs. Tan", "same person as x (different reference)"]
+    ],
+    "Cai Qian": [
+      ["Luo Mingsha", "friend of x"], 
+      ["Lv Mingran", "brother of x"], 
+      ["Wei Yangyao", "husband of x"], 
+      ["Hai You", "relative of x, dislike of x, niece of x"], 
+      ["Lv Shouben", "father of x"], 
+      ["Li Shi", "mother of x"], 
+      ["Mingsha", "friend of x"], 
+      ["Tan Renchang", "extramarital affair with x"], 
+      ["Xinya", "acquaintance of x"], 
+      ["Luo Hengli", "acquaintance of x"], 
+      ["A Ping", "acquaintance of x"], 
+      ["Shang Zhi", "acquaintance of x"], 
+      ["Cheng Ge", "acquaintance of x"], 
+      ["Hai You", "acquaintance of x, niece of x"], 
+      ["Tan Renchang", "acquaintance of x"], 
+      ["A Ping", "helped by x"], 
+      ["Mrs. Tan", "friend of x"], 
+      ["Lv Caiqian", "same person as x (different reference)"], 
+      ["Mrs. Wei", "same person as x (different reference)"]
+    ],
+    "Lv Shouben": [
+      ["Lv Caiqian", "daughter of x"], 
+      ["Lv Mingran", "son of x"], 
+      ["Li Shi", "wife of x"], 
+      ["Luo Hengli", "employer of x"]
+    ],
+    "Li Shi": [
+      ["Lv Caiqian", "daughter of x"], 
+      ["Lv Mingran", "son of x"], 
+      ["Lv Shouben", "husband of x"]
+    ],
+    "Mingsha": [
+      ["Luo Mingsha", "same person as x (different reference)"], 
+      ["Mrs. Tan", "same person as x (different reference)"], 
+      ["Rosa", "same person as x (different reference)"]
+    ]
+}

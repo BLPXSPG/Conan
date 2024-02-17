@@ -1,0 +1,71 @@
+{
+    "Judy": [
+      ["Zhang Decai", "nephew of x"], 
+      ["Yao Changshou", "lover of x"], 
+      ["Yao Zhongyi", "son of x"], 
+      ["Madam Xu", "co-wives of x, rival in love of x, rival of x"], 
+      ["Zhang Yadi", "same person as x (different reference)"]
+    ],
+    "Zhang Decai": [
+      ["Zhang Yadi", "aunt of x"], 
+      ["Yao Changshou", "acquaintance of x"], 
+      ["Yao Mengren", "acquaintance of x"], 
+      ["Yao Zhongyi", "acquaintance of x"], 
+      ["Fang Minyue", "romantic relationships with x"], 
+      ["Lady Hong", "acquaintance of x"], 
+      ["White-headed Snake", "acquaintance of x"]
+    ],
+    "Zhang Yadi": [
+      ["Judy", "same person as x (different reference)"]
+    ],
+    "Yao Changshou": [
+      ["Zhang Yadi", "concubine of x"], 
+      ["Madam Xu", "wife of x"], 
+      ["Yao Mengren", "son of x"], 
+      ["Yao Zhongyi", "son of x"], 
+      ["Lady Hong", "wife of x"], 
+      ["Zhang Decai", "acquaintance of x"], 
+      ["Fang Chengshan", "colleague of x"]
+    ],
+    "Yao Mengren": [
+      ["Yao Changshou", "father of x"], 
+      ["Madam Xu", "mother of x"], 
+      ["Yao Zhongyi", "half brother of x"], 
+      ["Zhang Decai", "acquaintance of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Yao Changshou", "father of x"], 
+      ["Zhang Yadi", "mother of x"], 
+      ["Madam Xu", "adoptive mother of x"], 
+      ["Yao Mengren", "half brother of x"], 
+      ["Zhang Decai", "acquaintance of x"]
+    ],
+    "Madam Xu": [
+      ["Yao Changshou", "husband of x"], 
+      ["Yao Mengren", "son of x"], 
+      ["Zhang Yadi", "co-wives of x, rival in love of x, rival of x"]
+    ],
+    "Fang Minyue": [
+      ["Doctor Fang", "same person as x (different reference)"]
+    ],
+    "Fang Chengshan": [
+      ["Fang Minyue", "daughter of x"], 
+      ["Yao Changshou", "colleague of x"], 
+      ["Fan Jinkui", "employer of x"]
+    ],
+    "Lady Hong": [
+      ["Yao Changshou", "husband of x"], 
+      ["Judy", "relative of x"]
+    ],
+    "White-headed Snake": [
+      ["Zhang Decai", "acquaintance of x"]
+    ],
+    "Fan Jinkui": [
+      ["Fang Chengshan", "employer of x"]
+    ],
+    "Doctor Fang": [
+      ["Fang Chengshan", "father of x"], 
+      ["Zhang Decai", "romantic relationships with x"], 
+      ["Fang Minyue", "same person as x (different reference)"]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Yun Ling": [
+      ["Liao Yiqiao", "father of x"], 
+      ["Tang Wanfeng", "mother of x"], 
+      ["Tang Maoguang", "uncle of x"], 
+      ["Ren Zhongyuan", "acquaintance of x"], 
+      ["Xu Boqing", "acquaintance of x"]
+    ],
+    "Liao Yiqiao": [
+      ["Yun Ling", "daughter of x"], 
+      ["Tang Wanfeng", "wife of x"], 
+      ["Ren Zhongyuan", "employee of x, master of x"]
+    ],
+    "Tang Wanfeng": [
+      ["Yun Ling", "daughter of x"], 
+      ["Liao Yiqiao", "husband of x"], 
+      ["Tang Maoguang", "brother of x"]
+    ],
+    "Tang Maoguang": [
+      ["Yun Ling", "niece of x"], 
+      ["Tang Wanfeng", "sister of x"]
+    ],
+    "Xu Boqing": [
+      ["Yun Ling", "acquaintance of x"], 
+      ["Liao Yiqiao", "guest of x"], 
+      ["Yao Zhongyi", "acquaintance of x"]
+    ],
+    "Ren Zhongyuan": [
+      ["Yun Ling", "master of x"], 
+      ["Liao Yiqiao", "employer of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Xu Boqing", "acquaintance of x"], 
+      ["Lady Hong", "adoptive mother of x"], 
+      ["Chen Junmeng", "sister in law of x"], 
+      ["Physician Yu", "employee of x"]
+    ],
+    "Lady Hong": [
+      ["Yao Zhongyi", "adoptive son of x"]
+    ],
+    "Physician Yu": [
+      ["Yao Zhongyi", "employer of x"], 
+      ["Chen Junmeng", "doctor of x"]
+    ]
+}

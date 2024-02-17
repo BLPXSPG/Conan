@@ -1,0 +1,28 @@
+{
+    "Zi Su": [
+        [
+            "Du Zhong",
+            "Jealous of X, Mentor of X, Superior of X"
+        ],
+        [
+            "Mysterious Ice Sect's Divine Melody Envoy",
+            "Acquaintance of X, Superior of X"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "Zi Su",
+            "Student of X"
+        ],
+        [
+            "Mysterious Ice Sect's Divine Melody Envoy",
+            "Adversary of X"
+        ]
+    ],
+    "Mysterious Ice Sect's Divine Melody Envoy": [
+        [
+            "Zi Su",
+            "Acquaintance of X, Subordinate of X"
+        ]
+    ]
+}

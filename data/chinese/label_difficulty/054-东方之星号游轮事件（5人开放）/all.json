@@ -1,0 +1,17 @@
+{
+    "修仁杰": [
+      ["韩亦暮", "fondness of x"]
+    ],
+    "洪子廉": [
+      ["张文远", "dislike of x"], 
+      ["韩亦暮", "dislike of x, subordinate of x"]
+    ],
+    "张二副": [
+      ["刘奇", "dislike of x, superior of x"], 
+      ["洪子廉", "dislike of x"]
+    ],
+    "韩乘务": [
+      ["修仁杰", "fondness of x"], 
+      ["洪子廉", "dislike of x, disliked by x, superior of x"]
+    ]
+}

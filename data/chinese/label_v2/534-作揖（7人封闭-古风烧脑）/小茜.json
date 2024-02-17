@@ -1,0 +1,80 @@
+{
+    "小茜": [
+      ["方叶", "father of x"], 
+      ["奶奶", "grandmother of x"], 
+      ["方絮", "aunt of x"], 
+      ["方眠", "aunt of x"], 
+      ["方竹", "uncle of x"], 
+      ["草藤居士", "adoptive father of x"], 
+      ["李延", "saviour of x, deceived by x"], 
+      ["李仲", "friend of x, deceived by x"], 
+      ["李钦仁", "rival of x"], 
+      ["小茜", "adoptive sister of x"], 
+      ["草藤居士", "father of x"], 
+      ["李延", "admirer of x"], 
+      ["李仲", "admirer of x"], 
+      ["方柳", "same person as x (different reference)"], 
+      ["陈倩", "same person as x (different reference)"]
+    ],
+    "方柳": [
+      ["小茜", "same person as x (different reference)"], 
+      ["陈倩", "same person as x (different reference)"]
+    ],
+    "方叶": [
+      ["小茜", "daughter of x"], 
+      ["奶奶", "mother of x"], 
+      ["方絮", "younger sister of x"], 
+      ["方眠", "younger sister of x"], 
+      ["方竹", "brother of x"]
+    ],
+    "奶奶": [
+      ["小茜", "granddaughter of x"], 
+      ["方叶", "son of x"], 
+      ["方絮", "daughter of x"], 
+      ["方眠", "daughter of x"], 
+      ["方竹", "adoptive son of x"]
+    ],
+    "方絮": [
+      ["小茜", "niece of x"], 
+      ["方叶", "brother of x"], 
+      ["方眠", "sister of x"], 
+      ["方竹", "nephew of x"], 
+      ["李王爷", "father in law of x"]
+    ],
+    "李王爷": [
+      ["李钦仁", "same person as x (different reference)"]
+    ],
+    "李钦仁": [
+      ["李王爷", "same person as x (different reference)"]
+    ],
+    "方眠": [
+      ["小茜", "niece of x"], 
+      ["方叶", "brother of x"], 
+      ["方絮", "sister of x"], 
+      ["方竹", "nephew of x"]
+    ],
+    "方竹": [
+      ["小茜", "cousin of x"], 
+      ["方叶", "adoptive father of x"], 
+      ["方絮", "aunt of x"], 
+      ["方眠", "aunt of x"]
+    ],
+    "草藤居士": [
+      ["小茜", "adoptive daughter of x"], 
+      ["陈倩", "daughter of x"]
+    ],
+    "陈倩": [
+      ["小茜", "same person as x (different reference)"], 
+      ["方柳", "same person as x (different reference)"]
+    ],
+    "李延": [
+      ["小茜", "saved by x, admirer of x"], 
+      ["李仲", "friend of x"], 
+      ["陈倩", "friend of x"]
+    ],
+    "李仲": [
+      ["小茜", "acquaintance of x"], 
+      ["李延", "brother of x"], 
+      ["陈倩", "fiancee of x"]
+    ]
+}

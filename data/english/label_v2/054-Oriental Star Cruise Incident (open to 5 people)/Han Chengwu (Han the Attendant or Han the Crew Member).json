@@ -1,0 +1,28 @@
+{
+    "Han Yimu": [
+      ["Han Chengwu (Han the Attendant or Han the Crew Member)", "same person as x (different reference)"]
+    ],
+    "Liu Qi": [
+      ["Han Yimu", "bully of x"]
+    ],
+    "Xiu Renjie": [
+      ["Han Yimu", "friend of x"]
+    ],
+    "Lin Ruotong": [
+      ["Han Yimu", "dislike of x"]
+    ],
+    "Hong Zilian": [
+      ["Han Yimu", "dislike of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Han Yimu", "acquaintance of x"]
+    ],
+    "Han Chengwu (Han the Attendant or Han the Crew Member)": [
+      ["Liu Qi", "dislike of x"], 
+      ["Xiu Renjie", "friend of x"], 
+      ["Lin Ruotong", "dislike of x"], 
+      ["Hong Zilian", "dislike of x"], 
+      ["Zhang Wenyuan", "acquaintance of x"], 
+      ["Han Yimu", "same person as x (different reference)"]
+    ]
+}

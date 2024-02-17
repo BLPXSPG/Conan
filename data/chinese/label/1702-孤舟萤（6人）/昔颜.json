@@ -1,0 +1,89 @@
+{
+    "汪昔颜": [
+      ["汪舜明", "father of x"], 
+      ["昔容", "sister of x, co-wives of X"], 
+      ["崔寿亨", "brother in law of x, husband of x, enemy of X"], 
+      ["宝柑", "servant of X, Victim of x"], 
+      ["周蒙当", "friend of x, Ex-romantic relationships with X, Extramarital Affair with X"], 
+      ["宝柳", "Rival in love of X, Victim of x"], 
+      ["嫣楠", "niece of X, step-daughter of X"], 
+      ["宝桂", "servant of X"], 
+      ["甜愁", "co-wives of X"],
+      ["河嫂", "servant of X, helper of X"]
+    ],
+    "昔容": [
+      ["汪昔颜", "sister of x, co-wives of X"], 
+      ["汪舜明", "father of x"], 
+      ["崔寿亨", "husband of x"], 
+      ["宝柳", "servant of X"], 
+      ["嫣楠", "daughter of x"],
+      ["汪昔容", "Same person as X (different reference)"]
+    ],
+    "汪昔容": [
+      ["昔容", "Same person as X (different reference)"]
+    ],
+    "崔寿亨": [
+      ["宝柑", "servant of X, wife of X"], 
+      ["昔容", "wife of X"], 
+      ["周蒙当", "servant of x, employee of x"], 
+      ["汪昔颜", "wife of x, sister in law of x"], 
+      ["嫣楠", "daughter of x"],
+      ["河嫂", "servant of x"],
+      ["宝柑", "servant of X"]
+    ],
+    "宝柑": [
+      ["汪昔颜", "master of x, bully of x, co-wives of X"], 
+      ["崔寿亨", "master of x, husband of x"], 
+      ["昔容", "master of x, co-wives of X, bully of x"],
+      ["宝柳", "helper of X"],
+      ["甜愁", "Same person as X (different reference)"]
+    ],
+    "甜愁": [
+      ["崔寿亨", "husband of x"], 
+      ["宝柑", "Same person as X (different reference)"],
+      ["汪昔颜", "co-wives of X"]
+    ],
+    "周蒙当": [
+      ["周持同", "brother of x"], 
+      ["宝柳", "wife of x"], 
+      ["崔寿亨", "master of x, employer of x"], 
+      ["琏逸", "son of x"],
+      ["汪昔颜", "friend of x, Ex-romantic relationships with X, Extramarital Affair with X"]
+    ],
+    "周持同": [
+      ["周蒙当", "brother of x"], 
+      ["于氏", "sister in law of x"], 
+      ["琏逸", "nephew of x"]
+    ],
+    "宝柳": [
+      ["周蒙当", "husband of x"], 
+      ["周持同", "brother in law of x"], 
+      ["琏逸", "son of X"],
+      ["昔容", "master of x"],
+      ["崔寿亨", "master of x"],
+      ["宝柑", "helped by X"],
+      ["汪昔颜", "bully of x"]
+    ],
+    "琏逸": [
+      ["宝柳", "mother of x"], 
+      ["周蒙当", "father of x"], 
+      ["周持同", "uncle of x"], 
+      ["嫣楠", "friend of x"],
+      ["周琏逸", "Same person as X (different reference)"]
+    ],
+    "周琏逸": [
+      ["琏逸", "Same person as X (different reference)"]
+    ],
+    "嫣楠": [
+      ["昔容", "Mother of x"], 
+      ["崔寿亨", "Father of x"], 
+      ["汪昔颜", "Aunt of x, step-mother of X"], 
+      ["宝柑", "servant of x, friend of x"], 
+      ["宝柳", "servant of x"], 
+      ["琏逸", "Friend of x"], 
+      ["甜愁", "step-mother of X"]
+    ],
+    "宝桂": [
+      ["汪昔颜", "master of x"]
+    ]
+}

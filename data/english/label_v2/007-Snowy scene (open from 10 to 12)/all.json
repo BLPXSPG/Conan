@@ -1,0 +1,131 @@
+{
+    "Daniel Perry": [
+      ["Jacqueline Perry", "wife of x"], 
+      ["Marina Harrison", "sister in law of x, lover of x"], 
+      ["Harold Harrison", "brother in law of x"], 
+      ["Lucy Harrison", "biological daughter of x"], 
+      ["Davis Perry", "brother of x"], 
+      ["Robin Fey", "colleague of x"], 
+      ["Amy", "acquaintance of x"], 
+      ["John Morgan", "acquaintance of x"], 
+      ["Jonathan Perry", "son of x"], 
+      ["Joe Robertson", "acquaintance of x"]
+    ],
+    "Joe Robertson": [
+      ["Max Jones", "friend of x"], 
+      ["Interpol", "employer of x"], 
+      ["Daniel Perry", "acquaintance of x"], 
+      ["John Morgan", "acquaintance of x"], 
+      ["Amy Morgan", "acquaintance of x"], 
+      ["Lucy Harrison", "acquaintance of x"], 
+      ["Jonathan Perry", "acquaintance of x"]
+    ],
+    "Jonathan Perry": [
+      ["Jacqueline Perry", "mother of x"], 
+      ["Marina Harrison", "aunt of x"], 
+      ["Lucy Harrison", "cousin of x, secret lover of x"], 
+      ["Alex Harvey", "acquaintance of x"], 
+      ["John Morgan", "acquaintance of x"], 
+      ["Daniel Perry", "father of x"], 
+      ["Davis Perry", "uncle of x"]
+    ],
+    "Kristin Dunn": [
+      ["Max Pike", "business partner of x"], 
+      ["Joe Robertson", "acquaintance of x"]
+    ],
+    "Harold Harrison": [
+      ["Marina Harrison", "wife of x"], 
+      ["Lucy Harrison", "daughter of x"], 
+      ["Jacqueline Perry", "sister in law of x"], 
+      ["Daniel Perry", "brother in law of x"], 
+      ["Amy Morgan", "sister of x"], 
+      ["Anna", "ex-wife of x"], 
+      ["Max Pike", "acquaintance of x"], 
+      ["John Morgan", "brother in law of x"]
+    ],
+    "Davis Perry": [
+      ["Marina Harrison", "secret lover of x, sister in law of x"], 
+      ["Daniel Perry", "brother of x"], 
+      ["Jacqueline Perry", "sister in law of x"], 
+      ["John Morgan", "customer of x"], 
+      ["Lucy Harrison", "niece of x"], 
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Amy Morgan", "acquaintance of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Marina Harrison", "sister of x, hate of x"], 
+      ["Daniel Perry", "husband of x"], 
+      ["Jonathan Perry", "son of x"], 
+      ["Davis Perry", "brother in law of x"], 
+      ["Harold Harrison", "brother in law of x"], 
+      ["Lucy Harrison", "niece of x"], 
+      ["Alex Harvey", "cousin of x"]
+    ],
+    "Marina Harrison": [
+      ["Jacqueline Perry", "sister of x"], 
+      ["Harold Harrison", "husband of x"], 
+      ["Daniel Perry", "brother in law of x, secret lover of x"], 
+      ["Lucy Harrison", "daughter of x"], 
+      ["Jonathan Perry", "nephew of x"], 
+      ["Amy Morgan", "sister in law of x"], 
+      ["John Morgan", "brother in law of x"], 
+      ["Davis Perry", "acquaintance of x, secret lover of x"], 
+      ["Anna", "acquaintance of x"], 
+      ["Alex Harvey", "cousin of x"]
+    ],
+    "Robin Fey": [
+      ["Daniel Perry", "friend of x"], 
+      ["Marina Harrison", "acquaintance of x"], 
+      ["Jacqueline Perry", "acquaintance of x"], 
+      ["Jonathan Perry", "acquaintance of x"], 
+      ["Davis Perry", "acquaintance of x"], 
+      ["Lucy Harrison", "acquaintance of x"], 
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Amy Morgan", "acquaintance of x"], 
+      ["Max Pike", "acquaintance of x"]
+    ],
+    "Amy Morgan": [
+      ["Harold Harrison", "brother of x"], 
+      ["Anna", "sister in law of x"], 
+      ["Marina Harrison", "sister in law of x"], 
+      ["Lucy Harrison", "niece of x"], 
+      ["Max Pike", "acquaintance of x"], 
+      ["Alex Harvey", "friend of x"], 
+      ["John Morgan", "husband of x"], 
+      ["Jacqueline Perry", "acquaintance of x"], 
+      ["Davis Perry", "acquaintance of x"], 
+      ["Joe Robertson", "acquaintance of x"], 
+      ["Max Pike", "acquaintance of x"]
+    ],
+    "Alex Harvey": [
+      ["Marina Harrison", "cousin of x, friend of x"], 
+      ["Jacqueline Perry", "cousin of x"], 
+      ["Daniel Perry", "dislike of x"], 
+      ["Amy Morgan", "acquaintance of x, friend of x"], 
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Lucy Harrison", "acquaintance of x"], 
+      ["Jonathan Perry", "acquaintance of x"], 
+      ["John Morgan", "acquaintance of x"], 
+      ["Davis Perry", "acquaintance of x"]
+    ],
+    "Lucy Harrison": [
+      ["Marina Harrison", "mother of x"], 
+      ["Harold Harrison", "father of x"], 
+      ["Daniel Perry", "uncle of x"], 
+      ["Jacqueline Perry", "aunt of x"], 
+      ["Jonathan Perry", "cousin of x, secret lover of x"]
+    ],
+    "Sleer & Leech": [
+      ["Max Jones", "employee of x"]
+    ],
+    "Max Jones": [
+      ["Sleer & Leech", "employer of x"], 
+      ["Harold Harrison", "acquaintance of x"], 
+      ["Marina Harrison", "acquaintance of x"], 
+      ["Lucy Harrison", "dislike of x"], 
+      ["Max Pike", "same person as x (different reference)"]
+    ],
+    "Max Pike": [
+      ["Max Jones", "same person as x (different reference)"]
+    ]
+}

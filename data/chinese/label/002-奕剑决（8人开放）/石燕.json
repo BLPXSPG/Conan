@@ -1,0 +1,27 @@
+{
+    "石燕": [
+      ["红花夫人", "Mentor of X, Manipulator of X, Superior of X"],
+      ["杜仲", "Victim of X, Adversary of X"],
+      ["蜂", "Messenger of X"],
+      ["武林盟的调查人员", "Same person as X (different identity)"]
+    ],
+    "武林盟的调查人员": [
+      ["石燕", "Same person as X (different identity)"],
+      ["陆英", "Host of X"]
+    ],
+    "蜂": [
+      ["石燕", "Customer of X"]
+    ],
+    "红花夫人": [
+      ["石燕", "Student of X, Manipulated by X, Subordinate of X"],
+      ["杜仲", "Ex-romantic relationships with X, Adversary of X"]
+    ],
+    "杜仲": [
+      ["石燕", "Murderer of X"],
+      ["红花夫人", "Ex-romantic relationships with X"]
+    ],
+    "陆英": [
+      ["武林盟的调查人员", "Guest of X"]
+    ]
+  }
+  

@@ -1,0 +1,25 @@
+{
+    "决明": [
+        ["盗圣", "Same person as X (different identity)"],
+        ["玄冰教使者", "Same person as X (different identity)"],
+        ["蜂", "Messenger of X"]
+    ],
+    "盗圣": [
+      ["决明", "Same person as X (different identity)"]
+    ],
+    "玄冰教使者": [
+      ["决明", "Same person as X (different identity)"],
+      ["紫苏", "Acquaintance of X"],
+      ["陆英", "Host of X"]
+    ],
+    "陆英": [
+      ["玄冰教使者", "Guest of X"]
+    ],
+    "蜂": [
+      ["决明", "Customer of X"]
+    ],
+    "紫苏": [
+      ["玄冰教使者", "Acquaintance of X"]
+    ]
+  }
+  

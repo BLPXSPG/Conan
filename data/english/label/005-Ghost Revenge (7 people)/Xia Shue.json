@@ -1,0 +1,176 @@
+{
+    "Xia Shue": [
+        [
+            "Xia Bolong",
+            "father of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "uncle of X, mentor of x, helper of x, helped by X"
+        ],
+        [
+            "Xia Sanhu",
+            "uncle of X, mentor of x, helper of x"
+        ],
+        [
+            "Luo Ming",
+            "Student of X"
+        ],
+        [
+            "Yue Kesa",
+            "Student of X, helper of X, victim of X"
+        ],
+        [
+            "Wu Baian",
+            "Colleague of X, Informant of X"
+        ],
+        [
+            "Wu Xiao",
+            "Informant of X"
+        ],
+        [
+            "Luo Yisi",
+            "Friend of X, Informant of X"
+        ],
+        [
+            "Auntie Yi",
+            "Informant of X"
+        ]
+    ],
+    "Xia Bolong": [
+        [
+            "Dr. Li",
+            "Doctor of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Brother of X, Subordinate of X"
+        ],
+        [
+            "Xia Shue",
+            "Daughter of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Brother of X, Subordinate of X, murderer of X"
+        ]
+    ],
+    "Xia Zhongpeng": [
+        [
+            "Xia Bolong",
+            "Brother of X, Superior of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Brother of X, Helped by X, Killed by X"
+        ],
+        [
+            "Xia Shue",
+            "Niece of X, student of X, helped by x, helper of X"
+        ],
+        [
+            "Japanese",
+            "Rival of X"
+        ],
+        [
+            "Luo Ming",
+            "Subordinate of X"
+        ]
+    ],
+    "Xia Sanhu": [
+        [
+            "Xia Zhongpeng",
+            "Brother of X"
+        ],
+        [
+            "Xia Bolong",
+            "Brother of X, Superior of X"
+        ],
+        [
+            "Xia Shue",
+            "Niece of X, helped by X"
+        ],
+        [
+            "Feng's Descendant",
+            "Rival of X"
+        ],
+        [
+            "Luo Ming",
+            "Subordinate of X, Quest Companion of X"
+        ]
+    ],
+    "Luo Ming": [
+        [
+            "Xia Zhongpeng",
+            "Superior of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Superior of X"
+        ],
+        [
+            "Xia Shue",
+            "Mentor of X"
+        ],
+        [
+            "Yue Kesa",
+            "Schoolmate of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Superior of X, Quest Companion of X"
+        ],
+        [
+            "Aming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Aming": [
+        [
+            "Luo Ming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yue Kesa": [
+        [
+            "Xia Shue",
+            "Mentor of X, helped by X, perpetrator of x"
+        ],
+        [
+            "Luo Ming",
+            "Schoolmate of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Superior of X"
+        ]
+    ],
+    "Wu Baian": [
+        [
+            "Xia Shue",
+            "Colleague of X, Information Receiver from X"
+        ],
+        [
+            "Wu Xiao",
+            "Son of X"
+        ]
+    ],
+    "Wu Xiao": [
+        [
+            "Xia Shue",
+            "Information Receiver from X"
+        ]
+    ],
+    "Luo Yisi": [
+        [
+            "Xia Shue",
+            "friend of X, Information Receiver from X"
+        ]
+    ],
+    "Auntie Yi": [
+        [
+            "Xia Shue",
+            "Information Receiver from X"
+        ]
+    ]
+}

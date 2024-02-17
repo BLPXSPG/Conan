@@ -1,0 +1,118 @@
+{
+    "Gu Mengchu": [
+        [
+            "Gu Zhiyu",
+            "grandfather of X"
+        ],
+        [
+            "Gu Lianshan",
+            "father of X"
+        ],
+        [
+            "Ms. Mei",
+            "mother of X"
+        ],
+        [
+            "Mu Boxuan",
+            "friend of X"
+        ],
+        [
+            "Rou'er",
+            "sister of X"
+        ],
+        [
+            "Xiting",
+            "fiance of X"
+        ]
+    ],
+    "Xiting": [
+        [
+            "Gu Mengchu",
+            "fiancee of X"
+        ],
+        [
+            "Xinger",
+            "servant of X"
+        ]
+    ],
+    "Xinger": [
+        [
+            "Xiting",
+            "master of X"
+        ],
+        [
+            "Gu Mengchu",
+            "master of X"
+        ]
+    ],
+    "Gu Zhiyu": [
+        [
+            "Gu Lianshan",
+            "son of X"
+        ],
+        [
+            "Gu Mengchu",
+            "grandson of X"
+        ],
+        [
+            "Ms. Mei",
+            "daughter in law of X"
+        ]
+    ],
+    "Gu Lianshan": [
+        [
+            "Gu Zhiyu",
+            "father of X"
+        ],
+        [
+            "Ms. Mei",
+            "wife of X"
+        ],
+        [
+            "Gu Mengchu",
+            "son of X"
+        ],
+        [
+            "Yang Shuixun",
+            "friend of X"
+        ]
+    ],
+    "Yang Shuixun": [
+        [
+            "Gu Lianshan",
+            "friend of X"
+        ],
+        [
+            "Minxi",
+            "daughter of X"
+        ]
+    ],
+    "Minxi": [
+        [
+            "Yang Shuixun",
+            "father of X"
+        ],
+        [
+            "Gu Mengchu",
+            "friend of X"
+        ]
+    ],
+    "Brother Gu": [
+        [
+            "Gu Mengchu",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Zhang Shanren": [
+        [
+            "Zhang Fanghao",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Zhang Fanghao": [
+        [
+            "Uncle Yu",
+            "employee of X, servant of X"
+        ]
+    ]
+}

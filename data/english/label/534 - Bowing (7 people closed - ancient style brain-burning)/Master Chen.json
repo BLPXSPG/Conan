@@ -1,0 +1,140 @@
+{
+    "Master Chen": [
+        [
+            "Te'ertelafoerde (Old Trafford)",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Chen Zijing",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Li Wangye (Lord Li)",
+            "friend of X, quest companion of X, future relative of X"
+        ],
+        [
+            "Er Yisi Bada",
+            "superior of X"
+        ],
+        [
+            "Chen Qian",
+            "daughter of X"
+        ],
+        [
+            "Li Zhong",
+            "son in law of x"
+        ]
+    ],
+    "Te'ertelafoerde (Old Trafford)": [
+        [
+            "Master Chen",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Chen Zijing",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Chen Zijing": [
+        [
+            "Master Chen",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Te'ertelafoerde (Old Trafford)",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Li Wangye (Lord Li)": [
+        [
+            "Master Chen",
+            "friend of X"
+        ],
+        [
+            "Fang Xu",
+            "wife of X"
+        ],
+        [
+            "Li Zhong",
+            "son of X"
+        ],
+        [
+            "Li Yan",
+            "son of X"
+        ]
+    ],
+    "Er Yisi Bada": [
+        [
+            "Master Chen",
+            "friend of X"
+        ],
+        [
+            "Xiao Qian",
+            "adoptive daughter of X"
+        ]
+    ],
+    "Li Zhong": [
+        [
+            "Master Chen",
+            "father in law of X"
+        ],
+        [
+            "Chen Qian",
+            "fiance of X"
+        ],
+        [
+            "Li Wangye (Lord Li)",
+            "father of X"
+        ],
+        [
+            "Li Yan",
+            "younger brother of X"
+        ]
+    ],
+    "Chen Qian": [
+        [
+            "Master Chen",
+            "father of X"
+        ],
+        [
+            "Li Wangye (Lord Li)",
+            "father in law of X"
+        ],
+        [
+            "Li Zhong",
+            "fiance of X"
+        ],
+        [
+            "Xiao Qian",
+            "friend of X"
+        ]
+    ],
+    "Li Yan": [
+        [
+            "Li Wangye (Lord Li)",
+            "father of X"
+        ],
+        [
+            "Li Zhong",
+            "older brother of X"
+        ]
+    ],
+    "Fang Xu": [
+        [
+            "Master Chen",
+            "friend of X"
+        ],
+        [
+            "Li Wangye (Lord Li)",
+            "husband of X"
+        ],
+        [
+            "Li Zhong",
+            "son of X"
+        ],
+        [
+            "Li Yan",
+            "son of X"
+        ]
+    ]
+}

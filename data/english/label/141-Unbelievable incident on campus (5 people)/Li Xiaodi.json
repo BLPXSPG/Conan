@@ -1,0 +1,120 @@
+{
+    "Li Xiaodi": [
+        [
+            "Li Dage",
+            "Cousin of X"
+        ],
+        [
+            "Zhang Eba",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Acquaintance of X"
+        ],
+        [
+            "Lin Xiaohua",
+            "Acquaintance of X"
+        ],
+        [
+            "Hao Guimi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Li Dage": [
+        [
+            "Li Xiaodi",
+            "Cousin of X"
+        ],
+        [
+            "Zhang Eba",
+            "Schoolmate of X, Bully of X"
+        ]
+    ],
+    "Zhang Eba": [
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Dage",
+            "Victim of X"
+        ],
+        [
+            "Lin Xiaohua",
+            "Fiance of X"
+        ],
+        [
+            "Hao Guimi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Wang Xuexi": [
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Acquaintance of X"
+        ]
+    ],
+    "Zhao Shuaige": [
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Lin Xiaohua": [
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Fiance of X"
+        ],
+        [
+            "Hao Guimi",
+            "Friend of X"
+        ]
+    ],
+    "Hao Guimi": [
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Acquaintance of X"
+        ],
+        [
+            "Lin Xiaohua",
+            "Friend of X"
+        ]
+    ]
+}

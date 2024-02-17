@@ -1,0 +1,18 @@
+{
+    "弗兰克·比杰利": [
+      ["托尼", "brother of x"], 
+      ["神父汤姆", "employer of x"], 
+      ["德雷克·里莫瑞特", "doctor of x"]
+    ],
+    "托尼": [
+      ["弗兰克·比杰利", "brother of x"], 
+      ["神父汤姆", "manipulator of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["弗兰克·比杰利", "customer of x"]
+    ],
+    "神父汤姆": [
+      ["弗兰克·比杰利", "employee of x"], 
+      ["托尼", "manipulated by x, deceived by x"]
+    ]
+}

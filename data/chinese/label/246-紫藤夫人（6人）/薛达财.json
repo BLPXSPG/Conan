@@ -1,0 +1,65 @@
+{
+    "薛达财": [
+        ["薛玉帆", "Son of X"],
+        ["朱陵山", "Cousin of X"],
+        ["葛继先", "Friend of X"],
+        ["吕松年", "Acquaintance of X, Buyer of X"],
+        ["吕陆升", "Acquaintance of X, Buyer of X"],
+        ["张太太", "Acquaintance of X"],
+        ["于尚勇", "Acquaintance of X"]
+    ],
+    "薛玉帆": [
+        ["薛达财", "Father of X"],
+        ["张太太", "Acquaintance of X"],
+        ["于彦诚", "Acquaintance of X"],
+        ["吕陆升", "Acquaintance of X, Buyer of X"],
+        ["葛月萝", "Relative of X"],
+        ["葛月曼", "Relative of X"]
+    ],
+    "朱陵山": [
+        ["葛月萝", "Wife of X"],
+        ["葛继先", "Father in law of X"],
+        ["薛达财", "Cousin of X"],
+        ["薛玉帆", "Relative of X"]
+    ],
+    "葛继先": [
+        ["葛月萝", "Daughter of X"],
+        ["葛月曼", "Daughter of X"],
+        ["朱陵山", "Son in law of X"],
+        ["薛达财", "Friend of X"]
+    ],
+    "葛月萝": [
+        ["葛继先", "Father of X"],
+        ["葛月曼", "Sister of X"],
+        ["朱陵山", "Husband of X"],
+        ["薛玉帆", "Relative of X"]
+    ],
+    "葛月曼": [
+        ["葛继先", "Father of X"],
+        ["葛月萝", "Sister of X"],
+        ["朱陵山", "Brother in law of X"],
+        ["薛玉帆", "Relative of X"]
+    ],
+    "张太太": [
+        ["薛玉帆", "Secret admirer of X"],
+        ["于彦诚", "Acquaintance of X"]
+    ],
+    "吕松年": [
+        ["薛达财", "Acquaintance of X, Customer of X"],
+        ["吕陆升", "Brother of X"],
+        ["薛玉帆", "Acquaintance of X, Customer of X"]
+    ],
+    "吕陆升": [
+        ["薛达财", "Acquaintance of X, Customer of X"],
+        ["吕松年", "Brother of X"],
+        ["薛玉帆", "Acquaintance of X, Customer of X"]
+    ],
+    "于彦诚": [
+        ["薛玉帆", "Rival of X"],
+        ["张太太", "Acquaintance of X"]
+    ],
+    "于尚勇": [
+        ["薛达财", "Acquaintance of X"],
+        ["薛玉帆", "Acquaintance of X"]
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "西尔维娅·科斯塔": [
+      ["汉斯·里莫瑞特", "Colleague of X, Manipulated by X, Deceived by X"],
+      ["母亲", "Mother of X"],
+      ["盖尔·里莫瑞特", "Lawyer of X"],
+      ["德雷克·里莫瑞特", "Colleague of X"],
+      ["安德鲁·帕洛斯基", "Colleague of X"],
+      ["伊莱恩·卡特尔", "Colleague of X"],
+      ["理查德·伯克利", "Superior of X, Colleague of X"],
+      ["詹姆斯·莱利", "Creditor of X, Manipulator of X"],
+      ["吉姆·梅森", "Victim of X"],
+      ["护士长科斯塔", "Same person as X (different reference)"]
+    ],
+    "护士长科斯塔": [
+      ["西尔维娅·科斯塔", "Same person as X (different reference)"]
+    ],
+    "母亲": [
+      ["西尔维娅·科斯塔", "Daughter of X"]
+    ],
+    "吉姆·梅森": [
+      ["西尔维娅·科斯塔", "Perpetrator of X"],
+      ["汉斯·里莫瑞特", "perpetrator of x"]
+    ],
+    "詹姆斯·莱利": [
+      ["西尔维娅·科斯塔", "Manipulated by X, Debtor of X"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["西尔维娅·科斯塔", "Colleague of X, Manipulator of X, Deceiver of X"],
+      ["理查德·伯克利", "Superior of X, Colleague of X"],
+      ["盖尔·里莫瑞特", "Wife of X"],
+      ["吉姆·梅森", "Victim of X, Patient of X"],
+      ["德雷克·里莫瑞特", "Brother of X, Colleague of X"],
+      ["伊莱恩·卡特尔", "Colleague of X"],
+      ["安德鲁·帕洛斯基", "Colleague of X"],
+      ["西尔维娅·科斯塔", "Colleague of X"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["西尔维娅·科斯塔", "Customer of X"],
+      ["汉斯·里莫瑞特", "Husband of X"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["理查德·伯克利", "Superior of X, Colleague of X"],
+      ["汉斯·里莫瑞特", "Brother of X, Colleague of X"],
+      ["伊莱恩·卡特尔", "Colleague of X"],
+      ["安德鲁·帕洛斯基", "Colleague of X"],
+      ["西尔维娅·科斯塔", "Colleague of X"]
+    ],
+    "安德鲁·帕洛斯基": [
+      ["理查德·伯克利", "Superior of X, Colleague of X"],
+      ["伊莱恩·卡特尔", "Colleague of X, Student of X"],
+      ["德雷克·里莫瑞特", "Colleague of X"],
+      ["汉斯·里莫瑞特", "Colleague of X"],
+      ["西尔维娅·科斯塔", "Colleague of X"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["理查德·伯克利", "Superior of X, Colleague of X"],
+      ["安德鲁·帕洛斯基", "Colleague of X"],
+      ["德雷克·里莫瑞特", "Colleague of X"],
+      ["汉斯·里莫瑞特", "Colleague of X"],
+      ["西尔维娅·科斯塔", "Colleague of X"]
+    ],
+    "理查德·伯克利": [
+      ["西尔维娅·科斯塔", "Subordinate of X, Colleague of X"],
+      ["德雷克·里莫瑞特", "Subordinate of X, Colleague of X"],
+      ["汉斯·里莫瑞特", "Subordinate of X, Colleague of X"],
+      ["伊莱恩·卡特尔", "Subordinate of X, Colleague of X"]
+    ]
+  }
+  

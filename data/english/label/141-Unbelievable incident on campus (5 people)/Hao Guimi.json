@@ -1,0 +1,36 @@
+{
+    "Hao Guimi": [
+        [
+            "Cousin Sister",
+            "Cousin of X"
+        ],
+        [
+            "Zhang Eba",
+            "Rebellion against X"
+        ],
+        [
+            "Lin Xiaohua",
+            "Friend of X"
+        ]
+    ],
+    "Cousin Sister": [
+        [
+            "Hao Guimi",
+            "Cousin of X"
+        ],
+        [
+            "Zhang Eba",
+            "Murderer of X"
+        ]
+    ],
+    "Lin Xiaohua": [
+        [
+            "Hao Guimi",
+            "Friend of X"
+        ],
+        [
+            "Zhang Eba",
+            "Fiance of X"
+        ]
+    ]
+}

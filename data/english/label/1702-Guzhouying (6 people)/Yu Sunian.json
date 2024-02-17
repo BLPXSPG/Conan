@@ -1,0 +1,304 @@
+{
+    "Yu Sunian": [
+        [
+            "Yu Shi",
+            "sister of X"
+        ],
+        [
+            "Zhou Mengdang",
+            "brother in law of x"
+        ],
+        [
+            "Zhou Chitong",
+            "Relative of X"
+        ],
+        [
+            "Cui Shouheng",
+            "enemy of X, Perpetrator of X's family"
+        ],
+        [
+            "Zhou Lianyi",
+            "nephew of X, friend of x"
+        ],
+        [
+            "Cui Yannan",
+            "lover of x, student of x, friend of x"
+        ],
+        [
+            "Wang Shi",
+            "killed by X"
+        ],
+        [
+            "Bao Gan",
+            "Acquaintance of X"
+        ],
+        [
+            "He Sao",
+            "Acquaintance of X"
+        ]
+    ],
+    "He Sao": [
+        [
+            "Yu Sunian",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Shi",
+            "master of X"
+        ],
+        [
+            "Yannan",
+            "master of X"
+        ],
+        [
+            "Xi Yan",
+            "master of X"
+        ],
+        [
+            "Cui Shouheng",
+            "master of X"
+        ]
+    ],
+    "Wang Shi": [
+        [
+            "Zhou Lianyi",
+            "Helped by X"
+        ],
+        [
+            "Yu Shi",
+            "Helped by X, servant of x"
+        ],
+        [
+            "Yu Sunian",
+            "Murderer of X"
+        ],
+        [
+            "Yannan",
+            "daughter of x"
+        ],
+        [
+            "Cui Shouheng",
+            "husband of X"
+        ],
+        [
+            "Bao Gan",
+            "servant of X"
+        ],
+        [
+            "He Sao",
+            "servant of X"
+        ],
+        [
+            "Xi Yan",
+            "sister of x, co-wives of X"
+        ]
+    ],
+    "Yu Shi": [
+        [
+            "Yu Sunian",
+            "brother of x"
+        ],
+        [
+            "Zhou Mengdang",
+            "husband of x"
+        ],
+        [
+            "Zhou Chitong",
+            "brother in law of x"
+        ],
+        [
+            "Lianyi",
+            "son of X"
+        ],
+        [
+            "Wang Shi",
+            "Helper of X, master of x"
+        ],
+        [
+            "Cui Shouheng",
+            "master of X"
+        ]
+    ],
+    "Zhou Mengdang": [
+        [
+            "Zhou Chitong",
+            "brother of x"
+        ],
+        [
+            "Yu Sunian",
+            "brother in law of x"
+        ],
+        [
+            "Yu Shi",
+            "wife of x"
+        ],
+        [
+            "Cui Shouheng",
+            "master of x, employer of x"
+        ],
+        [
+            "Lianyi",
+            "son of x"
+        ]
+    ],
+    "Zhou Chitong": [
+        [
+            "Zhou Mengdang",
+            "brother of x"
+        ],
+        [
+            "Yu Sunian",
+            "Acquaintance of X, Neighbour of X"
+        ],
+        [
+            "Yu Shi",
+            "sister in law of x"
+        ],
+        [
+            "Lianyi",
+            "nephew of x"
+        ]
+    ],
+    "Cui Shouheng": [
+        [
+            "Yu Sunian",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Shi",
+            "wife of x"
+        ],
+        [
+            "Zhou Mengdang",
+            "servant of x, employee of x"
+        ],
+        [
+            "Xi Yan",
+            "wife of x, sister in law of x"
+        ],
+        [
+            "Yannan",
+            "daughter of x"
+        ],
+        [
+            "He Sao",
+            "servant of x"
+        ],
+        [
+            "Bao Gan",
+            "servant of X"
+        ]
+    ],
+    "Lianyi": [
+        [
+            "Yu Sunian",
+            "uncle of x, friend of x"
+        ],
+        [
+            "Yu Shi",
+            "mother of x"
+        ],
+        [
+            "Zhou Mengdang",
+            "father of x"
+        ],
+        [
+            "Zhou Chitong",
+            "uncle of x"
+        ],
+        [
+            "Yannan",
+            "friend of x"
+        ],
+        [
+            "Zhou Lianyi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Zhou Lianyi": [
+        [
+            "Lianyi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yannan": [
+        [
+            "Yu Sunian",
+            "lover of x, mentor of x, friend of x"
+        ],
+        [
+            "Cui Shouheng",
+            "father of x"
+        ],
+        [
+            "Lianyi",
+            "friend of x"
+        ],
+        [
+            "Bao Gan",
+            "Servant of x"
+        ],
+        [
+            "He Sao",
+            "servant of X"
+        ],
+        [
+            "Wang Shi",
+            "mother of x"
+        ],
+        [
+            "Cui Yannan",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Xi Yan",
+            "step-mother of X, aunt of x"
+        ]
+    ],
+    "Cui Yannan": [
+        [
+            "Yannan",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Xi Yan": [
+        [
+            "He Sao",
+            "servant of X"
+        ],
+        [
+            "Cui Shouheng",
+            "brother in law of x, husband of x"
+        ],
+        [
+            "Wang Shi",
+            "sister of x, co-wives of X"
+        ],
+        [
+            "Cui Yannan",
+            "Niece of X, step-daughter of X"
+        ]
+    ],
+    "Bao Gan": [
+        [
+            "Cui Shouheng",
+            "master of x"
+        ],
+        [
+            "Yannan",
+            "master of x"
+        ],
+        [
+            "Wang Shi",
+            "master of x"
+        ],
+        [
+            "Yu Sunian",
+            "acquaintance of x"
+        ],
+        [
+            "He Sao",
+            "Acquaintance of X"
+        ]
+    ]
+}

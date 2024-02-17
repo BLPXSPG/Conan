@@ -1,0 +1,51 @@
+{
+    "李氏": [
+      ["方絮", "same person as x (different reference)"]
+    ],
+    "方絮": [
+      ["方叶", "older brother of x"], 
+      ["方眠", "younger sister of x"], 
+      ["收养的男孩", "adoptive brother of x, lover of x"], 
+      ["李钦仁", "husband of x"], 
+      ["李仲", "son of x"], 
+      ["李延", "son of x"], 
+      ["陈倩", "daughter in law of x"], 
+      ["李氏", "same person as x (different reference)"]
+    ],
+    "方竹": [
+      ["收养的男孩", "same person as x (different reference)"]
+    ],
+    "方叶": [
+      ["方絮", "younger sister of x"]
+    ],
+    "方眠": [
+      ["方絮", "older sister of x"]
+    ],
+    "收养的男孩": [
+      ["方絮", "adoptive sister of x, lover of x"], 
+      ["李延", "son of x"], 
+      ["李仲", "son of x"], 
+      ["方竹", "same person as x (different reference)"]
+    ],
+    "李钦仁": [
+      ["方絮", "wife of x"], 
+      ["李仲", "son of x"], 
+      ["李延", "son of x"]
+    ],
+    "李仲": [
+      ["方絮", "mother of x"], 
+      ["李钦仁", "father of x"], 
+      ["陈倩", "fiancee of x"], 
+      ["李延", "brother of x"]
+    ],
+    "李延": [
+      ["方絮", "mother of x"], 
+      ["李钦仁", "father of x"], 
+      ["方竹", "biological father of x"], 
+      ["李仲", "brother of x, rival in love of x"]
+    ],
+    "陈倩": [
+      ["李仲", "fiance of x"], 
+      ["李延", "lover of x"]
+    ]
+}

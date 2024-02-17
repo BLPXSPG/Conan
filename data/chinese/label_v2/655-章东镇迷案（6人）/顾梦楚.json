@@ -1,0 +1,48 @@
+{
+    "顾梦楚": [
+      ["顾哥哥", "same person as x (different reference)"]
+    ],
+    "夕婷": [
+      ["顾梦楚", "fiancee of x"], 
+      ["杏儿", "servant of x"]
+    ],
+    "杏儿": [
+      ["夕婷", "master of x"], 
+      ["顾梦楚", "master of x"]
+    ],
+    "顾志裕": [
+      ["顾琏赡", "son of x"], 
+      ["顾梦楚", "grandson of x"], 
+      ["梅氏", "daughter in law of x"]
+    ],
+    "顾琏赡": [
+      ["顾志裕", "father of x"], 
+      ["梅氏", "wife of x"], 
+      ["顾梦楚", "son of x"], 
+      ["杨水巡", "friend of x"]
+    ],
+    "杨水巡": [
+      ["顾琏赡", "friend of x"], 
+      ["敏兮", "daughter of x"]
+    ],
+    "敏兮": [
+      ["杨水巡", "father of x"], 
+      ["顾梦楚", "friend of x"]
+    ],
+    "顾哥哥": [
+      ["顾志裕", "grandfather of x"], 
+      ["顾琏赡", "father of x"], 
+      ["梅氏", "mother of x"], 
+      ["穆伯宣", "friend of x"], 
+      ["柔儿", "sister of x"], 
+      ["夕婷", "fiance of x"], 
+      ["顾梦楚", "same person as x (different reference)"]
+    ],
+    "章善人": [
+      ["于伯", "employee of x, servant of x"], 
+      ["章方豪", "same person as x (different reference)"]
+    ],
+    "章方豪": [
+      ["章善人", "same person as x (different reference)"]
+    ]
+}

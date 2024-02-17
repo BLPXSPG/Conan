@@ -1,0 +1,41 @@
+{
+    "张金银": [
+      ["孟三春", "sworn brother of x"], 
+      ["张金山", "brother of x"], 
+      ["洪江水", "employee of x"], 
+      ["蔡思娘", "employee of x"], 
+      ["洪长烈", "enemy of x"], 
+      ["洪二郎", "enemy of x"]
+    ],
+    "孟三春": [
+      ["张金银", "sworn brother of x"], 
+      ["张金山", "friend of x"], 
+      ["张红生", "wife of x"], 
+      ["洪江水", "employee of x"], 
+      ["蔡思娘", "employee of x"], 
+      ["洪长烈", "enemy of x"], 
+      ["洪二郎", "enemy of x"]
+    ],
+    "张金山": [
+      ["张金银", "brother of x"], 
+      ["孟三春", "friend of x"]
+    ],
+    "洪江水": [
+      ["张金银", "employer of x"], 
+      ["孟三春", "employer of x"], 
+      ["蔡思娘", "colleague of x"]
+    ],
+    "蔡思娘": [
+      ["张金银", "employer of x"], 
+      ["孟三春", "employer of x"], 
+      ["洪江水", "colleague of x"]
+    ],
+    "洪长烈": [
+      ["张金银", "enemy of x"], 
+      ["孟三春", "enemy of x"]
+    ],
+    "洪二郎": [
+      ["张金银", "enemy of x"], 
+      ["孟三春", "enemy of x"]
+    ]
+}

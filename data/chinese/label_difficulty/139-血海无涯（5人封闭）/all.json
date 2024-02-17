@@ -1,0 +1,29 @@
+{
+    "庄清纯": [
+      ["秦老大", "adoptive brother of x"], 
+      ["萧体育", "romantic relationships with x, suspicious of x"], 
+      ["贾美丽", "hate of x, victim of x"], 
+      ["薛媚娘", "rival in love of x"]
+    ],
+    "秦专家": [
+      ["秦老大", "hate of x, son of x"]
+    ],
+    "秦老大": [
+      ["庄清纯", "adoptive sister of x"], 
+      ["韦小弟", "hate of x, murderer of x"]
+    ],
+    "贾美丽": [
+      ["庄清纯", "hate of x, murderer of x"], 
+      ["萧体育", "victim of x"]
+    ],
+    "萧体育": [
+      ["贾美丽", "perpetrator of x"]
+    ],
+    "郑友好": [
+      ["庄清纯", "dislike of x"]
+    ],
+    "韦小弟": [
+      ["秦老大", "victim of x"], 
+      ["庄清纯", "dislike of x"]
+    ]
+}

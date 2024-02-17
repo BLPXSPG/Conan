@@ -1,0 +1,366 @@
+{
+    "Du Zhong": [
+        [
+            "Wang You",
+            "Sworn Brother of X, Mentor of X"
+        ],
+        [
+            "Xuan Can",
+            "Sworn Brother of X, Mentor of X, Murderer of X"
+        ],
+        [
+            "Du Zhong's Child",
+            "Child of X"
+        ],
+        [
+            "Lady Safflower",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Shi Yan",
+            "Attempted Murderer of X"
+        ],
+        [
+            "Lu Ying",
+            "Student of X"
+        ],
+        [
+            "Ling Xiao",
+            "Student of X, Attempted Murderer of X"
+        ],
+        [
+            "Zi Su",
+            "Student of X"
+        ],
+        [
+            "Master",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Mysterious Ice Sect's Divine Melody Envoy",
+            "Adversary of X"
+        ]
+    ],
+    "Master": [
+        [
+            "Du Zhong",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Xuan Can": [
+        [
+            "Du Zhong",
+            "Sworn Brother of X, Victim of X"
+        ],
+        [
+            "Ren Dong",
+            "Informant of X"
+        ],
+        [
+            "Lu Ying",
+            "Student of X"
+        ],
+        [
+            "Wang You",
+            "Sworn Brother of X"
+        ],
+        [
+            "Song Jie",
+            "Guest of X"
+        ],
+        [
+            "Second Senior Uncle",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Second Senior Uncle": [
+        [
+            "Xuan Can",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Wang You": [
+        [
+            "Du Zhong",
+            "Sworn Brother of X"
+        ],
+        [
+            "Xuan Can",
+            "Sworn Brother of X"
+        ],
+        [
+            "Du Zhong's Child",
+            "Nephew of X"
+        ],
+        [
+            "Song Jie",
+            "suspected by X"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Xuan Can",
+            "Mentor of X"
+        ],
+        [
+            "Suspicious Person",
+            "Suspected by X"
+        ],
+        [
+            "Eldest Senior Brother",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "Guest of X"
+        ],
+        [
+            "Martial Alliance's Investigator",
+            "Guest of X"
+        ],
+        [
+            "Du Zhong",
+            "Mentor of X"
+        ],
+        [
+            "Ling Xiao",
+            "Schoolmate of X"
+        ],
+        [
+            "Zi Su",
+            "Schoolmate of X"
+        ],
+        [
+            "Lu Ying's Lover",
+            "Romantic relationships with X"
+        ]
+    ],
+    "Eldest Senior Brother": [
+        [
+            "Lu Ying",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Lu Ying's Lover": [
+        [
+            "Lu Ying",
+            "Romantic relationships with X"
+        ]
+    ],
+    "Ling Xiao": [
+        [
+            "Master",
+            "Mentor of X, Victim of X"
+        ],
+        [
+            "Eldest Senior Brother",
+            "Schoolmate of X"
+        ],
+        [
+            "Second Senior Uncle",
+            "Mentor of X"
+        ],
+        [
+            "Feng",
+            "Messenger of X"
+        ],
+        [
+            "Second Junior Brother",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Second Junior Brother": [
+        [
+            "Ling Xiao",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Zi Su": [
+        [
+            "Du Zhong",
+            "Jealous of X, Mentor of X"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "Acquaintance of X"
+        ],
+        [
+            "Mysterious Ice Sect's Divine Melody Envoy",
+            "Acquaintance of X, Superior of X"
+        ],
+        [
+            "Third Junior Brother",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Third Junior Brother": [
+        [
+            "Zi Su",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Shi Yan": [
+        [
+            "Lady Safflower",
+            "Mentor of X, Master of X"
+        ],
+        [
+            "Du Zhong",
+            "Victim of X, Adversary of X"
+        ],
+        [
+            "Feng",
+            "Messenger of X"
+        ],
+        [
+            "Du Zhong's Child",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Martial Alliance's Investigator",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Martial Alliance's Investigator": [
+        [
+            "Shi Yan",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Lu Ying",
+            "Host of X"
+        ]
+    ],
+    "Du Zhong's Child": [
+        [
+            "Du Zhong",
+            "Father of X"
+        ],
+        [
+            "Lady Safflower",
+            "Mother of X"
+        ],
+        [
+            "Wang You",
+            "Uncle of X"
+        ],
+        [
+            "Shi Yan",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Lady Safflower": [
+        [
+            "Shi Yan",
+            "Student of X, Servant of X"
+        ],
+        [
+            "Du Zhong",
+            "Ex-romantic relationships with X, Adversary of X"
+        ]
+    ],
+    "Feng": [
+        [
+            "Ling Xiao",
+            "Customer of X"
+        ],
+        [
+            "Shi Yan",
+            "Customer of X"
+        ],
+        [
+            "Song Jie",
+            "Employee of X"
+        ],
+        [
+            "Jue Ming",
+            "Customer of X"
+        ]
+    ],
+    "Mysterious Ice Sect's Divine Melody Envoy": [
+        [
+            "Zi Su",
+            "Acquaintance of X, Subordinate of X"
+        ]
+    ],
+    "Jue Ming": [
+        [
+            "Saint of Thieves",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Zi Su",
+            "Acquaintance of X"
+        ],
+        [
+            "Feng",
+            "Messenger of X"
+        ]
+    ],
+    "Saint of Thieves": [
+        [
+            "Jue Ming",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Mysterious Ice Sect's Messenger": [
+        [
+            "Jue Ming",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Lu Ying",
+            "Host of X"
+        ]
+    ],
+    "Song Jie": [
+        [
+            "Feng",
+            "Employer of X"
+        ],
+        [
+            "Mysterious Ice Sect's Messenger",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Saint of Thieves",
+            "Suspected by X"
+        ],
+        [
+            "Ren Dong",
+            "Helper of X, Quest Companion of X, Colleague of X"
+        ],
+        [
+            "Martial Alliance's Messenger",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Martial Alliance's Messenger": [
+        [
+            "Song Jie",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Xuan Can",
+            "Host of X"
+        ],
+        [
+            "Lu Ying",
+            "suspect to X"
+        ]
+    ],
+    "Ren Dong": [
+        [
+            "Song Jie",
+            "Seeker of Help from X, Quest Companion of X, Colleague of X"
+        ],
+        [
+            "Xuan Can",
+            "Information Receiver from X"
+        ]
+    ]
+}

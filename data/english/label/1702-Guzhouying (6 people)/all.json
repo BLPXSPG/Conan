@@ -1,0 +1,494 @@
+{
+    "Tian Chou": [
+        [
+            "Sun Xian'en",
+            "brother of x"
+        ],
+        [
+            "Zhang Pozai",
+            "enemy of x, perpetrator of x"
+        ],
+        [
+            "Zhou Mengdang",
+            "enemy of x, perpetrator of x, Perpetrator of X's family"
+        ],
+        [
+            "Wang Xi Rong",
+            "helper of x"
+        ],
+        [
+            "Bao Liu",
+            "friend of x, helper of x, X's enemy's family, betrayer of x, victim of x"
+        ],
+        [
+            "Wang Xi Yan",
+            "master of x, bully of x, co-wives of X"
+        ],
+        [
+            "Cui Shouheng",
+            "Creditor of X, perpetrator of x, husband of x"
+        ],
+        [
+            "Zhou Chitong",
+            "helper of x, X's enemy's family, Informant of X, manipulated by x"
+        ],
+        [
+            "Zhou Lianyi",
+            "X's enemy's family"
+        ],
+        [
+            "Cui Yannan",
+            "master of x, step-daughter of X"
+        ],
+        [
+            "Bao Gan",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Bao Gan": [
+        [
+            "Tian Chou",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Zhou Mengdang": [
+        [
+            "Bao Liu",
+            "Wife of x"
+        ],
+        [
+            "Zhou Chitong",
+            "Brother of x"
+        ],
+        [
+            "Zhou Lianyi",
+            "Son of x"
+        ],
+        [
+            "Yu Sunian",
+            "brother in law of x"
+        ],
+        [
+            "Cui Shouheng",
+            "helper of x, master of x, employer of x, Superior of X, business partner of x"
+        ],
+        [
+            "Wang Xi Rong",
+            "acquaintance of x"
+        ],
+        [
+            "Wang Xi Yan",
+            "friend of x, Ex-romantic relationships with X, Extramarital Affair with X"
+        ]
+    ],
+    "Bao Liu": [
+        [
+            "Wang Xi Rong",
+            "master of x, helper of x"
+        ],
+        [
+            "Wang Xi Yan",
+            "master of x, bully of x"
+        ],
+        [
+            "Zhou Mengdang",
+            "Husband of x"
+        ],
+        [
+            "Zhou Chitong",
+            "brother in law of x"
+        ],
+        [
+            "Zhou Lianyi",
+            "Son of x"
+        ],
+        [
+            "Cui Yannan",
+            "master of x"
+        ],
+        [
+            "Cui Shouheng",
+            "master of x"
+        ],
+        [
+            "Tian Chou",
+            "friend of x, helped by x, betrayed by x, murderer of x"
+        ],
+        [
+            "Yu Sunian",
+            "Brother of x"
+        ],
+        [
+            "Yu Shi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yu Shi": [
+        [
+            "Bao Liu",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Zhou Chitong": [
+        [
+            "Zhou Mengdang",
+            "Brother of x"
+        ],
+        [
+            "Bao Liu",
+            "sister in law of x"
+        ],
+        [
+            "Zhou Lianyi",
+            "Nephew of x"
+        ],
+        [
+            "Cui Shouheng",
+            "helper of x, Superior of X, Deceived by X, business partner of x"
+        ],
+        [
+            "Yu Sunian",
+            "relative of x, friend of x"
+        ],
+        [
+            "Wang Xi Yan",
+            "acquaintance of x"
+        ],
+        [
+            "Tian Chou",
+            "helped by x, friend of x, Admired by X, manipulator of x"
+        ],
+        [
+            "Cui Yannan",
+            "acquaintance of x"
+        ],
+        [
+            "Wang Xi Rong",
+            "helper of x"
+        ]
+    ],
+    "Zhou Lianyi": [
+        [
+            "Bao Liu",
+            "Mother of x"
+        ],
+        [
+            "Zhou Mengdang",
+            "Father of x"
+        ],
+        [
+            "Zhou Chitong",
+            "Uncle of x"
+        ],
+        [
+            "Yu Sunian",
+            "Friend of x, uncle of x"
+        ],
+        [
+            "Cui Yannan",
+            "friend of x, Secret Crush of x"
+        ],
+        [
+            "Lianyi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Lianyi": [
+        [
+            "Zhou Lianyi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Wang Xi Rong": [
+        [
+            "Wang Shunming",
+            "father of x"
+        ],
+        [
+            "Zhou Lianyi",
+            "Helped by X"
+        ],
+        [
+            "Bao Liu",
+            "Helped by X, servant of x"
+        ],
+        [
+            "Yu Sunian",
+            "Murderer of X"
+        ],
+        [
+            "Cui Yannan",
+            "daughter of x"
+        ],
+        [
+            "Cui Shouheng",
+            "husband of X"
+        ],
+        [
+            "Tian Chou",
+            "servant of X"
+        ],
+        [
+            "Wang Xi Yan",
+            "sister of x, co-wives of X"
+        ],
+        [
+            "Bao Gan",
+            "servant of X"
+        ],
+        [
+            "He Sao",
+            "servant of X"
+        ],
+        [
+            "Taitai",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Wang Shi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Taitai": [
+        [
+            "Wang Xi Rong",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Wang Shi": [
+        [
+            "Wang Xi Rong",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Cui Shouheng": [
+        [
+            "Yu Sunian",
+            "Acquaintance of X"
+        ],
+        [
+            "Cui Yannan",
+            "Daughter of x"
+        ],
+        [
+            "Wang Xi Rong",
+            "Wife of x"
+        ],
+        [
+            "Wang Xi Yan",
+            "sister in law of x, wife of x"
+        ],
+        [
+            "Tian Chou",
+            "wife of x"
+        ],
+        [
+            "Bao Gan",
+            "servant of x, Debtor of x"
+        ],
+        [
+            "Bao Liu",
+            "servant of x"
+        ],
+        [
+            "Bao Yang",
+            "servant of x"
+        ],
+        [
+            "He Sao",
+            "servant of x"
+        ],
+        [
+            "Zhou Chitong",
+            "helped by x, thief of x, business partner of x"
+        ],
+        [
+            "Zhou Mengdang",
+            "minion of x, servant of x, employee of x, helped by x, business partner of x"
+        ]
+    ],
+    "Cui Yannan": [
+        [
+            "Wang Xi Rong",
+            "Mother of x"
+        ],
+        [
+            "Cui Shouheng",
+            "Father of x"
+        ],
+        [
+            "Wang Xi Yan",
+            "Aunt of x, step-mother of X"
+        ],
+        [
+            "Bao Gan",
+            "servant of x, friend of x"
+        ],
+        [
+            "Bao Liu",
+            "servant of x"
+        ],
+        [
+            "Bao Yang",
+            "servant of x"
+        ],
+        [
+            "Zhou Lianyi",
+            "Friend of x, Secret admirer of X"
+        ],
+        [
+            "Yu Sunian",
+            "Friend of x, lover of x, teacher of x"
+        ],
+        [
+            "Tian Chou",
+            "step-mother of X"
+        ],
+        [
+            "Xi Yan",
+            "step-mother of X, aunt of x"
+        ]
+    ],
+    "Wang Xi Yan": [
+        [
+            "Wang Shunming",
+            "father of x"
+        ],
+        [
+            "Wang Xi Rong",
+            "sister of x, co-wives of X"
+        ],
+        [
+            "Cui Shouheng",
+            "brother in law of x, husband of x, enemy of X"
+        ],
+        [
+            "Tian Chou",
+            "co-wives of X"
+        ],
+        [
+            "Bao Gan",
+            "servant of X, Victim of x"
+        ],
+        [
+            "Bao Liu",
+            "Rival in love of X, Victim of x"
+        ],
+        [
+            "Bao Gui",
+            "servant of X"
+        ],
+        [
+            "He Sao",
+            "servant of X, helper of X"
+        ],
+        [
+            "Zhou Mengdang",
+            "friend of x, Ex-romantic relationships with X, Extramarital Affair with X"
+        ],
+        [
+            "Cui Yannan",
+            "niece of X, step-daughter of X"
+        ],
+        [
+            "Xi Yan",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Xi Yan": [
+        [
+            "Wang Xi Yan",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yu Sunian": [
+        [
+            "Bao Liu",
+            "sister of X"
+        ],
+        [
+            "Zhou Mengdang",
+            "brother in law of x"
+        ],
+        [
+            "Zhou Chitong",
+            "friend of x, Relative of X"
+        ],
+        [
+            "Cui Shouheng",
+            "enemy of X, Perpetrator of X's family"
+        ],
+        [
+            "Zhou Lianyi",
+            "nephew of X, friend of x"
+        ],
+        [
+            "Cui Yannan",
+            "lover of x, student of x, friend of x"
+        ],
+        [
+            "Wang Xi Rong",
+            "killed by X"
+        ],
+        [
+            "Bao Gan",
+            "Acquaintance of X"
+        ],
+        [
+            "He Sao",
+            "Acquaintance of X"
+        ],
+        [
+            "Su Nian",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Su Nian": [
+        [
+            "Yu Sunian",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "He Sao": [
+        [
+            "Yu Sunian",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Xi Rong",
+            "master of X"
+        ],
+        [
+            "Wang Xi Yan",
+            "master of X"
+        ],
+        [
+            "Cui Yannan",
+            "master of X"
+        ],
+        [
+            "Cui Shouheng",
+            "master of X"
+        ]
+    ],
+    "Bao Gui": [
+        [
+            "Wang Xi Yan",
+            "master of x"
+        ],
+        [
+            "Cui Shouheng",
+            "master of x"
+        ]
+    ],
+    "Bao Yang": [
+        [
+            "Cui Yannan",
+            "master of x"
+        ],
+        [
+            "Cui Shouheng",
+            "master of x"
+        ]
+    ]
+}

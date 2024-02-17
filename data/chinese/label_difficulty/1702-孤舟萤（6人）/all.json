@@ -1,0 +1,43 @@
+{
+    "宝柑": [
+      ["宝柳", "betrayer of x, helper of x, victim of x, x's enemy's family"], 
+      ["汪昔颜", "bully of x, co-wives of x, master of x"], 
+      ["崔寿亨", "creditor of x, husband of x, perpetrator of x"], 
+      ["周持同", "helper of x, informant of x, manipulated by x, x's enemy's family"], 
+      ["崔嫣楠", "master of x, step-daughter of x"]
+    ],
+    "周蒙当": [
+      ["崔寿亨", "helper of x, master of x, superior of x"]
+    ],
+    "于氏": [
+      ["汪昔容", "helper of x, master of x"]
+    ],
+    "周持同": [
+      ["周琏逸", "nephew of x"], 
+      ["崔寿亨", "deceived by x, helper of x, superior of x"], 
+      ["于宿年", "relative of x"], 
+      ["甜愁", "admired by x, helped by x, manipulator of x"]
+    ],
+    "周琏逸": [
+      ["崔嫣楠", "secret crush of x"]
+    ],
+    "崔寿亨": [
+      ["宝柑", "debtor of x, servant of x"], 
+      ["周持同", "helped by x, thief of x"], 
+      ["周蒙当", "helped by x, minion of x, servant of x"]
+    ],
+    "崔嫣楠": [
+      ["宝柑", "servant of x"]
+    ],
+    "昔颜": [
+      ["崔寿亨", "brother in law of x, enemy of x, husband of x"], 
+      ["甜愁", "co-wives of x"], 
+      ["宝柑", "servant of x, victim of x"], 
+      ["河嫂", "helper of x, servant of x"], 
+      ["崔嫣楠", "niece of x, step-daughter of x"]
+    ],
+    "于宿年": [
+      ["周持同", "relative of x"], 
+      ["崔嫣楠", "lover of x"]
+    ]
+}

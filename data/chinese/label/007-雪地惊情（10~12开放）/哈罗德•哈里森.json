@@ -1,0 +1,49 @@
+{
+    "哈罗德•哈里森":[
+        ["玛丽娜•哈里森", "Wife of X"],
+        ["露西•哈里森", "Daughter of X"],
+        ["杰奎琳•佩里", "Sister in law of X"],
+        ["丹尼尔•佩里", "Brother in law of X"],
+        ["艾米•摩根", "Sister of X"],
+        ["安娜", "ex-wife of X"],
+        ["麦克斯•派克", "Acquaintance of X"],
+        ["约翰•摩根", "Brother in law of X"]
+    ],
+    "玛丽娜•哈里森": [
+        ["露西•哈里森", "Daughter of X"],
+        ["哈罗德•哈里森", "Husband of X"],
+        ["丹尼尔•佩里", "Brother in law of X"],
+        ["杰奎琳•佩里", "Sister of X, Business partner of X"],
+        ["艾米•摩根", "Sister in law of X"],
+        ["约翰•摩根", "Brother in law of X"]
+    ],
+    "露西•哈里森":[
+        ["哈罗德•哈里森", "Father of X"],
+        ["玛丽娜•哈里森", "Mother of X"],
+        ["杰奎琳•佩里", "Aunt of X"],
+        ["丹尼尔•佩里", "Uncle of X"]
+    ],
+    "艾米•摩根": [
+        ["哈罗德•哈里森", "Brother of X"],
+        ["约翰•摩根", "Husband of X"],
+        ["露西•哈里森", "Niece of X"]
+    ],
+    "约翰•摩根": [
+        ["哈罗德•哈里森", "Brother in law of X"],
+        ["艾米•摩根", "Wife of X"],
+        ["露西•哈里森", "Niece of X"]
+    ],
+    "杰奎琳•佩里":[
+        ["玛丽娜•哈里森", "Sister of X, Business partner of X"],
+        ["露西•哈里森", "Niece of X"],
+        ["哈罗德•哈里森", "Brother in law of X"],
+        ["丹尼尔•佩里", "Husband of X"]
+    ],
+    "麦克斯•派克":[
+        ["哈罗德•哈里森", "Acquaintance of X"],
+        ["Sleer&Leech", "Employee of X"]
+    ],
+    "安娜":[
+        ["哈罗德•哈里森", "ex-husband of X"]
+    ]
+}

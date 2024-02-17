@@ -1,0 +1,54 @@
+{
+  "剧务戴维": [
+    ["魔术师古思特", "Quest Companion of X, Murderer of X"],
+    ["宣传罗琳", "Hate of X, Quest Companion of X"],
+    ["助手艾拉", "Acquaintance of X"],
+    ["保安凯文", "Hate of X"],
+    ["后勤格里夫", "Dislike of X"],
+    ["戴维", "same person as x (different reference)"]
+  ],
+  "魔术师古思特": [
+    ["剧务戴维", "Quest Companion of X"],
+    ["宣传罗琳", "Quest Companion of X"],
+    ["助手艾拉", "Acquaintance of X, Admired by X"],
+    ["古思特", "same person as x (different reference)"]
+  ],
+  "宣传罗琳": [
+    ["剧务戴维", "Quest Companion of X"],
+    ["魔术师古思特", "Quest Companion of X, Victim of X"],
+    ["助手艾拉", "Friend of X"],
+    ["罗琳", "same person as x (different reference)"]
+  ],
+  "助手艾拉": [
+    ["魔术师古思特", "Fondness of X"],
+    ["宣传罗琳", "Friend of X"],
+    ["剧务戴维", "Acquaintance of X"],
+    ["艾拉", "same person as x (different reference)"]
+  ],
+  "保安凯文": [
+    ["剧务戴维", "Dislike of X"],
+    ["凯文", "same person as x (different reference)"]
+  ],
+  "后勤格里夫": [
+    ["剧务戴维", "Dislike of X"],
+    ["格里夫", "same person as x (different reference)"]
+  ],
+  "艾拉": [
+    ["助手艾拉", "same person as x (different reference)"]
+  ],
+  "古思特": [
+    ["魔术师古思特", "same person as x (different reference)"]
+  ],
+  "凯文": [
+    ["保安凯文", "same person as x (different reference)"]
+  ],
+  "格里夫": [
+    ["后勤格里夫", "same person as x (different reference)"]
+  ],
+  "罗琳": [
+    ["罗琳", "same person as x (different reference)"]
+  ],
+  "戴维": [
+    ["剧务戴维", "same person as x (different reference)"]
+  ]
+}

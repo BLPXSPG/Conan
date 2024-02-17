@@ -1,0 +1,124 @@
+{
+    "Zhang Wei": [
+        [
+            "Zhao Zhongyang",
+            "Victim of X, Master of X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Meier",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Cheng",
+            "Colleague of X"
+        ],
+        [
+            "Zhao San",
+            "Business Partner of X"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner of X"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Zhang Wei",
+            "Murderer of X, Servant of X"
+        ],
+        [
+            "Chen Meier",
+            "Romantic relationships with X, Spy of X"
+        ],
+        [
+            "Li Cheng",
+            "Colleague of X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Brother of X"
+        ]
+    ],
+    "Zhao Zhongzheng": [
+        [
+            "Zhao Zhongyang",
+            "Brother of X, Enemy of X"
+        ],
+        [
+            "Zhao San",
+            "Subordinate of X"
+        ],
+        [
+            "Chen Meier",
+            "Spy of X"
+        ],
+        [
+            "Li Cheng",
+            "Employee of X, Spy of X"
+        ]
+    ],
+    "Zhao San": [
+        [
+            "Zhao Zhongzheng",
+            "Adoptive brother of X"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Adoptive brother of X"
+        ],
+        [
+            "Zhang Wei",
+            "Colleague of X"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner of X"
+        ],
+        [
+            "Chen Meier",
+            "Acquaintance of X"
+        ]
+    ],
+    "Chen Meier": [
+        [
+            "Zhao Zhongyang",
+            "Adversary of X, Romantic relationships with X, Attempted Perpetrator of X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Master of X"
+        ]
+    ],
+    "Li Cheng": [
+        [
+            "Zhao Zhongzheng",
+            "Business Partner of X"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Master of X"
+        ],
+        [
+            "Zhang Wei",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Meier",
+            "Acquaintance of X"
+        ]
+    ],
+    "Ma Laoban": [
+        [
+            "Zhao San",
+            "Business Partner of X"
+        ],
+        [
+            "Zhang Wei",
+            "Business Partner of X"
+        ]
+    ]
+}

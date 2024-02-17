@@ -1,0 +1,59 @@
+{
+    "Feng Shuangji": [
+      ["Ren Shifu", "mentor of x, adoptive father of x"], 
+      ["Li Yu", "extramarital affair with x"], 
+      ["Zhao Wanlei", "schoolmate of x, employer of x"], 
+      ["Zhao Wei", "helped by x, master of x"], 
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Feng Zhu", "daughter of x"]
+    ],
+    "Ren Shifu": [
+      ["Feng Shuangji", "mentor of x, adoptive son of x"], 
+      ["Zhao Wanlei", "student of x"]
+    ],
+    "Li Yu": [
+      ["Feng Shuangji", "extramarital affair with x"], 
+      ["Zhao Wanlei", "husband of x"], 
+      ["Zhao Luoyi", "adoptive daughter of x"], 
+      ["Zhao Wei", "son of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Feng Shuangji", "schoolmate of x, employee of x"], 
+      ["Li Yu", "wife of x"], 
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Zhao Wei", "son of x"], 
+      ["Ren Shifu", "mentor of x"], 
+      ["Guo Wangshan", "business partner of x"]
+    ],
+    "Zhao Wei": [
+      ["Emperor Guangxu", "stranger to x"], 
+      ["Yu Fei", "stranger to x"], 
+      ["Feng Shuangji", "servant of x, mentor of x"], 
+      ["Li Yu", "mother of x"], 
+      ["Zhao Wanlei", "father of x"], 
+      ["Zhao Luoyi", "sister of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "father of x"], 
+      ["Li Yu", "mother of x"], 
+      ["Zhao Wanlei", "father of x"], 
+      ["Zhao Wei", "brother of x"], 
+      ["Zhao Qiuer", "master of x"]
+    ],
+    "Feng Zhu": [
+      ["Feng Shuangji", "father of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "mentor of x, helper of x, servant of x"]
+    ],
+    "Guo Wangshan": [
+      ["Zhao Wanlei", "business partner of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Luoyi", "servant of x"]
+    ],
+    "Qi Yue": [
+      ["Feng Shuangji", "colleague of x"], 
+      ["Zhao Wanlei", "employer of x"]
+    ]
+}

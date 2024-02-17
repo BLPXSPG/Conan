@@ -1,0 +1,45 @@
+{
+    "Richard Berkeley": [
+      ["Sylvia Costa", "subordinate of x, colleague of x"], 
+      ["Andrew Paloski", "subordinate of x, colleague of x"], 
+      ["Hans Li Morette", "subordinate of x, colleague of x, dislike of x"], 
+      ["Drake Li Morette", "subordinate of x, colleague of x, deceived by x"], 
+      ["Elaine Carter", "quest companion of x, deceived by x"], 
+      ["Dr. Paloski", "subordinate of x, colleague of x"]
+    ],
+    "Hans Li Morette": [
+      ["Richard Berkeley", "superior of x, colleague of x, disliked by x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Dr. Paloski", "colleague of x"], 
+      ["Sylvia Costa", "colleague of x"]
+    ],
+    "Drake Li Morette": [
+      ["Richard Berkeley", "superior of x, colleague of x, thief of x"], 
+      ["Hans Li Morette", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Dr. Paloski", "colleague of x"], 
+      ["Sylvia Costa", "colleague of x"]
+    ],
+    "Elaine Carter": [
+      ["Richard Berkeley", "quest companion of x, deceiver of x, subject of investigation for x"], 
+      ["Hans Li Morette", "colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Dr. Paloski", "colleague of x, student of x"], 
+      ["Sylvia Costa", "colleague of x"]
+    ],
+    "Dr. Paloski": [
+      ["Richard Berkeley", "superior of x, colleague of x"], 
+      ["Hans Li Morette", "colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Elaine Carter", "colleague of x, mentor of x"], 
+      ["Sylvia Costa", "colleague of x"]
+    ],
+    "Sylvia Costa": [
+      ["Richard Berkeley", "superior of x, colleague of x"], 
+      ["Hans Li Morette", "colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Dr. Paloski", "colleague of x"]
+    ]
+}

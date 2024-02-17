@@ -1,0 +1,174 @@
+{
+    "Yang Minxi": [
+        [
+            "Yang Shuixun",
+            "father of X"
+        ],
+        [
+            "Gu Mengchu",
+            "friend of X, teacher of X"
+        ],
+        [
+            "Lan Rui",
+            "guest of X, friend of X"
+        ],
+        [
+            "Xiting",
+            "friend of X"
+        ],
+        [
+            "Teacher Bai",
+            "teacher of X"
+        ],
+        [
+            "Shen Wusheng",
+            "service provider of X"
+        ]
+    ],
+    "Gu Mengchu": [
+        [
+            "Yang Minxi",
+            "friend of X, student of X, secret admirer of X"
+        ],
+        [
+            "Brother Gu",
+            "same person as X (different reference)"
+        ],
+        [
+            "Ms. Mei",
+            "mother of X"
+        ],
+        [
+            "Rou'er",
+            "sister of X"
+        ],
+        [
+            "Xiting",
+            "wife of X"
+        ]
+    ],
+    "Brother Gu": [
+        [
+            "Gu Mengchu",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Ms. Mei": [
+        [
+            "Brother Gu",
+            "son of X"
+        ],
+        [
+            "Rou'er",
+            "daughter of X"
+        ]
+    ],
+    "Rou'er": [
+        [
+            "Brother Gu",
+            "brother of X"
+        ],
+        [
+            "Ms. Mei",
+            "mother of X"
+        ]
+    ],
+    "Yang Shuixun": [
+        [
+            "Yang Minxi",
+            "daughter of X"
+        ],
+        [
+            "Gu Mengchu",
+            "friend of X"
+        ],
+        [
+            "Zhang Fanghao",
+            "friend of X"
+        ],
+        [
+            "Lan Rui",
+            "guest of X"
+        ],
+        [
+            "Shen Wusheng",
+            "subordinate of X"
+        ]
+    ],
+    "Shen Wusheng": [
+        [
+            "Yang Minxi",
+            "employer of X"
+        ],
+        [
+            "Yang Shuixun",
+            "superior of X"
+        ]
+    ],
+    "Uncle Zhang": [
+        [
+            "Zhang Fanghao",
+            "same person as X (different reference)"
+        ],
+        [
+            "Yang Shuixun",
+            "friend of X"
+        ]
+    ],
+    "Zhang Fanghao": [
+        [
+            "Uncle Zhang",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Lan Rui": [
+        [
+            "Zhang Fanghao",
+            "father of X"
+        ],
+        [
+            "Yang Minxi",
+            "friend of X"
+        ],
+        [
+            "Xiting",
+            "friend of X"
+        ],
+        [
+            "Teacher Bai",
+            "teacher of X"
+        ]
+    ],
+    "Xiting": [
+        [
+            "Yang Minxi",
+            "friend of X"
+        ],
+        [
+            "Lan Rui",
+            "friend of X"
+        ],
+        [
+            "Teacher Bai",
+            "teacher of X"
+        ],
+        [
+            "Gu Mengchu",
+            "husband of X"
+        ]
+    ],
+    "Teacher Bai": [
+        [
+            "Yang Minxi",
+            "student of X"
+        ],
+        [
+            "Lan Rui",
+            "student of X"
+        ],
+        [
+            "Xiting",
+            "student of X"
+        ]
+    ]
+}

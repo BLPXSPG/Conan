@@ -1,0 +1,45 @@
+{
+    "理查德•伯克利": [
+      ["西尔维娅·科斯塔", "subordinate of x, colleague of x"], 
+      ["安德鲁·帕洛斯基", "subordinate of x, colleague of x"], 
+      ["汉斯·里莫瑞特", "subordinate of x, colleague of x, dislike of x"], 
+      ["德雷克·里莫瑞特", "subordinate of x, colleague of x, deceived by x"], 
+      ["伊莱恩·卡特尔", "quest companion of x, deceived by x"], 
+      ["帕洛斯基医生", "subordinate of x, colleague of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["理查德•伯克利", "superior of x, colleague of x, disliked by x"], 
+      ["德雷克·里莫瑞特", "colleague of x"], 
+      ["伊莱恩·卡特尔特", "colleague of x"], 
+      ["帕洛斯基医生", "colleague of x"], 
+      ["西尔维亚·科斯塔", "colleague of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["理查德•伯克利", "superior of x, colleague of x, thief of x"], 
+      ["汉斯·里莫瑞特", "colleague of x"], 
+      ["伊莱恩·卡特尔特", "colleague of x"], 
+      ["帕洛斯基医生", "colleague of x"], 
+      ["西尔维亚·科斯塔", "colleague of x"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["理查德•伯克利", "quest companion of x, deceiver of x, subject of investigation for x"], 
+      ["汉斯·里莫瑞特", "colleague of x"], 
+      ["德雷克·里莫瑞特", "colleague of x"], 
+      ["帕洛斯基医生", "colleague of x, student of x"], 
+      ["西尔维亚·科斯塔", "colleague of x"]
+    ],
+    "帕洛斯基医生": [
+      ["理查德•伯克利", "superior of x, colleague of x"], 
+      ["汉斯·里莫瑞特", "colleague of x"], 
+      ["德雷克·里莫瑞特", "colleague of x"], 
+      ["伊莱恩·卡特尔", "colleague of x, mentor of x"], 
+      ["西尔维亚·科斯塔", "colleague of x"]
+    ],
+    "西尔维亚·科斯塔": [
+      ["理查德•伯克利", "superior of x, colleague of x"], 
+      ["汉斯·里莫瑞特", "colleague of x"], 
+      ["德雷克·里莫瑞特", "colleague of x"], 
+      ["伊莱恩·卡特尔", "colleague of x"], 
+      ["帕洛斯基医生", "colleague of x"]
+    ]
+}

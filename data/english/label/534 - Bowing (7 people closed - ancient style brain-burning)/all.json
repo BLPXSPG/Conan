@@ -1,0 +1,180 @@
+{
+    "Fang Liu": [
+        [
+            "Fang Ye",
+            "father of X"
+        ],
+        [
+            "Grandma",
+            "grandmother of X"
+        ],
+        [
+            "Fang Xu",
+            "aunt of X"
+        ],
+        [
+            "Fang Mian",
+            "aunt of X"
+        ],
+        [
+            "Er Yisi Bada",
+            "adoptive father of X, uncle of X"
+        ],
+        [
+            "Chen Qian",
+            "adoptive sister of X"
+        ],
+        [
+            "Li Yan",
+            "saviour of X, cousin of X"
+        ],
+        [
+            "Li Zhong",
+            "friend of X, deceived by X, cousin of X"
+        ],
+        [
+            "Li Qinren",
+            "rival of X"
+        ],
+        [
+            "Xiao Qian",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Li Zhong": [
+        [
+            "Li Qinren",
+            "father of X"
+        ],
+        [
+            "Li Yan",
+            "brother of X"
+        ],
+        [
+            "Fang Xu",
+            "mother of X"
+        ],
+        [
+            "Chen Qian",
+            "fiance of X"
+        ],
+        [
+            "Te'ertelafoerde (Old Trafford)",
+            "father in law of x"
+        ]
+    ],
+    "Xiao Qian": [
+        [
+            "Fang Liu",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Li Yan": [
+        [
+            "Li Qinren",
+            "father of X"
+        ],
+        [
+            "Er Yisi Bada",
+            "biological father of X"
+        ],
+        [
+            "Li Zhong",
+            "Older Brother of X, rival in love of X"
+        ],
+        [
+            "Chen Qian",
+            "lover of X"
+        ],
+        [
+            "Fang Xu",
+            "Mother of X"
+        ],
+        [
+            "Fang Liu",
+            "cousin of X"
+        ]
+    ],
+    "Er Yisi Bada": [
+        [
+            "Madam Fang",
+            "Adoptive mother of X, enemy of X"
+        ],
+        [
+            "Fang Xu",
+            "older sister of X, lover of X"
+        ],
+        [
+            "Fang Ye",
+            "brother of X, adversary of X"
+        ],
+        [
+            "Fang Mian",
+            "sister of X, adversary of X"
+        ],
+        [
+            "Te'ertelafoerde (Old Trafford)",
+            "quest companion of X, friend of X"
+        ],
+        [
+            "Fang Liu",
+            "adoptive daughter of X, student of X"
+        ],
+        [
+            "Li Qinren",
+            "rival of X"
+        ],
+        [
+            "Li Zhong",
+            "Biological son of X"
+        ],
+        [
+            "Li Yan",
+            "Biological son of X"
+        ]
+    ],
+    "Chen Qian": [
+        [
+            "Te'ertelafoerde (Old Trafford)",
+            "Father of X"
+        ],
+        [
+            "Madam Chen or Chen family",
+            "Mother of X"
+        ],
+        [
+            "Fang Liu",
+            "friend of X"
+        ],
+        [
+            "Li Zhong",
+            "lover of X, fiance of X"
+        ],
+        [
+            "Li Yan",
+            "lover of X, fiance of X"
+        ],
+        [
+            "Li Qinren",
+            "father in law of x"
+        ]
+    ],
+    "Te'ertelafoerde (Old Trafford)": [
+        [
+            "Li Qinren",
+            "friend of X, quest companion of X, future relative of X"
+        ],
+        [
+            "Er Yisi Bada",
+            "superior of X"
+        ],
+        [
+            "Chen Qian",
+            "daughter of X"
+        ],
+        [
+            "Li Zhong",
+            "son in law of x"
+        ]
+    ]
+}

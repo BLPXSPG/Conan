@@ -1,0 +1,114 @@
+{
+    "Chen Anqiao": [
+        [
+            "Chen Junmeng",
+            "Cousin of X, Master of X"
+        ],
+        [
+            "Chen Qingwu",
+            "Uncle of X, Employer of X"
+        ],
+        [
+            "Chen Shitian",
+            "Father of X"
+        ],
+        [
+            "Yao Changshou",
+            "Employer of X"
+        ],
+        [
+            "Yao Mengren",
+            "Relative of X"
+        ],
+        [
+            "Lady Hong",
+            "Employer of X"
+        ]
+    ],
+    "Chen Qingwu": [
+        [
+            "Chen Anqiao",
+            "Niece of X, Employee of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Daughter of X"
+        ]
+    ],
+    "Chen Junmeng": [
+        [
+            "Chen Qingwu",
+            "Father of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Cousin of X, Servant of X"
+        ],
+        [
+            "Yao Mengren",
+            "Husband of X"
+        ]
+    ],
+    "Chen Shitian": [
+        [
+            "Chen Anqiao",
+            "Daughter of X"
+        ],
+        [
+            "Chen Qingwu",
+            "Brother of X"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Chen Anqiao",
+            "Servant of X"
+        ],
+        [
+            "Lady Hong",
+            "Wife of X"
+        ],
+        [
+            "Yao Mengren",
+            "Son of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Son of X"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Chen Anqiao",
+            "Servant of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Wife of X"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Chen Anqiao",
+            "Servant of X"
+        ],
+        [
+            "Lady Hong",
+            "Adoptive mother of X"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Chen Anqiao",
+            "Servant of X"
+        ],
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Adoptive son of X"
+        ]
+    ]
+}

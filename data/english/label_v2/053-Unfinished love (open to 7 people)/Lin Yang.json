@@ -1,0 +1,39 @@
+{
+    "Lin Yang": [
+      ["Lin Weiren", "adoptive father of x"], 
+      ["Lin Xi", "adoptive sister of x"], 
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Shen Cheng", "servant of x"], 
+      ["Su Yang", "relative of x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Yang", "adoptive son of x"], 
+      ["Lin Xi", "daughter of x"], 
+      ["Shen Cheng", "servant of x, employee of x"]
+    ],
+    "Lin Xi": [
+      ["Lin Yang", "adoptive brother of x"], 
+      ["Lin Weiren", "father of x"], 
+      ["Su Yang", "fiance of x"], 
+      ["Gu Qing", "friend of x"], 
+      ["Gu Yu", "ex-boyfriend of x"]
+    ],
+    "Gu Qing": [
+      ["Lin Yang", "romantic relationships with x"], 
+      ["Lin Xi", "friend of x"], 
+      ["Gu Yu", "brother of x"]
+    ],
+    "Shen Cheng": [
+      ["Lin Yang", "master of x"], 
+      ["Lin Weiren", "master of x, employer of x"]
+    ],
+    "Su Yang": [
+      ["Lin Xi", "fiancee of x"], 
+      ["Lin Yang", "relative of x"], 
+      ["Lin Weiren", "dislike of x"]
+    ],
+    "Gu Yu": [
+      ["Lin Xi", "ex-girlfriend of x"], 
+      ["Gu Qing", "sister of x"]
+    ]
+}

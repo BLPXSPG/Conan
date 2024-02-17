@@ -1,0 +1,18 @@
+{
+    "萧体育": [
+      ["薛媚娘", "romantic relationships with x"], 
+      ["庄清纯", "romantic relationships with x"], 
+      ["贾美丽", "student of x, perpetrator of x"]
+    ],
+    "薛媚娘": [
+      ["萧体育", "romantic relationships with x"]
+    ],
+    "庄清纯": [
+      ["萧体育", "romantic relationships with x, suspicious of x"], 
+      ["贾美丽", "friend of x, hate of x"]
+    ],
+    "贾美丽": [
+      ["萧体育", "teacher of x, victim of x"], 
+      ["庄清纯", "friend of x, hate of x"]
+    ]
+}

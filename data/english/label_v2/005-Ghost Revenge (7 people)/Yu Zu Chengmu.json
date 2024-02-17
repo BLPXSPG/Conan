@@ -1,0 +1,51 @@
+{
+    "Yu Zu Chengmu": [
+      ["Li Zicai", "brother of x"], 
+      ["Duan Hejun", "ex-romantic relationships with x"], 
+      ["Xia Bolong", "rival in love of x"], 
+      ["Xia Sanhu", "schoolmate of x, friend of x, deceived by x, debtor of x"], 
+      ["Tian Jixiu Yi", "superior of x, manipulator of x"], 
+      ["Li Luoming", "nephew of x, quest companion of x"], 
+      ["Anqi", "admirer of x, creditor of x, friend of x"], 
+      ["Duan Yuetong", "information receiver from x"], 
+      ["Li Zijun", "same person as x (different identity)"]
+    ],
+    "Li Zijun": [
+      ["Yu Zu Chengmu", "same person as x (different identity)"]
+    ],
+    "Li Zicai": [
+      ["Yu Zu Chengmu", "brother of x"], 
+      ["Wu Baian", "schoolmate of x, quest companion of x"]
+    ],
+    "Duan Hejun": [
+      ["Yu Zu Chengmu", "ex-romantic relationships with x, betrayed by x"], 
+      ["Xia Bolong", "extramarital affair with x"]
+    ],
+    "Xia Bolong": [
+      ["Yu Zu Chengmu", "rival in love of x"], 
+      ["Xia Sanhu", "brother of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Bolong", "brother of x, victim of x"], 
+      ["Yu Zu Chengmu", "deceiver of x"], 
+      ["Li Luoming", "deceiver of x, subordinate of x"]
+    ],
+    "Wu Baian": [
+      ["Li Zicai", "schoolmate of x, quest companion of x"]
+    ],
+    "Li Luoming": [
+      ["Aming", "same person as x (different reference)"]
+    ],
+    "Aming": [
+      ["Yu Zu Chengmu", "uncle of x, quest companion of x"], 
+      ["Xia Sanhu", "superior of x, deceived by x"], 
+      ["Li Zicai", "father of x"], 
+      ["Li Luoming", "same person as x (different reference)"]
+    ],
+    "Anqi": [
+      ["Yu Zu Chengmu", "admirer of x, debtor of x, friend of x"]
+    ],
+    "Duan Yuetong": [
+      ["Yu Zu Chengmu", "informant of x"]
+    ]
+}

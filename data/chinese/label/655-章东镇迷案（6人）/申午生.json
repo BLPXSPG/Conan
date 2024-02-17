@@ -1,0 +1,50 @@
+{
+  "申午生": [
+    ["李史贾", "same person as X (different reference)"],
+    ["李厚实", "father of X"],
+    ["张氏", "mother of X"],
+    ["彩芽", "fiance of X, wife of X, killed by X"],
+    ["章老板", "disliked by X"],
+    ["杨老爷", "employer of X"],
+    ["敏兮", "employer of X, fiancee of X"],
+    ["夕婷", "helped by X"]
+  ],
+  "李史贾": [
+    ["申午生", "same person as X (different reference)"]
+  ],
+  "彩芽": [
+    ["申午生", "fiancee of X, Murderer of X"]
+  ],
+  "杨老爷": [
+    ["杨水巡", "same person as X (different reference)"],
+    ["申午生", "employee of X, son in law of X"],
+    ["敏兮", "daughter of X"]
+  ],
+  "杨水巡": [
+    ["杨老爷", "same person as X (different reference)"]
+  ],
+  "敏兮": [
+    ["杨老爷", "father of X"],
+    ["申午生", "employee of X, secret admirer of X, fiance of X"],
+    ["顾梦楚", "friend of X"],
+    ["夕婷", "classmate of X"],
+    ["蓝蕊", "classmate of X"]
+  ],
+  "顾梦楚": [
+    ["敏兮", "friend of X, admirer of X"],
+    ["申午生", "dislike of X"]
+  ],
+  "蓝蕊": [
+    ["章老板", "father of X"],
+    ["敏兮", "classmate of X"],
+    ["夕婷", "classmate of X"]
+  ],
+  "章老板": [
+    ["蓝蕊", "daughter of X"]
+  ],
+  "夕婷": [
+    ["蓝蕊", "classmate of X"],
+    ["敏兮", "classmate of X"],
+    ["申午生", "helper of X"]
+  ]
+}

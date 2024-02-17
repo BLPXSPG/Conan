@@ -1,0 +1,47 @@
+{
+  "郭望山": [
+    ["小混混", "Manipulated by X, Employee of X"],
+    ["赵万雷", "Victim of X, Business Partner of X"],
+    ["任师父", "Acquaintance of X"],
+    ["廖老板", "Employer of X"],
+    ["花子狸", "Informant of X, Acquaintance of X"]
+  ],
+  "小混混": [
+    ["郭望山", "Manipulator of X, Employer of X"]
+  ],
+  "赵万雷": [
+    ["郭望山", "Business Partner of X, Attempted Murderer of X"],
+    ["廖老板", "Rival of X"],
+    ["冯双骥", "Employee of X, Servant of X"],
+    ["齐岳", "Employee of X, Servant of X"]
+  ],
+  "任师父": [
+    ["郭望山", "Acquaintance of X, student of X"],
+    ["廖老板", "Student of X, Employer of X"],
+    ["女儿", "Daughter of X"],
+    ["虞义辰", "Son in law of X"],
+    ["尹少鸣", "Grandson of X"]
+  ],
+  "廖老板": [
+    ["郭望山", "Employee of X"],
+    ["赵万雷", "Rival of X"],
+    ["任师父", "Master of X, Employee of X, Servant of X"]
+  ],
+  "冯双骥": [
+    ["赵万雷", "Employer of X"],
+    ["齐岳", "Colleague of X"],
+    ["尹少鸣", "Relative of X"],
+    ["郭望山", "Guest of X"]
+  ],
+  "齐岳": [
+    ["赵万雷", "Colleague of X"],
+    ["冯双骥", "Colleague of X"]
+  ],
+  "尹少鸣": [
+    ["冯双骥", "Relative of X"],
+    ["任师父", "Grandfather of X"]
+  ],
+  "花子狸": [
+    ["郭望山", "Acquaintance of X, Information Receiver from X"]
+  ]
+}

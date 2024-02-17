@@ -1,0 +1,42 @@
+{
+    "Chen Anqiao": [
+      ["Chen Junmeng", "cousin of x, master of x"], 
+      ["Chen Qingwu", "uncle of x, employer of x"], 
+      ["Chen Shitian", "father of x"], 
+      ["Yao Changshou", "employer of x"], 
+      ["Yao Mengren", "relative of x"], 
+      ["Lady Hong", "employer of x"]
+    ],
+    "Chen Qingwu": [
+      ["Chen Anqiao", "niece of x, employee of x"], 
+      ["Chen Junmeng", "daughter of x"]
+    ],
+    "Chen Junmeng": [
+      ["Chen Qingwu", "father of x"], 
+      ["Chen Anqiao", "cousin of x, servant of x"], 
+      ["Yao Mengren", "husband of x"]
+    ],
+    "Chen Shitian": [
+      ["Chen Anqiao", "daughter of x"], 
+      ["Chen Qingwu", "brother of x"]
+    ],
+    "Yao Changshou": [
+      ["Chen Anqiao", "servant of x"], 
+      ["Lady Hong", "wife of x"], 
+      ["Yao Mengren", "son of x"], 
+      ["Yao Zhongyi", "son of x"]
+    ],
+    "Yao Mengren": [
+      ["Chen Anqiao", "servant of x"], 
+      ["Chen Junmeng", "wife of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Chen Anqiao", "servant of x"], 
+      ["Lady Hong", "adoptive mother of x"]
+    ],
+    "Lady Hong": [
+      ["Chen Anqiao", "servant of x"], 
+      ["Yao Changshou", "husband of x"], 
+      ["Yao Zhongyi", "adoptive son of x"]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "Anqi": [
+      ["Yi Lianzhi", "mother of x"], 
+      ["A'an", "brother of x"], 
+      ["Duan Yuetong", "boyfriend of x"], 
+      ["Big Brother Li", "helper of x"], 
+      ["Yu Zu Chengmu", "customer of x, helped by x, debtor of x, friend of x"], 
+      ["Luo Yisi", "friend of x"], 
+      ["Anqi Angel", "same person as x (different reference)"], 
+      ["Lan Qin", "same person as x (different reference)"]
+    ],
+    "Anqi Angel": [
+      ["Anqi", "same person as x (different reference)"], 
+      ["Lan Qin", "same person as x (different reference)"]
+    ],
+    "Lan Qin": [
+      ["Anqi", "same person as x (different reference)"], 
+      ["Anqi Angel", "same person as x (different reference)"]
+    ],
+    "Yi Lianzhi": [
+      ["Yi Clan", "same person as x (different reference)"]
+    ],
+    "Yi Clan": [
+      ["Anqi", "daughter of x"], 
+      ["Auntie Duan", "friend of x"], 
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Bai Changgong", "debtor of x, dislike of x"], 
+      ["Yi Lianzhi", "same person as x (different reference)"]
+    ],
+    "Duan Yuetong": [
+      ["Atong", "same person as x (different reference)"]
+    ],
+    "Atong": [
+      ["Anqi", "girlfriend of x"], 
+      ["Auntie Duan", "mother of x"], 
+      ["Bai Changgong", "step-father of x"], 
+      ["Yu Zu Chengmu", "acquaintance of x"], 
+      ["Duan Yuetong", "same person as x (different reference)"]
+    ],
+    "Auntie Duan": [
+      ["Duan Yuetong", "son of x"], 
+      ["Bai Changgong", "husband of x"], 
+      ["Anqi", "acquaintance of x"], 
+      ["Auntie Yi", "friend of x"]
+    ],
+    "Bai Changgong": [
+      ["Duan Yuetong", "step-son of x"], 
+      ["Duan Hejun", "wife of x"], 
+      ["Auntie Yi", "creditor of x"]
+    ],
+    "Big Brother Li": [
+      ["Aming", "same person as x (different reference)"]
+    ],
+    "Aming": [
+      ["Anqi", "helped by x"], 
+      ["Yu Zu Chengmu", "friend of x, business partner of x"], 
+      ["Big Brother Li", "same person as x (different reference)"]
+    ],
+    "Yu Zu Chengmu": [
+      ["Anqi", "helper of x, creditor of x, friend of x"], 
+      ["Xia Sanhu", "perpetrator of x"], 
+      ["Duan Yuetong", "acquaintance of x"], 
+      ["Big Brother Li", "friend of x, business partner of x"]
+    ],
+    "Xia Sanhu": [
+      ["Xia Bolong", "brother of x"], 
+      ["Xia Shue", "niece of x"], 
+      ["Yu Zu Chengmu", "victim of x"]
+    ],
+    "Luo Yisi": [
+      ["Anqi", "friend of x"]
+    ]
+}

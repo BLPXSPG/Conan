@@ -1,0 +1,32 @@
+{
+    "Chen Meier": [
+        [
+            "Zhao Zhongyang",
+            "Adversary of X, Romantic relationships with X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Master of X"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Chen Meier",
+            "Adversary of X, Attempted Perpetrator of X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Brother of X"
+        ]
+    ],
+    "Zhao Zhongzheng": [
+        [
+            "Chen Meier",
+            "Employee of X"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Brother of X"
+        ]
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "招楠": [
+      ["罗有诺", "adoptive brother of x"], 
+      ["黑莉", "rival in love of x"], 
+      ["王子摩", "husband of x, wife of x"]
+    ],
+    "罗有诺": [
+      ["阮太太", "adoptive mother of x, landlord of x"], 
+      ["招楠", "adoptive sister of x"], 
+      ["望娣", "adoptive sister of x, romantic relationships with x"], 
+      ["贵郎", "adoptive brother of x"]
+    ],
+    "黑莉": [
+      ["招楠", "rival in love of x"], 
+      ["王子摩", "ex-boyfriend of x"]
+    ],
+    "王子摩": [
+      ["黑莉", "ex-girlfriend of x"]
+    ],
+    "望娣": [
+      ["罗有诺", "adoptive brother of x, romantic relationships with x"]
+    ]
+}

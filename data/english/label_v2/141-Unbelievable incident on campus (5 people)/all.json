@@ -1,0 +1,54 @@
+{
+    "Lin Xiaohua": [
+      ["Zhang Eba", "fiance of x, murderer of x"], 
+      ["Hao Guimi", "friend of x"], 
+      ["Zhao Shuaige", "secret admirer of x"], 
+      ["Wang Xuexi", "acquaintance of x"], 
+      ["Li Xiaodi", "acquaintance of x"]
+    ],
+    "Hao Guimi": [
+      ["Cousin Sister", "cousin of x"], 
+      ["Zhang Eba", "rebellion against x"], 
+      ["Lin Xiaohua", "friend of x"]
+    ],
+    "Wang Xuexi": [
+      ["Lin Xiaohua", "acquaintance of x"], 
+      ["Wang Xuexi", "acquaintance of x"], 
+      ["Zhao Shuaige", "acquaintance of x"], 
+      ["Hao Guimi", "acquaintance of x"], 
+      ["Li Xiaodi", "acquaintance of x"], 
+      ["Zhang Eba", "schoolmate of x"]
+    ],
+    "Zhao Shuaige": [
+      ["Lin Xiaohua", "schoolmate of x"], 
+      ["Wang Xuexi", "acquaintance of x"], 
+      ["Zhao Shuaige", "acquaintance of x"], 
+      ["Li Xiaodi", "acquaintance of x"], 
+      ["Zhang Eba", "sibling of x"]
+    ],
+    "Li Xiaodi": [
+      ["Li Dage", "cousin of x"], 
+      ["Lin Xiaohua", "acquaintance of x"], 
+      ["Wang Xuexi", "acquaintance of x"], 
+      ["Zhao Shuaige", "acquaintance of x"], 
+      ["Hao Guimi", "acquaintance of x"], 
+      ["Zhang Eba", "rebellion against x"]
+    ],
+    "Li Dage": [
+      ["Li Xiaodi", "cousin of x"], 
+      ["Zhang Eba", "schoolmate of x, victim of x"]
+    ],
+    "Zhang Eba": [
+      ["Lin Xiaohua", "fiance of x, victim of x"], 
+      ["Hao Guimi", "acquaintance of x"], 
+      ["Cousin Sister", "schoolmate of x, murderer of x"], 
+      ["Zhao Shuaige", "sibling of x"], 
+      ["Wang Xuexi", "schoolmate of x"], 
+      ["Li Xiaodi", "acquaintance of x"], 
+      ["Li Dage", "schoolmate of x, bully of x"]
+    ],
+    "Cousin Sister": [
+      ["Hao Guimi", "cousin of x"], 
+      ["Zhang Eba", "murderer of x"]
+    ]
+}

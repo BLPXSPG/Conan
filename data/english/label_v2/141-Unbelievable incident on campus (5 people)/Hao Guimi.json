@@ -1,0 +1,15 @@
+{
+    "Hao Guimi": [
+      ["Cousin Sister", "cousin of x"], 
+      ["Zhang Eba", "rebellion against x"], 
+      ["Lin Xiaohua", "friend of x"]
+    ],
+    "Cousin Sister": [
+      ["Hao Guimi", "cousin of x"], 
+      ["Zhang Eba", "murderer of x"]
+    ],
+    "Lin Xiaohua": [
+      ["Hao Guimi", "friend of x"], 
+      ["Zhang Eba", "fiance of x"]
+    ]
+}

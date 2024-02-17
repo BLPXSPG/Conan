@@ -1,0 +1,89 @@
+{
+    "Wang Xi Yan": [
+      ["Wang Shunming", "father of x"], 
+      ["Xi Rong", "sister of x, co-wives of x"], 
+      ["Cui Shouheng", "brother in law of x, husband of x, enemy of x"], 
+      ["Bao Gan", "servant of x, victim of x"], 
+      ["Zhou Mengdang", "friend of x, ex-romantic relationships with x, extramarital affair with x"], 
+      ["Bao Liu", "rival in love of x, victim of x"], 
+      ["Yannan", "niece of x, step-daughter of x"], 
+      ["Bao Gui", "servant of x"], 
+      ["Tian Chou", "co-wives of x"], 
+      ["He Sao", "servant of x, helper of x"]
+    ],
+    "Xi Rong": [
+      ["Wang Xi Rong", "same person as x (different reference)"]
+    ],
+    "Wang Xi Rong": [
+      ["Wang Xi Yan", "sister of x, co-wives of x"], 
+      ["Wang Shunming", "father of x"], 
+      ["Cui Shouheng", "husband of x"], 
+      ["Bao Liu", "servant of x"], 
+      ["Yannan", "daughter of x"], 
+      ["Xi Rong", "same person as x (different reference)"]
+    ],
+    "Cui Shouheng": [
+      ["Bao Gan", "servant of x, wife of x"], 
+      ["Xi Rong", "wife of x"], 
+      ["Zhou Mengdang", "servant of x, employee of x"], 
+      ["Wang Xi Yan", "wife of x, sister in law of x"], 
+      ["Yannan", "daughter of x"], 
+      ["He Sao", "servant of x"], 
+      ["Bao Gan", "servant of x"]
+    ],
+    "Bao Gan": [
+      ["Wang Xi Yan", "master of x, bully of x, co-wives of x"], 
+      ["Cui Shouheng", "master of x, husband of x"], 
+      ["Xi Rong", "master of x, co-wives of x, bully of x"], 
+      ["Bao Liu", "helper of x"], 
+      ["Cui Shouheng", "husband of x"], 
+      ["Wang Xi Yan", "co-wives of x"], 
+      ["Tian Chou", "same person as x (different reference)"]
+    ],
+    "Tian Chou": [
+      ["Bao Gan", "same person as x (different reference)"]
+    ],
+    "Zhou Mengdang": [
+      ["Zhou Chitong", "brother of x"], 
+      ["Bao Liu", "wife of x"], 
+      ["Cui Shouheng", "master of x, employer of x"], 
+      ["Lianyi", "son of x"], 
+      ["Wang Xi Yan", "friend of x, ex-romantic relationships with x, extramarital affair with x"]
+    ],
+    "Zhou Chitong": [
+      ["Zhou Mengdang", "brother of x"], 
+      ["Yu Shi", "sister in law of x"], 
+      ["Lianyi", "nephew of x"]
+    ],
+    "Bao Liu": [
+      ["Zhou Mengdang", "husband of x"], 
+      ["Zhou Chitong", "brother in law of x"], 
+      ["Lianyi", "son of x"], 
+      ["Xi Rong", "master of x"], 
+      ["Cui Shouheng", "master of x"], 
+      ["Bao Gan", "helped by x"], 
+      ["Wang Xi Yan", "bully of x"]
+    ],
+    "Lianyi": [
+      ["Bao Liu", "mother of x"], 
+      ["Zhou Mengdang", "father of x"], 
+      ["Zhou Chitong", "uncle of x"], 
+      ["Yannan", "friend of x"], 
+      ["Zhou Lianyi", "same person as x (different reference)"]
+    ],
+    "Zhou Lianyi": [
+      ["Lianyi", "same person as x (different reference)"]
+    ],
+    "Yannan": [
+      ["Xi Rong", "mother of x"], 
+      ["Cui Shouheng", "father of x"], 
+      ["Wang Xi Yan", "aunt of x, step-mother of x"], 
+      ["Bao Gan", "servant of x, friend of x"], 
+      ["Bao Liu", "servant of x"], 
+      ["Lianyi", "friend of x"], 
+      ["Tian Chou", "step-mother of x"]
+    ],
+    "Bao Gui": [
+      ["Wang Xi Yan", "master of x"]
+    ]
+}

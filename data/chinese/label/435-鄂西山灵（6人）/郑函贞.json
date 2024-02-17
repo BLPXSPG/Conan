@@ -1,0 +1,67 @@
+{
+  "郑函贞": [
+    ["郑昌珉", "father of X"],
+    ["周允棠", "teacher of X"],
+    ["忱纱", "colleague of X, fiance of X"],
+    ["巴府山", "host of X"],
+    ["鹃歌", "lover of X, helper of X"],
+    ["鬼印", "rival in love of X"],
+    ["张氏", "mother of X"],
+    ["又黑又瘦的男人", "stranger to X"]
+  ],
+  "郑昌珉": [
+    ["郑函贞", "son of X"],
+    ["周允棠", "friend of X"],
+    ["张氏", "wife of X"]
+  ],
+  "张氏": [
+    ["郑昌珉", "husband of X"],
+    ["郑函贞", "son of X"]
+  ],
+  "周允棠":[
+    ["郑函贞", "student of X"],
+    ["郑昌珉", "friend of X"],
+    ["忱纱", "daughter of X"],
+    ["巴府山", "host of X"],
+    ["向导", "tour guide of X"],
+    ["周景鱼", "son of X"]
+  ],
+  "周教授": [
+    ["周允棠", "same person as X (different reference)"]
+  ],
+  "巴府山": [
+    ["郑函贞", "guest of X, rival of X, murderer of X"],
+    ["周允棠", "guest of X"],
+    ["忱纱", "guest of X"],
+    ["向导", "employee of X"],
+    ["鹃歌", "daughter of X"],
+    ["李德木", "employee of X"],
+    ["鹃歌", "killed by X"]
+  ],
+  "忱纱": [
+    ["郑函贞", "colleague of X, fiance of X"],
+    ["周允棠", "father of X"],
+    ["巴府山", "host of X"],
+    ["周景鱼", "brother of X"]
+  ],
+  "鹃歌": [
+    ["巴府山", "father of X"],
+    ["郑函贞", "lover of X, helped by X"],
+    ["鬼印", "fiance of X"]
+  ],
+  "鬼印": [
+    ["鹃歌", "fiancee of X"]
+  ],
+  "黑袍人":[
+    ["郑函贞", "rival of X, murderer of X"],
+    ["鹃歌", "killed by X"],
+    ["鬼印", "same person as X (different reference)"]
+  ],
+  "李德木": [
+    ["巴府山", "landlord of X, employer of X"]
+  ],
+  "周景鱼": [
+    ["周允棠", "son of X"],
+    ["忱纱", "sister of X"]
+  ]
+}

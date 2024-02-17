@@ -1,0 +1,22 @@
+{
+    "张大副": [
+      ["杨老板", "victim of x"], 
+      ["玲船医", "fondness of x"]
+    ],
+    "杨老板": [
+      ["张大副", "murderer of x"], 
+      ["玲船医", "debtor of x, informant of x"]
+    ],
+    "王船工": [
+      ["玲船医", "child of x"], 
+      ["杨老板", "hate of x"]
+    ],
+    "玲船医": [
+      ["王小工", "romantic relationships with x"], 
+      ["杨老板", "creditor of x"]
+    ],
+    "王小工": [
+      ["玲船医", "romantic relationships with x"], 
+      ["张大副", "suspicious of x"]
+    ]
+}

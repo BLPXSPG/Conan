@@ -1,0 +1,85 @@
+{
+  "田红娇": [
+    ["范金魁", "Fiance of X"],
+    ["姚长寿", "Husband of X"],
+    ["姚孟仁", "Adoptive son of X"],
+    ["姚仲义", "Adoptive son of X"],
+    ["方敏月", "Cousin of X"],
+    ["陈均梦", "Daughter in law of X"],
+    ["陈安巧", "Master of X"],
+    ["胡人玉", "Guest of X"],
+    ["大眼阿坤", "Acquaintance of X"],
+    ["贵叔", "Helper of X"],
+    ["郭立柱", "Acquaintance of X"]
+  ],
+  "范金魁": [
+    ["田红娇", "Fiancee of X"],
+    ["李宽生", "Friend of X"],
+    ["李广生", "Friend of X"],
+    ["方乘山", "Relative of X"]
+  ],
+  "姚长寿": [
+    ["田红娇", "Wife of X"],
+    ["姚孟仁", "Son of X"],
+    ["姚仲义", "Son of X"],
+    ["陈均梦", "Daughter in law of X"],
+    ["方敏月", "Relative of X, Doctor of X"],
+    ["虞医师", "Doctor of X"],
+    ["朱迪", "Relative of X"]
+  ],
+  "姚孟仁": [
+    ["田红娇", "Adoptive mother of X"],
+    ["姚长寿", "Father of X"],
+    ["姚仲义", "Half brother of X"],
+    ["陈均梦", "Wife of X"]
+  ],
+  "姚仲义": [
+    ["田红娇", "Adoptive mother of X"],
+    ["姚长寿", "Father of X"],
+    ["姚孟仁", "Half brother of X"],
+    ["虞医师", "Acquaintance of X"],
+    ["贵叔", "Acquaintance of X"],
+    ["陈均梦", "Sister in law of X"]
+  ],
+  "方敏月": [
+    ["田红娇", "Cousin of X"],
+    ["方乘山", "Father of X"]
+  ],
+  "方乘山": [
+    ["方敏月", "Daughter of X"],
+    ["范金魁", "Relative of X"]
+  ],
+  "陈均梦": [
+    ["田红娇", "Mother in law of X"],
+    ["姚孟仁", "Husband of X"],
+    ["姚长寿", "Father in law of X"],
+    ["姚仲义", "Brother in law of X"],
+    ["贵叔", "Doctor of X"],
+    ["陈安巧", "Servant of X"]
+  ],
+  "陈安巧": [
+    ["田红娇", "Master of X"],
+    ["陈均梦", "Master of X"]
+  ],
+  "朱迪": [
+    ["田红娇", "Relative of X"],
+    ["姚长寿", "Relative of X"]
+  ],
+  "李宽生": [
+    ["范金魁", "Friend of X"],
+    ["李广生", "Brother of X"]
+  ],
+  "李广生": [
+    ["范金魁", "Friend of X"],
+    ["李宽生", "Brother of X"]
+  ],
+  "大眼阿坤": [
+    ["田红娇", "Fondness of X"]
+  ],
+  "郭立柱": [
+    ["田红娇", "Fondness of X"]
+  ],
+  "贵叔": [
+    ["陈均梦", "Patient of X"]
+  ]
+}

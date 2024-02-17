@@ -1,0 +1,188 @@
+{
+    "Yu Junhong": [
+        [
+            "Yu Beichen",
+            "Father of X"
+        ],
+        [
+            "Ren",
+            "Mother of X"
+        ],
+        [
+            "Ren Zhongyuan",
+            "Grandfather of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Friend of X"
+        ],
+        [
+            "Meng Shen",
+            "Acquaintance of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Acquaintance of X"
+        ],
+        [
+            "Fan",
+            "Acquaintance of X"
+        ]
+    ],
+    "Yu Beichen": [
+        [
+            "Yu Junhong",
+            "Son of X"
+        ],
+        [
+            "Ren",
+            "Wife of X"
+        ],
+        [
+            "Meng Shen",
+            "Friend of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Acquaintance of X"
+        ],
+        [
+            "Fan",
+            "Acquaintance of X"
+        ],
+        [
+            "Ren Zhongyuan",
+            "Father in law of X"
+        ]
+    ],
+    "Ren": [
+        [
+            "Yu Junhong",
+            "Son of X"
+        ],
+        [
+            "Yu Beichen",
+            "Husband of X"
+        ],
+        [
+            "Ren Zhongyuan",
+            "Father of X"
+        ]
+    ],
+    "Ren Zhongyuan": [
+        [
+            "Yu Junhong",
+            "Grandson of X"
+        ],
+        [
+            "Ren",
+            "Daughter of X"
+        ],
+        [
+            "Yu Beichen",
+            "Son in law of X"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Yu Junhong",
+            "Friend of X"
+        ],
+        [
+            "Yao Changshou",
+            "Father of X"
+        ],
+        [
+            "Lady Hong",
+            "Adoptive mother of X"
+        ],
+        [
+            "Yao Mengren",
+            "Half brother of X"
+        ]
+    ],
+    "Meng Shen": [
+        [
+            "Yu Beichen",
+            "Friend of X"
+        ],
+        [
+            "Yao Changshou",
+            "Employee of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Employee of X"
+        ],
+        [
+            "Fan",
+            "Employee of X"
+        ]
+    ],
+    "Fang Chengshan": [
+        [
+            "Yu Beichen",
+            "Acquaintance of X"
+        ],
+        [
+            "Meng Shen",
+            "Employer of X"
+        ],
+        [
+            "Fan",
+            "Superior of X, Colleague of X"
+        ]
+    ],
+    "Fan": [
+        [
+            "Meng Shen",
+            "Employer of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Subordinate of X"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Yao Zhongyi",
+            "Son of X"
+        ],
+        [
+            "Lady Hong",
+            "Wife of X"
+        ],
+        [
+            "Yao Mengren",
+            "Son of X"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Adoptive son of X"
+        ],
+        [
+            "Yao Mengren",
+            "Adoptive son of X"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Yao Changshou",
+            "Father of X"
+        ],
+        [
+            "Lady Hong",
+            "Adoptive mother of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Half brother of X"
+        ]
+    ]
+}

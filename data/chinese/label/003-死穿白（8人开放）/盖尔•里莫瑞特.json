@@ -1,0 +1,35 @@
+{
+    "盖尔·里莫瑞特": [
+      ["西尔维娅·科斯塔", "Customer of X"],
+      ["汉斯·里莫瑞特", "Husband of X, betrayed by X, Killed by X"],
+      ["德雷克·里莫瑞特", "Extramarital Affair with X, brother in law of x"],
+      ["詹姆斯·莱利", "Helper of X, Customer of X"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["盖尔·里莫瑞特", "Extramarital Affair with X, sister in law of x"],
+      ["汉斯·里莫瑞特", "Brother of X, Rival in love of X"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["盖尔·里莫瑞特", "Wife of X, betrayer of X, Murderer of X"],
+      ["德雷克·里莫瑞特", "Brother of X, Rival in love of X"],
+      ["吉姆·梅森", "in the lawsuit against x, victim of X, Patient of x"],
+      ["护士长科斯塔", "Colleague of X"],
+      ["伊莱恩·卡特尔", "Colleague of X"]
+    ],
+    "护士长科斯塔": [
+      ["盖尔·里莫瑞特", "Lawyer of X"],
+      ["汉斯·里莫瑞特", "Colleague of X"],
+      ["伊莱恩·卡特尔", "Colleague of X"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["汉斯·里莫瑞特", "Colleague of X"],
+      ["护士长科斯塔", "Colleague of X"]
+    ],
+    "吉姆·梅森": [
+      ["汉斯·里莫瑞特", "in the lawsuit against x, perpetrator of x, Doctor of X"]
+    ],
+    "詹姆斯·莱利": [
+      ["盖尔·里莫瑞特", "Helped by X, Lawyer of X"]
+    ]
+  }
+  

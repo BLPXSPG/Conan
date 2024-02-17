@@ -1,0 +1,198 @@
+{
+    "Lü Songnian": [
+        [
+            "Lü Lusheng",
+            "Brother of X"
+        ],
+        [
+            "Yan Yichong",
+            "Murderer of X"
+        ],
+        [
+            "Ge Jixian",
+            "Quest Companion of X"
+        ],
+        [
+            "Xue Dacai",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhu Lingshan",
+            "Quest Companion of X"
+        ],
+        [
+            "Le Wan",
+            "Acquaintance of X"
+        ],
+        [
+            "Xue Yufan",
+            "Acquaintance of X"
+        ]
+    ],
+    "Lü Lusheng": [
+        [
+            "Lü Songnian",
+            "Brother of X"
+        ],
+        [
+            "Yan Yichong",
+            "Murderer of X"
+        ],
+        [
+            "Ge Jixian",
+            "Acquaintance of X"
+        ],
+        [
+            "Xue Dacai",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhu Lingshan",
+            "Disliked by X"
+        ],
+        [
+            "Le Wan",
+            "Acquaintance of X"
+        ],
+        [
+            "Xue Yufan",
+            "Acquaintance of X"
+        ],
+        [
+            "Yu Yancheng",
+            "Customer of X"
+        ]
+    ],
+    "Ge Jixian": [
+        [
+            "Ge Yueluo",
+            "Daughter of X"
+        ],
+        [
+            "Ge Yueman",
+            "Daughter of X"
+        ],
+        [
+            "Zhu Lingshan",
+            "Nephew of X"
+        ],
+        [
+            "Lü Songnian",
+            "Friend of X"
+        ],
+        [
+            "Lü Lusheng",
+            "Acquaintance of X"
+        ]
+    ],
+    "Zhu Lingshan": [
+        [
+            "Ge Yueluo",
+            "Wife of X"
+        ],
+        [
+            "Ge Jixian",
+            "Father in law of X"
+        ],
+        [
+            "Lü Songnian",
+            "Friend of X"
+        ],
+        [
+            "Lü Lusheng",
+            "Disliked by X"
+        ],
+        [
+            "Le Wan",
+            "Secret lover of X"
+        ],
+        [
+            "Xue Yufan",
+            "Acquaintance of X"
+        ],
+        [
+            "Yu Yancheng",
+            "Friend of X"
+        ]
+    ],
+    "Xue Dacai": [
+        [
+            "Xue Yufan",
+            "Son of X"
+        ],
+        [
+            "Zhu Lingshan",
+            "Cousin of X"
+        ],
+        [
+            "Lü Songnian",
+            "Customer of X"
+        ],
+        [
+            "Lü Lusheng",
+            "Customer of X"
+        ]
+    ],
+    "Yan Yichong": [
+        [
+            "Lü Songnian",
+            "Acquaintance of X, Killed by X"
+        ],
+        [
+            "Lü Lusheng",
+            "Acquaintance of X, Killed by X"
+        ]
+    ],
+    "Le Wan": [
+        [
+            "Zhu Lingshan",
+            "Secret lover of X"
+        ],
+        [
+            "Yu Shangyong",
+            "Acquaintance of X"
+        ]
+    ],
+    "Xue Yufan": [
+        [
+            "Xue Dacai",
+            "Father of X"
+        ],
+        [
+            "Lü Songnian",
+            "Acquaintance of X"
+        ],
+        [
+            "Lü Lusheng",
+            "Acquaintance of X"
+        ]
+    ],
+    "Yu Yancheng": [
+        [
+            "Yu Shangyong",
+            "Brother of X"
+        ],
+        [
+            "Lü Songnian",
+            "Customer of X"
+        ],
+        [
+            "Lü Lusheng",
+            "Customer of X"
+        ]
+    ],
+    "Yu Shangyong": [
+        [
+            "Yu Yancheng",
+            "Brother of X"
+        ],
+        [
+            "Lü Lusheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Le Wan",
+            "Acquaintance of X"
+        ]
+    ]
+}

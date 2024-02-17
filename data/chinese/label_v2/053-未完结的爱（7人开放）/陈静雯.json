@@ -1,0 +1,37 @@
+{
+    "陈静雯": [
+      ["顾宇", "hate of x, romantic relationships with x"], 
+      ["林夕", "acquaintance of x"], 
+      ["郑心媚", "mother of x"], 
+      ["林惟仁", "hate of x"]
+    ],
+    "顾宇": [
+      ["陈静雯", "romantic relationships with x"], 
+      ["林夕", "ex-girlfriend of x"], 
+      ["顾明和", "father of x"], 
+      ["沈城", "servant of x, employee of x"], 
+      ["林惟仁", "business partner of x"]
+    ],
+    "林夕": [
+      ["顾宇", "ex-boyfriend of x"], 
+      ["陈静雯", "rival in love of x"], 
+      ["林惟仁", "father of x"], 
+      ["苏阳", "fiance of x"]
+    ],
+    "郑心媚": [
+      ["陈静雯", "daughter of x"]
+    ],
+    "林惟仁": [
+      ["顾宇", "business partner of x"], 
+      ["林夕", "daughter of x"]
+    ],
+    "顾明和": [
+      ["顾宇", "son of x"]
+    ],
+    "苏阳": [
+      ["林夕", "fiancee of x"]
+    ],
+    "沈城": [
+      ["林惟仁", "employer of x, master of x"]
+    ]
+}

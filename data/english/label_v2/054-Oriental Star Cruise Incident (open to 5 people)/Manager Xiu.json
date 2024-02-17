@@ -1,0 +1,28 @@
+{
+    "Xiu Renjie": [
+      ["Manager Xiu", "same person as x (different reference)"]
+    ],
+    "Liu Qi": [
+      ["Xiu Renjie", "classmate of x, colleague of x, murderer of x"]
+    ],
+    "Hong Zilian": [
+      ["Xiu Renjie", "acquaintance of x"]
+    ],
+    "Han Yimu": [
+      ["Xiu Renjie", "fondness of x"], 
+      ["Liu Qi", "dislike of x"]
+    ],
+    "Lin Ruotong": [
+      ["Xiu Renjie", "superior of x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Xiu Renjie", "acquaintance of x"]
+    ],
+    "Manager Xiu": [
+      ["Liu Qi", "classmate of x, colleague of x, victim of x"], 
+      ["Hong Zilian", "acquaintance of x"], 
+      ["Han Yimu", "fondness of x"], 
+      ["Lin Ruotong", "subordinate of x"], 
+      ["Xiu Renjie", "same person as x (different reference)"]
+    ]
+}

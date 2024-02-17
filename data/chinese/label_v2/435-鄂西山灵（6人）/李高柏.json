@@ -1,0 +1,66 @@
+{
+    "李高柏": [
+      ["李德牧", "brother of x"], 
+      ["李良松", "brother of x"], 
+      ["巴府山", "employer of x"], 
+      ["如娅", "friend of x"], 
+      ["隼", "classmate of x, friend of x"], 
+      ["周教授", "employer of x, teacher of x, helper of x"], 
+      ["郑函贞", "employer of x"], 
+      ["鬼印", "employer of x"]
+    ],
+    "周教授": [
+      ["李高柏", "tour guide of x, student of x, helped by x"], 
+      ["巴府山", "host of x"]
+    ],
+    "李德木": [
+      ["李高柏", "younger brother of x"], 
+      ["李良松", "younger brother of x"], 
+      ["巴府山", "employer of x"], 
+      ["山灵", "superior of x"]
+    ],
+    "山灵": [
+      ["李德牧", "subordinate of x"]
+    ],
+    "李良松": [
+      ["李高柏", "younger brother of x"], 
+      ["李德牧", "older brother of x"], 
+      ["巴府山", "employer of x"]
+    ],
+    "巴府山": [
+      ["李高柏", "employee of x"], 
+      ["李德牧", "employee of x"], 
+      ["李良松", "employee of x"], 
+      ["隼", "son of x"], 
+      ["鬼印", "guest of x"], 
+      ["如娅", "guest of x"], 
+      ["甘玛", "guest of x"], 
+      ["巴府山的女儿", "daughter of x"], 
+      ["周教授", "guest of x"]
+    ],
+    "鬼印": [
+      ["巴府山", "host of x"], 
+      ["甘玛", "younger sister of x"], 
+      ["巴府山的女儿", "fiance of x"], 
+      ["李高柏", "employee of x"]
+    ],
+    "甘玛": [
+      ["鬼印", "older brother of x"], 
+      ["巴府山", "host of x"]
+    ],
+    "巴府山的女儿": [
+      ["鬼印", "fiance of x"], 
+      ["巴府山", "father of x"]
+    ],
+    "如娅": [
+      ["巴府山", "guest of x"], 
+      ["李高柏", "friend of x, secret admirer of x"]
+    ],
+    "隼": [
+      ["巴府山", "father of x"], 
+      ["李高柏", "classmate of x"]
+    ],
+    "郑函贞": [
+      ["李高柏", "tour guide of x"]
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "Yu Zu Chengmu": [
+        [
+            "Li Zicai",
+            "brother of X"
+        ],
+        [
+            "Duan Hejun",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Xia Bolong",
+            "Rival in love of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Schoolmate of x, friend of x, Deceived by X, Debtor of X"
+        ],
+        [
+            "Tian Jixiu Yi",
+            "Superior of X, Manipulator of X"
+        ],
+        [
+            "Li Luoming",
+            "Nephew of X, Quest Companion of X"
+        ],
+        [
+            "Anqi",
+            "Admirer of X, Creditor of X, friend of X"
+        ],
+        [
+            "Duan Yuetong",
+            "information receiver from x"
+        ],
+        [
+            "Li Zijun",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Li Zijun": [
+        [
+            "Yu Zu Chengmu",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Li Zicai": [
+        [
+            "Yu Zu Chengmu",
+            "Brother of X"
+        ],
+        [
+            "Wu Baian",
+            "Schoolmate of X, Quest Companion of X"
+        ]
+    ],
+    "Duan Hejun": [
+        [
+            "Yu Zu Chengmu",
+            "Ex-romantic relationships with X, betrayed by X"
+        ],
+        [
+            "Xia Bolong",
+            "Extramarital Affair with X"
+        ]
+    ],
+    "Xia Bolong": [
+        [
+            "Yu Zu Chengmu",
+            "Rival in love of X"
+        ],
+        [
+            "Xia Sanhu",
+            "brother of X"
+        ]
+    ],
+    "Xia Sanhu": [
+        [
+            "Xia Bolong",
+            "Brother of X, Victim of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Deceiver of X"
+        ],
+        [
+            "Li Luoming",
+            "Deceiver of X, Subordinate of X"
+        ]
+    ],
+    "Wu Baian": [
+        [
+            "Li Zicai",
+            "Schoolmate of X, Quest Companion of X"
+        ]
+    ],
+    "Li Luoming": [
+        [
+            "Yu Zu Chengmu",
+            "Uncle of X, Quest Companion of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Superior of X, Deceived by X"
+        ],
+        [
+            "Li Zicai",
+            "father of X"
+        ],
+        [
+            "Aming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Aming": [
+        [
+            "Li Luoming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Anqi": [
+        [
+            "Yu Zu Chengmu",
+            "Admirer of X, Debtor of X, friend of X"
+        ]
+    ],
+    "Duan Yuetong": [
+        [
+            "Yu Zu Chengmu",
+            "Informant of X"
+        ]
+    ]
+}

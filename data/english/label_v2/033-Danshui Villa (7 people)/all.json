@@ -1,0 +1,140 @@
+{
+    "Feng Shuangji": [
+      ["Ren Shifu", "mentor of x, adoptive father of x"], 
+      ["Li Yu", "extramarital affair with x"], 
+      ["Zhao Wanlei", "schoolmate of x, employer of x"], 
+      ["Zhao Wei", "helped by x, master of x"], 
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Feng Zhu", "daughter of x"], 
+      ["Qi Yue", "colleague of x"], 
+      ["Ma Bai", "colleague of x, minion of x"], 
+      ["Zhao An", "colleague of x, minion of x"], 
+      ["Yu Qiang", "colleague of x, minion of x"]
+    ],
+    "Ren Shifu": [
+      ["Feng Shuangji", "mentor of x, adoptive son of x"], 
+      ["Zhao Wanlei", "student of x"], 
+      ["Guo Wangshan", "acquaintance of x"], 
+      ["Liao Laoban", "student of x, employer of x"], 
+      ["Yu Yichen", "son in law of x"], 
+      ["Yin Shaoming", "grandson of x"], 
+      ["Ren", "daughter of x"]
+    ],
+    "Li Yu": [
+      ["Feng Shuangji", "extramarital affair with x"], 
+      ["Zhao Wanlei", "husband of x"], 
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Zhao Wei", "son of x"], 
+      ["Zhao Men Li Shi", "same person as x (different reference)"]
+    ],
+    "Zhao Men Li Shi": [
+      ["Li Yu", "same person as x (different reference)"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Qiuer", "secret admirer of x"], 
+      ["Guo Wangshan", "business partner of x"], 
+      ["Liao Laoban", "rival of x"], 
+      ["Feng Shuangji", "schoolmate of x, servant of x, employee of x"], 
+      ["Li Yu", "wife of x"], 
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Zhao Wei", "son of x"], 
+      ["Ren Shifu", "mentor of x"], 
+      ["Qi Yue", "employee of x, servant of x"], 
+      ["Zhao An", "employee of x, servant of x"]
+    ],
+    "Zhao Wei": [
+      ["Emperor Guangxu", "stranger to x"], 
+      ["Yu Fei", "stranger to x"], 
+      ["Li Yu", "mother of x"], 
+      ["Li Shuxun", "stranger to x"], 
+      ["Zhao Wanlei", "father of x"], 
+      ["Feng Shuangji", "servant of x, mentor of x"], 
+      ["Zhao Luoyi", "sister of x"], 
+      ["Zhang Yuyi or Imperial Physician Zhang", "doctor of x"], 
+      ["Zhao Qiuer", "servant of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Feng Shuangji", "father of x"], 
+      ["Li Yu", "mother of x"], 
+      ["Zhao Wanlei", "father of x"], 
+      ["Zhao Wei", "brother of x"], 
+      ["Zhao Qiuer", "master of x"], 
+      ["Qi Yue", "servant of x"], 
+      ["Yin Shaoming", "helper of x"], 
+      ["Feng Zhu", "acquaintance of x"], 
+      ["Zhao An", "servant of x"], 
+      ["Ma Bai", "servant of x"], 
+      ["Yu Qiang", "servant of x"]
+    ],
+    "Feng Zhu": [
+      ["Feng Shuangji", "father of x"]
+    ],
+    "Yin Shaoming": [
+      ["Yu Beichen", "father of x"], 
+      ["Ren", "mother of x"], 
+      ["Ren Shifu", "grandfather of x"], 
+      ["Zhao Luoyi", "seeker of help from x, secret admirer of x"], 
+      ["Feng Shuangji", "suspected by x"]
+    ],
+    "Yu Beichen": [
+      ["Yin Shaoming", "son of x"], 
+      ["Ren", "wife of x"], 
+      ["Ren Shifu", "father in law of x"]
+    ],
+    "Ren": [
+      ["Yin Shaoming", "son of x"], 
+      ["Yu Beichen", "husband of x"], 
+      ["Ren Shifu", "father of x"]
+    ],
+    "Guo Wangshan": [
+      ["Xiao Hunhun or Little Rascal", "manipulated by x, employee of x"], 
+      ["Zhao Wanlei", "victim of x, business partner of x"], 
+      ["Ren Shifu", "acquaintance of x"], 
+      ["Liao Laoban", "employer of x"], 
+      ["Huazi Li or Skunk", "informant of x, acquaintance of x"], 
+      ["Qi Yue", "manipulated by x, employee of x"], 
+      ["Shuang Mian Hu", "same person as x (different identity)"]
+    ],
+    "Shuang Mian Hu": [
+      ["Guo Wangshan", "same person as x (different identity)"], 
+      ["Qi Yue", "manipulated by x, employee of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Zhao Luoyi", "master of x, friend of x, jealous by x"], 
+      ["Zhao Wanlei", "employer of x"], 
+      ["Zhao Wei", "colleague of x"], 
+      ["Feng Shuangji", "colleague of x"], 
+      ["Feng Zhu", "acquaintance of x"], 
+      ["Qi Yue", "colleague of x, possibly family of x"]
+    ],
+    "Qi Yue": [
+      ["Shuang Mian Hu", "manipulator of x, adversary of x, employer of x"], 
+      ["Zhao Qiuer", "possibly family of x"], 
+      ["Feng Shuangji", "colleague of x, x's victim's family"], 
+      ["Feng Zhu", "acquaintance of x, x's victim's family"], 
+      ["Zhao Wanlei", "employer of x, master of x, x's victim's family"], 
+      ["Zhao Luoyi", "master of x, x's victim's family"], 
+      ["Zhao Wei", "master of x, x's victim's family"], 
+      ["Zhao An", "colleague of x"], 
+      ["Xiao Hunhun or Little Rascal", "same person as x (different identity)"]
+    ],
+    "Xiao Hunhun or Little Rascal": [
+      ["Qi Yue", "same person as x (different identity)"]
+    ],
+    "Liao Laoban": [
+      ["Guo Wangshan", "employee of x"], 
+      ["Zhao Wanlei", "rival of x"], 
+      ["Ren Shifu", "master of x, employee of x, servant of x"]
+    ],
+    "Huazi Li or Skunk": [
+      ["Guo Wangshan", "acquaintance of x, information receiver from x"]
+    ],
+    "Yu Qiang": [
+      ["Zhao Luoyi", "master of x"], 
+      ["Feng Shuangji", "superior of x"]
+    ],
+    "Ma Bai": [
+      ["Zhao Luoyi", "master of x"], 
+      ["Feng Shuangji", "superior of x"]
+    ]
+}

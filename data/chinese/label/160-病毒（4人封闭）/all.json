@@ -1,0 +1,28 @@
+{
+    "孙清洁": [
+      ["田助理", "Perpetrator of X"], 
+      ["李保安", "Friend of X"]
+    ],
+    "田助理": [
+      ["孙清洁", "Hate of X, Victim of X"], 
+      ["李保安", "Hate of X, Victim of X"], 
+      ["贾教授", "Perpetrator of X, Superior of X, Hate of X"], 
+      ["秦鸥", "Friend of X, Romantic relationships with X"]
+    ],
+    "李保安": [
+      ["孙清洁", "Friend of X"], 
+      ["田助理", "Acquaintance of X, Perpetrator of X"], 
+      ["秦鸥", "Acquaintance of X, helper of x"], 
+      ["贾教授", "Acquaintance of X"]
+    ],
+    "贾教授": [
+      ["田助理", "Subordinate of X, Hate of X"], 
+      ["孙清洁", "Acquaintance of X"], 
+      ["秦鸥", "Acquaintance of X"]
+    ],
+    "秦鸥": [
+      ["李保安", "Acquaintance of X"], 
+      ["田助理", "Romantic relationships with X"], 
+      ["贾教授", "Acquaintance of X"]
+    ]
+}

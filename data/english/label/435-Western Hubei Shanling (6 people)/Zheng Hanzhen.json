@@ -1,0 +1,190 @@
+{
+    "Zheng Hanzhen": [
+        [
+            "Zheng Changmin",
+            "father of X"
+        ],
+        [
+            "Zhou Yuntang",
+            "teacher of X"
+        ],
+        [
+            "Chen Sha",
+            "colleague of X, fiance of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "host of X"
+        ],
+        [
+            "Juan Ge (Cuckoo Song)",
+            "lover of X, helper of X"
+        ],
+        [
+            "Gui Yin",
+            "rival in love of X"
+        ],
+        [
+            "Zhang Shi",
+            "mother of X"
+        ],
+        [
+            "Dark and Thin Man",
+            "stranger to X"
+        ]
+    ],
+    "Zheng Changmin": [
+        [
+            "Zheng Hanzhen",
+            "son of X"
+        ],
+        [
+            "Zhou Yuntang",
+            "friend of X"
+        ],
+        [
+            "Zhang Shi",
+            "wife of X"
+        ]
+    ],
+    "Zhang Shi": [
+        [
+            "Zheng Changmin",
+            "husband of X"
+        ],
+        [
+            "Zheng Hanzhen",
+            "son of X"
+        ]
+    ],
+    "Zhou Yuntang": [
+        [
+            "Zheng Hanzhen",
+            "student of X"
+        ],
+        [
+            "Zheng Changmin",
+            "friend of X"
+        ],
+        [
+            "Chen Sha",
+            "daughter of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "host of X"
+        ],
+        [
+            "Guide",
+            "tour guide of X"
+        ],
+        [
+            "Zhou Jingyu",
+            "son of X"
+        ]
+    ],
+    "Professor Zhou": [
+        [
+            "Zhou Yuntang",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Ba Mansion Mountain": [
+        [
+            "Zheng Hanzhen",
+            "guest of X, rival of X, murderer of X"
+        ],
+        [
+            "Zhou Yuntang",
+            "guest of X"
+        ],
+        [
+            "Chen Sha",
+            "guest of X"
+        ],
+        [
+            "Guide",
+            "employee of X"
+        ],
+        [
+            "Juan Ge (Cuckoo Song)",
+            "daughter of X"
+        ],
+        [
+            "Li Demu",
+            "employee of X"
+        ],
+        [
+            "Juan Ge (Cuckoo Song)",
+            "killed by X"
+        ]
+    ],
+    "Chen Sha": [
+        [
+            "Zheng Hanzhen",
+            "colleague of X, fiance of X"
+        ],
+        [
+            "Zhou Yuntang",
+            "father of X"
+        ],
+        [
+            "Ba Mansion Mountain",
+            "host of X"
+        ],
+        [
+            "Zhou Jingyu",
+            "brother of X"
+        ]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+        [
+            "Ba Mansion Mountain",
+            "father of X"
+        ],
+        [
+            "Zheng Hanzhen",
+            "lover of X, helped by X"
+        ],
+        [
+            "Gui Yin",
+            "fiance of X"
+        ]
+    ],
+    "Gui Yin": [
+        [
+            "Juan Ge (Cuckoo Song)",
+            "fiancee of X"
+        ]
+    ],
+    "Man in Black Robe": [
+        [
+            "Zheng Hanzhen",
+            "rival of X, murderer of X"
+        ],
+        [
+            "Juan Ge (Cuckoo Song)",
+            "killed by X"
+        ],
+        [
+            "Gui Yin",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Li Demu": [
+        [
+            "Ba Mansion Mountain",
+            "landlord of X, employer of X"
+        ]
+    ],
+    "Zhou Jingyu": [
+        [
+            "Zhou Yuntang",
+            "son of X"
+        ],
+        [
+            "Chen Sha",
+            "sister of X"
+        ]
+    ]
+}

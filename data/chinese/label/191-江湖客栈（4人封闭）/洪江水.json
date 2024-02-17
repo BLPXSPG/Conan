@@ -1,0 +1,36 @@
+{
+  "洪江水": [
+    ["洪寨主", "Father of X"],
+    ["孟三春", "Employer of X, Victim of X"],
+    ["张金银", "Employer of X"],
+    ["张红生", "Employer of X"],
+    ["蔡思娘", "Colleague of X, Admired by X"]
+  ],
+  "洪寨主": [
+    ["洪江水", "Son of X"]
+  ],
+  "孟三春": [
+    ["洪江水", "Employee of X, Murderer of X"],
+    ["张金银", "Business Partner of X, Friend of X"],
+    ["张红生", "Wife of X"],
+    ["蔡思娘", "Employee of X"]
+  ],
+  "张金银": [
+    ["洪江水", "Employee of X"],
+    ["孟三春", "Business Partner of X, Friend of X"],
+    ["张红生", "Employee of X"],
+    ["蔡思娘", "Employee of X"]
+  ],
+  "张红生": [
+    ["洪江水", "Employee of x"],
+    ["孟三春", "Husband of X"],
+    ["张金银", "Employee of X"],
+    ["蔡思娘", "Employee of X"]
+  ],
+  "蔡思娘": [
+    ["洪江水", "Colleague of X, admirer of x"],
+    ["孟三春", "Employer of X"],
+    ["张金银", "Employer of X"],
+    ["张红生", "Employer of X"]
+  ]
+}

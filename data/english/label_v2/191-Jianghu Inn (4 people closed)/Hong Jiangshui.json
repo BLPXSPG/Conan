@@ -1,0 +1,36 @@
+{
+    "Hong Jiangshui": [
+      ["Hong Zhaizhu", "father of x"], 
+      ["Meng Sanchun", "employer of x, victim of x"], 
+      ["Zhang Jinyin", "employer of x"], 
+      ["Zhang Hongsheng", "employer of x"], 
+      ["Cai Siniang", "colleague of x, admired by x"]
+    ],
+    "Hong Zhaizhu": [
+      ["Hong Jiangshui", "son of x"]
+    ],
+    "Meng Sanchun": [
+      ["Hong Jiangshui", "employee of x, murderer of x"], 
+      ["Zhang Jinyin", "business partner of x, friend of x"], 
+      ["Zhang Hongsheng", "wife of x"], 
+      ["Cai Siniang", "employee of x"]
+    ],
+    "Zhang Jinyin": [
+      ["Hong Jiangshui", "employee of x"], 
+      ["Meng Sanchun", "business partner of x, friend of x"], 
+      ["Zhang Hongsheng", "employee of x"], 
+      ["Cai Siniang", "employee of x"]
+    ],
+    "Zhang Hongsheng": [
+      ["Hong Jiangshui", "employee of x"], 
+      ["Meng Sanchun", "husband of x"], 
+      ["Zhang Jinyin", "employee of x"], 
+      ["Cai Siniang", "employee of x"]
+    ],
+    "Cai Siniang": [
+      ["Hong Jiangshui", "colleague of x, admirer of x"], 
+      ["Meng Sanchun", "employer of x"], 
+      ["Zhang Jinyin", "employer of x"], 
+      ["Zhang Hongsheng", "employer of x"]
+    ]
+}

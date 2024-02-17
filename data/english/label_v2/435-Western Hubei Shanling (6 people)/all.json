@@ -1,0 +1,74 @@
+{
+    "Miao Ruya": [
+      ["Tian Shi", "mother of x"], 
+      ["Miao Na", "father of x"], 
+      ["Miao Shi", "aunt of x"], 
+      ["Ba Mansion Mountain", "uncle of x"], 
+      ["Juan Ge", "sister of x"], 
+      ["Li Demu", "secret admirer of x"], 
+      ["Zhou Yuntang", "killed by x"], 
+      ["Li Gaobai", "friend of x, secret admirer of x"]
+    ],
+    "Mountain Spirit": [
+      ["Miao Na", "subordinate of x"], 
+      ["Miao Ruya", "subordinate of x"], 
+      ["Miao Shi", "subordinate of x"], 
+      ["Ba Mansion Mountain", "subordinate of x, rival of x"], 
+      ["Juan Ge", "subordinate of x, rival of x"], 
+      ["Falcon", "subordinate of x, rival of x"], 
+      ["Gui Yin", "subordinate of x, helper of x"], 
+      ["Gan Ma", "subordinate of x, saviour of x"], 
+      ["Private Tutor", "subordinate of x"]
+    ],
+    "Li Gaobai": [
+      ["Private Tutor", "teacher of x"], 
+      ["Li Demu", "brother of x"], 
+      ["Li Liangsong", "brother of x"], 
+      ["Ba Mansion Mountain", "employer of x"], 
+      ["Miao Ruya", "friend of x"], 
+      ["Ba Falcon", "classmate of x, friend of x"], 
+      ["Zhou Yuntang", "employer of x, teacher of x, helper of x"], 
+      ["Zheng Hanzhen", "employer of x"], 
+      ["Gui Yin", "employer of x"]
+    ],
+    "Zhou Chensha": [
+      ["Zhou Jingyu", "brother of x"], 
+      ["Zhou Yuntang", "father of x"], 
+      ["Wang Shi", "mother of x"], 
+      ["Zheng Hanzhen", "friend of x"], 
+      ["Ba Falcon", "friend of x, secret admirer of x"], 
+      ["Gan Ma", "friend of x, rival in love of x"]
+    ],
+    "Gan Ma": [
+      ["Gan Yin", "brother of x, saviour of x, teacher of x"], 
+      ["Ba Mansion Mountain", "landlord of x, employer of x"], 
+      ["Miao Shi", "landlord of x, saved by x"], 
+      ["Li Gaobai", "friend of x"], 
+      ["Juan Ge", "friend of x"], 
+      ["Wang Jingji", "lover of x, killed by x"], 
+      ["Ba Falcon", "fiance of x"], 
+      ["Mountain Spirit", "superior of x, saviour of x"], 
+      ["Miao Ruya", "helper of x, sister in law of x"], 
+      ["Zhou Chensha", "friend of x, student of x"]
+    ],
+    "Zheng Hanzhen": [
+      ["Zheng Changmin", "father of x"], 
+      ["Zhou Yuntang", "teacher of x"], 
+      ["Zhou Chensha", "colleague of x, fiance of x"], 
+      ["Ba Mansion Mountain", "host of x"], 
+      ["Juan Ge", "lover of x"], 
+      ["Gan Yin", "rival in love of x"], 
+      ["Zhang Shi", "mother of x"], 
+      ["Dark and Thin Man", "stranger to x"]
+    ],
+    "Ba Falcon": [
+      ["Ba Mansion Mountain", "father of x"], 
+      ["Miao Shi", "mother of x"], 
+      ["Miao Na", "uncle of x"], 
+      ["Juan Ge", "older sister of x"], 
+      ["Li Gaobai", "classmate of x"], 
+      ["Zhou Chensha", "friend of x"], 
+      ["Li Demu", "killed by x"], 
+      ["Private Tutor", "teacher of x"]
+    ]
+}

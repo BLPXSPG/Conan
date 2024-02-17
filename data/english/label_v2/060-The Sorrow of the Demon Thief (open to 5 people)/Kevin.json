@@ -1,0 +1,56 @@
+{
+    "Security Kevin": [
+      ["Kevin", "same person as x (different reference)"]
+    ],
+    "Assistant Ella": [
+      ["Security Kevin", "acquaintance of x"], 
+      ["Magician Gust", "fondness of x"], 
+      ["Ella", "same person as x (different reference)"]
+    ],
+    "Publicity Rowling": [
+      ["Security Kevin", "brother of x"], 
+      ["Theatrical Work David", "quest companion of x, fondness of x"], 
+      ["Magician Gust", "quest companion of x"], 
+      ["Rowling", "same person as x (different reference)"]
+    ],
+    "Theatrical Work David": [
+      ["David", "same person as x (different reference)"]
+    ],
+    "Logistics Griff": [
+      ["Griff", "same person as x (different reference)"]
+    ],
+    "Magician Gust": [
+      ["Gust", "same person as x (different reference)"]
+    ],
+    "Ella": [
+      ["Assistant Ella", "same person as x (different reference)"]
+    ],
+    "Gust": [
+      ["Security Kevin", "acquaintance of x"], 
+      ["Assistant Ella", "acquaintance of x"], 
+      ["Publicity Rowling", "quest companion of x"], 
+      ["Theatrical Work David", "quest companion of x"], 
+      ["Magician Gust", "same person as x (different reference)"]
+    ],
+    "Kevin": [
+      ["Assistant Ella", "acquaintance of x"], 
+      ["Publicity Rowling", "sister of x"], 
+      ["Theatrical Work David", "acquaintance of x"], 
+      ["Logistics Griff", "acquaintance of x"], 
+      ["Magician Gust", "acquaintance of x"], 
+      ["Security Kevin", "same person as x (different reference)"]
+    ],
+    "Griff": [
+      ["Security Kevin", "acquaintance of x"], 
+      ["Logistics Griff", "same person as x (different reference)"]
+    ],
+    "Rowling": [
+      ["Publicity Rowling", "same person as x (different reference)"]
+    ],
+    "David": [
+      ["Security Kevin", "acquaintance of x"], 
+      ["Publicity Rowling", "quest companion of x"], 
+      ["Magician Gust", "quest companion of x"], 
+      ["Theatrical Work David", "same person as x (different reference)"]
+    ]
+}

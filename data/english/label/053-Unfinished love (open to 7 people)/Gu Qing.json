@@ -1,0 +1,118 @@
+{
+    "Gu Qing": [
+        [
+            "Gu Yu",
+            "Brother of X"
+        ],
+        [
+            "Gu Minghe",
+            "Father of X"
+        ],
+        [
+            "Lin Xi",
+            "Friend of X, Rival in love of X"
+        ],
+        [
+            "Su Yang",
+            "Fondness of X"
+        ],
+        [
+            "Lin Tong",
+            "Rival in love of X"
+        ],
+        [
+            "Lin Yang",
+            "Romantic relationships with X"
+        ]
+    ],
+    "Gu Yu": [
+        [
+            "Gu Qing",
+            "Sister of X"
+        ],
+        [
+            "Gu Minghe",
+            "Father of X"
+        ],
+        [
+            "Lin Xi",
+            "Friend of X"
+        ],
+        [
+            "Su Yang",
+            "Rival in love of X"
+        ]
+    ],
+    "Gu Minghe": [
+        [
+            "Gu Qing",
+            "Daughter of X"
+        ],
+        [
+            "Gu Yu",
+            "Son of X"
+        ]
+    ],
+    "Lin Xi": [
+        [
+            "Gu Qing",
+            "Friend of X, Rival in love of X"
+        ],
+        [
+            "Gu Yu",
+            "Friend of X"
+        ],
+        [
+            "Su Yang",
+            "Fiance of X"
+        ],
+        [
+            "Lin Yang",
+            "Brother of X, Hate of X"
+        ],
+        [
+            "Lin Weiren",
+            "Father of X"
+        ]
+    ],
+    "Su Yang": [
+        [
+            "Gu Qing",
+            "Acquaintance of X"
+        ],
+        [
+            "Lin Xi",
+            "Fiancee of X"
+        ],
+        [
+            "Lin Tong",
+            "ex-girlfriend of x"
+        ]
+    ],
+    "Lin Tong": [
+        [
+            "Gu Qing",
+            "Rival in love of X"
+        ],
+        [
+            "Su Yang",
+            "ex-boyfriend of x"
+        ]
+    ],
+    "Lin Yang": [
+        [
+            "Gu Qing",
+            "Romantic relationships with X"
+        ],
+        [
+            "Lin Xi",
+            "Sister of X"
+        ]
+    ],
+    "Lin Weiren": [
+        [
+            "Lin Xi",
+            "Daughter of X"
+        ]
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "Judy": [
+        [
+            "Zhang Yadi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Zhang Decai": [
+        [
+            "Zhang Yadi",
+            "Aunt of X"
+        ],
+        [
+            "Yao Changshou",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Mengren",
+            "Acquaintance of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Acquaintance of X"
+        ],
+        [
+            "Fang Minyue",
+            "Romantic relationships with X"
+        ],
+        [
+            "Lady Hong",
+            "Acquaintance of X"
+        ],
+        [
+            "White-headed Snake",
+            "Acquaintance of X"
+        ]
+    ],
+    "Zhang Yadi": [
+        [
+            "Zhang Decai",
+            "Nephew of X"
+        ],
+        [
+            "Yao Changshou",
+            "Lover of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Son of X"
+        ],
+        [
+            "Madam Xu",
+            "Co-wives of X, Rival in love of X, Rival of X"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Zhang Yadi",
+            "Concubine of X"
+        ],
+        [
+            "Madam Xu",
+            "Wife of X"
+        ],
+        [
+            "Yao Mengren",
+            "Son of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Son of X"
+        ],
+        [
+            "Lady Hong",
+            "Wife of X"
+        ],
+        [
+            "Zhang Decai",
+            "Acquaintance of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Colleague of X"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Yao Changshou",
+            "Father of X"
+        ],
+        [
+            "Madam Xu",
+            "Mother of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Half brother of X"
+        ],
+        [
+            "Zhang Decai",
+            "Acquaintance of X"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Yao Changshou",
+            "Father of X"
+        ],
+        [
+            "Zhang Yadi",
+            "Mother of X"
+        ],
+        [
+            "Madam Xu",
+            "Adoptive Mother of X"
+        ],
+        [
+            "Yao Mengren",
+            "Half brother of X"
+        ],
+        [
+            "Zhang Decai",
+            "Acquaintance of X"
+        ]
+    ],
+    "Madam Xu": [
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ],
+        [
+            "Yao Mengren",
+            "Son of X"
+        ],
+        [
+            "Zhang Yadi",
+            "Co-wives of X, Rival in love of X, Rival of X"
+        ]
+    ],
+    "Fang Minyue": [
+        [
+            "Fang Chengshan",
+            "Father of X"
+        ],
+        [
+            "Zhang Decai",
+            "Romantic relationships with X"
+        ]
+    ],
+    "Fang Chengshan": [
+        [
+            "Fang Minyue",
+            "Daughter of X"
+        ],
+        [
+            "Yao Changshou",
+            "Colleague of X"
+        ],
+        [
+            "Fan Jinkui",
+            "Employer of X"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ],
+        [
+            "Judy",
+            "Relative of X"
+        ]
+    ],
+    "White-headed Snake": [
+        [
+            "Zhang Decai",
+            "Acquaintance of X"
+        ]
+    ],
+    "Fan Jinkui": [
+        [
+            "Fang Chengshan",
+            "Employer of X"
+        ]
+    ],
+    "Doctor Fang": [
+        [
+            "Fang Minyue",
+            "Same person as X (different reference)"
+        ]
+    ]
+}

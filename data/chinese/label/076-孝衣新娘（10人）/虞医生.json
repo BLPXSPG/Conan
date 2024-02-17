@@ -1,0 +1,65 @@
+{
+  "虞君鸿": [
+    ["虞北辰", "Father of X"],
+    ["任", "Mother of X"],
+    ["任仲远", "Grandfather of X"],
+    ["姚仲义", "Friend of X"],
+    ["孟深", "Acquaintance of X"],
+    ["方乘山", "Acquaintance of X"],
+    ["范", "Acquaintance of X"]
+  ],
+  "虞北辰": [
+    ["虞君鸿", "Son of X"],
+    ["任", "Wife of X"],
+    ["孟深", "Friend of X"],
+    ["方乘山", "Acquaintance of X"],
+    ["范", "Acquaintance of X"],
+    ["任仲远", "Father in law of X"]
+  ],
+  "任": [
+    ["虞君鸿", "Son of X"],
+    ["虞北辰", "Husband of X"],
+    ["任仲远", "Father of X"]
+  ],
+  "任仲远": [
+    ["虞君鸿", "Grandson of X"],
+    ["任", "Daughter of X"],
+    ["虞北辰", "Son in law of X"]
+  ],
+  "姚仲义": [
+    ["虞君鸿", "Friend of X"],
+    ["姚长寿", "Father of X"],
+    ["红夫人", "Adoptive mother of X"],
+    ["姚孟仁", "Half brother of X"]
+  ],
+  "孟深": [
+    ["虞北辰", "Friend of X"],
+    ["姚长寿", "Employee of X"],
+    ["方乘山", "Employee of X"],
+    ["范", "Employee of X"]
+  ],
+  "方乘山": [
+    ["虞北辰", "Acquaintance of X"],
+    ["孟深", "Employer of X"],
+    ["范", "Superior of X, Colleague of X"]
+  ],
+  "范": [
+    ["孟深", "Employer of X"],
+    ["方乘山", "Subordinate of X"]
+  ],
+  "姚长寿": [
+    ["姚仲义", "Son of X"],
+    ["红夫人", "Wife of X"],
+    ["姚孟仁", "Son of X"]
+  ],
+  "红夫人": [
+    ["姚长寿", "Husband of X"],
+    ["姚仲义", "Adoptive son of X"],
+    ["姚孟仁", "Adoptive son of X"]
+  ],
+  "姚孟仁": [
+    ["姚长寿", "Father of X"],
+    ["红夫人", "Adoptive mother of X"],
+    ["姚仲义", "Half brother of X"]
+  ]
+}

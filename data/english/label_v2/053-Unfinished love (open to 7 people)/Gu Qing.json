@@ -1,0 +1,43 @@
+{
+    "Gu Qing": [
+      ["Gu Yu", "brother of x"], 
+      ["Gu Minghe", "father of x"], 
+      ["Lin Xi", "friend of x, rival in love of x"], 
+      ["Su Yang", "fondness of x"], 
+      ["Lin Tong", "rival in love of x"], 
+      ["Lin Yang", "romantic relationships with x"]
+    ],
+    "Gu Yu": [
+      ["Gu Qing", "sister of x"], 
+      ["Gu Minghe", "father of x"], 
+      ["Lin Xi", "friend of x"], 
+      ["Su Yang", "rival in love of x"]
+    ],
+    "Gu Minghe": [
+      ["Gu Qing", "daughter of x"], 
+      ["Gu Yu", "son of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Qing", "friend of x, rival in love of x"], 
+      ["Gu Yu", "friend of x"], 
+      ["Su Yang", "fiance of x"], 
+      ["Lin Yang", "brother of x, hate of x"], 
+      ["Lin Weiren", "father of x"]
+    ],
+    "Su Yang": [
+      ["Gu Qing", "acquaintance of x"], 
+      ["Lin Xi", "fiancee of x"], 
+      ["Lin Tong", "ex-girlfriend of x"]
+    ],
+    "Lin Tong": [
+      ["Gu Qing", "rival in love of x"], 
+      ["Su Yang", "ex-boyfriend of x"]
+    ],
+    "Lin Yang": [
+      ["Gu Qing", "romantic relationships with x"], 
+      ["Lin Xi", "sister of x"]
+    ],
+    "Lin Weiren": [
+      ["Lin Xi", "daughter of x"]
+    ]
+}

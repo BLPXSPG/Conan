@@ -1,0 +1,88 @@
+{
+    "Joe Robertson": [
+        [
+            "Max Jones",
+            "Friend of X"
+        ],
+        [
+            "Daniel Perry",
+            "Acquaintance of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Acquaintance of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Acquaintance of X"
+        ]
+    ],
+    "Sleer & Leech": [
+        [
+            "Max Jones",
+            "Employee of X"
+        ]
+    ],
+    "Lucy Harrison": [
+        [
+            "Marina Harrison",
+            "Mother of X"
+        ],
+        [
+            "Harold Harrison",
+            "Father of X"
+        ]
+    ],
+    "Max Jones": [
+        [
+            "Max Pike",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Sleer & Leech",
+            "Employer of X"
+        ],
+        [
+            "Harold Harrison",
+            "Acquaintance of X"
+        ],
+        [
+            "Marina Harrison",
+            "Acquaintance of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Dislike of X"
+        ]
+    ],
+    "Daniel Perry": [
+        [
+            "Joe Robertson",
+            "Acquaintance of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Son of X"
+        ]
+    ],
+    "John Morgan": [
+        [
+            "Amy Morgan",
+            "Wife of X"
+        ],
+        [
+            "Joe Robertson",
+            "Acquaintance of X"
+        ]
+    ],
+    "Amy Morgan": [
+        [
+            "John Morgan",
+            "Husband of X"
+        ],
+        [
+            "Joe Robertson",
+            "Acquaintance of X"
+        ]
+    ]
+}

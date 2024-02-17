@@ -1,0 +1,49 @@
+{
+    "Zhou Chensha": [
+      ["Zhou Jingyu", "brother of x"], 
+      ["Zhou Yuntang", "father of x"], 
+      ["Wang Shi", "mother of x"], 
+      ["Zheng Hanzhen", "friend of x"], 
+      ["Ba Falcon", "friend of x, secret admirer of x"], 
+      ["Gan Ma", "friend of x, rival in love of x"]
+    ],
+    "Zhou Jingyu": [
+      ["Zhou Chensha", "sister of x"]
+    ],
+    "Zhou Yuntang": [
+      ["Zhou Chensha", "daughter of x"], 
+      ["Wang Shi", "wife of x"], 
+      ["Zheng Hanzhen", "niece of x"], 
+      ["Zheng Changmin", "friend of x"]
+    ],
+    "Zheng Changmin": [
+      ["Zheng Hanzhen", "son of x"], 
+      ["Zhou Yuntang", "friend of x"]
+    ],
+    "Wang Shi": [
+      ["Zhou Chensha", "daughter of x"], 
+      ["Zhou Yuntang", "husband of x"], 
+      ["Zheng Hanzhen", "niece of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Zhou Chensha", "guest of x"], 
+      ["Zhou Yuntang", "guest of x"], 
+      ["Zheng Hanzhen", "guest of x, patient of x"], 
+      ["Ba Falcon", "son of x"], 
+      ["Gan Ma", "helper of x"], 
+      ["Li Demu", "employee of x"]
+    ],
+    "Ba Falcon": [
+      ["Ba Mansion Mountain", "father of x"], 
+      ["Li Demu", "killed by x"], 
+      ["Zhou Chensha", "friend of x"]
+    ],
+    "Li Demu": [
+      ["Ba Mansion Mountain", "employer of x"], 
+      ["Ba Falcon", "murderer of x"]
+    ],
+    "Gan Ma": [
+      ["Ba Mansion Mountain", "employee of x"], 
+      ["Zhou Chensha", "friend of x"]
+    ]
+}

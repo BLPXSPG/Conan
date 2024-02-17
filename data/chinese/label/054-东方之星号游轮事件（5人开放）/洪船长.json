@@ -1,0 +1,29 @@
+{
+  "洪子廉": [
+    ["刘奇", "Classmate of X, Subordinate of X"],
+    ["修仁杰", "Acquaintance of X"],
+    ["韩亦暮", "dislike of X, Subordinate of X"],
+    ["林若彤", "Romantic relationships with X"],
+    ["张文远", "Acquaintance of X"],
+    ["洪船长", "same person as x (different reference)"]
+  ],
+  "刘奇": [
+    ["洪子廉", "Classmate of X, Superior of X"]
+  ],
+  "修仁杰": [
+    ["洪子廉", "Acquaintance of X"]
+  ],
+  "韩亦暮": [
+    ["洪子廉", "Disliked by X, Superior of X"]
+  ],
+  "林若彤": [
+    ["洪子廉", "Romantic relationships with X"]
+  ],
+  "张文远": [
+    ["洪子廉", "Acquaintance of X"],
+    ["刘奇", "Acquaintance of X"]
+  ],
+  "洪船长": [
+    ["洪子廉", "same person as x (different reference)"]
+  ]
+}

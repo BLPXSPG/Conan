@@ -1,0 +1,142 @@
+{
+    "Fang Minyue": [
+        [
+            "Fang Chengshan",
+            "Father of X"
+        ],
+        [
+            "Zhang Decai",
+            "Romantic relationships with X"
+        ],
+        [
+            "Yao Mengren",
+            "Teacher of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Teacher of X"
+        ],
+        [
+            "Doctor Song",
+            "Schoolmate of X, Helper of X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Cousin of X"
+        ],
+        [
+            "Doctor Fang",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Fang Chengshan": [
+        [
+            "Fang Minyue",
+            "Daughter of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ],
+        [
+            "Steward Du",
+            "Colleague of X"
+        ],
+        [
+            "Yao Changshou",
+            "Colleague of X"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Fang Chengshan",
+            "Colleague of X"
+        ],
+        [
+            "Doctor Fang",
+            "Doctor of X"
+        ],
+        [
+            "Tian Hongjiao",
+            "Wife of X"
+        ],
+        [
+            "Yao Mengren",
+            "Son of X"
+        ],
+        [
+            "Zhang Yadi",
+            "Concubine of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Son of X"
+        ]
+    ],
+    "Tian Hongjiao": [
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ],
+        [
+            "Fang Minyue",
+            "Cousin of X"
+        ]
+    ],
+    "Zhang Decai": [
+        [
+            "Fang Minyue",
+            "Romantic relationships with X"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Yao Changshou",
+            "Father of X"
+        ],
+        [
+            "Fang Minyue",
+            "Teacher of X"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Yao Changshou",
+            "Father of X"
+        ],
+        [
+            "Fang Minyue",
+            "Teacher of X"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "Fang Chengshan",
+            "Employee of X"
+        ]
+    ],
+    "Zhang Yadi": [
+        [
+            "Yao Changshou",
+            "Lover of X"
+        ],
+        [
+            "Zhang Decai",
+            "Nephew of X"
+        ]
+    ],
+    "Doctor Fang": [
+        [
+            "Yao Changshou",
+            "Patient of X"
+        ],
+        [
+            "Fang Minyue",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Tian Hongjiao",
+            "Cousin of X"
+        ]
+    ]
+}

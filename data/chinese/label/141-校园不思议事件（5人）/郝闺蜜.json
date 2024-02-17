@@ -1,0 +1,16 @@
+{
+    "郝闺蜜": [
+        ["表姐", "Cousin of X"], 
+        ["张恶霸", "Rebellion against X"], 
+        ["林校花", "Friend of X"]
+    ],
+    "表姐": [
+        ["郝闺蜜", "Cousin of X"], 
+        ["张恶霸", "Murderer of X"]
+    ],
+    "林校花": [
+        ["郝闺蜜", "Friend of X"],
+        ["张恶霸", "Fiance of X"]
+    ]
+
+}

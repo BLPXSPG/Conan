@@ -1,0 +1,302 @@
+{
+    "Lin Xi": [
+        [
+            "Lin Weiren",
+            "Father of X"
+        ],
+        [
+            "Lin Yang",
+            "Adoptive Brother of X, Hate of X"
+        ],
+        [
+            "Gu Yu",
+            "ex-boyfriend of x"
+        ],
+        [
+            "Gu Qing",
+            "Rival in love of X, Dislike of X, Friend of X"
+        ],
+        [
+            "Su Yang",
+            "Fiance of X"
+        ],
+        [
+            "Shen Cheng",
+            "Servant of X"
+        ],
+        [
+            "Gu Minghe",
+            "Victim of X"
+        ],
+        [
+            "Chen Jingwen",
+            "Acquaintance of X, Rival in love of X"
+        ]
+    ],
+    "Lin Weiren": [
+        [
+            "Lin Xi",
+            "Daughter of X"
+        ],
+        [
+            "Lin Yang",
+            "Son of X, Adoptive Son of X"
+        ],
+        [
+            "Su Yang",
+            "Student of X, Dislike of X, Hate of X"
+        ],
+        [
+            "Shen Cheng",
+            "Employee of X, Hate of X, Servant of X, Murderer of X"
+        ],
+        [
+            "Lin Tong",
+            "Hate of X"
+        ],
+        [
+            "Gu Yu",
+            "Business Partner of X"
+        ],
+        [
+            "Gu Minghe",
+            "Business Partner of X"
+        ]
+    ],
+    "Lin Yang": [
+        [
+            "Lin Weiren",
+            "Adoptive Father of X"
+        ],
+        [
+            "Lin Xi",
+            "Adoptive Sister of X"
+        ],
+        [
+            "Gu Qing",
+            "Romantic relationships with X"
+        ],
+        [
+            "Shen Cheng",
+            "Servant of X"
+        ],
+        [
+            "Su Yang",
+            "Relative of X"
+        ]
+    ],
+    "Gu Yu": [
+        [
+            "Lin Xi",
+            "ex-girlfriend of x, Fondness of X, Friend of X"
+        ],
+        [
+            "Gu Qing",
+            "Sister of X"
+        ],
+        [
+            "Chen Jingwen",
+            "Romantic relationships with X, Hate of X"
+        ],
+        [
+            "Gu Minghe",
+            "Father of X, Superior of X"
+        ],
+        [
+            "Shen Cheng",
+            "Employee of X, Servant of X"
+        ],
+        [
+            "Lin Weiren",
+            "Business Partner of X"
+        ],
+        [
+            "Su Yang",
+            "Rival in love of X"
+        ]
+    ],
+    "Gu Qing": [
+        [
+            "Lin Xi",
+            "Dislike of X, Rival in love of X, Friend of X"
+        ],
+        [
+            "Lin Yang",
+            "Romantic relationships with X"
+        ],
+        [
+            "Gu Yu",
+            "Brother of X"
+        ],
+        [
+            "Gu Minghe",
+            "Father of X"
+        ],
+        [
+            "Su Yang",
+            "Fondness of X"
+        ],
+        [
+            "Lin Tong",
+            "Rival in love of X"
+        ]
+    ],
+    "Su Yang": [
+        [
+            "Lin Xi",
+            "Fiancee of X"
+        ],
+        [
+            "Lin Weiren",
+            "Teacher of X"
+        ],
+        [
+            "Lin Yang",
+            "Relative of X"
+        ],
+        [
+            "Lin Tong",
+            "ex-girlfriend of x"
+        ],
+        [
+            "Gu Minghe",
+            "Hate of X"
+        ],
+        [
+            "Gu Qing",
+            "Acquaintance of X, Secret admirer of X"
+        ],
+        [
+            "Gu Yu",
+            "Hate of X"
+        ]
+    ],
+    "Shen Cheng": [
+        [
+            "Lin Xi",
+            "Master of X"
+        ],
+        [
+            "Lin Weiren",
+            "Master of X, Victim of X, Employer of X"
+        ],
+        [
+            "Lin Yang",
+            "Master of X"
+        ],
+        [
+            "Qin Siqin",
+            "Wife of X"
+        ],
+        [
+            "Lin Tong",
+            "Daughter of X"
+        ],
+        [
+            "Gu Minghe",
+            "Hate of X"
+        ]
+    ],
+    "Qin Siqin": [
+        [
+            "Shen Cheng",
+            "Husband of X"
+        ],
+        [
+            "Lin Tong",
+            "Daughter of X"
+        ],
+        [
+            "Lin Weiren",
+            "Hate of X"
+        ],
+        [
+            "Gu Minghe",
+            "Hate of X"
+        ]
+    ],
+    "Lin Tong": [
+        [
+            "Shen Cheng",
+            "Father of X"
+        ],
+        [
+            "Qin Siqin",
+            "Mother of X"
+        ],
+        [
+            "Su Yang",
+            "ex-boyfriend of x"
+        ],
+        [
+            "Gu Qing",
+            "Rival in love of X"
+        ]
+    ],
+    "Gu Minghe": [
+        [
+            "Shen Cheng",
+            "Hate of X"
+        ],
+        [
+            "Gu Qing",
+            "Daughter of X"
+        ],
+        [
+            "Lin Xi",
+            "Murderer of X"
+        ],
+        [
+            "Gu Yu",
+            "Subordinate of X, Son of X"
+        ],
+        [
+            "Lin Weiren",
+            "Business Partner of X"
+        ],
+        [
+            "Qin Siqin",
+            "Hate of X"
+        ],
+        [
+            "Zheng Xinmei",
+            "Hate of X"
+        ]
+    ],
+    "Chen Jingwen": [
+        [
+            "Gu Yu",
+            "Romantic relationships with X"
+        ],
+        [
+            "Lin Xi",
+            "Acquaintance of X, Rival in love of X"
+        ],
+        [
+            "Zheng Xinmei",
+            "Mother of X"
+        ],
+        [
+            "Lin Weiren",
+            "Hate of X"
+        ]
+    ],
+    "Zheng Xinmei": [
+        [
+            "Chen Jingwen",
+            "Daughter of X"
+        ],
+        [
+            "Lin Weiren",
+            "Hate of X"
+        ],
+        [
+            "Gu Minghe",
+            "Hate of X"
+        ],
+        [
+            "Gu Yu",
+            "helper of x"
+        ]
+    ]
+}

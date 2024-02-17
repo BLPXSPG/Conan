@@ -1,0 +1,42 @@
+{
+    "乔纳森•佩里": [
+      ["杰奎琳•佩里", "Mother of X"], 
+      ["玛丽娜•哈里森", "Aunt of X"], 
+      ["露西•哈里森", "Cousin of X, Secret lover of X"], 
+      ["艾莱克斯•哈维", "Acquaintance of X"], 
+      ["约翰•摩根", "Acquaintance of X"], 
+      ["丹尼尔•佩里", "Father of X"], 
+      ["戴维斯•佩里", "Uncle of X"]
+    ],
+    "丹尼尔•佩里": [
+      ["杰奎琳•佩里", "Wife of X"], 
+      ["玛丽娜•哈里森", "Sister in law of X"], 
+      ["戴维斯•佩里", "Brother of X"], 
+      ["乔纳森•佩里", "Son of X"]
+    ],
+    "杰奎琳•佩里":[
+      ["玛丽娜•哈里森", "Sister of X"],
+      ["丹尼尔•佩里", "Husband of X"],
+      ["戴维斯•佩里", "Brother in law of X"],
+      ["乔纳森•佩里", "Son of X"]
+    ],
+    "戴维斯•佩里": [
+      ["丹尼尔•佩里", "Brother of X"],
+      ["杰奎琳•佩里", "Sister in law of X"],
+      ["乔纳森•佩里", "Cousin of X"]
+    ],
+    "露西•哈里森": [
+      ["玛丽娜•哈里森", "Mother of X"],
+      ["丹尼尔•佩里", "Uncle of X"],
+      ["杰奎琳•佩里", "Aunt of X"],
+      ["乔纳森•佩里", "Cousin of X, Secret lover of X"]
+    ],
+    "约翰•摩根": [
+      ["乔纳森•佩里", "Acquaintance of X"],
+      ["露西•哈里森", "Acquaintance of X"]
+    ],
+    "艾莱克斯•哈维": [
+      ["乔纳森•佩里", "Acquaintance of X"],
+      ["露西•哈里森", "Acquaintance of X"]
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "He Laoliu": [
+        [
+            "Li Guofu",
+            "Superior of X, Crime Partner of X"
+        ],
+        [
+            "Zhang Jie",
+            "Crime Partner of X, Colleague of X"
+        ],
+        [
+            "Mu Bei",
+            "Suspicious of X, Colleague of X"
+        ],
+        [
+            "Big Brother Wang",
+            "Acquaintance of X"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance of X"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "He Laoliu",
+            "Subordinate of X, Crime Partner of X"
+        ],
+        [
+            "Zhang Jie",
+            "Subordinate of X, Dislike of X, Rival in love of X, Crime Partner of X, Colleague of X, murderer of x"
+        ],
+        [
+            "Mu Bei",
+            "Subordinate of X, Suspicious of X, Romantic relationships with X"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance of X, Creditor of X"
+        ],
+        [
+            "Big Brother Wang",
+            "Creditor of X"
+        ]
+    ],
+    "Zhang Jie": [
+        [
+            "He Laoliu",
+            "Crime Partner of X, Colleague of X"
+        ],
+        [
+            "Li Guofu",
+            "Superior of X, Victim of X, Crime Partner of X"
+        ],
+        [
+            "Mu Bei",
+            "Suspicious of X, Colleague of X"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance of X"
+        ]
+    ],
+    "Mu Bei": [
+        [
+            "He Laoliu",
+            "Dislike of X, Colleague of X"
+        ],
+        [
+            "Li Guofu",
+            "Romantic relationships with X, Superior of X"
+        ],
+        [
+            "Zhang Jie",
+            "Fondness of X, Colleague of X"
+        ],
+        [
+            "Police",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Big Brother Wang": [
+        [
+            "He Laoliu",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Guofu",
+            "Debtor of X"
+        ],
+        [
+            "Neighbor Wang",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Neighbor Wang": [
+        [
+            "Li Guofu",
+            "Debtor of X, Acquaintance of X"
+        ],
+        [
+            "He Laoliu",
+            "Acquaintance of X"
+        ],
+        [
+            "Big Brother Wang",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Zhang Jie",
+            "Acquaintance of X"
+        ]
+    ],
+    "Police": [
+        [
+            "Mu Bei",
+            "Same person as X (different reference)"
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "茱丽": [
+      ["张太太", "same person as x (different reference)"]
+    ],
+    "张太太": [
+      ["张俊诗", "husband of x"], 
+      ["葛月萝", "acquaintance of x, friend of x, murderer of x"], 
+      ["葛月曼", "acquaintance of x"], 
+      ["于彦诚", "acquaintance of x, helper of x"], 
+      ["朱陵山", "neighbour of x, colleague of x"], 
+      ["薛玉帆", "adversary of x, manipulator of x"], 
+      ["乐婉", "employee of x"], 
+      ["稚筠", "niece of x"], 
+      ["吕陆升", "acquaintance of x"], 
+      ["于彦诚", "brother of x"], 
+      ["于尚勇", "acquaintance of x"], 
+      ["茱丽", "same person as x (different reference)"]
+    ],
+    "稚筠": [
+      ["张俊诗", "uncle of x"], 
+      ["张太太", "aunt of x"], 
+      ["葛月萝", "acquaintance of x"], 
+      ["于尚勇", "helper of x"], 
+      ["葛月曼", "acquaintance of x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["于彦诚", "acquaintance of x"]
+    ],
+    "葛继先": [
+      ["葛月萝", "daughter of x"], 
+      ["葛月曼", "daughter of x"]
+    ],
+    "葛月萝": [
+      ["葛继先", "father of x"], 
+      ["朱陵山", "husband of x, manipulated by x, bully of x"], 
+      ["葛月曼", "sister of x, same person as x (different identity)"], 
+      ["张太太", "friend of x, victim of x, saviour of x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["薛达财", "acquaintance of x, victim of x"], 
+      ["薛玉帆", "acquaintance of x"], 
+      ["于尚勇", "information receiver from x, suspect of x, victim of x"]
+    ],
+    "葛月曼": [
+      ["张俊诗", "extramarital affair with x"], 
+      ["葛继先", "child of x"], 
+      ["葛月萝", "sister of x"]
+    ],
+    "吕松年": [
+      ["吕陆升", "brother of x"], 
+      ["严义充", "murderer of x"], 
+      ["葛继先", "acquaintance of x"], 
+      ["朱陵山", "acquaintance of x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["薛玉帆", "acquaintance of x"]
+    ],
+    "吕陆升": [
+      ["吕松年", "brother of x"], 
+      ["葛继先", "acquaintance of x"], 
+      ["朱陵山", "disliked by x"], 
+      ["乐婉", "acquaintance of x"], 
+      ["薛玉帆", "acquaintance of x"], 
+      ["于彦诚", "customer of x"]
+    ],
+    "于彦诚": [
+      ["于尚勇", "brother of x"], 
+      ["张太太", "acquaintance of x"]
+    ],
+    "于尚勇": [
+      ["于彦诚", "brother of x"], 
+      ["张太太", "acquaintance of x"]
+    ]
+}

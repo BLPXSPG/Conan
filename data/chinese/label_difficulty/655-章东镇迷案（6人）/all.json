@@ -1,0 +1,25 @@
+{
+    "夕婷": [
+      ["顾梦楚", "fiance of x, husband of x"], 
+      ["蓝蕊", "classmate of x"]
+    ],
+    "蓝蕊": [
+      ["敏兮", "host of x"], 
+      ["章方豪", "adversary of x, father of x"], 
+      ["夕婷", "classmate of x, helper of x"]
+    ],
+    "敏兮": [
+      ["蓝蕊", "classmate of x, guest of x"], 
+      ["蓝蕊", "guest of x"], 
+      ["申午生", "fiance of x, secret admirer of x"]
+    ],
+    "杨水巡": [
+      ["申午生", "son in law of x, subordinate of x"]
+    ],
+    "姚氏": [
+      ["章方豪", "admirer of x, helper of x, husband of x"]
+    ],
+    "顾哥哥": [
+      ["夕婷", "fiance of x, wife of x"]
+    ]
+}

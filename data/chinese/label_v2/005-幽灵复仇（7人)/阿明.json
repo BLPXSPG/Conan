@@ -1,0 +1,84 @@
+{
+    "李骆明": [
+      ["李子材", "father of x"], 
+      ["夏仲鹏", "deceiver of x"], 
+      ["夏三虎", "manipulated by x, deceived by x, perpetrator of x's family, customer of x, victim of x"], 
+      ["夏叔娥", "teacher of x, victim of x"], 
+      ["李子俊", "uncle of x, hated by x, manipulated by x, killed by x"], 
+      ["岳东汶", "helper of x, employer of x, deceiver of x"], 
+      ["安琪", "helped by x"], 
+      ["白常恭", "customer of x, thief of x, perpetrator of x"], 
+      ["吴百安", "hated by x, killed by x"], 
+      ["阿明", "same person as x (different reference)"], 
+      ["骆明", "same person as x (different reference)"]
+    ],
+    "阿明": [
+      ["李骆明", "same person as x (different reference)"], 
+      ["骆明", "same person as x (different reference)"]
+    ],
+    "骆明": [
+      ["李骆明", "same person as x (different reference)"], 
+      ["阿明", "same person as x (different reference)"]
+    ],
+    "白常恭": [
+      ["岳东汶", "acquaintance of x, product provider of x, creditor of x"], 
+      ["李骆明", "service provider of x"]
+    ],
+    "李子材": [
+      ["李骆明", "son of x"], 
+      ["李子俊", "brother of x, debtor of x"], 
+      ["夏伯龙", "patient of x"], 
+      ["夏仲鹏", "customer of x"], 
+      ["夏三虎", "murderer of x"]
+    ],
+    "李子俊": [
+      ["李骆明", "nephew of x, manipulator of x, murderer of x"], 
+      ["李子材", "brother of x, creditor of x"], 
+      ["安琪", "creditor of x"], 
+      ["宇祖成木", "same person as x (different identity)"]
+    ],
+    "宇祖成木": [
+      ["李子俊", "same person as x (different identity)"]
+    ],
+    "夏伯龙": [
+      ["李子材", "doctor of x, perpetrator of x"], 
+      ["夏仲鹏", "brother of x"], 
+      ["夏叔娥", "daughter of x"], 
+      ["夏三虎", "brother of x, murderer of x"]
+    ],
+    "夏仲鹏": [
+      ["李子材", "service provider of x"], 
+      ["夏伯龙", "brother of x"], 
+      ["夏三虎", "brother of x"], 
+      ["夏叔娥", "niece of x"]
+    ],
+    "夏三虎": [
+      ["李子材", "victim of x"], 
+      ["夏伯龙", "brother of x, killed by x"], 
+      ["夏仲鹏", "brother of x"], 
+      ["夏叔娥", "niece of x"], 
+      ["宇祖成木", "murderer of x"], 
+      ["李骆明", "student of x, x's victim's family, product provider of x, perpetrator of x"], 
+      ["吴百安", "product provider of x, victim of x"]
+    ],
+    "夏叔娥": [
+      ["夏伯龙", "father of x"], 
+      ["夏仲鹏", "uncle of x, mentor of x"], 
+      ["夏三虎", "uncle of x,  perpetrator of x's family"], 
+      ["骆明", "student of x, friend of x, perpetrator of x"]
+    ],
+    "岳东汶": [
+      ["李骆明", "helped by x, employee of x"]
+    ],
+    "段约同": [
+      ["夏三虎", "subject of investigation for x"]
+    ],
+    "安琪": [
+      ["李骆明", "helper of x"], 
+      ["李子俊", "debtor of x"]
+    ],
+    "吴百安": [
+      ["李骆明", "murderer of x"], 
+      ["夏三虎", "customer of x"]
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "冯双骥": [
+        ["任师父", "Mentor of X, Adoptive Father of X"],
+        ["李郁", "Extramarital Affair with X"],
+        ["赵万雷", "Schoolmate of X, Employer of X"],
+        ["赵卫", "Helped by X, Master of X"],
+        ["赵洛意", "Daughter of X"],
+        ["冯竹", "Daughter of X"],
+        ["齐岳", "Colleague of X"],
+        ["马百", "Colleague of X, Minion of X"],
+        ["赵安", "Colleague of X, Minion of X"],
+        ["于强", "Colleague of X, Minion of X"]
+    ],
+    "任师父": [
+        ["冯双骥", "Mentor of X, Adoptive Son of X"],
+        ["赵万雷", "Student of X"],
+        ["郭望山", "Acquaintance of X"],
+        ["廖老板", "Student of X, Employer of X"],
+        ["虞义辰", "Son in law of X"],
+        ["尹少鸣", "Grandson of X"],
+        ["任", "Daughter of X"]
+    ],
+    "李郁": [
+        ["冯双骥", "Extramarital Affair with X"],
+        ["赵万雷", "Husband of X"],
+        ["赵洛意", "Daughter of X"],
+        ["赵卫", "Son of X"],
+        ["赵门李氏", "Same person as X (different reference)"]
+    ],
+    "赵门李氏": [
+        ["李郁", "Same person as X (different reference)"]
+    ],
+    "赵万雷": [
+        ["赵秋儿", "Secret admirer of X"],
+        ["郭望山", "Business Partner of X"],
+        ["廖老板", "Rival of X"],
+        ["冯双骥", "Schoolmate of X, Servant of X, Employee of X"],
+        ["李郁", "Wife of X"],
+        ["赵洛意", "Daughter of X"],
+        ["赵卫", "Son of X"],
+        ["任师父", "Mentor of X"],
+        ["齐岳", "Employee of X, Servant of X"],
+        ["赵安", "Employee of X, Servant of X"]
+    ],
+    "赵卫": [
+        ["光绪皇帝", "Stranger to X"],
+        ["瑜妃", "Stranger to X"],
+        ["李郁", "Mother of X"],
+        ["李叔逊", "Stranger to X"],
+        ["赵万雷", "Father of X"],
+        ["冯双骥", "Servant of X, Mentor of X"],
+        ["赵洛意", "Sister of X"],
+        ["张御医", "Doctor of X"],
+        ["赵秋儿", "Servant of X"]
+    ],
+    "赵洛意": [
+        ["冯双骥", "Father of X"],
+        ["李郁", "Mother of X"],
+        ["赵万雷", "Father of X"],
+        ["赵卫", "Brother of X"],
+        ["赵秋儿", "Master of X"],
+        ["齐岳", "Servant of X"],
+        ["尹少鸣", "Helper of X"],
+        ["冯竹", "Acquaintance of X"],
+        ["赵安", "Servant of X"],
+        ["马百", "Servant of X"],
+        ["于强", "Servant of X"]
+    ],
+    "冯竹": [
+        ["冯双骥", "Father of X"]
+    ],
+    "尹少鸣": [
+        ["虞北辰", "Father of X"],
+        ["任", "Mother of X"],
+        ["任师父", "Grandfather of X"], 
+        ["赵洛意", "Seeker of Help from X, Secret admirer of X"],
+        ["冯双骥", "Suspected by X"]
+    ],
+    "虞北辰": [
+        ["尹少鸣", "Son of X"],
+        ["任", "Wife of X"],
+        ["任师父", "Father in law of X"]
+      ],
+    "任": [
+        ["尹少鸣", "Son of X"],
+        ["虞北辰", "Husband of X"],
+        ["任师父", "Father of X"]
+      ],
+    "郭望山": [
+        ["小混混", "Manipulated by X, Employee of X"],
+        ["赵万雷", "Victim of X, Business Partner of X"],
+        ["任师父", "Acquaintance of X"],
+        ["廖老板", "Employer of X"],
+        ["花子狸", "Informant of X, Acquaintance of X"],
+        ["齐岳", "Manipulated by X, Employee of X"],
+        ["双面虎", "Same person as X (different identity)"]
+    ],
+    "双面虎": [
+        ["郭望山", "Same person as X (different identity)"],
+        ["齐岳", "Manipulated by X, Employee of X"]
+    ],
+    "赵秋儿": [
+        ["赵洛意", "Master of X, Friend of X, Jealous by X"],
+        ["赵万雷", "Employer of X"],
+        ["赵卫", "Colleague of X"],
+        ["冯双骥", "Colleague of X"],
+        ["冯竹", "Acquaintance of X"],
+        ["齐岳", "Colleague of X, possibly family of X"]
+    ],
+    "齐岳": [
+        ["双面虎", "Manipulator of X, Adversary of X, Employer of X"],
+        ["赵秋儿", "possibly family of X"],
+        ["冯双骥", "Colleague of X, X's victim's family"],
+        ["冯竹", "Acquaintance of X, X's victim's family"],
+        ["赵万雷", "Employer of X, Master of X, X's victim's family"],
+        ["赵洛意", "Master of X, X's victim's family"],
+        ["赵卫", "Master of X, X's victim's family"],
+        ["赵安", "Colleague of X"],
+        ["小混混", "Same person as X (different identity)"]
+    ],
+    "小混混": [
+      ["齐岳", "Same person as X (different identity)"]
+    ],
+    "廖老板": [
+      ["郭望山", "Employee of X"],
+      ["赵万雷", "Rival of X"],
+      ["任师父", "Master of X, Employee of X, Servant of X"]
+    ],
+    "花子狸": [
+      ["郭望山", "Acquaintance of X, Information Receiver from X"]
+    ],
+    "于强": [
+          ["赵洛意", "Master of X"],
+          ["冯双骥", "Superior of X"]
+    ],
+    "马百": [
+        ["赵洛意", "Master of X"],
+        ["冯双骥", "Superior of X"]
+    ]
+  }
+  

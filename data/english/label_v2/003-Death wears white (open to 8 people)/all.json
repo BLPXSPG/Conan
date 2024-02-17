@@ -1,0 +1,115 @@
+{
+    "Sylvia Costa": [
+      ["Head Nurse Costa", "same person as x (different reference)"]
+    ],
+    "Head Nurse Costa": [
+      ["Sylvia Costa's mother", "mother of x"], 
+      ["Hans Li Morette", "colleague of x, manipulated by x, deceived by x"], 
+      ["Gale Li Morette", "lawyer of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Andrew Paloski", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Richard Berkeley", "superior of x, colleague of x"], 
+      ["James Lai Li", "creditor of x, manipulator of x"], 
+      ["Sylvia Costa", "same person as x (different reference)"]
+    ],
+    "Sylvia Costa's mother": [
+      ["Sylvia Costa", "daughter of x"]
+    ],
+    "Hans Li Morette": [
+      ["Sylvia Costa", "colleague of x, manipulator of x, deceiver of x"], 
+      ["Gale Li Morette", "wife of x, attempted murderer of x, betrayer of x"], 
+      ["Drake Li Morette", "colleague of x, brother of x, rival in love of x"], 
+      ["Andrew Paloski", "colleague of x, mentor of x, jealous of x, rival of x"], 
+      ["Yilin Carter", "colleague of x"], 
+      ["Richard Berkeley", "superior of x, colleague of x"], 
+      ["Jim Mason", "in the lawsuit against x, victim of x, patient of x"], 
+      ["Scott", "patient of x"]
+    ],
+    "Jim Mason": [
+      ["Sylvia Costa", "perpetrator of x"], 
+      ["Hans Li Morette", "in the lawsuit against x, perpetrator of x, doctor of x"]
+    ],
+    "Gale Li Morette": [
+      ["Sylvia Costa", "customer of x"], 
+      ["Hans Li Morette", "husband of x, betrayed by x"], 
+      ["Drake Li Morette", "extramarital affair with x, brother in law of x, victim of x"], 
+      ["James Lai Li", "helper of x, customer of x"]
+    ],
+    "Drake Li Morette": [
+      ["Gale Li Morette", "extramarital affair with x, sister in law of x"], 
+      ["Richard Berkeley", "superior of x, colleague of x"], 
+      ["Andrew Paloski", "colleague of x"], 
+      ["Elaine Carter", "colleague of x"], 
+      ["Sylvia Costa", "colleague of x"], 
+      ["Hans Li Morette", "colleague of x, brother of x, rival in love of x"], 
+      ["Frank Bijeli", "customer of x"]
+    ],
+    "Yilin Carter": [
+      ["James Lai Li", "suspected by x, subject of investigation for x"], 
+      ["Dean Berkeley", "quest companion of x"], 
+      ["Dr. Paloski", "mentor of x, colleague of x, subject of investigation for x"], 
+      ["Hans Li Morette", "colleague of x, subject of investigation for x"], 
+      ["Drake Li Morette", "colleague of x, subject of investigation for x"], 
+      ["Sylvia Costa", "colleague of x, subject of investigation for x"], 
+      ["Father Tom", "suspected by x, subject of investigation for x"], 
+      ["Elaine Carter", "same person as x (different identity)"]
+    ],
+    "Elaine Carter": [
+      ["Yilin Carter", "same person as x (different identity)"], 
+      ["Richard Berkeley", "quest companion of x"]
+    ],
+    "Richard Berkeley": [
+      ["Dean Berkeley", "same person as x (different reference)"]
+    ],
+    "Dean Berkeley": [
+      ["Elaine Carter", "quest companion of x"], 
+      ["Andrew Paloski", "subordinate of x, colleague of x"], 
+      ["Sylvia Costa", "subordinate of x, colleague of x"], 
+      ["Drake Li Morette", "subordinate of x, colleague of x"], 
+      ["Hans Li Morette", "subordinate of x, colleague of x"], 
+      ["Richard Berkeley", "same person as x (different reference)"]
+    ],
+    "James Lai Li": [
+      ["Sylvia Costa", "manipulated by x, debtor of x"], 
+      ["Gale Li Morette", "helped by x, lawyer of x"]
+    ],
+    "Andrew Paloski": [
+      ["Andrew Paloski's wife", "wife of x"], 
+      ["Scott", "son of x"], 
+      ["Hans Li Morette", "colleague of x, student of x, rival of x, unsuccessful helper of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Yilin Carter", "colleague of x, student of x"], 
+      ["Richard Berkeley", "superior of x, colleague of x"], 
+      ["Sylvia Costa", "colleague of x"], 
+      ["Father Tom", "helper of x"], 
+      ["Dr. Paloski", "same person as x (different reference)"]
+    ],
+    "Dr. Paloski": [
+      ["Andrew Paloski", "same person as x (different reference)"]
+    ],
+    "Scott": [
+      ["Andrew Paloski", "father of x"], 
+      ["Andrew Paloski's wife", "mother of x"], 
+      ["Hans Li Morette", "doctor of x, unsuccessful helper of x"]
+    ],
+    "Father Tom": [
+      ["Frank Bijeli", "employee of x"], 
+      ["Drake Li Morette", "doctor of x"], 
+      ["Tony", "manipulated by x, deceived by x"], 
+      ["Andrew Paloski", "seeker of help from x"]
+    ],
+    "Frank Bijeli": [
+      ["Tony", "brother of x"], 
+      ["Father Tom", "employer of x"], 
+      ["Drake Li Morette", "doctor of x"]
+    ],
+    "Tony": [
+      ["Frank Bijeli", "brother of x"], 
+      ["Father Tom", "manipulator of x"], 
+      ["Tony Bijeli", "same person as x (different reference)"]
+    ],
+    "Tony Bijeli": [
+      ["Tony", "same person as x (different reference)"]
+    ]
+}

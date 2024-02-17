@@ -1,0 +1,85 @@
+{
+    "Tian Hongjiao": [
+      ["Fan Jinkui", "fiance of x"], 
+      ["Yao Changshou", "husband of x"], 
+      ["Yao Mengren", "adoptive son of x"], 
+      ["Yao Zhongyi", "adoptive son of x"], 
+      ["Fang Minyue", "cousin of x"], 
+      ["Chen Junmeng", "daughter in law of x"], 
+      ["Chen Anqiao", "master of x"], 
+      ["Hu Renyu", "guest of x"], 
+      ["Big-eyed Akun", "acquaintance of x"], 
+      ["Uncle Gui", "helper of x"], 
+      ["Guo Lizhu", "acquaintance of x"]
+    ],
+    "Fan Jinkui": [
+      ["Tian Hongjiao", "fiancee of x"], 
+      ["Li Kuansheng", "friend of x"], 
+      ["Li Guangsheng", "friend of x"], 
+      ["Fang Chengshan", "relative of x"]
+    ],
+    "Yao Changshou": [
+      ["Tian Hongjiao", "wife of x"], 
+      ["Yao Mengren", "son of x"], 
+      ["Yao Zhongyi", "son of x"], 
+      ["Chen Junmeng", "daughter in law of x"], 
+      ["Fang Minyue", "relative of x, doctor of x"], 
+      ["Physician Yu", "doctor of x"], 
+      ["Judy", "relative of x"]
+    ],
+    "Yao Mengren": [
+      ["Tian Hongjiao", "adoptive mother of x"], 
+      ["Yao Changshou", "father of x"], 
+      ["Yao Zhongyi", "half brother of x"], 
+      ["Chen Junmeng", "wife of x"]
+    ],
+    "Yao Zhongyi": [
+      ["Tian Hongjiao", "adoptive mother of x"], 
+      ["Yao Changshou", "father of x"], 
+      ["Yao Mengren", "half brother of x"], 
+      ["Physician Yu", "acquaintance of x"], 
+      ["Uncle Gui", "acquaintance of x"], 
+      ["Chen Junmeng", "sister in law of x"]
+    ],
+    "Fang Minyue": [
+      ["Tian Hongjiao", "cousin of x"], 
+      ["Fang Chengshan", "father of x"]
+    ],
+    "Fang Chengshan": [
+      ["Fang Minyue", "daughter of x"], 
+      ["Fan Jinkui", "relative of x"]
+    ],
+    "Chen Junmeng": [
+      ["Tian Hongjiao", "mother in law of x"], 
+      ["Yao Mengren", "husband of x"], 
+      ["Yao Changshou", "father in law of x"], 
+      ["Yao Zhongyi", "brother in law of x"], 
+      ["Uncle Gui", "doctor of x"], 
+      ["Chen Anqiao", "servant of x"]
+    ],
+    "Chen Anqiao": [
+      ["Tian Hongjiao", "master of x"], 
+      ["Chen Junmeng", "master of x"]
+    ],
+    "Judy": [
+      ["Tian Hongjiao", "relative of x"], 
+      ["Yao Changshou", "relative of x"]
+    ],
+    "Li Kuansheng": [
+      ["Fan Jinkui", "friend of x"], 
+      ["Li Guangsheng", "brother of x"]
+    ],
+    "Li Guangsheng": [
+      ["Fan Jinkui", "friend of x"], 
+      ["Li Kuansheng", "brother of x"]
+    ],
+    "Big-eyed Akun": [
+      ["Tian Hongjiao", "fondness of x"]
+    ],
+    "Guo Lizhu": [
+      ["Tian Hongjiao", "fondness of x"]
+    ],
+    "Uncle Gui": [
+      ["Chen Junmeng", "patient of x"]
+    ]
+}

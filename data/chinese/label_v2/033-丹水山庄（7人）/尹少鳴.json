@@ -1,0 +1,36 @@
+{
+    "尹少鸣": [
+      ["尹少鳴", "same person as x (different reference)"]
+    ],
+    "虞北辰": [
+      ["尹少鸣", "son of x"], 
+      ["任", "wife of x"], 
+      ["任师父", "father in law of x"]
+    ],
+    "任": [
+      ["尹少鸣", "son of x"], 
+      ["虞北辰", "husband of x"], 
+      ["任师父", "father of x"]
+    ],
+    "赵洛意": [
+      ["尹少鸣", "helper of x"], 
+      ["赵万雷", "father of x"], 
+      ["冯双骥", "servant of x, mentor of x"]
+    ],
+    "赵万雷": [
+      ["赵洛意", "daughter of x"], 
+      ["冯双骥", "employee of x"]
+    ],
+    "冯双骥": [
+      ["赵洛意", "master of x"], 
+      ["赵万雷", "employer of x"]
+    ],
+    "尹少鳴": [
+      ["虞北辰", "father of x"], 
+      ["任", "mother of x"], 
+      ["任师父", "grandfather of x"], 
+      ["赵洛意", "seeker of help from x, secret admirer of x"], 
+      ["冯双骥", "suspected by x"], 
+      ["尹少鸣", "same person as x (different reference)"]
+    ]
+}

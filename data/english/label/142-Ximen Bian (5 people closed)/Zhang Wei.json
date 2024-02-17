@@ -1,0 +1,84 @@
+{
+    "Zhang Wei": [
+        [
+            "Zhao Zhongyang",
+            "Victim of X, Master of X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Acquaintance of X"
+        ],
+        [
+            "Chen Meier",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Cheng",
+            "Colleague of X"
+        ],
+        [
+            "Zhao San",
+            "Business Partner of X"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner of X"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Zhang Wei",
+            "Murderer of X, Servant of X"
+        ],
+        [
+            "Chen Meier",
+            "Romantic relationships with X"
+        ],
+        [
+            "Li Cheng",
+            "Colleague of X"
+        ]
+    ],
+    "Chen Meier": [
+        [
+            "Zhao Zhongyang",
+            "Romantic relationships with X"
+        ],
+        [
+            "Zhang Wei",
+            "Acquaintance of X"
+        ]
+    ],
+    "Li Cheng": [
+        [
+            "Zhao Zhongyang",
+            "Master of X"
+        ],
+        [
+            "Zhang Wei",
+            "Colleague of X"
+        ]
+    ],
+    "Zhao Zhongzheng": [
+        [
+            "Zhao San",
+            "Employee of X"
+        ]
+    ],
+    "Zhao San": [
+        [
+            "Zhang Wei",
+            "Business Partner of X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Master of X"
+        ]
+    ],
+    "Ma Laoban": [
+        [
+            "Zhang Wei",
+            "Business Partner of X"
+        ]
+    ]
+}

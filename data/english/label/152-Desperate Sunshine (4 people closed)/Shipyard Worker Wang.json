@@ -1,0 +1,80 @@
+{
+    "Shipyard Worker Wang": [
+        [
+            "First Mate Zhang",
+            "Superior of X"
+        ],
+        [
+            "Worker Wang",
+            "Son of X"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Child of X"
+        ],
+        [
+            "Boss Yang",
+            "Hate of X"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Shipyard Worker Wang",
+            "Subordinate of X"
+        ],
+        [
+            "Worker Wang",
+            "Victim of X"
+        ],
+        [
+            "Boss Yang",
+            "Business Partner of X"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Shipyard Worker Wang",
+            "Father of X"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Fiancee of X"
+        ],
+        [
+            "Boss Yang",
+            "Murderer of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Murderer of X"
+        ]
+    ],
+    "Ship Doctor Ling": [
+        [
+            "Worker Wang",
+            "Fiance of X"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Father of X"
+        ],
+        [
+            "Boss Yang",
+            "Creditor of X"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "Worker Wang",
+            "Victim of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Business Partner of X"
+        ],
+        [
+            "Ship Doctor Ling",
+            "Debtor of X"
+        ]
+    ]
+}

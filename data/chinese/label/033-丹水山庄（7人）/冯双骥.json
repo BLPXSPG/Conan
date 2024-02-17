@@ -1,0 +1,60 @@
+{
+    "冯双骥": [
+      ["任师父", "Mentor of X, Adoptive Father of X"],
+      ["李郁", "Extramarital Affair with X"],
+      ["赵万雷", "Schoolmate of X, Employer of X"],
+      ["赵卫", "Helped by X, Master of X"],
+      ["赵洛意", "Daughter of X"],
+      ["冯竹", "Daughter of X"]
+    ],
+    "任师父": [
+      ["冯双骥", "Mentor of X, Adoptive Son of X"],
+      ["赵万雷", "Student of X"]
+    ],
+    "李郁": [
+      ["冯双骥", "Extramarital Affair with X"],
+      ["赵万雷", "Husband of X"],
+      ["赵洛意", "Adoptive Daughter of X"],
+      ["赵卫", "Son of X"]
+    ],
+    "赵万雷": [
+      ["冯双骥", "Schoolmate of X, Employee of X"],
+      ["李郁", "Wife of X"],
+      ["赵洛意", "Daughter of X"],
+      ["赵卫", "Son of X"],
+      ["任师父", "Mentor of X"],
+      ["郭望山", "Business Partner of X"]
+    ],
+    "赵卫": [
+      ["光绪皇帝", "Stranger to X"],
+      ["瑜妃", "Stranger to X"],
+      ["冯双骥", "Servant of X, Mentor of X"],
+      ["李郁", "Mother of X"],
+      ["赵万雷", "Father of X"],
+      ["赵洛意", "Sister of X"]
+    ],
+    "赵洛意": [
+      ["冯双骥", "Father of X"],
+      ["李郁", "Mother of X"],
+      ["赵万雷", "Father of X"],
+      ["赵卫", "Brother of X"],
+      ["赵秋儿", "Master of X"]
+    ],
+    "冯竹": [
+      ["冯双骥", "Father of X"]
+    ],
+    "尹少鸣": [
+      ["冯双骥", "Mentor of X, Helper of X, servant of X"]
+    ],
+    "郭望山": [
+      ["赵万雷", "Business Partner of X"]
+    ],
+    "赵秋儿": [
+      ["赵洛意", "Servant of X"]
+    ],
+    "齐岳": [
+      ["冯双骥", "Colleague of X"],
+      ["赵万雷", "Employer of X"]
+    ]
+  }
+  

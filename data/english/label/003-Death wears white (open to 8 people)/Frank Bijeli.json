@@ -1,0 +1,42 @@
+{
+    "Frank Bijeli": [
+        [
+            "Tony",
+            "Brother of X"
+        ],
+        [
+            "Father Tom",
+            "Employer of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Doctor of X"
+        ]
+    ],
+    "Tony": [
+        [
+            "Frank Bijeli",
+            "Brother of X"
+        ],
+        [
+            "Father Tom",
+            "Manipulator of X"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Frank Bijeli",
+            "Customer of X"
+        ]
+    ],
+    "Father Tom": [
+        [
+            "Frank Bijeli",
+            "Employee of X"
+        ],
+        [
+            "Tony",
+            "manipulated by x, Deceived by X"
+        ]
+    ]
+}

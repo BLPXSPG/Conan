@@ -1,0 +1,16 @@
+{
+    "胡调研": [
+      ["王村长", "dislike of x"], 
+      ["李警察", "acquaintance of x"], 
+      ["赵慈善", "hate of x"]
+    ],
+    "王村长": [
+      ["胡调研", "dislike of x"]
+    ],
+    "李警察": [
+      ["胡调研", "acquaintance of x"]
+    ],
+    "赵慈善": [
+      ["胡调研", "hate of x"]
+    ]
+}

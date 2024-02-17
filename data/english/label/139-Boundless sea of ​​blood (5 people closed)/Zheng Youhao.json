@@ -1,0 +1,56 @@
+{
+    "Zheng Youhao": [
+        [
+            "Qin Laoda",
+            "Friend of X, Victim of X"
+        ],
+        [
+            "Zhuang Qingchun",
+            "Acquaintance of X"
+        ],
+        [
+            "Wei Xiaodi",
+            "Friend of X"
+        ]
+    ],
+    "Qin Laoda": [
+        [
+            "Zheng Youhao",
+            "Friend of X, Murderer of X"
+        ],
+        [
+            "Wei Xiaodi",
+            "Friend of X"
+        ]
+    ],
+    "Jia Meili": [
+        [
+            "Zhuang Qingchun",
+            "Friend of X"
+        ],
+        [
+            "Qin Laoda",
+            "Acquaintance of X"
+        ]
+    ],
+    "Zhuang Qingchun": [
+        [
+            "Jia Meili",
+            "Friend of X"
+        ],
+        [
+            "Zheng Youhao",
+            "Secret admirer of X"
+        ]
+    ],
+    "Wei Xiaodi": [
+        [
+            "Qin Laoda",
+            "Friend of X"
+        ],
+        [
+            "Zheng Youhao",
+            "Friend of X"
+        ]
+    ]
+}

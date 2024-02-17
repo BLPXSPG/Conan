@@ -1,0 +1,48 @@
+{
+    "Gu Yu": [
+      ["Lin Xi", "fondness of x, ex-girlfriend of x"], 
+      ["Chen Jingwen", "romantic relationships with x, hate of x"], 
+      ["Gu Minghe", "father of x, superior of x"], 
+      ["Gu Qing", "sister of x"], 
+      ["Su Yang", "acquaintance of x"]
+    ],
+    "Lin Xi": [
+      ["Gu Yu", "ex-boyfriend of x"], 
+      ["Su Yang", "fiance of x"], 
+      ["Chen Jingwen", "acquaintance of x"]
+    ],
+    "Chen Jingwen": [
+      ["Gu Yu", "romantic relationships with x"], 
+      ["Zheng Xinmei", "mother of x"], 
+      ["Lin Xi", "rival in love of x"]
+    ],
+    "Gu Minghe": [
+      ["Gu Yu", "son of x, subordinate of x"], 
+      ["Lin Weiren", "business partner of x"], 
+      ["Qin Siqin", "hate of x"], 
+      ["Gu Qing", "daughter of x"], 
+      ["Zheng Xinmei", "hate of x"]
+    ],
+    "Gu Qing": [
+      ["Gu Yu", "brother of x"], 
+      ["Gu Minghe", "father of x"]
+    ],
+    "Su Yang": [
+      ["Lin Xi", "fiancee of x"], 
+      ["Gu Yu", "hate of x"]
+    ],
+    "Lin Weiren": [
+      ["Gu Minghe", "business partner of x"], 
+      ["Lin Xi", "daughter of x"]
+    ],
+    "Qin Siqin": [
+      ["Lin Weiren", "hate of x"], 
+      ["Gu Minghe", "hate of x"]
+    ],
+    "Zheng Xinmei": [
+      ["Chen Jingwen", "daughter of x"], 
+      ["Lin Weiren", "hate of x"], 
+      ["Gu Minghe", "hate of x"], 
+      ["Gu Yu", "helper of x"]
+    ]
+}

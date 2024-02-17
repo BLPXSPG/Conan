@@ -1,0 +1,108 @@
+{
+    "甘玛": [
+      ["甘印", "brother of x, saviour of x, teacher of x"], 
+      ["巴府山", "landlord of x, employer of x"], 
+      ["苗氏", "landlord of x, saved by x"], 
+      ["李高柏", "friend of x"], 
+      ["娟歌", "friend of x"], 
+      ["王京吉", "lover of x, killed by x"], 
+      ["隼", "fiance of x"], 
+      ["山灵", "superior of x, saviour of x"], 
+      ["如娅", "helper of x, sister in law of x"], 
+      ["忱纱", "friend of x, student of x"]
+    ],
+    "甘印": [
+      ["甘玛", "sister of x, saved by x, student of x"], 
+      ["巴府山", "landlord of x"], 
+      ["苗氏", "landlord of x, helper of x"], 
+      ["巫师", "teacher of x, saviour of x"], 
+      ["娟歌", "fiancee of x, lover of x, wife of x"], 
+      ["山灵", "superior of x, helper of x"], 
+      ["鬼印", "same person as x (different reference)"]
+    ],
+    "山灵": [
+      ["甘玛", "subordinate of x, saved by x"], 
+      ["巴府山", "subordinate of x"], 
+      ["甘印", "subordinate of x, helped by x"], 
+      ["苗氏", "subordinate of x"], 
+      ["鬼印", "subordinate of x"], 
+      ["巫师", "subordinate of x"], 
+      ["娟歌", "subordinate of x"], 
+      ["隼", "subordinate of x"], 
+      ["如娅", "subordinate of x"], 
+      ["巫师", "subordinate of x"], 
+      ["忱纱", "subordinate of x"]
+    ],
+    "巴府山": [
+      ["甘玛", "employee of x, servant of x"], 
+      ["甘印", "employee of x, servant of x, helped by x"], 
+      ["苗氏", "wife of x"], 
+      ["娟歌", "daughter of x"], 
+      ["教授", "guest of x"], 
+      ["忱纱", "guest of x"], 
+      ["实习生", "guest of x"], 
+      ["苗氏", "wife of x"], 
+      ["李高柏", "employee of x"], 
+      ["王京吉", "employee of x"], 
+      ["隼", "son of x"], 
+      ["青年", "employee of x"]
+    ],
+    "苗氏": [
+      ["巴府山", "husband of x"], 
+      ["甘玛", "employee of x, saviour of x"], 
+      ["甘印", "employee of x"], 
+      ["娟歌", "daughter of x"], 
+      ["隼", "son of x"]
+    ],
+    "如娅": [
+      ["巫师", "father of x"], 
+      ["甘玛", "helped by x"]
+    ],
+    "巫师": [
+      ["如娅", "daughter of x"], 
+      ["鬼印", "student of x, saved by x"]
+    ],
+    "鬼印": [
+      ["甘印", "same person as x (different reference)"]
+    ],
+    "李高柏": [
+      ["巫师", "employer of x"], 
+      ["甘玛", "friend of x"], 
+      ["青年", "informant of x"]
+    ],
+    "青年": [
+      ["李高柏", "information receiver from x"], 
+      ["巴府山", "employer of x"]
+    ],
+    "娟歌": [
+      ["巴府山", "father of x"], 
+      ["苗氏", "mother of x"], 
+      ["甘印", "fiance of x, lover of x, husband of x"], 
+      ["甘玛", "friend of x, sister in law of x"], 
+      ["隼", "brother of x"]
+    ],
+    "教授": [
+      ["教授女儿", "daughter of x"], 
+      ["实习生", "employee of x"], 
+      ["巴府山", "host of x"]
+    ],
+    "忱纱": [
+      ["教授", "father of x"], 
+      ["巴府山", "host of x"], 
+      ["甘玛", "friend of x, teacher of x"]
+    ],
+    "实习生": [
+      ["教授", "employer of x"], 
+      ["巴府山", "host of x"]
+    ],
+    "王京吉": [
+      ["巴府山", "landlord of x"], 
+      ["甘玛", "lover of x, secret admirer of x, murderer of x"]
+    ],
+    "隼": [
+      ["巴府山", "father of x"], 
+      ["甘玛", "fiancee of x"], 
+      ["娟歌", "sister of x"], 
+      ["苗氏", "mother of x"]
+    ]
+}

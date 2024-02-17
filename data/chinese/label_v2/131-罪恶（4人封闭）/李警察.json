@@ -1,0 +1,24 @@
+{
+    "李警察": [
+      ["李警察的女友", "romantic relationships with x"], 
+      ["王村长", "acquaintance of x"], 
+      ["胡调研", "acquaintance of x"], 
+      ["赵慈善", "hate of x"]
+    ],
+    "李警察的女友": [
+      ["李警察", "romantic relationships with x"], 
+      ["赵慈善", "perpetrator of x"]
+    ],
+    "王村长": [
+      ["李警察", "acquaintance of x"]
+    ],
+    "胡调研": [
+      ["李警察", "acquaintance of x"], 
+      ["赵慈善", "acquaintance of x"]
+    ],
+    "赵慈善": [
+      ["李警察", "attempted murderer of x"], 
+      ["李警察的女友", "victim of x"], 
+      ["胡调研", "acquaintance of x"]
+    ]
+}

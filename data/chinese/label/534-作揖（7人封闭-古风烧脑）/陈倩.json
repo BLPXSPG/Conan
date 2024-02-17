@@ -1,0 +1,94 @@
+{
+    "陈倩": [
+        [
+            "陈孜靖",
+            "Father of X"
+        ],
+        [
+            "陈氏",
+            "Mother of X"
+        ],
+        [
+            "小茜",
+            "friend of X"
+        ],
+        [
+            "李仲",
+            "lover of X, fiance of X"
+        ],
+        [
+            "李家熟人",
+            "friend of X"
+        ],
+        [
+            "李钦仁",
+            "father in law of x"
+        ],
+        [
+            "王爷",
+            "victim of X"
+        ]
+    ],
+    "李家熟人": [
+      [
+        "陈倩",
+        "lover of X"
+      ]
+    ],
+    "陈孜靖": [
+        [
+            "陈倩",
+            "Daughter of X"
+        ],
+        [
+            "陈氏",
+            "Wife of X"
+        ],
+        [
+            "草藤居士",
+            "friend of X"
+        ],
+        [
+            "李仲",
+            "son in law of x"
+        ],
+        [
+            "李钦仁",
+            "friend of X, future relative of X"
+        ]
+    ],
+    "小茜": [
+        [
+            "陈倩",
+            "friend of X"
+        ],
+        [
+            "草藤居士",
+            "Adoptive Father of X"
+        ]
+    ],
+    "李仲": [
+        [
+            "陈倩",
+            "lover of X, fiance of X"
+        ],
+        [
+            "李钦仁",
+            "father of X"
+        ]
+    ],
+    "李钦仁": [
+        [
+            "李仲",
+            "Son of X"
+        ],
+        [
+            "陈倩",
+            "daughter in law of x"
+        ],
+        [
+            "陈孜靖",
+            "friend of X, future relative of X"
+        ]
+    ]
+}

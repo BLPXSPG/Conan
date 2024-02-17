@@ -1,0 +1,122 @@
+{
+    "Miao Ruya": [
+      ["Tian Shi", "mother of x"], 
+      ["Miao Na", "father of x, authority over x"], 
+      ["Miao Shi", "aunt of x"], 
+      ["Ba Mansion Mountain", "uncle of x"], 
+      ["Juan Ge", "sister of x"], 
+      ["Li Demu", "lover of x, friend of x"], 
+      ["Middle-Aged Man", "victim of x"], 
+      ["Mountain Spirit", "authority over x"], 
+      ["Ruya", "same person as x (different reference)"]
+    ],
+    "Ruya": [
+      ["Miao Ruya", "same person as x (different reference)"]
+    ],
+    "Mountain Spirit": [
+      ["Miao Na", "subordinate of x"], 
+      ["Miao Ruya", "subordinate of x"], 
+      ["Miao Shi", "subordinate of x"], 
+      ["Ba Mansion Mountain", "subordinate of x"], 
+      ["Juan Ge", "subordinate of x"], 
+      ["Falcon", "subordinate of x"], 
+      ["Gui Yin", "subordinate of x, helper of x"], 
+      ["Gan Ma", "subordinate of x, saviour of x"], 
+      ["Li Gaobai", "subordinate of x"], 
+      ["Li Demu", "subordinate of x"], 
+      ["Li Liangsong", "subordinate of x"], 
+      ["Middle-Aged Man", "subordinate of x"], 
+      ["Private Tutor", "subordinate of x"]
+    ],
+    "Tian Shi": [
+      ["Juan Ge", "niece of x"], 
+      ["Miao Ruya", "daughter of x"], 
+      ["Miao Na", "husband of x"], 
+      ["Miao Shi", "sister of x"], 
+      ["Ba Mansion Mountain", "brother of x"]
+    ],
+    "Miao Na": [
+      ["Miao Ruya", "daughter of x, subordinate of x"], 
+      ["Tian Shi", "wife of x, subordinate of x"], 
+      ["Miao Shi", "sister of x, subordinate of x"], 
+      ["Ba Mansion Mountain", "brother of x, subordinate of x"], 
+      ["Juan Ge", "niece of x, subordinate of x"], 
+      ["Gui Yin", "student of x, saviour of x, subordinate of x"], 
+      ["Gan Ma", "subordinate of x"], 
+      ["Li Gaobai", "subordinate of x"], 
+      ["Li Demu", "subordinate of x"], 
+      ["Li Liangsong", "subordinate of x"], 
+      ["Middle-Aged Man", "subordinate of x"], 
+      ["Private Tutor", "subordinate of x"], 
+      ["Mountain Spirit", "authority over x"]
+    ],
+    "Miao Shi": [
+      ["Ba Mansion Mountain", "husband of x"], 
+      ["Miao Na", "brother of x"], 
+      ["Miao Ruya", "niece of x"], 
+      ["Juan Ge", "daughter of x"], 
+      ["Falcon", "son of x"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Miao Shi", "wife of x"], 
+      ["Miao Na", "brother of x"], 
+      ["Miao Ruya", "niece of x"], 
+      ["Juan Ge", "daughter of x"], 
+      ["Falcon", "son of x"], 
+      ["Li Demu", "employee of x"], 
+      ["Li Liangsong", "employee of x"], 
+      ["Li Gaobai", "employee of x"]
+    ],
+    "Gui Yin": [
+      ["Miao Na", "teacher of x, saved by x"], 
+      ["Gan Ma", "sister of x"], 
+      ["Juan Ge", "fiancee of x"]
+    ],
+    "Gan Ma": [
+      ["Gui Yin", "brother of x"], 
+      ["Li Gaobai", "friend of x"]
+    ],
+    "Juan Ge": [
+      ["Miao Shi", "mother of x"], 
+      ["Ba Mansion Mountain", "father of x"], 
+      ["Miao Ruya", "sister of x"], 
+      ["Miao Na", "uncle of x"], 
+      ["Falcon", "brother of x"], 
+      ["Gui Yin", "fiance of x"]
+    ],
+    "Falcon": [
+      ["Miao Shi", "mother of x"], 
+      ["Ba Mansion Mountain", "father of x"], 
+      ["Miao Ruya", "sister of x"], 
+      ["Miao Na", "uncle of x"], 
+      ["Juan Ge", "sister of x"], 
+      ["Li Gaobai", "schoolmate of x"], 
+      ["Private Tutor", "teacher of x"]
+    ],
+    "Li Gaobai": [
+      ["Gan Ma", "friend of x"], 
+      ["Li Demu", "older brother of x"], 
+      ["Li Liangsong", "older brother of x"], 
+      ["Falcon", "schoolmate of x"], 
+      ["Private Tutor", "teacher of x"], 
+      ["Ba Mansion Mountain", "employer of x"]
+    ],
+    "Li Demu": [
+      ["Li Gaobai", "younger brother of x"], 
+      ["Li Liangsong", "younger brother of x"], 
+      ["Miao Ruya", "lover of x"], 
+      ["Ba Mansion Mountain", "employer of x"]
+    ],
+    "Li Liangsong": [
+      ["Li Gaobai", "younger brother of x"], 
+      ["Li Demu", "older brother of x"], 
+      ["Ba Mansion Mountain", "employer of x"]
+    ],
+    "Middle-Aged Man": [
+      ["Miao Ruya", "murderer of x"]
+    ],
+    "Private Tutor": [
+      ["Falcon", "student of x"], 
+      ["Li Gaobai", "student of x"]
+    ]
+}

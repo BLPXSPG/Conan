@@ -1,0 +1,52 @@
+{
+    "云凌": [
+      ["徐伯清", "secret admirer of x"]
+    ],
+    "徐伯清": [
+      ["云凌", "fondness of x"], 
+      ["姚仲义", "half brother of x, perpetrator of x"]
+    ],
+    "姚仲义": [
+      ["徐伯清", "half brother of x, victim of x"], 
+      ["姚孟仁", "half brother of x, victim of x"]
+    ],
+    "虞医师": [
+      ["陈均梦", "doctor of x, sister in law of x"]
+    ],
+    "姚长寿": [
+      ["方乘山", "perpetrator of x"]
+    ],
+    "张雅娣": [
+      ["姚长寿", "relative of x"]
+    ],
+    "徐夫人": [
+      ["张雅娣", "co-wives of x, rival in love of x, rival of x"]
+    ],
+    "姚孟仁": [
+      ["姚仲义", "half brother of x, murderer of x"]
+    ],
+    "方乘山": [
+      ["姚长寿", "victim of x"], 
+      ["范金魁", "relative of x"]
+    ],
+    "田红娇": [
+      ["胡人玉", "guest of x, seller of x"]
+    ],
+    "陈安巧": [
+      ["陈均梦", "master of x"]
+    ],
+    "胡人玉": [
+      ["田红娇", "buyer of x"], 
+      ["方乘山", "relative of x"], 
+      ["田红娇", "fiancee of x"]
+    ],
+    "虞北辰": [
+      ["方乘山", "subordinate of x"]
+    ],
+    "杜贵成": [
+      ["陈均梦", "patient of x"]
+    ],
+    "陈市田": [
+      ["陈轻梧", "master of x"]
+    ]
+}

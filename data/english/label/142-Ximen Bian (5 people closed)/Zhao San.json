@@ -1,0 +1,86 @@
+{
+    "Zhao San": [
+        [
+            "Zhao Zhongzheng",
+            "Adoptive brother of X"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Adoptive brother of X"
+        ],
+        [
+            "Zhang Wei",
+            "Colleague of X"
+        ],
+        [
+            "Ma Laoban",
+            "Business Partner of X"
+        ],
+        [
+            "Chen Meier",
+            "Acquaintance of X"
+        ]
+    ],
+    "Zhao Zhongzheng": [
+        [
+            "Zhao San",
+            "Adoptive brother of X"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Brother of X, Enemy of X"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Zhao San",
+            "Adoptive brother of X"
+        ],
+        [
+            "Zhao Zhongzheng",
+            "Brother of X, Enemy of X"
+        ],
+        [
+            "Zhang Wei",
+            "Employee of X"
+        ],
+        [
+            "Chen Meier",
+            "Romantic relationships with X"
+        ]
+    ],
+    "Zhang Wei": [
+        [
+            "Zhao San",
+            "Colleague of X"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Master of X"
+        ],
+        [
+            "Ma Laoban",
+            "business partner of x"
+        ]
+    ],
+    "Ma Laoban": [
+        [
+            "Zhao San",
+            "Business Partner of X"
+        ],
+        [
+            "Zhang Wei",
+            "Business Partner of X"
+        ]
+    ],
+    "Chen Meier": [
+        [
+            "Zhao Zhongyang",
+            "Romantic relationships with X"
+        ],
+        [
+            "Zhao San",
+            "Acquaintance of X"
+        ]
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "Richard Berkeley": [
+        [
+            "Sylvia Costa",
+            "Subordinate of X, Colleague of X"
+        ],
+        [
+            "Andrew Paloski",
+            "Subordinate of X, Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Subordinate of X, Colleague of X, Dislike of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Subordinate of X, Colleague of X, Deceived by X"
+        ],
+        [
+            "Elaine Carter",
+            "Quest Companion of X, Deceived by X"
+        ],
+        [
+            "Dr. Paloski",
+            "Subordinate of X, Colleague of X"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Richard Berkeley",
+            "Superior of X, Colleague of X, Disliked by X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Colleague of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague of X"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Richard Berkeley",
+            "Superior of X, Colleague of X, thief of x"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Colleague of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague of X"
+        ]
+    ],
+    "Elaine Carter": [
+        [
+            "Richard Berkeley",
+            "Quest Companion of X, Deceiver of X, Subject of investigation for X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Colleague of X, Student of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague of X"
+        ]
+    ],
+    "Dr. Paloski": [
+        [
+            "Richard Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X, Mentor of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague of X"
+        ]
+    ],
+    "Sylvia Costa": [
+        [
+            "Richard Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X"
+        ],
+        [
+            "Dr. Paloski",
+            "Colleague of X"
+        ]
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "阮望娣": [
+      ["阮钱德", "father of x"], 
+      ["阮太太", "mother of x, victim of x"], 
+      ["招楠", "sister of x, victim of x"], 
+      ["贵郎", "brother of x"], 
+      ["罗秀才", "acquaintance of x"], 
+      ["罗有诺", "adoptive brother of x, Extramarital Affair with X"], 
+      ["齐故飞", "acquaintance of x"], 
+      ["王子摩", "husband of x"]
+    ],
+    "阮钱德": [
+      ["阮望娣", "daughter of x"],
+      ["阮太太", "wife of x"],
+      ["招楠", "daughter of x"],
+      ["贵郎", "son of x"]
+    ],
+    "阮太太": [
+      ["阮望娣", "daughter of x, murderer of x"], 
+      ["阮钱德", "husband of x"], 
+      ["罗秀才", "Tenant of x"], 
+      ["贵郎", "son of x"], 
+      ["齐故飞", "Tenant of x"], 
+      ["招楠", "daughter of x"],
+      ["罗有诺", "Adoptive Son of x"], 
+      ["雪嫣", "Adoptive Daughter of x"]
+    ],
+    "招楠": [
+      ["阮望娣", "sister of x, Replaced X's identity, murderer of x"], 
+      ["阮太太", "mother of x"], 
+      ["阮钱德", "father of x"], 
+      ["贵郎", "brother of x"], 
+      ["罗有诺", "acquaintance of x"], 
+      ["齐故飞", "colleague of x"], 
+      ["黑莉", "colleague of x"], 
+      ["王子摩", "husband of x"],
+      ["阮招楠", "Same person as X (different reference)"]
+    ],
+    "贵郎": [
+      ["阮望娣", "sister of x"], 
+      ["阮太太", "mother of x"], 
+      ["阮钱德", "father of x"], 
+      ["招楠", "sister of x"], 
+      ["罗秀才", "Teacher of x"],
+      ["阮贵郎", "Same person as X (different reference)"]
+    ],
+    "罗秀才": [
+      ["罗有诺", "son of x"], 
+      ["阮贵郎", "Student of x"], 
+      ["阮太太", "Landlord of X"]
+    ],
+    "罗有诺": [
+      ["阮贵郎", "adoptive brother of x"], 
+      ["阮太太", "Adoptive Mother of x"], 
+      ["罗秀才", "Father of x"], 
+      ["雪嫣", "Sister of x"], 
+      ["阮望娣", "adoptive sister of x, Extramarital Affair with X"],
+      ["招楠", "adoptive sister of x"]
+    ],
+    "雪嫣": [
+      ["阮贵郎", "adoptive brother of x"], 
+      ["阮太太", "Adoptive Mother of x"], 
+      ["罗秀才", "Father of x"], 
+      ["罗有诺", "Brother of x"], 
+      ["黑莉", "Acquaintance of x"],
+      ["阮望娣", "adoptive sister of x"],
+      ["招楠", "adoptive sister of x"]
+    ],
+    "齐故飞": [
+      ["黑莉", "adoptive sister of x"], 
+      ["招楠", "Student of x"], 
+      ["阮太太", "Landlord of x"]
+    ],
+    "黑莉": [
+      ["齐故飞", "adoptive brother of x"]
+    ],
+    "王子摩": [
+      ["招楠", "wife of x"]
+    ],
+    "阮招楠": [
+      ["招楠", "Same person as X (different reference)"]
+    ],
+    "阮贵郎": [
+      ["贵郎", "Same person as X (different reference)"]
+    ]
+}

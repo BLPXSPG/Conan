@@ -1,0 +1,51 @@
+{
+    "齐岳": [
+      ["双面虎", "manipulator of x, adversary of x, employer of x"], 
+      ["赵秋儿", "possibly family of x"], 
+      ["冯双骥", "colleague of x, adversary of x"], 
+      ["冯竹", "acquaintance of x"], 
+      ["赵万雷", "employer of x, master of x"], 
+      ["赵洛意", "master of x"], 
+      ["赵卫", "master of x"], 
+      ["郭望山", "manipulator of x, adversary of x"]
+    ],
+    "双面虎": [
+      ["郭望山", "same person as x (different identity)"], 
+      ["齐岳", "manipulated by x, employee of x"]
+    ],
+    "郭望山": [
+      ["双面虎", "same person as x (different identity)"], 
+      ["齐岳", "manipulated by x, employee of x"]
+    ],
+    "赵秋儿": [
+      ["齐岳", "possibly family of x"], 
+      ["赵洛意", "master of x, friend of x"], 
+      ["冯竹", "acquaintance of x"]
+    ],
+    "冯双骥": [
+      ["齐岳", "colleague of x"], 
+      ["赵秋儿", "subordinate of x"], 
+      ["冯竹", "daughter of x"]
+    ],
+    "冯竹": [
+      ["齐岳", "acquaintance of x"], 
+      ["赵秋儿", "acquaintance of x"]
+    ],
+    "赵万雷": [
+      ["齐岳", "employee of x"], 
+      ["赵洛意", "daughter of x"], 
+      ["赵卫", "son of x"]
+    ],
+    "赵洛意": [
+      ["齐岳", "servant of x"], 
+      ["赵秋儿", "friend of x, servant of x"], 
+      ["赵万雷", "father of x"]
+    ],
+    "赵卫": [
+      ["赵万雷", "father of x"], 
+      ["齐岳", "servant of x"]
+    ],
+    "尹少鸣": [
+      ["冯双骥", "relative of x"]
+    ]
+}

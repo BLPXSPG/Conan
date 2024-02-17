@@ -1,0 +1,34 @@
+{
+  "沈城": [
+    ["秦思琴", "Wife of X"],
+    ["林彤", "Daughter of X"],
+    ["林惟仁", "Master of X, Employer of X, Victim of X"],
+    ["顾明和", "Hate of X"]
+  ],
+  "秦思琴": [
+    ["沈城", "Husband of X"],
+    ["林彤", "Daughter of X"]
+  ],
+  "林彤": [
+    ["沈城", "Father of X"],
+    ["秦思琴", "Mother of X"],
+    ["苏阳", "ex-boyfriend of x"]
+  ],
+  "林惟仁": [
+    ["沈城", "Servant of X, Employee of X, Hate of X, Murderer of X"],
+    ["林夕", "Daughter of X"],
+    ["苏阳", "Dislike of X"]
+  ],
+  "顾明和": [
+    ["沈城", "Hate of X"]
+  ],
+  "苏阳": [
+    ["林彤", "ex-girlfriend of x"],
+    ["林惟仁", "Dislike of X"],
+    ["林夕", "Fiancee of X"]
+  ],
+  "林夕": [
+    ["林惟仁", "Father of X"],
+    ["苏阳", "Fiance of X"]
+  ]
+}

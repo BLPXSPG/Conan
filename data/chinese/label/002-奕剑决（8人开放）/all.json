@@ -1,0 +1,130 @@
+{
+    "杜仲": [
+        ["忘忧", "Sworn Brother of X, Mentor of X"],
+        ["玄参", "Sworn Brother of X, Mentor of X, Murderer of X"],
+        ["杜仲的孩子", "Child of X"],
+        ["红花夫人", "Ex-romantic relationships with X"],
+        ["石燕", "Attempted Murderer of X"],
+        ["陆英", "Student of X"],
+        ["凌霄", "Student of X, Attempted Murderer of X"],
+        ["紫苏", "Student of X"],
+        ["师父", "Same person as X (different reference)"],
+        ["玄冰教神曲使", "Adversary of X"]
+    ],
+    "师父": [
+        ["杜仲", "Same person as X (different reference)"]
+    ],
+    "玄参": [
+        ["杜仲", "Sworn Brother of X, Victim of X"],
+        ["忍冬", "Informant of X"],
+        ["陆英", "Student of X"],
+        ["忘忧", "Sworn Brother of X"],
+        ["松节", "Guest of X"],
+        ["二师叔", "Same person as X (different reference)"]
+    ],
+    "二师叔": [
+        ["玄参", "Same person as X (different reference)"]
+    ],
+    "忘忧": [
+        ["杜仲", "Sworn Brother of X"],
+        ["玄参", "Sworn Brother of X"],
+        ["杜仲的孩子", "Nephew of X"],
+        ["松节", "suspected by X"]
+    ],
+    "陆英": [
+        ["玄参", "Mentor of X"],
+        ["可疑人员", "Suspected by X"],
+        ["大师兄", "Same person as X (different reference)"],
+        ["玄冰教使者", "Guest of X"],
+        ["武林盟的调查人员", "Guest of X"],
+        ["杜仲", "Mentor of X"],
+        ["凌霄", "Schoolmate of X"],
+        ["紫苏", "Schoolmate of X"],
+        ["陆英的恋人", "Romantic relationships with X"]
+    ],
+    "大师兄": [
+        ["陆英", "Same person as X (different reference)"]
+    ],
+    "陆英的恋人": [
+      ["陆英", "Romantic relationships with X"]
+    ],
+    "凌霄": [
+        ["师父", "Mentor of X, Victim of X"],
+        ["大师兄", "Schoolmate of X"],
+        ["二师叔", "Mentor of X"],
+        ["蜂", "Messenger of X"],
+        ["二师弟", "Same person as X (different reference)"]
+    ],
+    "二师弟": [
+        ["凌霄", "Same person as X (different reference)"]
+    ],
+    "紫苏": [
+        ["杜仲", "Jealous of X, Mentor of X"],
+        ["玄冰教使者", "Acquaintance of X"],
+        ["玄冰教神曲使", "Acquaintance of X, Superior of X"],
+        ["三师弟", "Same person as X (different reference)"]
+    ],
+    "三师弟": [
+        ["紫苏", "Same person as X (different reference)"]
+    ],
+    "石燕": [
+        ["红花夫人", "Mentor of X, Master of X"],
+        ["杜仲", "Victim of X, Adversary of X"],
+        ["蜂", "Messenger of X"],
+        ["杜仲的孩子", "Same person as X (different identity)"],
+        ["武林盟的调查人员", "Same person as X (different identity)"]
+    ],
+    "武林盟的调查人员": [
+      ["石燕", "Same person as X (different identity)"],
+      ["陆英", "Host of X"]
+    ],
+    "杜仲的孩子": [
+        ["杜仲", "Father of X"],
+        ["红花夫人", "Mother of X"],
+        ["忘忧", "Uncle of X"],
+        ["石燕", "Same person as X (different identity)"]
+    ],
+    "红花夫人": [
+        ["石燕", "Student of X, Servant of X"],
+        ["杜仲", "Ex-romantic relationships with X, Adversary of X"]
+    ],
+    "蜂": [
+        ["凌霄", "Customer of X"],
+        ["石燕", "Customer of X"],
+        ["松节", "Employee of X"],
+        ["决明", "Customer of X"]
+    ],
+    "玄冰教神曲使": [
+        ["紫苏", "Acquaintance of X, Subordinate of X"]
+    ],
+    "决明": [
+        ["盗圣", "Same person as X (different identity)"],
+        ["玄冰教使者", "Same person as X (different identity)"],
+        ["紫苏", "Acquaintance of X"],
+        ["蜂", "Messenger of X"]
+    ],
+    "盗圣": [
+      ["决明", "Same person as X (different identity)"]
+    ],
+    "玄冰教使者": [
+      ["决明", "Same person as X (different identity)"],
+      ["陆英", "Host of X"]
+    ],
+    "松节": [
+        ["蜂", "Employer of X"],
+        ["玄冰教的信使", "Same person as X (different identity)"],
+        ["盗圣", "Suspected by X"],
+        ["忍冬", "Helper of X, Quest Companion of X, Colleague of X"],
+        ["武林盟的信使", "Same person as X (different identity)"]
+    ],
+    "武林盟的信使": [
+        ["松节", "Same person as X (different identity)"],
+        ["玄参", "Host of X"],
+        ["陆英", "suspect to X"]
+    ],
+    "忍冬": [
+        ["松节", "Seeker of Help from X, Quest Companion of X, Colleague of X"],
+        ["玄参", "Information Receiver from X"]
+    ]
+  }
+  

@@ -1,0 +1,76 @@
+{
+  "谭尚致": [
+    ["谭仁兴", "father of x"],
+    ["谭仁昌", "uncle of x, thief of x"],
+    ["罗亨理", "acquaintance of x"],
+    ["罗明纱", "aunt of x, Deceiver of X"],
+    ["吕名然", "friend of x"],
+    ["韦太太", "acquaintance of x"],
+    ["海悠", "friend of x"],
+    ["紫娜", "romantic relationships with x"],
+    ["贺教授", "employer of x"],
+    ["承格", "student of x"]
+  ],
+  "谭仁兴": [
+    ["谭尚致", "son of x"],
+    ["谭仁昌", "brother of x"]
+  ],
+  "谭仁昌": [
+    ["谭仁兴", "brother of x"],
+    ["谭尚致", "nephew of x, Deceived by X"],
+    ["罗明纱", "wife of x"],
+    ["吕名然", "acquaintance of x"]
+  ],
+  "罗亨理": [
+    ["罗明纱", "sister of x"],
+    ["谭仁昌", "brother in law of x"],
+    ["谭尚致", "acquaintance of x"]
+  ],
+  "罗明纱": [
+    ["罗亨理", "brother of x"],
+    ["海悠", "adoptive daughter of x"],
+    ["谭尚致", "nephew of x, Deceived by X"],
+    ["谭仁昌", "husband of x"]
+  ],
+  "吕名然": [
+    ["谭尚致", "friend of x"],
+    ["罗亨理", "acquaintance of x"],
+    ["韦太太", "sister of x"],
+    ["海悠", "uncle of x"]
+  ],
+  "韦太太": [
+    ["吕名然", "brother of x"],
+    ["海悠", "niece of x"]
+  ],
+  "海悠": [
+    ["谭尚致", "friend of x"],
+    ["韦太太", "aunt of x"],
+    ["罗明纱", "adoptive daughter of x"],
+    ["吕名然", "uncle of x"]
+  ],
+  "紫娜": [
+    ["谭尚致", "romantic relationships with x"]
+  ],
+  "贺教授": [
+    ["谭尚致", "employee of x"]
+  ],
+  "承格": [
+    ["谭尚致", "teacher of x"],
+    ["谭仁昌", "adoptive father of x"],
+    ["谭承格", "Same person as X (different reference)"]
+
+  ],
+  "谭承格": [
+    ["承格", "Same person as X (different reference)"]
+  ],
+  "廖公子": [
+    ["谭尚致", "acquaintance of x"],
+    ["韦太太", "acquaintance of x"],
+    ["海悠", "acquaintance of x"]
+  ],
+  "阿萍": [
+    ["谭仁昌", "master of x"],
+    ["罗明纱", "master of x"],
+    ["谭尚致", "acquaintance of x"]
+  ]
+}

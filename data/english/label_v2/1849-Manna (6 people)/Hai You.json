@@ -1,0 +1,73 @@
+{
+    "Hai You": [
+      ["Wei Yangfeng", "father of x"], 
+      ["Zhou Shi", "mother of x"], 
+      ["Wei Yangyao", "uncle of x"], 
+      ["Lv Caiqian", "aunt of x, dislike of x"], 
+      ["Mrs. Tan", "adoptive mother of x"], 
+      ["Tan Renchang", "adoptive father of x, victim of x"], 
+      ["Shang Zhi", "cousin of x"], 
+      ["Cheng Ge", "adoptive brother of x"], 
+      ["Woman", "victim of x"]
+    ],
+    "Luo Mingsha": [
+      ["Hai You", "adoptive daughter of x"], 
+      ["Shang Zhi", "nephew of x"], 
+      ["Tan Renchang", "husband of x"], 
+      ["Lv Caiqian", "friend of x"], 
+      ["Lv Mingran", "acquaintance of x"], 
+      ["Mrs. Tan", "same person as x (different reference)"]
+    ],
+    "Woman": [
+      ["Hai You", "murderer of x"], 
+      ["Tan Renchang", "extramarital affair with x"]
+    ],
+    "Wei Yangfeng": [
+      ["Zhou Shi", "wife of x"], 
+      ["Hai You", "daughter of x"]
+    ],
+    "Zhou Shi": [
+      ["Wei Yangfeng", "husband of x"], 
+      ["Hai You", "daughter of x"]
+    ],
+    "Wei Yangyao": [
+      ["Hai You", "niece of x"], 
+      ["Lv Caiqian", "wife of x"]
+    ],
+    "Lv Caiqian": [
+      ["Lv Mingran", "brother of x"], 
+      ["Wei Yangyao", "husband of x"], 
+      ["Hai You", "niece of x"], 
+      ["Mrs. Wei", "same person as x (different reference)"]
+    ],
+    "Mrs. Wei": [
+      ["Lv Caiqian", "same person as x (different reference)"]
+    ],
+    "Mrs. Tan": [
+      ["Luo Mingsha", "same person as x (different reference)"]
+    ],
+    "Tan Renchang": [
+      ["Luo Mingsha", "wife of x"], 
+      ["Hai You", "adoptive daughter of x, murderer of x"], 
+      ["Woman", "extramarital affair with x"], 
+      ["Lv Mingran", "employee of x"], 
+      ["Cheng Ge", "adoptive son of x"]
+    ],
+    "Shang Zhi": [
+      ["Mrs. Tan", "aunt of x"], 
+      ["Hai You", "cousin of x"], 
+      ["Tan Renchang", "uncle of x"], 
+      ["Cheng Ge", "cousin of x"]
+    ],
+    "Lv Mingran": [
+      ["Lv Caiqian", "sister of x"], 
+      ["Mrs. Tan", "acquaintance of x"], 
+      ["Tan Renchang", "employer of x"]
+    ],
+    "Cheng Ge": [
+      ["Tan Renchang", "adoptive father of x"], 
+      ["Mrs. Tan", "adoptive mother of x"], 
+      ["Hai You", "adoptive sister of x"], 
+      ["Shang Zhi", "cousin of x"]
+    ]
+}

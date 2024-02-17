@@ -1,0 +1,142 @@
+{
+    "Harold Harrison": [
+        [
+            "Marina Harrison",
+            "Wife of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Daughter of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Sister in law of X"
+        ],
+        [
+            "Daniel Perry",
+            "Brother in law of X"
+        ],
+        [
+            "Amy Morgan",
+            "Sister of X"
+        ],
+        [
+            "Anna",
+            "ex-wife of X"
+        ],
+        [
+            "Max Pike",
+            "Acquaintance of X"
+        ],
+        [
+            "John Morgan",
+            "Brother in law of X"
+        ]
+    ],
+    "Marina Harrison": [
+        [
+            "Lucy Harrison",
+            "Daughter of X"
+        ],
+        [
+            "Harold Harrison",
+            "Husband of X"
+        ],
+        [
+            "Daniel Perry",
+            "Brother in law of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Sister of X, Business partner of X"
+        ],
+        [
+            "Amy Morgan",
+            "Sister in law of X"
+        ],
+        [
+            "John Morgan",
+            "Brother in law of X"
+        ]
+    ],
+    "Lucy Harrison": [
+        [
+            "Harold Harrison",
+            "Father of X"
+        ],
+        [
+            "Marina Harrison",
+            "Mother of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Aunt of X"
+        ],
+        [
+            "Daniel Perry",
+            "Uncle of X"
+        ]
+    ],
+    "Amy Morgan": [
+        [
+            "Harold Harrison",
+            "Brother of X"
+        ],
+        [
+            "John Morgan",
+            "Husband of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Niece of X"
+        ]
+    ],
+    "John Morgan": [
+        [
+            "Harold Harrison",
+            "Brother in law of X"
+        ],
+        [
+            "Amy Morgan",
+            "Wife of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Niece of X"
+        ]
+    ],
+    "Jacqueline Perry": [
+        [
+            "Marina Harrison",
+            "Sister of X, Business partner of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Niece of X"
+        ],
+        [
+            "Harold Harrison",
+            "Brother in law of X"
+        ],
+        [
+            "Daniel Perry",
+            "Husband of X"
+        ]
+    ],
+    "Max Pike": [
+        [
+            "Harold Harrison",
+            "Acquaintance of X"
+        ],
+        [
+            "Sleer & Leech",
+            "Employee of X"
+        ]
+    ],
+    "Anna": [
+        [
+            "Harold Harrison",
+            "ex-husband of X"
+        ]
+    ]
+}

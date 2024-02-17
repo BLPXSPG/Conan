@@ -1,0 +1,214 @@
+{
+    "Liao Xuehan": [
+        [
+            "Liao Yiqiao",
+            "father of x"
+        ],
+        [
+            "Dr. Zhang",
+            "Doctor of X"
+        ],
+        [
+            "Julie",
+            "Helper of X"
+        ],
+        [
+            "Hai You",
+            "acquaintance of x"
+        ],
+        [
+            "Luo Hengli",
+            "business partner of x"
+        ],
+        [
+            "Lv Mingran",
+            "acquaintance of x"
+        ],
+        [
+            "Tan Shangzhi",
+            "acquaintance of x"
+        ],
+        [
+            "Tan Renchang",
+            "business partner of x"
+        ],
+        [
+            "Hong Er",
+            "helped by x, Debtor of X, Manipulated by X"
+        ],
+        [
+            "Mrs. Wei",
+            "acquaintance of x"
+        ],
+        [
+            "Cheng Ge",
+            "acquaintance of x"
+        ],
+        [
+            "A Ping",
+            "acquaintance of x"
+        ]
+    ],
+    "Liao Yiqiao": [
+        [
+            "Liao Xuehan",
+            "son of x"
+        ]
+    ],
+    "Dr. Zhang": [
+        [
+            "Liao Xuehan",
+            "patient of x"
+        ],
+        [
+            "Julie",
+            "wife of x"
+        ]
+    ],
+    "Julie": [
+        [
+            "Dr. Zhang",
+            "husband of x"
+        ],
+        [
+            "Liao Xuehan",
+            "helped by x"
+        ],
+        [
+            "Hai You",
+            "helper of x"
+        ]
+    ],
+    "Hai You": [
+        [
+            "Julie",
+            "helped by x"
+        ],
+        [
+            "Mrs. Wei",
+            "acquaintance of x"
+        ],
+        [
+            "Cheng Ge",
+            "acquaintance of x"
+        ]
+    ],
+    "Luo Hengli": [
+        [
+            "Liao Xuehan",
+            "business partner of x"
+        ],
+        [
+            "Lv Mingran",
+            "Subordinate of X"
+        ],
+        [
+            "Tan Renchang",
+            "brother in law of x"
+        ],
+        [
+            "Luo Mingsha",
+            "sister of x"
+        ]
+    ],
+    "Lv Mingran": [
+        [
+            "Luo Hengli",
+            "Superior of X"
+        ],
+        [
+            "Liao Xuehan",
+            "acquaintance of x"
+        ],
+        [
+            "Cheng Ge",
+            "acquaintance of x"
+        ]
+    ],
+    "Luo Mingsha": [
+        [
+            "Luo Hengli",
+            "brother of x"
+        ],
+        [
+            "Tan Renchang",
+            "husband of x"
+        ]
+    ],
+    "Tan Shangzhi": [
+        [
+            "Liao Xuehan",
+            "acquaintance of x"
+        ],
+        [
+            "Tan Renchang",
+            "uncle of x"
+        ]
+    ],
+    "Tan Renchang": [
+        [
+            "Luo Hengli",
+            "brother in law of x"
+        ],
+        [
+            "Luo Mingsha",
+            "wife of x"
+        ],
+        [
+            "Tan Shangzhi",
+            "nephew of x"
+        ],
+        [
+            "Cheng Ge",
+            "adoptive son of x"
+        ],
+        [
+            "Mrs. Wei",
+            "acquaintance of x"
+        ]
+    ],
+    "Hong Er": [
+        [
+            "Liao Xuehan",
+            "helper of x, Manipulator of X, Creditor of X"
+        ]
+    ],
+    "Mrs. Wei": [
+        [
+            "Hai You",
+            "acquaintance of x"
+        ],
+        [
+            "Tan Renchang",
+            "acquaintance of x"
+        ],
+        [
+            "A Ping",
+            "helped by x"
+        ]
+    ],
+    "Cheng Ge": [
+        [
+            "Lv Mingran",
+            "acquaintance of x"
+        ],
+        [
+            "Tan Renchang",
+            "adoptive father of x"
+        ],
+        [
+            "Hai You",
+            "adoptive sister of x"
+        ],
+        [
+            "Mrs. Wei",
+            "acquaintance of x"
+        ]
+    ],
+    "A Ping": [
+        [
+            "Mrs. Wei",
+            "master of x"
+        ]
+    ]
+}

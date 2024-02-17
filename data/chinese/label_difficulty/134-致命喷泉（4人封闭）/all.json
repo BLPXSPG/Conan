@@ -1,0 +1,25 @@
+{
+    "何老六": [
+      ["李国富", "crime partner of x, superior of x"], 
+      ["慕北", "suspicious of x"]
+    ],
+    "李国富": [
+      ["何老六", "crime partner of x, subordinate of x"], 
+      ["张洁", "crime partner of x, dislike of x, murderer of x, rival in love of x, subordinate of x"], 
+      ["慕北", "romantic relationships with x, subordinate of x, suspicious of x"], 
+      ["王邻居", "creditor of x"]
+    ],
+    "张洁": [
+      ["何老六", "crime partner of x"], 
+      ["李国富", "crime partner of x, superior of x, victim of x"], 
+      ["慕北", "suspicious of x"]
+    ],
+    "慕北": [
+      ["何老六", "dislike of x"], 
+      ["李国富", "romantic relationships with x, superior of x"], 
+      ["张洁", "fondness of x"]
+    ],
+    "王大哥": [
+      ["李国富", "debtor of x"]
+    ]
+}

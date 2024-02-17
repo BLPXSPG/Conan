@@ -1,0 +1,25 @@
+{
+    "冯双骥": [
+      ["赵卫", "helped by x, master of x"], 
+      ["赵洛意", "daughter of x"]
+    ],
+    "赵卫": [
+      ["赵秋儿", "servant of x"]
+    ],
+    "尹少鸣": [
+      ["赵洛意", "secret admirer of x, seeker of help from x"], 
+      ["冯双骥", "suspected by x"]
+    ],
+    "郭望山": [
+      ["赵万雷", "victim of x"]
+    ],
+    "赵秋儿": [
+      ["赵洛意", "jealous by x, master of x"], 
+      ["齐岳", "possibly family of x"]
+    ],
+    "齐岳": [
+      ["赵秋儿", "possibly family of x"], 
+      ["冯双骥", "x's victim's family"], 
+      ["冯竹", "x's victim's family"]
+    ]
+}

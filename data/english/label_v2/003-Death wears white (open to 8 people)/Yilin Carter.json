@@ -1,0 +1,54 @@
+{
+    "Yilin Carter": [
+      ["James Lai Li", "suspected by x, subject of investigation for x"], 
+      ["Dean Berkeley", "quest companion of x"], 
+      ["Dr. Paloski", "mentor of x, colleague of x, subject of investigation for x"], 
+      ["Hans Li Morette", "colleague of x, subject of investigation for x"], 
+      ["Drake Li Morette", "colleague of x, subject of investigation for x"], 
+      ["Sylvia Costa", "colleague of x, subject of investigation for x"], 
+      ["Father Tom", "suspected by x, subject of investigation for x"], 
+      ["Elaine Carter", "same person as x (different identity)"]
+    ],
+    "Elaine Carter": [
+      ["Yilin Carter", "same person as x (different identity)"]
+    ],
+    "Dean Berkeley": [
+      ["Yilin Carter", "quest companion of x, colleague of x"], 
+      ["Head Nurse Costa", "subordinate of x, colleague of x"], 
+      ["Drake Li Morette", "subordinate of x, colleague of x"], 
+      ["Hans Li Morette", "subordinate of x, colleague of x"], 
+      ["Dr. Paloski", "subordinate of x, colleague of x"]
+    ],
+    "Dr. Paloski": [
+      ["Dean Berkeley", "superior of x, colleague of x"], 
+      ["Yilin Carter", "student of x, mentor of x, colleague of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Hans Li Morette", "colleague of x"]
+    ],
+    "Hans Li Morette": [
+      ["Dean Berkeley", "superior of x, colleague of x"], 
+      ["Yilin Carter", "colleague of x"], 
+      ["Jim Mason", "in the lawsuit against x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Dr. Paloski", "colleague of x"]
+    ],
+    "Jim Mason": [
+      ["Hans Li Morette", "in the lawsuit against x"]
+    ],
+    "Drake Li Morette": [
+      ["Dean Berkeley", "superior of x, colleague of x"], 
+      ["Yilin Carter", "colleague of x"], 
+      ["Head Nurse Costa", "colleague of x"], 
+      ["Hans Li Morette", "colleague of x"], 
+      ["Dr. Paloski", "colleague of x"]
+    ],
+    "Head Nurse Costa": [
+      ["Dean Berkeley", "superior of x, colleague of x"], 
+      ["Yilin Carter", "colleague of x"], 
+      ["Drake Li Morette", "colleague of x"], 
+      ["Hans Li Morette", "colleague of x"], 
+      ["Dr. Paloski", "colleague of x"]
+    ]
+}

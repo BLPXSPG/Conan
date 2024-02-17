@@ -1,0 +1,37 @@
+{
+  "薛媚娘": [
+    ["萧体育", "Romantic relationships with X"],
+    ["秦老大", "Teacher of X, Romantic relationships with X"],
+    ["贾美丽", "Student of X"],
+    ["庄清纯", "Student of X"]
+  ],
+  "萧体育": [
+    ["薛媚娘", "Romantic relationships with X"],
+    ["贾美丽", "Student of X"]
+  ],
+  "秦老大": [
+    ["薛媚娘", "Student of X, Romantic relationships with X"],
+    ["秦专家", "Father of X"],
+    ["庄清纯", "Schoolmate of X"],
+    ["郑友好", "Friend of X"],
+    ["韦小弟", "Friend of X"]
+  ],
+  "秦专家": [
+    ["秦老大", "Son of X"]
+  ],
+  "贾美丽": [
+    ["薛媚娘", "Teacher of X, Attempted Perpetrator of X"],
+    ["萧体育", "Teacher of X"],
+    ["秦老大", "Schoolmate of X"]
+  ],
+  "庄清纯": [
+    ["薛媚娘", "Teacher of X"],
+    ["秦老大", "Schoolmate of X"]
+  ],
+  "郑友好": [
+    ["秦老大", "Friend of X"]
+  ],
+  "韦小弟": [
+    ["秦老大", "Friend of X"]
+  ]
+}

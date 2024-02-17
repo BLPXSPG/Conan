@@ -1,0 +1,18 @@
+{
+    "玄参": [
+      ["杜仲", "Sworn Brother of X, Victim of X"],
+      ["忍冬", "Informant of X"],
+      ["陆英", "Student of X, Subordinate of X"]
+    ],
+    "杜仲": [
+      ["玄参", "Sworn Brother of X, Mentor of X, Murderer of X"]
+    ],
+    "忍冬": [
+      ["玄参", "Information Receiver from X"]
+    ],
+    "陆英": [
+      ["玄参", "Mentor of X, Superior of X"],
+      ["可疑人员", "Suspected by X"]
+    ]
+  }
+  

@@ -1,0 +1,88 @@
+{
+    "Gale Li Morette": [
+        [
+            "Sylvia Costa",
+            "Customer of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Husband of X, betrayed by X, Killed by X"
+        ],
+        [
+            "Drake Li Morette",
+            "Extramarital Affair with X, brother in law of x"
+        ],
+        [
+            "James Lai Li",
+            "Helper of X, Customer of X"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Gale Li Morette",
+            "Extramarital Affair with X, sister in law of x"
+        ],
+        [
+            "Hans Li Morette",
+            "Brother of X, Rival in love of X"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Gale Li Morette",
+            "Wife of X, betrayer of X, Murderer of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Brother of X, Rival in love of X"
+        ],
+        [
+            "Jim Mason",
+            "in the lawsuit against x, victim of X, Patient of x"
+        ],
+        [
+            "Head Nurse Costa",
+            "Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X"
+        ]
+    ],
+    "Head Nurse Costa": [
+        [
+            "Gale Li Morette",
+            "Lawyer of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X"
+        ]
+    ],
+    "Elaine Carter": [
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Colleague of X"
+        ]
+    ],
+    "Jim Mason": [
+        [
+            "Hans Li Morette",
+            "in the lawsuit against x, perpetrator of x, Doctor of X"
+        ]
+    ],
+    "James Lai Li": [
+        [
+            "Gale Li Morette",
+            "Helped by X, Lawyer of X"
+        ]
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "Duan Yuetong": [
+        [
+            "Bai Changgong",
+            "step-father of X, Informant of X"
+        ],
+        [
+            "Duan Hejun",
+            "mother of X"
+        ],
+        [
+            "Anqi",
+            "girlfriend of X"
+        ],
+        [
+            "Yue Kesa",
+            "friend of X, helper of X, Informant of X"
+        ],
+        [
+            "Zhong Bo",
+            "Informant of X"
+        ],
+        [
+            "Li Zicai",
+            "possibly family of X"
+        ],
+        [
+            "Wu Baian",
+            "Subject of investigation for X"
+        ],
+        [
+            "Xia Sanhu",
+            "Subject of investigation for X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Informant of X"
+        ]
+    ],
+    "Bai Changgong": [
+        [
+            "Duan Yuetong",
+            "step-son of X"
+        ],
+        [
+            "Duan Hejun",
+            "wife of X, Superior of X"
+        ],
+        [
+            "Auntie Yi",
+            "Creditor of X"
+        ],
+        [
+            "Hard Horse Iron Fist",
+            "perpetrator of X"
+        ]
+    ],
+    "Hard Horse Iron Fist": [
+        [
+            "Bai Changgong",
+            "victim of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Superior of X, employer of X"
+        ]
+    ],
+    "Duan Hejun": [
+        [
+            "Duan Yuetong",
+            "son of X"
+        ],
+        [
+            "Bai Changgong",
+            "husband of X, Subordinate of X"
+        ],
+        [
+            "Auntie Yi",
+            "friend of X"
+        ]
+    ],
+    "Anqi": [
+        [
+            "Duan Yuetong",
+            "boyfriend of X"
+        ],
+        [
+            "Auntie Yi",
+            "mother of X"
+        ],
+        [
+            "Lan Qin",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Lan Qin": [
+        [
+            "Anqi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Auntie Yi": [
+        [
+            "Duan Hejun",
+            "friend of X"
+        ],
+        [
+            "Bai Changgong",
+            "Debtor of X"
+        ],
+        [
+            "Anqi",
+            "daughter of X"
+        ]
+    ],
+    "Yue Kesa": [
+        [
+            "Duan Yuetong",
+            "Friend of X, helped by X"
+        ],
+        [
+            "Yue Dongwen",
+            "Father of X"
+        ]
+    ],
+    "Wu Baian": [
+        [
+            "Wu Xiao",
+            "Son of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Employer of X"
+        ],
+        [
+            "Li Zicai",
+            "Schoolmate of X"
+        ]
+    ],
+    "Wu Xiao": [
+        [
+            "Wu Baian",
+            "Father of X"
+        ]
+    ],
+    "Li Zicai": [
+        [
+            "Duan Hejun",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Duan Yuetong",
+            "possibly family of X"
+        ],
+        [
+            "Wu Baian",
+            "Schoolmate of X"
+        ]
+    ],
+    "Xia Bolong": [
+        [
+            "Xia Zhongpeng",
+            "Brother of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Brother of X"
+        ],
+        [
+            "Japanese",
+            "Rival of X"
+        ]
+    ],
+    "Xia Zhongpeng": [
+        [
+            "Xia Bolong",
+            "Brother of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Brother of X"
+        ],
+        [
+            "Japanese",
+            "Rival of X"
+        ]
+    ],
+    "Xia Sanhu": [
+        [
+            "Xia Bolong",
+            "Brother of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Brother of X"
+        ]
+    ],
+    "Yu Zu Chengmu": [
+        [
+            "Duan Yuetong",
+            "Information Receiver from X"
+        ]
+    ]
+}

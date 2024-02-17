@@ -1,0 +1,76 @@
+{
+    "段约同": [
+      ["白常恭", "step-father of X, Informant of X"],
+      ["段和君", "mother of X"],
+      ["安琪", "girlfriend of X"],
+      ["岳客沙", "friend of X, helper of X, Informant of X"],
+      ["钟伯", "Informant of X"],
+      ["李子材", "possibly family of X"],
+      ["吴百安", "Subject of investigation for X"],
+      ["夏三虎", "Subject of investigation for X"],
+      ["宇祖成木", "Informant of X"]
+    ],
+    "白常恭": [
+      ["段约同", "step-son of X"],
+      ["段和君", "wife of X, Superior of X"],
+      ["易阿姨", "Creditor of X"],
+      ["硬马铁拳", "perpetrator of X"]
+    ],
+    "硬马铁拳": [
+      ["白常恭", "victim of X"],
+      ["岳东汶", "Superior of X, employer of X"]
+    ],
+    "段和君": [
+      ["段约同", "son of X"],
+      ["白常恭", "husband of X, Subordinate of X"],
+      ["易阿姨", "friend of X"]
+    ],
+    "安琪": [
+      ["段约同", "boyfriend of X"],
+      ["易阿姨", "mother of X"],
+      ["兰秦", "Same person as X (different reference)"]
+    ],
+    "兰秦": [
+      ["安琪", "Same person as X (different reference)"]
+    ],
+    "易阿姨": [
+      ["段和君", "friend of X"],
+      ["白常恭", "Debtor of X"],
+      ["安琪", "daughter of X"]
+    ],
+    "岳客沙": [
+      ["段约同", "Friend of X, helped by X"],
+      ["岳东汶", "Father of X"]
+    ],
+    "吴百安": [
+      ["吴笑", "Son of X"],
+      ["岳东汶", "Employer of X"],
+      ["李子材", "Schoolmate of X"]
+    ],
+    "吴笑": [
+      ["吴百安", "Father of X"]
+    ],
+    "李子材": [
+      ["段和君", "Ex-romantic relationships with X"],
+      ["段约同", "possibly family of X"],
+      ["吴百安", "Schoolmate of X"]
+    ],
+    "夏伯龙": [
+      ["夏仲鹏", "Brother of X"],
+      ["夏三虎", "Brother of X"],
+      ["日本人", "Rival of X"]
+    ],
+    "夏仲鹏": [
+      ["夏伯龙", "Brother of X"],
+      ["夏三虎", "Brother of X"],
+      ["日本人", "Rival of X"]
+    ],
+    "夏三虎": [
+      ["夏伯龙", "Brother of X"],
+      ["夏仲鹏", "Brother of X"]
+    ],
+    "宇祖成木": [
+      ["段约同", "Information Receiver from X"]
+    ]
+  }
+  

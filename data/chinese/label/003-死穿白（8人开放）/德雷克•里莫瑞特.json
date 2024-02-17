@@ -1,0 +1,25 @@
+{
+    "汉斯·里莫瑞特": [
+      ["西尔维娅·科斯塔", "Colleague of X"],
+      ["盖尔·里莫瑞特", "Wife of X"],
+      ["德雷克·里莫瑞特", "Brother of X"],
+      ["帕洛斯基医生", "Colleague of X, Mentor of X"],
+      ["依琳·卡特", "Colleague of X"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["德雷克•里莫瑞特", "brother in law of x"],
+      ["汉斯·里莫瑞特", "Husband of X"]
+    ],
+    "西尔维娅·科斯塔": [
+      ["汉斯·里莫瑞特", "Husband of X"]
+    ],
+    "帕洛斯基医生": [
+      ["德雷克•里莫瑞特", "Colleague of X"],
+      ["汉斯·里莫瑞特", "Colleague of X, Student of X, unsuccessful helper of x"]
+    ],
+    "理查德·伯克利": [
+      ["汉斯·里莫瑞特", "Employer of X"],
+      ["德雷克·里莫瑞特", "Employer of X"]
+    ]
+  }
+  

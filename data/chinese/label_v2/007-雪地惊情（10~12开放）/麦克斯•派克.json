@@ -1,0 +1,37 @@
+{
+    "乔•罗伯特森": [
+      ["麦克斯•琼斯", "friend of x"], 
+      ["丹尼尔•佩里", "acquaintance of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["乔纳森•佩里", "acquaintance of x"]
+    ],
+    "Sleer&Leech": [
+      ["麦克斯•琼斯", "employee of x"]
+    ],
+    "露西•哈里森": [
+      ["玛丽娜•哈里森", "mother of x"], 
+      ["哈罗德•哈里森", "father of x"]
+    ],
+    "麦克斯•琼斯": [
+      ["麦克斯•派克", "same person as x (different reference)"]
+    ],
+    "丹尼尔•佩里": [
+      ["乔•罗伯特森", "acquaintance of x"], 
+      ["乔纳森•佩里", "son of x"]
+    ],
+    "约翰•摩根": [
+      ["艾米•摩根", "wife of x"], 
+      ["乔•罗伯特森", "acquaintance of x"]
+    ],
+    "艾米•摩根": [
+      ["约翰•摩根", "husband of x"], 
+      ["乔•罗伯特森", "acquaintance of x"]
+    ],
+    "麦克斯•派克": [
+      ["Sleer&Leech", "employer of x"], 
+      ["哈罗德•哈里森", "acquaintance of x"], 
+      ["玛丽娜•哈里森", "acquaintance of x"], 
+      ["露西•哈里森", "dislike of x"], 
+      ["麦克斯•琼斯", "same person as x (different reference)"]
+    ]
+}

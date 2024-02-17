@@ -1,0 +1,184 @@
+{
+    "Yao Zhongyi": [
+        [
+            "Yao Changshou",
+            "Father of X"
+        ],
+        [
+            "Zhang Yadi",
+            "Mother of X"
+        ],
+        [
+            "Madam Xu",
+            "Adoptive Mother of X"
+        ],
+        [
+            "Yao Mengren",
+            "Half brother of X, Victim of X"
+        ],
+        [
+            "Xu Boqing",
+            "Half brother of X, Victim of X"
+        ],
+        [
+            "Minyue Sister",
+            "Friend of X, Acquaintance of X"
+        ],
+        [
+            "Zhang Decai",
+            "Cousin of X"
+        ],
+        [
+            "Yu Junhong",
+            "Friend of X"
+        ],
+        [
+            "Lady Hong",
+            "Adoptive mother of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Sister in law of X"
+        ],
+        [
+            "Uncle Gui",
+            "Stranger to X"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Doctor Fang",
+            "Doctor of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Son of X"
+        ],
+        [
+            "Zhang Yadi",
+            "Concubine of X"
+        ],
+        [
+            "Madam Xu",
+            "Wife of X"
+        ],
+        [
+            "Lady Hong",
+            "Wife of X"
+        ],
+        [
+            "Yao Mengren",
+            "Son of X"
+        ]
+    ],
+    "Zhang Yadi": [
+        [
+            "Yao Zhongyi",
+            "Son of X"
+        ],
+        [
+            "Yao Changshou",
+            "Lover of X"
+        ]
+    ],
+    "Madam Xu": [
+        [
+            "Yao Zhongyi",
+            "Adoptive son of X"
+        ],
+        [
+            "Yao Mengren",
+            "Son of X"
+        ],
+        [
+            "Zhang Yadi",
+            "Co-wives of X, Rival in love of X"
+        ],
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Yao Zhongyi",
+            "Half brother of X, Murderer of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Wife of X"
+        ]
+    ],
+    "Minyue Sister": [
+        [
+            "Yao Zhongyi",
+            "Friend of X, Acquaintance of X"
+        ]
+    ],
+    "Zhang Decai": [
+        [
+            "Yao Zhongyi",
+            "Cousin of X"
+        ]
+    ],
+    "Yu Junhong": [
+        [
+            "Yao Zhongyi",
+            "Friend of X"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Doctor Fang",
+            "Employee of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Adoptive son of X"
+        ],
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ]
+    ],
+    "Chen Junmeng": [
+        [
+            "Yao Zhongyi",
+            "Brother in law of X"
+        ],
+        [
+            "Yao Mengren",
+            "Husband of X"
+        ]
+    ],
+    "Yun Ling": [
+        [
+            "Yao Zhongyi",
+            "Acquaintance of X"
+        ],
+        [
+            "Xu Boqing",
+            "Secret admirer of X"
+        ]
+    ],
+    "Uncle Gui": [
+        [
+            "Yao Zhongyi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Xu Boqing": [
+        [
+            "Yao Mengren",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yao Zhongyi",
+            "Half brother of X, Perpetrator of X"
+        ],
+        [
+            "Yun Ling",
+            "Fondness of X"
+        ]
+    ]
+}

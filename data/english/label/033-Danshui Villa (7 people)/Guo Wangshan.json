@@ -1,0 +1,128 @@
+{
+    "Guo Wangshan": [
+        [
+            "Xiao Hunhun or Little Rascal",
+            "Manipulated by X, Employee of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Victim of X, Business Partner of X"
+        ],
+        [
+            "Ren Shifu",
+            "Acquaintance of X"
+        ],
+        [
+            "Liao Laoban",
+            "Employer of X"
+        ],
+        [
+            "Huazi Li or Skunk",
+            "Informant of X, Acquaintance of X"
+        ]
+    ],
+    "Xiao Hunhun or Little Rascal": [
+        [
+            "Guo Wangshan",
+            "Manipulator of X, Employer of X"
+        ]
+    ],
+    "Zhao Wanlei": [
+        [
+            "Guo Wangshan",
+            "Business Partner of X, Attempted Murderer of X"
+        ],
+        [
+            "Liao Laoban",
+            "Rival of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Employee of X, Servant of X"
+        ],
+        [
+            "Qi Yue",
+            "Employee of X, Servant of X"
+        ]
+    ],
+    "Ren Shifu": [
+        [
+            "Guo Wangshan",
+            "Acquaintance of X, student of X"
+        ],
+        [
+            "Liao Laoban",
+            "Student of X, Employer of X"
+        ],
+        [
+            "Nuer or Daughter",
+            "Daughter of X"
+        ],
+        [
+            "Yu Yichen",
+            "Son in law of X"
+        ],
+        [
+            "Yin Shaoming",
+            "Grandson of X"
+        ]
+    ],
+    "Liao Laoban": [
+        [
+            "Guo Wangshan",
+            "Employee of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Rival of X"
+        ],
+        [
+            "Ren Shifu",
+            "Master of X, Employee of X, Servant of X"
+        ]
+    ],
+    "Feng Shuangji": [
+        [
+            "Zhao Wanlei",
+            "Employer of X"
+        ],
+        [
+            "Qi Yue",
+            "Colleague of X"
+        ],
+        [
+            "Yin Shaoming",
+            "Relative of X"
+        ],
+        [
+            "Guo Wangshan",
+            "Guest of X"
+        ]
+    ],
+    "Qi Yue": [
+        [
+            "Zhao Wanlei",
+            "Colleague of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Colleague of X"
+        ]
+    ],
+    "Yin Shaoming": [
+        [
+            "Feng Shuangji",
+            "Relative of X"
+        ],
+        [
+            "Ren Shifu",
+            "Grandfather of X"
+        ]
+    ],
+    "Huazi Li or Skunk": [
+        [
+            "Guo Wangshan",
+            "Acquaintance of X, Information Receiver from X"
+        ]
+    ]
+}

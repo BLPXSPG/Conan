@@ -1,0 +1,80 @@
+{
+    "Gu Fei": [
+      ["Qi Qingli", "adoptive father of x"], 
+      ["Hei Li", "adoptive sister of x"], 
+      ["Mrs. Ruan", "landlord of x"], 
+      ["Zhaonan", "admired by x"], 
+      ["Luo Xiucai", "hate of x, victim of x"], 
+      ["Luo Younuo", "acquaintance of x"], 
+      ["Xue Yan", "acquaintance of x"], 
+      ["Wangdi", "acquaintance of x"], 
+      ["Guilang", "acquaintance of x"], 
+      ["Wang Zimo", "rival in love of x"]
+    ],
+    "Qi Qingli": [
+      ["Gu Fei", "adoptive son of x"], 
+      ["Hei Li", "adoptive daughter of x"]
+    ],
+    "Hei Li": [
+      ["Gu Fei", "adoptive brother of x"], 
+      ["Qi Qingli", "adoptive father of x"], 
+      ["Zhaonan", "friend of x"]
+    ],
+    "Mrs. Ruan": [
+      ["Gu Fei", "tenant of x"], 
+      ["Zhaonan", "daughter of x"], 
+      ["Guilang", "son of x"], 
+      ["Wangdi", "daughter of x"], 
+      ["Luo Younuo", "adoptive son of x"], 
+      ["Xue Yan", "adoptive daughter of x"]
+    ],
+    "Zhaonan": [
+      ["Gu Fei", "admirer of x"], 
+      ["Hei Li", "friend of x"], 
+      ["Mrs. Ruan", "mother of x"], 
+      ["Luo Xiucai", "perpetrator of x"], 
+      ["Luo Younuo", "acquaintance of x"], 
+      ["Xue Yan", "acquaintance of x"], 
+      ["Wangdi", "sister of x"], 
+      ["Guilang", "brother of x"], 
+      ["Wang Zimo", "husband of x"]
+    ],
+    "Luo Xiucai": [
+      ["Gu Fei", "murderer of x, hate of x"], 
+      ["Zhaonan", "victim of x"]
+    ],
+    "Luo Younuo": [
+      ["Gu Fei", "acquaintance of x"], 
+      ["Mrs. Ruan", "adoptive mother of x"], 
+      ["Xue Yan", "sister of x"], 
+      ["Wangdi", "adoptive sister of x"], 
+      ["Guilang", "adoptive brother of x"]
+    ],
+    "Xue Yan": [
+      ["Gu Fei", "acquaintance of x"], 
+      ["Mrs. Ruan", "adoptive mother of x"], 
+      ["Luo Younuo", "brother of x"], 
+      ["Wangdi", "adoptive sister of x"], 
+      ["Guilang", "adoptive brother of x"]
+    ],
+    "Wangdi": [
+      ["Gu Fei", "acquaintance of x"], 
+      ["Mrs. Ruan", "mother of x"], 
+      ["Luo Younuo", "adoptive brother of x"], 
+      ["Xue Yan", "adoptive sister of x"], 
+      ["Guilang", "brother of x"], 
+      ["Zhaonan", "sister of x"]
+    ],
+    "Guilang": [
+      ["Gu Fei", "acquaintance of x"], 
+      ["Mrs. Ruan", "mother of x"], 
+      ["Luo Younuo", "adoptive brother of x"], 
+      ["Xue Yan", "adoptive sister of x"], 
+      ["Wangdi", "sister of x"], 
+      ["Zhaonan", "sister of x"]
+    ],
+    "Wang Zimo": [
+      ["Gu Fei", "rival of x"], 
+      ["Zhaonan", "wife of x"]
+    ]
+}

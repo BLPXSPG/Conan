@@ -1,0 +1,69 @@
+{
+    "Zheng Hanzhen": [
+      ["Zheng Changmin", "father of x"], 
+      ["Zhou Yuntang", "teacher of x"], 
+      ["Chen Sha", "colleague of x, fiance of x"], 
+      ["Ba Mansion Mountain", "host of x"], 
+      ["Juan Ge (Cuckoo Song)", "lover of x, helper of x"], 
+      ["Gui Yin", "rival in love of x"], 
+      ["Zhang Shi", "mother of x"], 
+      ["Dark and Thin Man", "stranger to x"]
+    ],
+    "Zheng Changmin": [
+      ["Zheng Hanzhen", "son of x"], 
+      ["Zhou Yuntang", "friend of x"], 
+      ["Zhang Shi", "wife of x"]
+    ],
+    "Zhang Shi": [
+      ["Zheng Changmin", "husband of x"], 
+      ["Zheng Hanzhen", "son of x"]
+    ],
+    "Zhou Yuntang": [
+      ["Professor Zhou", "same person as x (different reference)"]
+    ],
+    "Professor Zhou": [
+      ["Zheng Hanzhen", "student of x"], 
+      ["Zheng Changmin", "friend of x"], 
+      ["Chen Sha", "daughter of x"], 
+      ["Ba Mansion Mountain", "host of x"], 
+      ["Guide", "tour guide of x"], 
+      ["Zhou Jingyu", "son of x"], 
+      ["Zhou Yuntang", "same person as x (different reference)"]
+    ],
+    "Ba Mansion Mountain": [
+      ["Zheng Hanzhen", "guest of x, rival of x, murderer of x"], 
+      ["Zhou Yuntang", "guest of x"], 
+      ["Chen Sha", "guest of x"], 
+      ["Guide", "employee of x"], 
+      ["Juan Ge (Cuckoo Song)", "daughter of x"], 
+      ["Li Demu", "employee of x"], 
+      ["Juan Ge (Cuckoo Song)", "killed by x"]
+    ],
+    "Chen Sha": [
+      ["Zheng Hanzhen", "colleague of x, fiance of x"], 
+      ["Zhou Yuntang", "father of x"], 
+      ["Ba Mansion Mountain", "host of x"], 
+      ["Zhou Jingyu", "brother of x"]
+    ],
+    "Juan Ge (Cuckoo Song)": [
+      ["Ba Mansion Mountain", "father of x"], 
+      ["Zheng Hanzhen", "lover of x, helped by x"], 
+      ["Gui Yin", "fiance of x"]
+    ],
+    "Gui Yin": [
+      ["Juan Ge (Cuckoo Song)", "fiancee of x"], 
+      ["Zheng Hanzhen", "rival of x, murderer of x"], 
+      ["Juan Ge (Cuckoo Song)", "killed by x"], 
+      ["Man in Black Robe", "same person as x (different reference)"]
+    ],
+    "Man in Black Robe": [
+      ["Gui Yin", "same person as x (different reference)"]
+    ],
+    "Li Demu": [
+      ["Ba Mansion Mountain", "landlord of x, employer of x"]
+    ],
+    "Zhou Jingyu": [
+      ["Zhou Yuntang", "son of x"], 
+      ["Chen Sha", "sister of x"]
+    ]
+}

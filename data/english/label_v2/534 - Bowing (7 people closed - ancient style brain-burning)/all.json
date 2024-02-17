@@ -1,0 +1,57 @@
+{
+    "Fang Liu": [
+      ["Fang Ye", "father of x"], 
+      ["Grandma", "grandmother of x"], 
+      ["Fang Xu", "aunt of x"], 
+      ["Fang Mian", "aunt of x"], 
+      ["Er Yisi Bada", "adoptive father of x, uncle of x"], 
+      ["Chen Qian", "adoptive sister of x"], 
+      ["Li Yan", "saviour of x, cousin of x"], 
+      ["Li Zhong", "friend of x, deceived by x, cousin of x"], 
+      ["Li Qinren", "rival of x"], 
+      ["Xiao Qian", "same person as x (different reference)"]
+    ],
+    "Li Zhong": [
+      ["Li Qinren", "father of x"], 
+      ["Li Yan", "brother of x"], 
+      ["Fang Xu", "mother of x"], 
+      ["Chen Qian", "fiance of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "father in law of x"]
+    ],
+    "Xiao Qian": [
+      ["Fang Liu", "same person as x (different reference)"]
+    ],
+    "Li Yan": [
+      ["Li Qinren", "father of x"], 
+      ["Er Yisi Bada", "biological father of x"], 
+      ["Li Zhong", "older brother of x, rival in love of x"], 
+      ["Chen Qian", "lover of x"], 
+      ["Fang Xu", "mother of x"], 
+      ["Fang Liu", "cousin of x"]
+    ],
+    "Er Yisi Bada": [
+      ["Madam Fang", "adoptive mother of x, enemy of x"], 
+      ["Fang Xu", "older sister of x, lover of x"], 
+      ["Fang Ye", "brother of x, adversary of x"], 
+      ["Fang Mian", "sister of x, adversary of x"], 
+      ["Te'ertelafoerde (Old Trafford)", "quest companion of x, friend of x"], 
+      ["Fang Liu", "adoptive daughter of x, student of x"], 
+      ["Li Qinren", "rival of x"], 
+      ["Li Zhong", "biological son of x"], 
+      ["Li Yan", "biological son of x"]
+    ],
+    "Chen Qian": [
+      ["Te'ertelafoerde (Old Trafford)", "father of x"], 
+      ["Madam Chen or Chen family", "mother of x"], 
+      ["Fang Liu", "friend of x"], 
+      ["Li Zhong", "lover of x, fiance of x"], 
+      ["Li Yan", "lover of x, fiance of x"], 
+      ["Li Qinren", "father in law of x"]
+    ],
+    "Te'ertelafoerde (Old Trafford)": [
+      ["Li Qinren", "friend of x, quest companion of x, future relative of x"], 
+      ["Er Yisi Bada", "superior of x"], 
+      ["Chen Qian", "daughter of x"], 
+      ["Li Zhong", "son in law of x"]
+    ]
+}

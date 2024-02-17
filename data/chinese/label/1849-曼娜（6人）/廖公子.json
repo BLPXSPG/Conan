@@ -1,0 +1,76 @@
+{
+  "廖雪寒": [
+    ["廖一乔", "father of x"],
+    ["张医师", "Doctor of X"],
+    ["茱丽", "Helper of X"],
+    ["海悠", "acquaintance of x"],
+    ["罗亨理", "business partner of x"],
+    ["吕名然", "acquaintance of x"],
+    ["谭尚致", "acquaintance of x"],
+    ["谭仁昌", "business partner of x"],
+    ["红儿", "helped by x, Debtor of X, Manipulated by X"],
+    ["韦太太", "acquaintance of x"],
+    ["承格", "acquaintance of x"],
+    ["阿萍", "acquaintance of x"]
+  ],
+  "廖一乔": [
+    ["廖雪寒", "son of x"]
+  ],
+  "张医师": [
+    ["廖雪寒", "patient of x"],
+    ["茱丽", "wife of x"]
+  ],
+  "茱丽": [
+    ["张医师", "husband of x"],
+    ["廖雪寒", "helped by x"],
+    ["海悠", "helper of x"]
+  ],
+  "海悠": [
+    ["茱丽", "helped by x"],
+    ["韦太太", "acquaintance of x"],
+    ["承格", "acquaintance of x"]
+  ],
+  "罗亨理": [
+    ["廖雪寒", "business partner of x"],
+    ["吕名然", "Subordinate of X"],
+    ["谭仁昌", "brother in law of x"],
+    ["罗明纱", "sister of x"]
+  ],
+  "吕名然": [
+    ["罗亨理", "Superior of X"],
+    ["廖雪寒", "acquaintance of x"],
+    ["承格", "acquaintance of x"]
+  ],
+  "罗明纱": [
+    ["罗亨理", "brother of x"],
+    ["谭仁昌", "husband of x"]
+  ],
+  "谭尚致": [
+    ["廖雪寒", "acquaintance of x"],
+    ["谭仁昌", "uncle of x"]
+  ],
+  "谭仁昌": [
+    ["罗亨理", "brother in law of x"],
+    ["罗明纱", "wife of x"],
+    ["谭尚致", "nephew of x"],
+    ["承格", "adoptive son of x"],
+    ["韦太太", "acquaintance of x"]
+  ],
+  "红儿": [
+    ["廖雪寒", "helper of x, Manipulator of X, Creditor of X"]
+  ],
+  "韦太太": [
+    ["海悠", "acquaintance of x"],
+    ["谭仁昌", "acquaintance of x"],
+    ["阿萍", "helped by x"]
+  ],
+  "承格": [
+    ["吕名然", "acquaintance of x"],
+    ["谭仁昌", "adoptive father of x"],
+    ["海悠", "adoptive sister of x"],
+    ["韦太太", "acquaintance of x"]
+  ],
+  "阿萍": [
+    ["韦太太", "master of x"]
+  ]
+}

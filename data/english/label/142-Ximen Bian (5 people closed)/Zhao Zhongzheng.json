@@ -1,0 +1,50 @@
+{
+    "Zhao Zhongzheng": [
+        [
+            "Zhao Zhongyang",
+            "Brother of X"
+        ],
+        [
+            "Zhao San",
+            "Subordinate of X"
+        ],
+        [
+            "Chen Meier",
+            "Spy of X"
+        ],
+        [
+            "Li Cheng",
+            "Employee of X, Spy of X"
+        ]
+    ],
+    "Zhao Zhongyang": [
+        [
+            "Zhao Zhongzheng",
+            "Brother of X"
+        ],
+        [
+            "Chen Meier",
+            "Romantic relationships with X, Spy of X"
+        ]
+    ],
+    "Li Cheng": [
+        [
+            "Zhao Zhongzheng",
+            "Employee of X, Master of X"
+        ],
+        [
+            "Chen Meier",
+            "Colleague of X"
+        ]
+    ],
+    "Chen Meier": [
+        [
+            "Zhao Zhongzheng",
+            "Master of X"
+        ],
+        [
+            "Zhao Zhongyang",
+            "Romantic relationships with X"
+        ]
+    ]
+}

@@ -1,0 +1,722 @@
+# Prompts
+extract_relationships: |-
+  Extract character relationships based on the character background below: 
+  Character Background - You are {character_name}:
+  {character_background_text}
+
+  Response in JSON format ONLY: {"character name": [["linked character", "relationship"], ["linked character", "relationship"]], "character name": [["linked character", "relationship"], ["linked character", "relationship"]]}
+
+extract_relation_and_character: |-
+  Please classify the relationships between the characters using the given relationship categories {categories}. Note that multiple relationships categories can be applied to each character pair.
+
+  Character Background of {character_name}:
+  {character_background_text}
+
+  Provide the relationships in the following JSON format ONLY:
+  {
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ],
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ]
+  }
+
+update_relation_and_character: |-
+  Update the character relationships using the new background information. Incorporate the updates into the existing relationships graph.
+
+  Existing Relationships:
+  {relationships_graph}
+
+  New Background:
+  {character_name}:
+  {character_background_text}
+
+  Instructions:
+  1. Classify relationships using these categories: {categories}.
+  2. Multiple categories may apply to each character pair.
+  3. Provide updated relationships in JSON format ONLY:
+  {
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ],
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ]
+  }
+
+extract_relation_and_character_all: |-
+  Please classify the relationships between the characters using the given relationship categories {categories}. Note that multiple relationships categories can be applied to each character pair.
+
+  Character Background:
+  {character_background_text}
+
+  Provide the relationships in the following JSON format ONLY:
+  {
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ],
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ]
+  }
+
+update_relation_and_character_all: |-
+  Update the character relationships using the new background information. Incorporate the updates into the existing relationships graph.
+
+  Existing Relationships:
+  {relationships_graph}
+
+  New Background:
+  {character_background_text}
+
+  Instructions:
+  1. Classify relationships using these categories: {categories}.
+  2. Multiple categories may apply to each character pair.
+  3. Provide updated relationships in JSON format ONLY:
+  {
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ],
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ]
+  }
+
+extract_relation_given_character: |-
+  Using the given relationship categories {categories}, classify the relationships between the characters listed below. Note that multiple relationships categories can be applied to each character pair.
+
+  List of Characters:
+  {character_list}
+
+  For each character, analyze their relationships based on the narrative context provided:
+
+  Character Background of {character_name}:
+  {character_background_text}
+
+  Provide the relationships in the following JSON format ONLY:
+  {
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ],
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ]
+  }
+
+update_relation_given_character: |-
+  Update our existing character relationships using new background details for {character_name}.
+
+  Existing Relationships:
+  {relationships_graph}
+
+  Background to Consider:
+  {character_name}: {character_background_text}
+
+  Instructions:
+  1. Use these categories for classification: {categories}. Apply multiple categories if necessary.
+  2. List of Characters for Analysis: {character_list}
+  3. Format the updated relationships in JSON format ONLY:
+  {
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ],
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ]
+  }
+
+extract_relation_given_character_all: |-
+  Using the given relationship categories {categories}, please classify the relationships between the characters listed below. Note that multiple relationships categories can be applied to each character pair.
+
+  List of Characters:
+  {character_list}
+
+  For each character, analyze their relationships based on the narrative context provided:
+
+  {character_background_text}
+
+  Provide the relationships in the following JSON format ONLY:
+  {
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ],
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ]
+  }
+
+update_relation_given_character_all: |-
+  Update our existing character relationships using new background details.
+
+  Existing Relationships:
+  {relationships_graph}
+
+  Background to Consider:
+  {character_background_text}
+
+  Instructions:
+  1. Use these categories for classification: {categories}. Apply multiple categories if necessary.
+  2. List of Characters for Analysis: {character_list}
+  3. Format the updated relationships in JSON format ONLY:
+  {
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ],
+    "character_name": [
+      ["linked_character", "relationship_category, relationship_category"],
+      ["linked_character", "relationship_category, relationship_category"],
+    ]
+  }
+
+# extract characters from the given narrative
+ext_character_list_prompt: |-
+  Identify and list all characters mentioned in the background story of {character_name}. 
+  Narrative Background: {character_background_text}
+
+  Please provide the response in JSON format for clarity and structure, listing each character distinctly. 
+  Example format: {"characters": ["character 1", "character 2", ...]}
+
+update_character_list_prompt: |-
+  Review the current list of known characters and update it by adding any new characters found in the background story of {character_name}. 
+
+  Current Known Characters: 
+  {character_list}
+
+  Character Background for Update: 
+  {character_background_text}
+
+  Please provide the updated list of characters in JSON format, including both previously known and newly identified characters. 
+  Example format: {"characters": ["existing character 1", "existing character 2", "new character 1", ...]}
+
+
+extract_relationships_category_pairwise: |-
+  Using the given relationship categories {categories}, classify the relationship between characters {a} and {b} based on the character background of {character_name}. You may select multiple relationships. 
+  
+  Character Background:
+  {character_background_text}
+
+  Response in JSON format ONLY: {"{a}": ["{b}", "relationship 1, relationship 2"], "{b}": ["{a}", "relationship 1, relationship 2"]}
+
+update_relationships_category_pairwise: |-
+  Given the known relationships:
+  {relationships_graph}
+
+  And the relationship categories: {categories},
+  Please update and add character relationships between {a} and {b}, based on the character background of {character_name}. 
+  {character_background_text}
+
+  You may select multiple relationships. 
+  Please respond in JSON format ONLY: {"{a}": ["{b}", "relationship 1, relationship 2"], "{b}": ["{a}", "relationship 1, relationship 2"]}
+
+extract_relationships_category_pairwise_all: |-
+  From the categories: {categories}
+  Classify character relationships between {a} and {b}, based on the character background of {character_name}. 
+  {character_background_text}
+
+  Multiple selections are possible.
+  Response in JSON format ONLY: {"{a}": ["{b}", "relationship 1, relationship 2"], "{b}": ["{a}", "relationship 1, relationship 2"]}
+
+update_relationships_category_pairwise_all: |-
+  Here is the known relationships:
+  {relationships_graph}
+
+  From the categories: {categories}
+  Update and add character relationships between {a} and {b}, based on the character background of {character_name}. 
+  {character_background_text}
+
+  Multiple selections are possible.
+  Response in JSON format ONLY: {"{a}": ["{b}", "relationship 1, relationship 2"], "{b}": ["{a}", "relationship 1, relationship 2"]}
+
+extract_relationships_individual: |-
+  Character Background - You are {character_name}:
+  {character_background_text}
+
+trasnlate_names: |-
+  Translate the given list of Chinese character names to English:
+  {character_names}
+  Response MUST be in JSON format: {"Chinese name 1": "translated name", "Chinese name 2": "translated name"}
+
+extract_relationships_all: |-
+  Extract character relationships based on the character backgrounds below: 
+  {extract_relationships_combined}
+
+  Response in JSON format ONLY: {"character name": [["linked character", "relationship 1, relationship 2"], ["linked character", "relationship 1, relationship 2"]], "character name": [["linked character", "relationship 1, relationship 2"]]}
+
+extract_relationships_category_all: |-
+  From the categories: {categories}
+  Classify the character relationships based on the character background. Multiple selections are possible.
+  {extract_relationships_combined} 
+
+  Response in JSON format ONLY: {"character name": [["linked character", "relationship 1, relationship 2"], ["linked character", "relationship 1, relationship 2"]], "character name": [["linked character", "relationship 1, relationship 2"]]}
+
+update_relationships: |-
+  Here is the known relationships:
+  {relationships_graph}
+
+  Update character relationships based on the character background below: 
+  Character Background - You are {character_name}:
+  {character_background_text}
+
+  Response in JSON format ONLY: {"character name": [["linked character", "relationship 1, relationship 2"], ["linked character", "relationship 1, relationship 2"]], "character name": [["linked character", "relationship 1, relationship 2"]]}
+
+summarise_relationships: |-
+  Summarise character relationships based on the character background below: 
+  Character Background - You are {character_name}:
+  {character_background_text}
+
+memory_check_prompt: |-
+  Check whether you know this story "{narrative_name}", return in JSON format.
+  Here is the output format example: {"check": "True or False"}
+
+series_check_prompt: |-
+  Check whether the narrative "{narrative_name}" is a series. If it is, output the names of the books it contains. Return in JSON format.
+  Here is the output format example: {"check": "True or False", "Books": ["book 1", "book 2"]}
+
+# properties extraction (characteristic)
+ext_properties_sys: |-
+  Consider the background of the narrative and the given persona, predict the properties that distinguish this person from others. Return the information in JSON format.
+
+ext_properties_prompt: |-
+  Guess on "{character_name}" in "{narrative_name}", which can distinguish this person from others. 
+  Here is a format example: {"Characteristic": ["describe character traits that are inherent in the person's personality."], "Routine or Habit": ["what the person regularly or consistently does"], "Goal or Plan": ["what the person will do or achieve in the future"], "Experience": ["describe extrinsic events or activities that the persona did in the past."], "Skill": ["describe the person's skill to due to training, experience, or natural ability."]}
+
+# setting extraction
+ext_setting_sys: |-
+  Extract the required information from the given narrative and return it in JSON format.
+
+ext_setting_prompt: |-
+  Extract required properties on "{character_name}" in "{narrative_name}". If the property is not stated, return "Unknown".
+  Here is a format example: {"Gender": "Male or Female", "Country of citizenship": "United Kingdom of Great Britain and Ireland", "Language spoken, written or signed": "English", "Lifestyle": ["smoker"], "Medical condition": ["cocaine dependence"]}
+
+# appearance extraction
+ext_appearance_sys: |-
+  Extract the appearance of the specified character from the given narrative and return it in JSON format.
+
+ext_appearance_prompt: |-
+  Extract appearance of "{character_name}" in "{narrative_name}".
+  Here is a format example: {"Height": "", "Weight": "", "Age": "Unknown", "Facial features": "", "Body type/Physical condition":"" "Hair": "Hair colour and style", "Eye": "Eye colour", "Skin tone": "", "Wears": ["deerstalker", "pipe"]}. 
+
+# properties extraction (role)
+ext_personas_sys: |-
+  Consider the background of the narrative and extract personas from it. Return the information in JSON format.
+
+ext_personas_prompt: |-
+  List the personas in the story "{narrative_name}".
+  For the listed personas, classify them into categories such as "Profession" (e.g., actor, teacher), "Race/Species" (e.g., human, homunculus), or "Special Role in Story" (e.g., Suspect, Victim). Additionally, for each persona, specify whether their role makes this detective story distinct from stories of other types.
+  Here is a format example: {"Profession": [["Scientist", "Intrinsic or Extrinsic"], ["Engineer", "Intrinsic or Extrinsic"]], "Race/Species": [["Human", "Intrinsic or Extrinsic"], ["Replicant", "Intrinsic or Extrinsic"]], "Special Role in Story": [["Victim", "Intrinsic or Extrinsic"], ["Suspect", "Intrinsic or Extrinsic"]]}
+
+tanslate_to: |-
+  Translate the given text to {language}:
+  {text}
+  Response in JSON format ONLY: {"translated": "translated text here"}
+
+encode_memory: |-
+  From perspective of {character_name}:
+  {character_background_text}
+
+re_category: |-
+  Given the following list of relationships: {relationship_list}, 
+  remap them into the specified categories: {categories}. 
+  Response in JSON format ONLY:
+  {"original relationship": "Recategorised relationship"}
+
+# relation identification
+relation_identification_class: |-
+  is Student of (Mentor and Student)
+  is Mentor of (Mentor and Student)
+  is Created by (Creator and Created)
+  is Creator of (Creator and Created)
+  is Authority of (Authority and Rebellion)
+  is Rebellion of (Authority and Rebellion)
+  is Servant of (Master and Servant)
+  is Master of (Master and Servant)
+  is Cult Member of (Deity and Cult Member)
+  is Deity of (Deity and Cult Member)
+  Romantic relationships
+  Family relationships
+  Friendships
+  Symbiotic Relationship/Magical Bond
+  Community Group
+  Survivor Group
+  Quest Companions
+  is Receiver of (Receiver and Informant)
+  is Informant of (Receiver and Informant)
+  is Help-Seeker of (Helper and Help-Seeker)
+  is Helper of (Helper and Help-Seeker)
+  Rivalries
+  Adversarial relationship
+  is Employee of (Employer and Employee)
+  is Employer of (Employer and Employee)
+  is Customer of (Customer and Merchant)
+  is Merchant of (Customer and Merchant)
+  is Tenant of (Landlord and Tenant)
+  is Landlord of (Landlord and Tenant)
+  Professional relationship
+  Situational acquaintances
+  is Victim of (Suspect and Murderer)
+  is Murderer of (Suspect and Murderer)
+  Inter-species relationships
+
+relation_identification_prompt: |-
+  Classify the relationships between the given character "{character_name}" and other characters in the given story into specified categories, if they exist. 
+
+  Here is the relationship categories and corresponding definition:
+  "is Student of (Mentor and Student)": The given character is a student of the related character. The Mentor and Student relationship involves a mentor—an experienced and trusted advisor—and a student, who is typically less experienced and seeks guidance.
+  "is Mentor of (Mentor and Student)": The given character is the mentor of the related character.
+  "is Created by (Creator and Created)": The given character was created by the related character. 
+  "is Creator of (Creator and Created)": The given character is the creator of the related character.
+  "is Authority of (Authority and Rebellion)": The given character is in rebellion against the related character. This relationship centers on the tension between figures of authority—those who hold or exercise power—and individuals or groups that resist or rebel against that power.
+  "is Rebellion of (Authority and Rebellion)": The given character is the authority over the related character.
+  "is Servant of (Master and Servant)": The given character is the servant of the related character. In this relationship, one character (the "master") has significant control, authority, or influence over another character (the "servant"). 
+  "is Master of (Master and Servant)": The given character is the master of the related character.
+  "is Cult Member of (Deity and Cult Member)": The given character is a cult member who worships the related character. 
+  "is Deity of (Deity and Cult Member)": The given character is the deity worshipped by the related character.
+  "Romantic relationships": Romantic relationships focus on the emotional, psychological, and sometimes physical intimacy between characters who are involved in a romantic or amorous setting. This can range from courtship to marriage, and can include a variety of romantic scenarios, conflicts, or issues.
+  "Family relationships": Family relationships are between members of a family unit, which are often critical to the protagonist's identity or quest. This can include parent-child dynamics, sibling bonds, and other familial relationships (Grandparent, Cousin, etc.). 
+  "Friendships": It is between characters who share a bond based on mutual respect, trust, and affection. 
+  "Symbiotic Relationship/Magical Bond": Two or more characters are bound together by a magical or inexplicable force that grants them certain abilities, insights, or strengths. Sometimes these bonds can be more of a curse than a blessing, forcing the characters into unwanted proximity or cooperation. 
+  "Community Group": In smaller settings like villages, the community often plays a role almost as a single entity, with collective secrets or biases that affect the investigation.
+  "Survivor Group": a group of people are pitted against a terrifying force, and their relationships strain under the pressure.
+  "Quest Companions": a group of people who may not know each other well initially, but are thrown together by a common mission. 
+  "is Receiver of (Receiver and Informant)": The given character receives information from the related character. 
+  "is Informant of (Receiver and Informant)": The given character is the informant for the related character.
+  "is Help-Seeker of (Helper and Help-Seeker)": The given character seeks help from the related character. 
+  "is Helper of (Helper and Help-Seeker)": The given character is the helper for the related character.
+  "Rivalries": Rivals, though not necessarily enemies, challenge each other, seeking to outperform or outwit the other for reasons like achieving a common goal, competing for a love interest, or simply due to jealousy. 
+  "Adversarial relationship": This relationship refers to connections between individuals or groups at odds because of conflicting beliefs, loyalties, or goals.    
+  "is Employee of (Employer and Employee)": The given character is an employee of the related character.
+  "is Employer of (Employer and Employee)": The given character is the employer of the related character.
+  "is Customer of (Customer and Merchant)": The given character is a customer of the related character, emphasizing the interaction between a provider and a user of a product or service. 
+  "is Merchant of (Customer and Merchant)": The given character is the merchant for the related character.
+  "is Tenant of (Landlord and Tenant)": The given character is the tenant of the related character.
+  "is Landlord of (Landlord and Tenant)": The given character is the landlord of the related character.
+  "Professional relationship": This entails characters sharing a workplace or occupation.
+  "Situational acquaintances": These are individuals temporarily connected due to a shared experience or setting, without a prior relationship. 
+  "is Victim of (Suspect and Murderer)": The given character is the victim of the related character. 
+  "is Murderer of (Suspect and Murderer)": The given character is the murderer of the related character.
+  "Inter-species relationships": This relationship type explores the interaction and dynamics between humans and non-human beings.  
+
+  This is the other characters:
+  {other_characters}
+
+  Here is a format example: [{"Name": "the related character", "Relationship": "one relationship category stated above"}]
+
+
+relation_identification_prompt_old: |-
+  Classify the relationships between the given character "{character_name}" and other characters in the given story into specified categories, if they exist. 
+  Here is a format example: [{"Name": "the related character", "Relationship": "is Student of (Mentor and Student)"}]
+
+  This is the relationships:
+  "is Student of (Mentor and Student)": The given character is a student of the related character. The Mentor and Student relationship involves a mentor—an experienced and trusted advisor—and a student, who is typically less experienced and seeks guidance.
+  "is Mentor of (Mentor and Student)": The given character is the mentor of the related character.
+  "is Created by (Creator and Created)": The given character was created by the related character. Creator and Created relationships often delve into the moral and ethical responsibilities that come with creation, especially if the created being possesses sentience or free will.
+  "is Creator of (Creator and Created)": The given character is the creator of the related character.
+  "is Authority of (Authority and Rebellion)": The given character is in rebellion against the related character. This relationship centers on the tension between figures of authority—those who hold or exercise power—and individuals or groups that resist or rebel against that power.
+  "is Rebellion of (Authority and Rebellion)": The given character is the authority over the related character.
+  "is Servant of (Master and Servant)": The given character is the servant of the related character. In this relationship, one character (the "master") has significant control, authority, or influence over another character (the "servant"). This dynamic isn't limited to literal servitude but can also represent broader imbalances of power, expertise, or social standing between characters.
+  "is Master of (Master and Servant)": The given character is the master of the related character.
+  "is Cult Member of (Deity and Cult Member)": The given character is a cult member who worships the related character. Stories involving cults often focus on the complex relationships between devotees and the supernatural entities they worship.
+  "is Deity of (Deity and Cult Member)": The given character is the deity worshipped by the related character.
+  "Romantic relationships": Romantic relationships focus on the emotional, psychological, and sometimes physical intimacy between characters who are involved in a romantic or amorous setting. This can range from courtship to marriage, and can include a variety of romantic scenarios, conflicts, or issues.
+  "Family relationships": Family relationships are between members of a family unit, which are often critical to the protagonist's identity or quest. This can include parent-child dynamics, sibling bonds, and other familial relationships (Grandparent, Cousin, etc.). 
+  "Friendships": It is between characters who share a bond based on mutual respect, trust, and affection. It often involves loyalty, betrayal, growth, and the complexities of human interaction. 
+  "Symbiotic Relationship/Magical Bond": Two or more characters are bound together by a magical or inexplicable force that grants them certain abilities, insights, or strengths. Sometimes these bonds can be more of a curse than a blessing, forcing the characters into unwanted proximity or cooperation. 
+  "Community Group": In smaller settings like villages, the community often plays a role almost as a single entity, with collective secrets or biases that affect the investigation.
+  "Survivor Group": a group of people are pitted against a terrifying force, and their relationships strain under the pressure.
+  "Quest Companions": a group of people who may not know each other well initially, but are thrown together by a common mission. 
+  "is Receiver of (Receiver and Informant)": The given character receives information from the related character. The Informant typically provides crucial or sensitive information that the receiver lacks but needs for a specific purpose. The motivations for this exchange can vary, from mutual benefit to coercion, and often involve varying degrees of trust or distrust.
+  "is Informant of (Receiver and Informant)": The given character is the informant for the related character.
+  "is Help-Seeker of (Helper and Help-Seeker)": The given character seeks help from the related character. In narratives across various genres, this relationship involves one character (the "Helper") providing assistance, guidance, or resources and another (the "Help-Seeker") in need of such aid.
+  "is Helper of (Helper and Help-Seeker)": The given character is the helper for the related character.
+  "Rivalries": Rivals, though not necessarily enemies, challenge each other, seeking to outperform or outwit the other for reasons like achieving a common goal, competing for a love interest, or simply due to jealousy. 
+  "Adversarial relationship": This relationship refers to connections between individuals or groups at odds because of conflicting beliefs, loyalties, or goals.    
+  "is Employee of (Employer and Employee)": The given character is an employee of the related character. The dynamics in this relationship range from hierarchical and formal to personal and complicated, exploring themes of power, trust, ambition, and moral choices.
+  "is Employer of (Employer and Employee)": The given character is the employer of the related character.
+  "is Customer of (Customer and Merchant)": The given character is a customer of the related character, emphasizing the interaction between a provider and a user of a product or service. 
+  "is Merchant of (Customer and Merchant)": The given character is the merchant for the related character.
+  "is Tenant of (Landlord and Tenant)": The given character is the tenant of the related character, marking the interaction between a property owner (the landlord) and an occupant (the tenant).
+  "is Landlord of (Landlord and Tenant)": The given character is the landlord of the related character.
+  "Professional relationship": This entails characters sharing a workplace or occupation, often highlighting themes of ambition, competition, teamwork, ethics, and power dynamics.
+  "Situational acquaintances": These are individuals temporarily connected due to a shared experience or setting, without a prior relationship. They may interact for a limited time, but there's no implication of an ongoing relationship beyond the shared situation.
+  "is Victim of (Suspect and Murderer)": The given character is the victim of the related character. Their relationship can range from being complete strangers to close acquaintances, with their connection often driving the story's narrative.
+  "is Murderer of (Suspect and Murderer)": The given character is the murderer of the related character.
+  "Inter-species relationships": This relationship type explores the interaction and dynamics between humans and non-human beings.  
+
+  This is the other characters:
+  {other_characters}
+
+relation_list: |-
+  Same person as X (different reference)
+  Same person as X (different identity)
+  Replaced X's identity
+  Stranger to X
+  Other
+  Wife of X
+  Husband of X
+  Extramarital Affair with X
+  Romantic relationships with X
+  Ex-romantic relationships with X
+  Fondness of X
+  Secret admirer of X
+  Fiance of X
+  Father of X
+  Father in law of X
+  Adaptive Father of X
+  Mother of X
+  Adaptive Mother of X
+  Child of X
+  Son of X
+  Son-in-law of X
+  Adoptive Son of X
+  Daughter of X
+  Adoptive Daughter of X
+  Brother of X
+  Sister of X 
+  Sister-in-law of X
+  Grandfather of X
+  Grandmother of X
+  Grandson of X
+  Granddaughter of X
+  Cousin of X
+  Niece of X 
+  Uncle of X
+  Aunt of X
+  Relative of X
+  Stepbrother of X
+  Friend of X
+  Sworn Brother of X
+  Mentor of X
+  Student of X
+  Master of X
+  Servant of X
+  Creator of X
+  Created by X
+  Minion of X
+  Magical Bond with X
+  Informant of X
+  Information Receiver from X
+  Neighbour of X
+  Schoolmate of X
+  Acquaintance of X
+  Helper of X
+  Helped by X
+  Quest Companion of X
+  Saviour of X 
+  Saved by X
+  Authority over X
+  Rebellion against X
+  Rival of X
+  Rival in love of X
+  Adversary of X
+  Victim of X
+  X's victim's family
+  Murderer of X
+  Attempted Murderer of X
+  Manipulator of X
+  Manipulated by X
+  Jealous of X
+  Bully of X
+  Suspect of X
+  Superior of X
+  Employer of X
+  Employee of X
+  Doctor of X
+  Patient of X
+  Messenger of X
+  Creditor to X
+  Debtor to X
+  Customer of X
+  Lawyer of X
+  Merchant for X
+  Tenant of X
+  Landlord of X
+  Colleague of X
+  Business Partner of X
+  Guest of X 
+  Tour guide of X 
+  Host of X
+
+# auto-evaluation
+single_character_checking: |-
+  For the given character "{character_name}", check whether it represents a specified single character. For example, "everyone" is not a valid entry because it might include more than one character; "someone" is also not valid because it is not specified to a particular character.
+  Analyse your decision in detail, then conclude your findings, return in JSON format. 
+  Here is a format example: {"input": "character_name", "analyse": "reason for the decision", "decision": "Valid or Not Valid"}
+
+get_conversation_sys: |-
+  Find all conversation, its speakers and content in the given story, return in JSON format.
+
+get_conversation_prompt: |-
+  Extract the conversation link to the given event as list: {event_description} 
+  For each speak, extract speaker and speak content. Here is a format example: [{"speaker": "speaker name", "content": "speak content"}, {"speaker": "speaker name", "content": "response content"}]
+  Here is the story: {story}
+
+ext_event_sys: |-
+  Identify all events in the given story, return in JSON format.
+
+ext_event_prompt: |-
+  Extract a list of main events. Each event should include the event name, characters involved in the event, location, and a detailed description. 
+  The output format is [{"event": "Grandpa Joe telling story about Prince Pondicherry", "character": "Grandpa Joe, Grandma Josephine, Grandpa George, Grandma Georgina, Charlie", "location": "Grandparents\' room", "description": "Grandpa Joe recounts the story of Prince Pondicherry, an Indian prince who commissioned Mr Willy Wonka to build a colossal palace entirely out of chocolate. The palace had one hundred rooms, and everything, from the bricks to the furniture, was made of chocolate. Despite Mr Wonka\'s warning that the palace wouldn\'t last long, the prince refused to eat it and intended to live in it. However, on a hot day, the palace melted, leaving the prince swimming in a lake of chocolate. The family finds the story amusing, highlighting Mr Wonka\'s incredible creations."}]
+  Here is the story: {story}
+
+ext__location_sys: |-
+  Here is the definition for LOCATION: A distinct geographical or thematic area within the game environment where characters can interact with each other and the surroundings. Characters within the same location are generally close enough to engage in real-time activities like communication, combat, or collaboration. 
+  The location serves as a self-contained stage or 'small map' that contributes to the overall narrative, gameplay mechanics, or objectives.
+  Extract such LOCATION in the given story, return in JSON format.
+
+ext__location_prompt: |-
+  Extract LOCATIONS in the given story: {story}.
+  Locations can be hierarchical; for example, "The corridor" and "The dining car" are part of "The Train". Then return [{"location": "The Train", "part_of": ""}, {"location": "The corridor", "part_of": "The Train"}, {"location": "The dining car", "part_of": "The Train"}].
+
+get_location_sys: |-
+  Generate descriptions of given locations in the story. The description should only describe the environment and NOT include people. The output should be in JSON format.
+
+get_location_prompt: |-
+  For the location at {location}, extract keywords and provide a two-sentence description of how the location looks.
+  For example, with location "small wooden house", output {"keyword": "Cozy, cramped, inadequate space", "description": "The small wooden house with its wooden exterior has limited space, and there was only one bed."}
+  Here is the story: {story}
+#prompt += 'with location "town", output {"keyword": "chocolate factory, small, impoverished, mysterious", "description": "Most residents live in humble, impoverished conditions, with dull and dreary surroundings. The town\'s ordinary and monotonous appearance starkly contrasts the wonder and magic that unfolds within the walls of the famous chocolate factory."}'
+
+# extract main characters from the story
+character_list_sys: |-
+  Find all characters in the given story, return in JSON format.
+
+character_list_prompt: |-
+  Extract characters in the story, here is the format example: [{"name": "name here"}, {"name": "name here"}]
+  Here is the story: {story}
+
+char_background_sys: |-
+  Derive details pertaining to the specified character from the provided text. Present the output in JSON format.
+
+char_background_prompt: |-
+  Generate the character summary, keywords, and the objective of {agent_name}. Output format is {"summary": "here is the background", "keywords": "personality keywords", "objective": "access to Willy Wonka\'s mysterious and magical chocolate factory for a tour"}.
+  Here is the story: {story}
+
+update_char_background_sys: |-
+  Update details pertaining to the specified character from the provided text and previous information. Present the output in JSON format.
+
+update_char_background_prompt: |-
+  Update the character summary, keywords, and the objective of {agent_name}. Output format is {"summary": "here is the background", "keywords": "personality keywords", "objective": "access to Willy Wonka\'s mysterious and magical chocolate factory for a tour"}.
+  Here is the character's previous summary, keywords, and the objective.
+  Here is the new experience: {story}
+
+char_voice_sys: |-
+  Identify the character's gender and age. Present the output in JSON format.
+
+char_voice_prompt: |-
+  Identify the gender and age of {agent_name}. {agent_description}
+  For gender, choose from "male" or "female". For age, choose from "child", "yongth", "middle age", "old age".
+  The output format is {"gender": "male", "age": "child"}. 
+
+char_appearance_sys: |-
+  Imagine the appearance of the specified character from the provided text. Present the output in JSON format.
+
+char_appearance_prompt: |-
+  For the location at {location}, extract keywords and provide a two-sentence description of how the location looks.
+  Generate a two-sentence description of appearance of {agent_name}. Also, extract the hair and eye colour of {agent_name}.
+  Here is the description of {agent_name}:  {agent_description}
+  The output format is {"appearance": "appearance description", "hair": "hair colour", "eye": "eye colour"}. 
+
+related_content_sys: |-
+  Derive all content related to the specified character from the provided story. 
+  Present the output in JSON format.
+
+related_content_prompt: |-
+  Extract the story content related to {agent_name}.
+  Output format is {"content": "here is the extracted content"}.
+  Here is the story: {story}
+
+rematch_sys: |-
+  Find the co-reference of the given character to characters in the given list, if it exists. Return in JSON format.
+
+rematch_prompt: |-
+  Find the co-reference of {character} to characters in the list: {character_list}, if it exists.
+  For example, "Willy Wonka" match to "Mr Willy Wonka", output {"Willy Wonka": ["Mr Willy Wonka"]}. "Mr and Mrs Bucket" match to "Mr Bucket" and "Mrs Bucket", output {"Mr and Mrs Bucket": ["Mr Bucket", "Mrs Bucket"]}. "Joe" not match to any character in given list, output {"Joe": []}. 
+  Here is the story: {story}
+
+characters_filter_sys: |-
+  For given list of characters, identify characters refer to the same character, return as a JSON only.
+
+characters_filter_prompt: |-
+  For example, if "Charlie Bucket" and "Charlie"  refer to the same person,  "Willy Wonka" and "Mr Willy Wonka" refer to the same person, then return {"0": ["name 1", "name 2"], "1": ["name 3", "name 4"]}. '
+  Here is the JSON of characters: {agent_for_merge}
+
+# Prompts to generate internal and external thoughts based on top relevant memories
+reflection_sys: |-
+  Reflect on a recent experience that had a significant impact on your life, generate the reflection in JSON format.
+
+reflection_prompt: |-
+  Reflect on a recent experience that had a significant impact on your life. 
+  This is what happen to you: {event_descirption}. 
+  For some context, here are your memories related to the query. MEMORIES sorted in relevance:
+  {top_matches}
+  Consider how it has changed your perspective, what lessons you've learned, and how it will influence your actions moving forward, after this happened.
+  This is not shown to the outside world but only to yourself. It is just your internal thought. The output format is {"reflection": "reflection content"}.
+
+conversation_sys: |-
+  As {agent_name}, engage in a dialogue with the objective of {agent_objective}. {agent_summary}
+  Respond to the conversation using the given context or memories and limit your response to under 50 words. Please return your response in JSON format.
+
+conversation_init_prompt: |-
+  YOU are {agent_name}. This is what happen to you: {event_descirption}
+  Here is your memory: 
+  {memory}
+  Initiates a conversation with {character_name}. 
+  Give your response in format {"response": "here is the response"}.
+
+conversation_response_prompt: |-
+  YOU are {agent_name}. This is what happen to you: {event_descirption}
+  Here is your memory: 
+  {memory}
+  Response according to what {character_name} SAYS to you: "{input}". Think about your relationship with {character_name} and sentiment towards what was said to you. 
+  Give your response in format {"response": "here is the response"}.
+
+internal_thought: |-
+  You have been given the following input: {query}. 
+  You must think about it and plan what action to take.
+  For some context, here are your memories related to the query.
+   
+  MEMORIES sorted in relevance:
+  {top_matches}
+
+  Think of some actions you would take after hearing "{query}" based on your past thoughts and actions.
+  This is not shown to the outside world but only to yourself. It is just your internal thought."
+
+external_thought: |-
+  MEMORIES sorted in relevance:
+  {top_matches}
+
+  Based on the query, you have thought about the input and had the following thought: 
+  
+  {internal_thought}. 
+
+  Based on your thought and memories, respond to the query. You don't have to refer to them if they aren't useful.
+  {query}"
+
+# Prompts to create memories
+request_memory: |-
+  The user said to you:
+  '{query}'
+
+internal_thought_memory: |-
+  Based on the query "{query}", you thought:
+   '{internal_thought}'
+
+external_thought_memory: |-
+  Based on the query "{query}", you responded with:
+   '{external_thought}'

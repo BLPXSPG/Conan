@@ -1,0 +1,232 @@
+{
+    "Li Luoming": [
+        [
+            "Li Zicai",
+            "Father of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Deceiver of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Manipulated by X, Deceived by X, Perpetrator of X's family, Customer of X, victim of X"
+        ],
+        [
+            "Xia Shue",
+            "Teacher of X, Victim of X"
+        ],
+        [
+            "Li Zijun",
+            "uncle of X, hated by X, Manipulated by X, killed by X"
+        ],
+        [
+            "Yue Dongwen",
+            "helper of X, employer of X, Deceiver of X"
+        ],
+        [
+            "Anqi",
+            "Helped by X"
+        ],
+        [
+            "Bai Changgong",
+            "Customer of X, thief of x, perpetrator of X"
+        ],
+        [
+            "Wu Baian",
+            "Hated by X, killed by X"
+        ],
+        [
+            "Aming",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Luo Ming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Aming": [
+        [
+            "Li Luoming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Luo Ming": [
+        [
+            "Li Luoming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Bai Changgong": [
+        [
+            "Yue Dongwen",
+            "Acquaintance of X, Product provider of X, Creditor of X"
+        ],
+        [
+            "Li Luoming",
+            "Service provider of X"
+        ]
+    ],
+    "Li Zicai": [
+        [
+            "Li Luoming",
+            "son of X"
+        ],
+        [
+            "Li Zijun",
+            "brother of X, Debtor of X"
+        ],
+        [
+            "Xia Bolong",
+            "patient of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Customer of X"
+        ],
+        [
+            "Xia Sanhu",
+            "murderer of X"
+        ]
+    ],
+    "Li Zijun": [
+        [
+            "Li Luoming",
+            "Nephew of X, Manipulator of X, murderer of X"
+        ],
+        [
+            "Li Zicai",
+            "brother of X, creditor of X"
+        ],
+        [
+            "Anqi",
+            "Creditor of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Yu Zu Chengmu": [
+        [
+            "Li Zijun",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Xia Bolong": [
+        [
+            "Li Zicai",
+            "doctor of X, perpetrator of x"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Brother of X"
+        ],
+        [
+            "Xia Shue",
+            "Daughter of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Brother of X, murderer of X"
+        ]
+    ],
+    "Xia Zhongpeng": [
+        [
+            "Li Zicai",
+            "Service provider of x"
+        ],
+        [
+            "Xia Bolong",
+            "Brother of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Brother of X"
+        ],
+        [
+            "Xia Shue",
+            "Niece of X"
+        ]
+    ],
+    "Xia Sanhu": [
+        [
+            "Li Zicai",
+            "Victim of X"
+        ],
+        [
+            "Xia Bolong",
+            "Brother of X, Killed by X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Brother of X"
+        ],
+        [
+            "Xia Shue",
+            "Niece of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Murderer of X"
+        ],
+        [
+            "Li Luoming",
+            "Student of X, X's victim's family, Product provider of X, Perpetrator of X"
+        ],
+        [
+            "Wu Baian",
+            "Product provider of X, Victim of X"
+        ]
+    ],
+    "Xia Shue": [
+        [
+            "Xia Bolong",
+            "father of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "uncle of X, mentor of x"
+        ],
+        [
+            "Xia Sanhu",
+            "uncle of X,  Perpetrator of X's family"
+        ],
+        [
+            "Luo Ming",
+            "Student of X, Friend of X, Perpetrator of X"
+        ]
+    ],
+    "Yue Dongwen": [
+        [
+            "Li Luoming",
+            "helped by X, Employee of X"
+        ]
+    ],
+    "Duan Yuetong": [
+        [
+            "Xia Sanhu",
+            "Subject of investigation for X"
+        ]
+    ],
+    "Anqi": [
+        [
+            "Li Luoming",
+            "Helper of X"
+        ],
+        [
+            "Li Zijun",
+            "Debtor of X"
+        ]
+    ],
+    "Wu Baian": [
+        [
+            "Li Luoming",
+            "murderer of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Customer of X"
+        ]
+    ]
+}

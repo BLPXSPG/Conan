@@ -1,0 +1,40 @@
+{
+    "李延": [
+        [
+            "李钦仁",
+            "Father of X"
+        ],
+        [
+            "李仲",
+            "Older Brother of X, rival in love of X"
+        ],
+        [
+            "陈倩",
+            "lover of X"
+        ],
+        [
+            "李氏",
+            "Mother of X"
+        ]
+    ],
+    "陈孜靖": [
+        [
+          "陈倩",
+          "daughter of X"
+        ]
+    ],
+    "陈倩": [
+        [
+            "陈孜靖",
+            "Father of X"
+        ],
+        [
+            "李延",
+            "lover of X"
+        ],
+        [
+            "李仲",
+            "lover of X"
+        ]
+    ]
+}

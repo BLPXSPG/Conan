@@ -1,0 +1,144 @@
+{
+    "Zhao Wei": [
+        [
+            "Emperor Guangxu",
+            "Father of X"
+        ],
+        [
+            "Yu Fei",
+            "Mother of X"
+        ],
+        [
+            "Li Shuxun",
+            "Uncle of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Adoptive Father of X,  Adversary of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Mentor of X, Servant of X"
+        ],
+        [
+            "Zhao Luoyi",
+            "Sister of X"
+        ],
+        [
+            "Zhang Yuyi or Imperial Physician Zhang",
+            "Doctor of X"
+        ]
+    ],
+    "Emperor Guangxu": [
+        [
+            "Zhao Wei",
+            "Son of X"
+        ],
+        [
+            "Yu Fei",
+            "Wife of X"
+        ],
+        [
+            "Empress Dowager Cixi (Yehenara)",
+            "Mother of X"
+        ],
+        [
+            "Empress Yehenara",
+            "Wife of X"
+        ]
+    ],
+    "Yu Fei": [
+        [
+            "Zhao Wei",
+            "Son of X"
+        ],
+        [
+            "Emperor Guangxu",
+            "Husband of X"
+        ],
+        [
+            "Li Shuxun",
+            "Brother of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Servant of X, Manipulator of X, Husband of X"
+        ]
+    ],
+    "Li Shuxun": [
+        [
+            "Yu Fei",
+            "Sister of X"
+        ],
+        [
+            "Emperor Guangxu",
+            "Servant of X"
+        ]
+    ],
+    "Zhao Wanlei": [
+        [
+            "Zhao Wei",
+            "Adoptive Son of X, Adversary of X"
+        ],
+        [
+            "Yu Fei",
+            "Master of X, Manipulated by X, Wife of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Schoolmate of X, Employee of X"
+        ],
+        [
+            "Zhao Luoyi",
+            "Daughter of X"
+        ]
+    ],
+    "Feng Shuangji": [
+        [
+            "Zhao Wei",
+            "Master of X"
+        ],
+        [
+            "Yu Fei",
+            "Master of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Schoolmate of X, Employer of X"
+        ]
+    ],
+    "Zhao Luoyi": [
+        [
+            "Zhao Wei",
+            "Brother of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Father of X"
+        ],
+        [
+            "Yu Fei",
+            "Mother of X"
+        ],
+        [
+            "Zhao Qiuer",
+            "Servant of X"
+        ]
+    ],
+    "Zhang Yuyi or Imperial Physician Zhang": [
+        [
+            "Zhao Wei",
+            "Patient of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Employer of X"
+        ]
+    ],
+    "Zhao Qiuer": [
+        [
+            "Zhao Luoyi",
+            "Master of X"
+        ]
+    ]
+}

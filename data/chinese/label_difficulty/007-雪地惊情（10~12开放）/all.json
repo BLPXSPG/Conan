@@ -1,0 +1,23 @@
+{
+    "丹尼尔•佩里": [
+      ["玛丽娜•哈里森", "lover of x, sister in law of x"], 
+      ["露西•哈里森", "biological daughter of x"]
+    ],
+    "乔纳森•佩里": [
+      ["露西•哈里森", "secret lover of x"]
+    ],
+    "戴维斯•佩里": [
+      ["玛丽娜•哈里森", "secret lover of x, sister in law of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["玛丽娜•哈里森", "hate of x, sister of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["杰奎琳•佩里", "sister of x"], 
+      ["丹尼尔•佩里", "secret lover of x"], 
+      ["戴维斯•佩里", "secret lover of x"]
+    ],
+    "露西•哈里森": [
+      ["乔纳森•佩里", "secret lover of x"]
+    ]
+}

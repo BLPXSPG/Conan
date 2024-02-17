@@ -1,0 +1,200 @@
+{
+    "Hu Renyu": [
+        [
+            "Tian Hongjiao",
+            "Buyer of X"
+        ],
+        [
+            "Suzhou Girl",
+            "Helper of X"
+        ],
+        [
+            "Hu Renyu",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Golden Beard",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yao Changshou",
+            "Rival in love of X"
+        ],
+        [
+            "Short-haired Woman",
+            "Stranger to X"
+        ],
+        [
+            "Long-haired Girl",
+            "Helper of X"
+        ],
+        [
+            "Fair-skinned Youth",
+            "Stranger to X"
+        ]
+    ],
+    "Fan Jinkui": [
+        [
+            "Tian Hongjiao",
+            "Fiancee of X"
+        ],
+        [
+            "Li Kuansheng",
+            "Colleague of X, Friend of X"
+        ],
+        [
+            "Li Guangsheng",
+            "Colleague of X, Friend of X"
+        ],
+        [
+            "Steward Du",
+            "Employer of X"
+        ],
+        [
+            "Yao Changshou",
+            "Rival in love of X"
+        ],
+        [
+            "Yu Beichen",
+            "Superior of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Employer of X"
+        ],
+        [
+            "Hu Renyu",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Golden Beard",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Golden Beard": [
+        [
+            "Fan Jinkui",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Hu Renyu",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Yao Changshou",
+            "Rival in love of X"
+        ],
+        [
+            "White-headed Snake",
+            "Business Partner of X"
+        ]
+    ],
+    "Tian Hongjiao": [
+        [
+            "Hu Renyu",
+            "Seller of X"
+        ],
+        [
+            "Fan Jinkui",
+            "Fiance of X"
+        ],
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Uncle of X"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Tian Hongjiao",
+            "Wife of X"
+        ],
+        [
+            "Hu Renyu",
+            "Rival in love of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Perpetrator of X"
+        ]
+    ],
+    "Fang Chengshan": [
+        [
+            "Tian Hongjiao",
+            "Niece of X"
+        ],
+        [
+            "Hu Renyu",
+            "Employee of X"
+        ],
+        [
+            "Yu Beichen",
+            "Acquaintance of X"
+        ],
+        [
+            "Steward Du",
+            "Colleague of X"
+        ],
+        [
+            "Yao Changshou",
+            "Victim of X"
+        ]
+    ],
+    "Steward Du": [
+        [
+            "Fang Chengshan",
+            "Colleague of X"
+        ]
+    ],
+    "Li Kuansheng": [
+        [
+            "Fan Jinkui",
+            "Colleague of X, Friend of X"
+        ]
+    ],
+    "Li Guangsheng": [
+        [
+            "Fan Jinkui",
+            "Colleague of X, Friend of X"
+        ]
+    ],
+    "Yu Beichen": [
+        [
+            "Fan Jinkui",
+            "Subordinate of X"
+        ],
+        [
+            "Fang Chengshan",
+            "Subordinate of X"
+        ]
+    ],
+    "Long-haired Girl": [
+        [
+            "Suzhou Girl",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Fan Jinkui",
+            "Seeker of Help from X"
+        ]
+    ],
+    "Suzhou Girl": [
+        [
+            "Long-haired Girl",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Fan Jinkui",
+            "Seeker of Help from X"
+        ]
+    ],
+    "White-headed Snake": [
+        [
+            "Golden Beard",
+            "Business Partner of X"
+        ]
+    ]
+}

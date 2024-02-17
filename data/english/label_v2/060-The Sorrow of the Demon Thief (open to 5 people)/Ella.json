@@ -1,0 +1,58 @@
+{
+    "Assistant Ella": [
+      ["Magician Gust", "fondness of x, victim of x"], 
+      ["Security Kevin", "seeker of help from x "], 
+      ["Logistics Griff", "deceived by x"], 
+      ["Publicity Rowling", "friend of x"], 
+      ["Theatrical Work David", "acquaintance of x"], 
+      ["Ella", "same person as x (different reference)"]
+    ],
+    "Magician Gust": [
+      ["Gust", "same person as x (different reference)"]
+    ],
+    "Security Kevin": [
+      ["Kevin", "same person as x (different reference)"]
+    ],
+    "Logistics Griff": [
+      ["Griff", "same person as x (different reference)"]
+    ],
+    "Publicity Rowling": [
+      ["Assistant Ella", "friend of x"], 
+      ["Magician Gust", "acquaintance of x"], 
+      ["Security Kevin", "friend of x"], 
+      ["Rowling", "same person as x (different reference)"]
+    ],
+    "Theatrical Work David": [
+      ["David", "same person as x (different reference)"]
+    ],
+    "Ella": [
+      ["Assistant Ella", "same person as x (different reference)"]
+    ],
+    "Gust": [
+      ["Assistant Ella", "dislike of x, murderer of x"], 
+      ["Publicity Rowling", "acquaintance of x"], 
+      ["Security Kevin", "acquaintance of x"], 
+      ["Theatrical Work David", "acquaintance of x"], 
+      ["Magician Gust", "same person as x (different reference)"]
+    ],
+    "Kevin": [
+      ["Assistant Ella", "helper of x"], 
+      ["Magician Gust", "acquaintance of x"], 
+      ["Publicity Rowling", "acquaintance of x"], 
+      ["Theatrical Work David", "acquaintance of x"], 
+      ["Security Kevin", "same person as x (different reference)"]
+    ],
+    "Griff": [
+      ["Assistant Ella", "deceiver of x"], 
+      ["Logistics Griff", "same person as x (different reference)"]
+    ],
+    "Rowling": [
+      ["Publicity Rowling", "same person as x (different reference)"]
+    ],
+    "David": [
+      ["Assistant Ella", "acquaintance of x"], 
+      ["Magician Gust", "acquaintance of x"], 
+      ["Publicity Rowling", "acquaintance of x"], 
+      ["Theatrical Work David", "same person as x (different reference)"]
+    ]
+}

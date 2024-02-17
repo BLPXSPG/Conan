@@ -1,0 +1,70 @@
+{
+    "Yin Shaoming": [
+        [
+            "Yin Shaoming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yu Beichen": [
+        [
+            "Yin Shaoming",
+            "Son of X"
+        ],
+        [
+            "Ren",
+            "Wife of X"
+        ],
+        [
+            "Ren Shifu",
+            "Father in law of X"
+        ]
+    ],
+    "Ren": [
+        [
+            "Yin Shaoming",
+            "Son of X"
+        ],
+        [
+            "Yu Beichen",
+            "Husband of X"
+        ],
+        [
+            "Ren Shifu",
+            "Father of X"
+        ]
+    ],
+    "Zhao Luoyi": [
+        [
+            "Yin Shaoming",
+            "Helper of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Father of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Servant of X, Mentor of X"
+        ]
+    ],
+    "Zhao Wanlei": [
+        [
+            "Zhao Luoyi",
+            "Daughter of X"
+        ],
+        [
+            "Feng Shuangji",
+            "Employee of X"
+        ]
+    ],
+    "Feng Shuangji": [
+        [
+            "Zhao Luoyi",
+            "Master of X"
+        ],
+        [
+            "Zhao Wanlei",
+            "Employer of X"
+        ]
+    ]
+}

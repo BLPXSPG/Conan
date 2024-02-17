@@ -1,0 +1,28 @@
+{
+    "Yin Shaoming": [
+      
+    ],
+    "Yu Beichen": [
+      ["Yin Shaoming", "son of x"], 
+      ["Ren", "wife of x"], 
+      ["Ren Shifu", "father in law of x"]
+    ],
+    "Ren": [
+      ["Yin Shaoming", "son of x"], 
+      ["Yu Beichen", "husband of x"], 
+      ["Ren Shifu", "father of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Yin Shaoming", "helper of x"], 
+      ["Zhao Wanlei", "father of x"], 
+      ["Feng Shuangji", "servant of x, mentor of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Feng Shuangji", "employee of x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Luoyi", "master of x"], 
+      ["Zhao Wanlei", "employer of x"]
+    ]
+}

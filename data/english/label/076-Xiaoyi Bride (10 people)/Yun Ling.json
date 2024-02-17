@@ -1,0 +1,120 @@
+{
+    "Yun Ling": [
+        [
+            "Liao Yiqiao",
+            "Father of X"
+        ],
+        [
+            "Tang Wanfeng",
+            "Mother of X"
+        ],
+        [
+            "Tang Maoguang",
+            "Uncle of X"
+        ],
+        [
+            "Ren Zhongyuan",
+            "Acquaintance of X"
+        ],
+        [
+            "Xu Boqing",
+            "Acquaintance of X"
+        ]
+    ],
+    "Liao Yiqiao": [
+        [
+            "Yun Ling",
+            "Daughter of X"
+        ],
+        [
+            "Tang Wanfeng",
+            "Wife of X"
+        ],
+        [
+            "Ren Zhongyuan",
+            "Employee of X, Master of X"
+        ]
+    ],
+    "Tang Wanfeng": [
+        [
+            "Yun Ling",
+            "Daughter of X"
+        ],
+        [
+            "Liao Yiqiao",
+            "Husband of X"
+        ],
+        [
+            "Tang Maoguang",
+            "Brother of X"
+        ]
+    ],
+    "Tang Maoguang": [
+        [
+            "Yun Ling",
+            "Niece of X"
+        ],
+        [
+            "Tang Wanfeng",
+            "Sister of X"
+        ]
+    ],
+    "Xu Boqing": [
+        [
+            "Yun Ling",
+            "Acquaintance of X"
+        ],
+        [
+            "Liao Yiqiao",
+            "Guest of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Ren Zhongyuan": [
+        [
+            "Yun Ling",
+            "Master of X"
+        ],
+        [
+            "Liao Yiqiao",
+            "Employer of X"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Xu Boqing",
+            "Acquaintance of X"
+        ],
+        [
+            "Lady Hong",
+            "Adoptive mother of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Sister in law of X"
+        ],
+        [
+            "Physician Yu",
+            "Employee of X"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Yao Zhongyi",
+            "Adoptive son of X"
+        ]
+    ],
+    "Physician Yu": [
+        [
+            "Yao Zhongyi",
+            "Employer of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Doctor of X"
+        ]
+    ]
+}

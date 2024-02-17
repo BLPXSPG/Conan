@@ -1,0 +1,48 @@
+{
+    "张村民": [
+      ["张村民的父亲", "Son of X"], 
+      ["王村长", "Acquaintance of X"], 
+      ["胡研究", "Acquaintance of X"], 
+      ["赵慈善", "Hate of X"], 
+      ["杀人狂", "Same person as X (different reference)"]
+    ],
+    "张村民的父亲": [
+      ["张村民", "Father of X"] 
+    ],
+    "王村长": [
+      ["张村民", "Acquaintance of X"], 
+      ["李警察", "Acquaintance of X"], 
+      ["胡调研", "Dislike of X, Acquaintance of X"], 
+      ["赵慈善", "Victim of X, Hate of X"]
+    ],
+    "胡研究": [
+      ["张村民", "Acquaintance of X"], 
+      ["李警察", "Colleague of X"]
+    ],
+    "赵慈善": [
+      ["张村民", "Attempted Murderer of X"], 
+      ["李警察", "Attempted Murderer of X, Dislike of X"], 
+      ["李警察的女友", "Victim of X"], 
+      ["胡调研", "Hate of X, Dislike of X"], 
+      ["王村长", "Hate of X, Murderer of X"]
+    ],
+    "李警察": [
+      ["胡研究", "Colleague of X"], 
+      ["李警察的女友", "Romantic relationships with X"], 
+      ["王村长", "Acquaintance of X"], 
+      ["胡调研", "Colleague of X"], 
+      ["赵慈善", "Hate of X, Acquaintance of X"]
+    ],
+    "杀人狂": [
+      ["张村民", "Same person as X (different reference)"]
+    ],
+    "李警察的女友": [
+      ["李警察", "Romantic relationships with X"], 
+      ["赵慈善", "Perpetrator of X"]
+    ],
+    "胡调研": [
+      ["李警察", "Acquaintance of X, Colleague of X"], 
+      ["赵慈善", "Hate of X"], 
+      ["王村长", "Dislike of X, Acquaintance of X"]
+    ]
+}

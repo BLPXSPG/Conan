@@ -1,0 +1,51 @@
+{
+    "Madam Li or Li family": [
+      ["Fang Xu", "same person as x (different reference)"]
+    ],
+    "Fang Xu": [
+      ["Fang Ye", "older brother of x"], 
+      ["Fang Mian", "younger sister of x"], 
+      ["Adopted boy", "adoptive brother of x, lover of x"], 
+      ["Li Qinren", "husband of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Li Yan", "son of x"], 
+      ["Chen Qian", "daughter in law of x"], 
+      ["Madam Li or Li family", "same person as x (different reference)"]
+    ],
+    "Fang Zhu": [
+      ["Adopted boy", "same person as x (different reference)"]
+    ],
+    "Fang Ye": [
+      ["Fang Xu", "younger sister of x"]
+    ],
+    "Fang Mian": [
+      ["Fang Xu", "older sister of x"]
+    ],
+    "Adopted boy": [
+      ["Fang Xu", "adoptive sister of x, lover of x"], 
+      ["Li Yan", "son of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Fang Zhu", "same person as x (different reference)"]
+    ],
+    "Li Qinren": [
+      ["Fang Xu", "wife of x"], 
+      ["Li Zhong", "son of x"], 
+      ["Li Yan", "son of x"]
+    ],
+    "Li Zhong": [
+      ["Fang Xu", "mother of x"], 
+      ["Li Qinren", "father of x"], 
+      ["Chen Qian", "fiancee of x"], 
+      ["Li Yan", "brother of x"]
+    ],
+    "Li Yan": [
+      ["Fang Xu", "mother of x"], 
+      ["Li Qinren", "father of x"], 
+      ["Fang Zhu", "biological father of x"], 
+      ["Li Zhong", "brother of x, rival in love of x"]
+    ],
+    "Chen Qian": [
+      ["Li Zhong", "fiance of x"], 
+      ["Li Yan", "lover of x"]
+    ]
+}

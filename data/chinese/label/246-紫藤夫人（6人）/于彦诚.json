@@ -1,0 +1,77 @@
+{
+    "于彦诚": [
+        ["于尚勇", "Brother of X"],
+        ["葛继先", "Acquaintance of X"],
+        ["张俊诗", "Saved by X"],
+        ["朱陵山", "Acquaintance of X"],
+        ["乐婉", "Saved by X, Acquaintance of X"],
+        ["张太太", "Buyer of X"],
+        ["吕松年", "Acquaintance of X"],
+        ["薛玉帆", "Acquaintance of X"],
+        ["稚筠", "Acquaintance of X"]
+    ],
+    "于尚勇": [
+        ["于彦诚", "Brother of X"],
+        ["葛继先", "Victim of X"],
+        ["张俊诗", "Saved by X"],
+        ["严义充", "Acquaintance of X, Victim of X"],
+        ["薛达财", "Acquaintance of X"],
+        ["朱陵山", "Acquaintance of X"],
+        ["乐婉", "lover of X"],
+        ["张太太", "Acquaintance of X"],
+        ["稚筠", "Acquaintance of X"]
+    ],
+    "张俊诗": [
+        ["于彦诚", "Saved by X"],
+        ["于尚勇", "Saved by X"],
+        ["张太太", "Wife of X"],
+        ["稚筠", "Niece of X"]
+    ],
+    "张太太": [
+        ["张俊诗", "Husband of X"],
+        ["于彦诚", "Buyer of X"],
+        ["乐婉", "Employee of X"],
+        ["稚筠", "Aunt of X"]
+    ],
+    "葛继先": [
+        ["葛月萝", "Daughter of X"],
+        ["葛月曼", "Daughter of X"],
+        ["于彦诚", "Acquaintance of X"],
+        ["于尚勇", "Victim of X, Acquaintance of X"]
+    ],
+    "葛月萝": [
+        ["葛继先", "Father of X"],
+        ["葛月曼", "Sister of X"],
+        ["朱陵山", "Brother in law of X"]
+    ],
+    "葛月曼": [
+        ["葛继先", "Father of X"],
+        ["葛月萝", "Sister of X"]
+    ],
+    "朱陵山": [
+        ["葛月萝", "Wife of X"],
+        ["于彦诚", "Acquaintance of X"],
+        ["于尚勇", "Acquaintance of X"],
+        ["乐婉", "Wife of X"],
+        ["严义充", "Acquaintance of X"]
+    ],
+    "乐婉": [
+        ["朱陵山", "Acquaintance of X"],
+        ["于彦诚", "Saved by X"],
+        ["于尚勇", "Secret lover of X"],
+        ["张太太", "Employer of X"]
+    ],
+    "稚筠": [
+        ["张俊诗", "Uncle of X"],
+        ["张太太", "Aunt of X"],
+        ["于尚勇", "Acquaintance of X"]
+    ],
+    "吕松年": [
+        ["于彦诚", "Acquaintance of X"],
+        ["于尚勇", "Acquaintance of X"]
+    ],
+    "薛玉帆": [
+        ["于彦诚", "Acquaintance of X"],
+        ["朱陵山", "Acquaintance of X"]
+    ]
+}

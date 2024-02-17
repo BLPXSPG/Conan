@@ -1,0 +1,102 @@
+{
+    "He Laoliu": [
+        [
+            "Li Guofu",
+            "Superior of X, Crime Partner of X"
+        ],
+        [
+            "Zhang Jie",
+            "Crime Partner of X, Colleague of X"
+        ],
+        [
+            "Mu Bei",
+            "Colleague of X"
+        ],
+        [
+            "Big Brother Wang",
+            "Acquaintance of X"
+        ],
+        [
+            "Neighbor Wang",
+            "Acquaintance of X"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "He Laoliu",
+            "Subordinate of X, Crime Partner of X"
+        ],
+        [
+            "Zhang Jie",
+            "Crime Partner of X, Subordinate of X"
+        ],
+        [
+            "Mu Bei",
+            "Subordinate of X"
+        ],
+        [
+            "Neighbor Wang",
+            "Creditor of X"
+        ],
+        [
+            "Big Brother Wang",
+            "Creditor of X"
+        ]
+    ],
+    "Zhang Jie": [
+        [
+            "He Laoliu",
+            "Crime Partner of X"
+        ],
+        [
+            "Li Guofu",
+            "Crime Partner of X"
+        ],
+        [
+            "Mu Bei",
+            "Colleague of X"
+        ]
+    ],
+    "Mu Bei": [
+        [
+            "He Laoliu",
+            "Colleague of X, Dislike of X"
+        ],
+        [
+            "Li Guofu",
+            "Superior of X"
+        ],
+        [
+            "Zhang Jie",
+            "Colleague of X"
+        ]
+    ],
+    "Big Brother Wang": [
+        [
+            "He Laoliu",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Guofu",
+            "Debtor of X"
+        ],
+        [
+            "Neighbor Wang",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Neighbor Wang": [
+        [
+            "Li Guofu",
+            "Debtor of X"
+        ],
+        [
+            "He Laoliu",
+            "Acquaintance of X"
+        ],
+        [
+            "Big Brother Wang",
+            "Same person as X (different reference)"
+        ]
+    ]
+}

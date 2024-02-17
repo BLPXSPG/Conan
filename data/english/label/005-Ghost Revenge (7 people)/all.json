@@ -1,0 +1,720 @@
+{
+    "Xia Beigui": [
+        [
+            "Xia Bolong",
+            "Son of X, Student of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Son of X, Student of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Son of X, Student of X"
+        ],
+        [
+            "Xia Shue",
+            "Grandchild of X"
+        ]
+    ],
+    "Xia Bolong": [
+        [
+            "Li Zicai",
+            "Doctor of X"
+        ],
+        [
+            "Xia Beigui",
+            "Father of X, Mentor of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Brother of X, Subordinate of X, Murderer of X"
+        ],
+        [
+            "Xia Shue",
+            "Daughter of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Brother of X, Subordinate of X, murderer of X"
+        ],
+        [
+            "Tian Jixiu Yi",
+            "Rival of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Rival in love of X"
+        ],
+        [
+            "Duan Hejun",
+            "Extramarital Affair with X"
+        ]
+    ],
+    "Xia Zhongpeng": [
+        [
+            "Xia Beigui",
+            "Father of X, Mentor of X"
+        ],
+        [
+            "Li Zicai",
+            "Service provider of x"
+        ],
+        [
+            "Xia Bolong",
+            "Brother of X, Superior of X, Victim of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Brother of X, Helped by X, Killed by X"
+        ],
+        [
+            "Xia Shue",
+            "Niece of X, student of X, helped by x, helper of X"
+        ],
+        [
+            "Tian Jixiu Yi",
+            "Rival of X"
+        ],
+        [
+            "Luo Ming",
+            "Student of X, Subordinate of X"
+        ],
+        [
+            "Lu Dong",
+            "Student of X, Subordinate of X"
+        ],
+        [
+            "Abao",
+            "Student of X, Subordinate of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Hated by X, Guest of X"
+        ],
+        [
+            "Duan Yuetong",
+            "Suspected by X, Guest of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Suspected by X"
+        ]
+    ],
+    "Xia Sanhu": [
+        [
+            "Li Zicai",
+            "Victim of X"
+        ],
+        [
+            "Xia Beigui",
+            "Father of X, Mentor of X"
+        ],
+        [
+            "Xia Bolong",
+            "Brother of X, Victim of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Brother of X, murderer of X"
+        ],
+        [
+            "Xia Shue",
+            "Niece of X, helped by X"
+        ],
+        [
+            "Wu Baian",
+            "Product provider of X, Victim of X"
+        ],
+        [
+            "Luo Ming",
+            "Student of X, Subordinate of X, victim of X, Deceiver of X, X's victim's family, Product provider of X, Perpetrator of X"
+        ],
+        [
+            "Lu Dong",
+            "Student of X, Subordinate of X"
+        ],
+        [
+            "Abao",
+            "Student of X, Subordinate of X"
+        ],
+        [
+            "Tian Jixiu Yi",
+            "Creditor of X, Master of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Creditor of X, Deceiver of X, Victim of X"
+        ],
+        [
+            "Feng's Descendant",
+            "Rival of X"
+        ],
+        [
+            "Duan Yuetong",
+            "Suspect to X, Acquaintance of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Creditor of X, Victim of X"
+        ],
+        [
+            "Yue Kesa",
+            "Student of X"
+        ]
+    ],
+    "Xia Shue": [
+        [
+            "Xia Beigui",
+            "Grandfather of X"
+        ],
+        [
+            "Xia Bolong",
+            "father of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "uncle of X, mentor of x, helper of x, Perpetrator of X's family, helped by X"
+        ],
+        [
+            "Xia Sanhu",
+            "uncle of X, mentor of x, helper of x, Perpetrator of X's family"
+        ],
+        [
+            "Luo Ming",
+            "Student of X, Friend of X, Perpetrator of X"
+        ],
+        [
+            "Yue Kesa",
+            "Student of X, helper of X, victim of X"
+        ],
+        [
+            "Wu Baian",
+            "Colleague of X, Informant of X"
+        ],
+        [
+            "Luo Yisi",
+            "Friend of X, Informant of X"
+        ],
+        [
+            "Yi Lianzhi",
+            "Informant of X"
+        ],
+        [
+            "A'e",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "A'e": [
+        [
+            "Xia Shue",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yue Dongwen": [
+        [
+            "Master Meng",
+            "employer of X"
+        ],
+        [
+            "Wu Baian",
+            "Schoolmate of X, Friend of X, Employee of X"
+        ],
+        [
+            "Yue Kesa",
+            "Son of X"
+        ],
+        [
+            "Bai Changgong",
+            "Customer of X, Acquaintance of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Debtor of X, Dislike of X"
+        ],
+        [
+            "Xia Shue",
+            "Employer of X"
+        ],
+        [
+            "Alun",
+            "Employer of X"
+        ],
+        [
+            "Li Zicai",
+            "Schoolmate of X, Quest Companion of X"
+        ],
+        [
+            "Li Luoming",
+            "Helped by X, Employee of X"
+        ],
+        [
+            "Yue Gu",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yue Gu": [
+        [
+            "Yue Dongwen",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yue Kesa": [
+        [
+            "Yue Dongwen",
+            "Father of X"
+        ],
+        [
+            "Duan Yuetong",
+            "Friend of X, helped by X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "mentor of X, Superior of X"
+        ],
+        [
+            "Xia Sanhu",
+            "mentor of X, Superior of X"
+        ],
+        [
+            "Xia Shue",
+            "Mentor of X, helped by X, perpetrator of x"
+        ],
+        [
+            "Luo Ming",
+            "Schoolmate of X"
+        ],
+        [
+            "Wu Baian",
+            "Dislike of X"
+        ]
+    ],
+    "Wu Baian": [
+        [
+            "Li Luoming",
+            "murderer of X"
+        ],
+        [
+            "Li Zicai",
+            "Schoolmate of X, Quest Companion of X"
+        ],
+        [
+            "Xia Shue",
+            "Colleague of X, Information Receiver from X"
+        ],
+        [
+            "Wu Xiao",
+            "Son of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Employer of X"
+        ],
+        [
+            "Yue Kesa",
+            "Dislike of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Customer of X"
+        ]
+    ],
+    "Wu Xiao": [
+        [
+            "Wu Baian",
+            "Father of X"
+        ],
+        [
+            "Xia Shue",
+            "Information Receiver from X"
+        ]
+    ],
+    "Luo Yisi": [
+        [
+            "Xia Shue",
+            "friend of X, Information Receiver from X"
+        ],
+        [
+            "Anqi",
+            "friend of x"
+        ]
+    ],
+    "Yi Lianzhi": [
+        [
+            "Xia Shue",
+            "Information Receiver from X"
+        ],
+        [
+            "Anqi",
+            "daughter of X"
+        ],
+        [
+            "Duan Hejun",
+            "friend of X"
+        ],
+        [
+            "Duan Yuetong",
+            "Acquaintance of X"
+        ],
+        [
+            "Bai Changgong",
+            "Debtor of X, Dislike of X"
+        ],
+        [
+            "Auntie Yi",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Yi Clan",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Auntie Yi": [
+        [
+            "Yi Lianzhi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yi Clan": [
+        [
+            "Yi Lianzhi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Anqi": [
+        [
+            "Yi Lianzhi",
+            "mother of X"
+        ],
+        [
+            "A'an",
+            "brother of X"
+        ],
+        [
+            "Duan Yuetong",
+            "boyfriend of X"
+        ],
+        [
+            "Li Luoming",
+            "Helper of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Customer of X, Helped by X, Debtor of X, friend of X, admirer of X"
+        ],
+        [
+            "Luo Yisi",
+            "friend of X"
+        ],
+        [
+            "Lan Qin",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Lan Qin": [
+        [
+            "Anqi",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Lu Dong": [
+        [
+            "Xia Zhongpeng",
+            "mentor of X, Superior of X"
+        ],
+        [
+            "Xia Sanhu",
+            "mentor of X, Superior of X"
+        ],
+        [
+            "Luo Ming",
+            "Schoolmate of X"
+        ],
+        [
+            "Abao",
+            "Schoolmate of X"
+        ]
+    ],
+    "Abao": [
+        [
+            "Xia Zhongpeng",
+            "mentor of X, Superior of X"
+        ],
+        [
+            "Xia Sanhu",
+            "mentor of X, Superior of X"
+        ],
+        [
+            "Luo Ming",
+            "Schoolmate of X"
+        ],
+        [
+            "Lu Dong",
+            "Schoolmate of X"
+        ]
+    ],
+    "Li Luoming": [
+        [
+            "Li Zicai",
+            "father of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Uncle of X, Quest Companion of X, Business Partner of X, hated by X, Manipulated by X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Superior of X, Deceiver of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Superior of X, Manipulated by X, Deceived by X, Perpetrator of X, Attempted Murderer of X, Perpetrator of X's family, Customer of X, victim of X"
+        ],
+        [
+            "Xia Shue",
+            "Mentor of X, Victim of X"
+        ],
+        [
+            "Yue Dongwen",
+            "helper of X, employer of X, Deceiver of X"
+        ],
+        [
+            "Anqi",
+            "Helped by X"
+        ],
+        [
+            "Bai Changgong",
+            "Customer of X, thief of x, perpetrator of X"
+        ],
+        [
+            "Wu Baian",
+            "Hated by X, killed by X"
+        ],
+        [
+            "Lu Dong",
+            "Schoolmate of X"
+        ],
+        [
+            "Abao",
+            "Schoolmate of X"
+        ],
+        [
+            "Aming",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Luo Ming",
+            "Same person as X (different reference)"
+        ],
+        [
+            "Hard Horse Iron Fist",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Aming": [
+        [
+            "Li Luoming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Luo Ming": [
+        [
+            "Li Luoming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Hard Horse Iron Fist": [
+        [
+            "Li Luoming",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Yu Zu Chengmu": [
+        [
+            "Li Zicai",
+            "brother of X, creditor of X"
+        ],
+        [
+            "Duan Hejun",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Xia Bolong",
+            "Rival in love of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Schoolmate of x, friend of x, Deceived by X, Debtor of X, perpetrator of X"
+        ],
+        [
+            "Tian Jixiu Yi",
+            "Superior of X, Manipulator of X"
+        ],
+        [
+            "Li Luoming",
+            "Nephew of X, Manipulator of X, Quest Companion of X, Business Partner of X, Attempted Murderer of X"
+        ],
+        [
+            "Anqi",
+            "Helper of X, product provider of X, Creditor of X, friend of X, Admired by X"
+        ],
+        [
+            "Duan Yuetong",
+            "information receiver from x"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Host of X"
+        ],
+        [
+            "Li Zijun",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Li Zijun": [
+        [
+            "Yu Zu Chengmu",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Li Zicai": [
+        [
+            "Yu Zu Chengmu",
+            "Brother of X, Debtor of X"
+        ],
+        [
+            "Wu Baian",
+            "Schoolmate of X, Quest Companion of X"
+        ],
+        [
+            "Yue Dongwen",
+            "Schoolmate of X, Quest Companion of X"
+        ],
+        [
+            "Xia Bolong",
+            "patient of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Customer of X"
+        ],
+        [
+            "Xia Sanhu",
+            "murderer of X"
+        ],
+        [
+            "Li Luoming",
+            "Son of X"
+        ]
+    ],
+    "Duan Hejun": [
+        [
+            "Duan Yuetong",
+            "son of X"
+        ],
+        [
+            "Bai Changgong",
+            "husband of X, Subordinate of X"
+        ],
+        [
+            "Anqi",
+            "Acquaintance of X"
+        ],
+        [
+            "Yi Lianzhi",
+            "friend of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Ex-romantic relationships with X, betrayed by X"
+        ],
+        [
+            "Xia Bolong",
+            "Extramarital Affair with X"
+        ],
+        [
+            "Auntie Duan",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Auntie Duan": [
+        [
+            "Duan Hejun",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Bai Changgong": [
+        [
+            "Yue Dongwen",
+            "Acquaintance of X, Product provider of X, Creditor of X"
+        ],
+        [
+            "Li Luoming",
+            "Service provider of X, perpetrator of X"
+        ],
+        [
+            "Duan Yuetong",
+            "step-son of X"
+        ],
+        [
+            "Duan Hejun",
+            "wife of X, Superior of X"
+        ],
+        [
+            "Yi Lianzhi",
+            "Creditor of X"
+        ]
+    ],
+    "Duan Yuetong": [
+        [
+            "Bai Changgong",
+            "step-father of X, Informant of X"
+        ],
+        [
+            "Duan Hejun",
+            "mother of X"
+        ],
+        [
+            "Anqi",
+            "girlfriend of X"
+        ],
+        [
+            "Yue Kesa",
+            "friend of X, helper of X, Informant of X"
+        ],
+        [
+            "Wu Baian",
+            "Subject of investigation for X"
+        ],
+        [
+            "Xia Bolong",
+            "father of X"
+        ],
+        [
+            "Xia Zhongpeng",
+            "Host of X"
+        ],
+        [
+            "Xia Sanhu",
+            "Subject of investigation for X, Acquaintance of X"
+        ],
+        [
+            "Yu Zu Chengmu",
+            "Informant of X"
+        ],
+        [
+            "Zhong Bo",
+            "Informant of X"
+        ],
+        [
+            "Atong",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Atong": [
+        [
+            "Duan Yuetong",
+            "Same person as X (different reference)"
+        ]
+    ]
+}

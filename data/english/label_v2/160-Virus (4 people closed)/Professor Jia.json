@@ -1,0 +1,14 @@
+{
+    "Professor Jia": [
+      ["Tian Zhuli", "subordinate of x, hate of x"], 
+      ["Qin Ou", "acquaintance of x"]
+    ],
+    "Tian Zhuli": [
+      ["Professor Jia", "superior of x, hate of x, perpetrator of x"], 
+      ["Qin Ou", "romantic relationships with x"]
+    ],
+    "Qin Ou": [
+      ["Tian Zhuli", "romantic relationships with x"], 
+      ["Professor Jia", "acquaintance of x"]
+    ]
+}

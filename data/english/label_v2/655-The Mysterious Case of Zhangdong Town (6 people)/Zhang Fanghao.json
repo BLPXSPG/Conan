@@ -1,0 +1,68 @@
+{
+    "Zhang Fanghao": [
+      ["Zhang Datong", "father of x"], 
+      ["Cao Zonglei", "teacher of x"], 
+      ["Yang Shuixun", "friend of x"], 
+      ["Huan Ling", "helped by x, wife of x"], 
+      ["Lan Rui", "daughter of x"], 
+      ["Caiya", "helped by x, lover of x"], 
+      ["Li Xiaoqi", "employee of x"], 
+      ["Zhang Bailang", "friend of x"]
+    ],
+    "Zhang Bailang": [
+      ["Zhang Fanghao", "friend of x"]
+    ],
+    "Li Xiaoqi": [
+      ["Zhang Fanghao", "employer of x"]
+    ],
+    "Caiya": [
+      ["Zhang Fanghao", "helper of x, secret admirer of x, lover of x"], 
+      ["Wang Caiya", "same person as x (different reference)"]
+    ],
+    "Wang Caiya": [
+      ["Caiya", "same person as x (different reference)"]
+    ],
+    "Sai Chenyu": [
+      ["Huan Ling", "same person as x (different reference)"], 
+      ["Yao Huanling", "same person as x (different reference)"]
+    ],
+    "Yao Huanling": [
+      ["Huan Ling", "same person as x (different reference)"], 
+      ["Sai Chenyu", "same person as x (different reference)"]
+    ],
+    "Huan Ling": [
+      ["Zhang Fanghao", "admirer of x, helper of x, husband of x"], 
+      ["Lan Rui", "daughter of x"], 
+      ["Sai Chenyu", "same person as x (different reference)"], 
+      ["Yao Huanling", "same person as x (different reference)"]
+    ],
+    "Lan Rui": [
+      ["Zhang Fanghao", "father of x"], 
+      ["Sai Chenyu", "mother of x"], 
+      ["Minxi", "classmate of x"], 
+      ["Xiting", "classmate of x, friend of x"]
+    ],
+    "Man": [
+      ["Zhang Fanghao", "murderer of x"], 
+      ["Sai Chenyu", "adversary of x"]
+    ],
+    "Cao Zonglei": [
+      ["Zhang Fanghao", "student of x"]
+    ],
+    "Zhang Datong": [
+      ["Zhang Fanghao", "son of x"]
+    ],
+    "Yang Shuixun": [
+      ["Zhang Fanghao", "friend of x"], 
+      ["Minxi", "daughter of x"]
+    ],
+    "Minxi": [
+      ["Yang Shuixun", "father of x"], 
+      ["Lan Rui", "classmate of x"], 
+      ["Xiting", "classmate of x"]
+    ],
+    "Xiting": [
+      ["Minxi", "classmate of x"], 
+      ["Lan Rui", "classmate of x, friend of x"]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "林若彤": [
+    ["刘奇", "Fondness of X, Helper of X"],
+    ["洪子廉", "Romantic relationships with X"],
+    ["张文远", "Acquaintance of X"],
+    ["韩亦暮", "Dislike of X"],
+    ["修仁杰", "Superior of X"],
+    ["林歌手", "same person as x (different reference)"]
+  ],
+  "刘奇": [
+    ["林若彤", "Fondness of X, Secret admirer of X"]
+  ],
+  "洪子廉": [
+    ["林若彤", "Romantic relationships with X"]
+  ],
+  "张文远": [
+    ["林若彤", "Acquaintance of X"]
+  ],
+  "韩亦暮": [
+    ["林若彤", "Dislike of X"]
+  ],
+  "修仁杰": [
+    ["林若彤", "Subordinate of X"]
+  ],
+  "林歌手": [
+    ["林若彤", "same person as x (different reference)"]
+  ]
+}

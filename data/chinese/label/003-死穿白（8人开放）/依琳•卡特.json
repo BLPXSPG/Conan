@@ -1,0 +1,54 @@
+{
+  "依琳·卡特": [
+    ["詹姆斯·莱利", "Suspected by X, Subject of investigation for X"],
+    ["院长伯克利", "Quest Companion of X"],
+    ["帕洛斯基医生", "Mentor of X, Colleague of X, Subject of investigation for X"],
+    ["汉斯·里莫瑞提", "Colleague of X, Subject of investigation for X"],
+    ["德雷克·里莫瑞特", "Colleague of X, Subject of investigation for X"],
+    ["西尔维娅·科斯塔", "Colleague of X, Subject of investigation for X"],
+    ["神父汤姆", "Suspected by X, Subject of investigation for X"],
+    ["伊莱恩·卡特尔", "Same person as X (different identity)"]
+  ],
+  "伊莱恩·卡特尔": [
+    ["依琳·卡特", "Same person as X (different identity)"]
+  ],
+  "院长伯克利": [
+    ["依琳·卡特", "Quest Companion of X, Colleague of X"],
+    ["护士长科斯塔", "Subordinate of X, Colleague of X"],
+    ["德雷克·里莫瑞特", "Subordinate of X, Colleague of X"],
+    ["汉斯·里莫瑞特", "Subordinate of X, Colleague of X"],
+    ["帕洛斯基医生", "Subordinate of X, Colleague of X"]
+  ],
+  "帕洛斯基医生": [
+    ["院长伯克利", "Superior of X, Colleague of X"],
+    ["依琳·卡特", "Student of X, Mentor of X, Colleague of X"],
+    ["护士长科斯塔", "Colleague of X"],
+    ["德雷克·里莫瑞特", "Colleague of X"],
+    ["汉斯·里莫瑞特", "Colleague of X"]
+  ],
+  "汉斯·里莫瑞特": [
+    ["院长伯克利", "Superior of X, Colleague of X"],
+    ["依琳·卡特", "Colleague of X"],
+    ["吉姆梅森", "in the lawsuit against x"],
+    ["护士长科斯塔", "Colleague of X"],
+    ["德雷克·里莫瑞特", "Colleague of X"],
+    ["帕洛斯基医生", "Colleague of X"]
+  ],
+  "吉姆梅森": [
+    ["汉斯·里莫瑞特", "in the lawsuit against x"]
+  ],
+  "德雷克·里莫瑞特": [
+    ["院长伯克利", "Superior of X, Colleague of X"],
+    ["依琳·卡特", "Colleague of X"],
+    ["护士长科斯塔", "Colleague of X"],
+    ["汉斯·里莫瑞特", "Colleague of X"],
+    ["帕洛斯基医生", "Colleague of X"]
+  ],
+  "护士长科斯塔": [
+    ["院长伯克利", "Superior of X, Colleague of X"],
+    ["依琳·卡特", "Colleague of X"],
+    ["德雷克·里莫瑞特", "Colleague of X"],
+    ["汉斯·里莫瑞特", "Colleague of X"],
+    ["帕洛斯基医生", "Colleague of X"]
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "朱迪": [
+    ["张雅娣", "Same person as X (different reference)"]
+  ],
+  "张得采": [
+    ["张雅娣", "Aunt of X"],
+    ["姚长寿", "Acquaintance of X"],
+    ["姚孟仁", "Acquaintance of X"],
+    ["姚仲义", "Acquaintance of X"],
+    ["方敏月", "Romantic relationships with X"],
+    ["红夫人", "Acquaintance of X"],
+    ["白头蛇", "Acquaintance of X"]
+  ],
+  "张雅娣": [
+    ["张得采", "Nephew of X"],
+    ["姚长寿", "Lover of X"],
+    ["姚仲义", "Son of X"],
+    ["徐夫人", "Co-wives of X, Rival in love of X, Rival of X"]
+  ],
+  "姚长寿": [
+    ["张雅娣", "Concubine of X"],
+    ["徐夫人", "Wife of X"],
+    ["姚孟仁", "Son of X"],
+    ["姚仲义", "Son of X"],
+    ["红夫人", "Wife of X"],
+    ["张得采", "Acquaintance of X"],
+    ["方乘山", "Colleague of X"]
+  ],
+  "姚孟仁": [
+    ["姚长寿", "Father of X"],
+    ["徐夫人", "Mother of X"],
+    ["姚仲义", "Half brother of X"],
+    ["张得采", "Acquaintance of X"]
+  ],
+  "姚仲义": [
+    ["姚长寿", "Father of X"],
+    ["张雅娣", "Mother of X"],
+    ["徐夫人", "Adoptive Mother of X"],
+    ["姚孟仁", "Half brother of X"],
+    ["张得采", "Acquaintance of X"]
+  ],
+  "徐夫人": [
+    ["姚长寿", "Husband of X"],
+    ["姚孟仁", "Son of X"],
+    ["张雅娣", "Co-wives of X, Rival in love of X, Rival of X"]
+  ],
+  "方敏月": [
+    ["方乘山", "Father of X"],
+    ["张得采", "Romantic relationships with X"]
+  ],
+  "方乘山": [
+    ["方敏月", "Daughter of X"],
+    ["姚长寿", "Colleague of X"],
+    ["范金魁", "Employer of X"]
+  ],
+  "红夫人": [
+    ["姚长寿", "Husband of X"],
+    ["朱迪", "Relative of X"]
+  ],
+  "白头蛇": [
+    ["张得采", "Acquaintance of X"]
+  ],
+  "范金魁": [
+    ["方乘山", "Employer of X"]
+  ],
+  "方医生": [
+    ["方敏月", "Same person as X (different reference)"]
+  ]
+}

@@ -1,0 +1,68 @@
+{
+    "Wang You": [
+        [
+            "Du Zhong",
+            "Sworn Brother of X"
+        ],
+        [
+            "Xuan Can",
+            "Sworn Brother of X"
+        ],
+        [
+            "Du Zhong's Child",
+            "Nephew of X"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "Wang You",
+            "Sworn Brother of X"
+        ],
+        [
+            "Xuan Can",
+            "Sworn Brother of X"
+        ],
+        [
+            "Du Zhong's Child",
+            "Child of X"
+        ],
+        [
+            "Lady Safflower",
+            "Ex-romantic relationships with X"
+        ]
+    ],
+    "Xuan Can": [
+        [
+            "Wang You",
+            "Sworn Brother of X"
+        ],
+        [
+            "Du Zhong",
+            "Sworn Brother of X"
+        ]
+    ],
+    "Du Zhong's Child": [
+        [
+            "Du Zhong",
+            "Father of X"
+        ],
+        [
+            "Lady Safflower",
+            "Mother of X"
+        ],
+        [
+            "Wang You",
+            "Uncle of X"
+        ]
+    ],
+    "Lady Safflower": [
+        [
+            "Du Zhong",
+            "Ex-romantic relationships with X"
+        ],
+        [
+            "Du Zhong's Son",
+            "Son of X"
+        ]
+    ]
+}

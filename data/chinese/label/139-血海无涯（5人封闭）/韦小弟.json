@@ -1,0 +1,42 @@
+{
+  "韦小弟": [
+    ["韦小弟的父亲", "Son of X"],
+    ["韦小弟的母亲", "Son of X"],
+    ["秦专家", "Adversary of X"],
+    ["秦老大", "Schoolmate of X, Victim of X"],
+    ["庄清纯", "Schoolmate of X"],
+    ["贾美丽", "Schoolmate of X"],
+    ["郑友好", "Schoolmate of X"]
+  ],
+  "韦小弟的父亲": [
+    ["韦小弟", "Father of X"],
+    ["秦专家", "Deceiver of X"]
+  ],
+  "韦小弟的母亲": [
+    ["韦小弟", "Mother of X"]
+  ],
+  "秦专家": [
+    ["韦小弟的父亲", "Hate of X, Deceived by X"],
+    ["秦老大", "Son of X, Hate of X"]
+  ],
+  "秦老大": [
+    ["韦小弟", "Schoolmate of X, Hate of X, Murderer of X"],
+    ["庄清纯", "Schoolmate of X"],
+    ["贾美丽", "Schoolmate of X"],
+    ["郑友好", "Schoolmate of X"]
+  ],
+  "庄清纯": [
+    ["韦小弟", "Schoolmate of X"],
+    ["秦老大", "Schoolmate of X"],
+    ["贾美丽", "Friend of X"]
+  ],
+  "贾美丽": [
+    ["韦小弟", "Schoolmate of X"],
+    ["秦老大", "Schoolmate of X"],
+    ["庄清纯", "Friend of X"]
+  ],
+  "郑友好": [
+    ["韦小弟", "Schoolmate of X"],
+    ["秦老大", "Schoolmate of X"]
+  ]
+}

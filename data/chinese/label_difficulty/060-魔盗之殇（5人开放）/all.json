@@ -1,0 +1,32 @@
+{
+    "保安凯文": [
+      ["助手艾拉", "helper of x"], 
+      ["宣传罗琳", "sister of x"], 
+      ["剧务戴维", "dislike of x, suspicious of x"], 
+      ["后勤格里夫", "suspicious of x"]
+    ],
+    "助手艾拉": [
+      ["保安凯文", "seeker of help from x "], 
+      ["魔术师古思特", "fondness of x, superior of x, victim of x"]
+    ],
+    "宣传罗琳": [
+      ["保安凯文", "brother of x"], 
+      ["剧务戴维", "fondness of x, quest companion of x"], 
+      ["魔术师古思特", "quest companion of x, victim of x"]
+    ],
+    "剧务戴维": [
+      ["保安凯文", "hate of x, suspicious of x"], 
+      ["宣传罗琳", "hate of x, quest companion of x"], 
+      ["魔术师古思特", "debtor of x, murderer of x, quest companion of x"], 
+      ["后勤格里夫", "dislike of x, suspicious of x"]
+    ],
+    "后勤格里夫": [
+      ["剧务戴维", "dislike of x"]
+    ],
+    "古思特": [
+      ["保安凯文", "subordinate of x"], 
+      ["助手艾拉", "admired by x, dislike of x, murderer of x, subordinate of x"], 
+      ["宣传罗琳", "murderer of x, quest companion of x"], 
+      ["剧务戴维", "creditor of x, hate of x, quest companion of x"]
+    ]
+}

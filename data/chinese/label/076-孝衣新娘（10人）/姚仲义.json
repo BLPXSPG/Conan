@@ -1,0 +1,67 @@
+{
+    "姚仲义": [
+      ["姚长寿", "Father of X"], 
+      ["张雅娣", "Mother of X"], 
+      ["徐夫人", "Adoptive Mother of X"], 
+      ["姚孟仁", "Half brother of X, Victim of X"], 
+      ["徐伯清", "Half brother of X, Victim of X"],
+      ["敏月姐", "Friend of X, Acquaintance of X"], 
+      ["张得采", "Cousin of X"], 
+      ["虞君鸿", "Friend of X"], 
+      ["红夫人", "Adoptive mother of X"], 
+      ["陈均梦", "Sister in law of X"],  
+      ["贵叔", "Stranger to X"]
+    ],
+    "姚长寿": [
+      ["方医生", "Doctor of X"],
+      ["姚仲义", "Son of X"],
+      ["张雅娣", "Concubine of X"],
+      ["徐夫人", "Wife of X"], 
+      ["红夫人", "Wife of X"],
+      ["姚孟仁", "Son of X"]
+    ],
+    "张雅娣": [
+      ["姚仲义", "Son of X"],
+      ["姚长寿", "Lover of X"]
+    ],
+    "徐夫人": [
+      ["姚仲义", "Adoptive son of X"], 
+      ["姚孟仁", "Son of X"],
+      ["张雅娣", "Co-wives of X, Rival in love of X"],
+      ["姚长寿", "Husband of X"]
+    ],
+    "姚孟仁": [
+      ["姚仲义", "Half brother of X, Murderer of X"], 
+      ["陈均梦", "Wife of X"]
+    ],
+    "敏月姐": [
+      ["姚仲义", "Friend of X, Acquaintance of X"]
+    ],
+    "张得采": [
+      ["姚仲义", "Cousin of X"]
+    ],
+    "虞君鸿": [
+      ["姚仲义", "Friend of X"]
+    ],
+    "红夫人": [
+      ["方医生", "Employee of X"],
+      ["姚仲义", "Adoptive son of X"],
+      ["姚长寿", "Husband of X"]
+    ],
+    "陈均梦": [
+      ["姚仲义", "Brother in law of X"],
+      ["姚孟仁", "Husband of X"]
+    ],
+    "云凌": [
+      ["姚仲义", "Acquaintance of X"], 
+      ["徐伯清", "Secret admirer of X"]
+    ],
+    "贵叔": [
+      ["姚仲义", "Acquaintance of X"]
+    ],
+    "徐伯清": [
+      ["姚孟仁", "Same person as X (different identity)"],
+      ["姚仲义", "Half brother of X, Perpetrator of X"],
+      ["云凌", "Fondness of X"]
+    ]
+}

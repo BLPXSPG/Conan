@@ -1,0 +1,89 @@
+{
+    "Xiting": [
+      ["Mu Xiting", "same person as x (different reference)"]
+    ],
+    "Mu Xiting": [
+      ["Xinger", "servant of x"], 
+      ["Gu Mengchu", "fiance of x"], 
+      ["Mu Boxuan", "brother of x"], 
+      ["Mu Zhongding", "brother of x"], 
+      ["Mu Shuyi", "brother of x"], 
+      ["Mu Cun", "father of x"], 
+      ["Ms. Lin", "mother of x"], 
+      ["Teacher Bai", "teacher of x"], 
+      ["Lan Rui", "friend of x, classmate of x"], 
+      ["Minxi", "friend of x, classmate of x"], 
+      ["Shen Wusheng", "helper of x"], 
+      ["Xiting", "same person as x (different reference)"]
+    ],
+    "Teacher Bai": [
+      ["Xiting", "student of x"], 
+      ["Lan Rui", "student of x"], 
+      ["Minxi", "student of x"]
+    ],
+    "Lan Rui": [
+      ["Xiting", "friend of x"], 
+      ["Teacher Bai", "teacher of x"], 
+      ["Minxi", "friend of x, host of x"], 
+      ["Shen Wusheng", "service provider of x"]
+    ],
+    "Minxi": [
+      ["Xiting", "friend of x"], 
+      ["Teacher Bai", "teacher of x"], 
+      ["Lan Rui", "friend of x, guest of x"], 
+      ["Yang Shuixun", "father of x"], 
+      ["Shen Wusheng", "service provider of x"]
+    ],
+    "Yang Shuixun": [
+      ["Minxi", "daughter of x"], 
+      ["Lan Rui", "guest of x"], 
+      ["Shen Wusheng", "subordinate of x"]
+    ],
+    "Shen Wusheng": [
+      ["Minxi", "employer of x"], 
+      ["Lan Rui", " employer of x"], 
+      ["Yang Shuixun", "superior of x"], 
+      ["Xiting", "helped by x"]
+    ],
+    "Xinger": [
+      ["Xiting", "master of x"]
+    ],
+    "Gu Mengchu": [
+      ["Xiting", "fiancee of x"]
+    ],
+    "Mu Boxuan": [
+      ["Xiting", "sister of x"], 
+      ["Mu Zhongding", "brother of x"], 
+      ["Mu Shuyi", "brother of x"], 
+      ["Mu Cun", "father of x"], 
+      ["Ms. Lin", "mother of x"]
+    ],
+    "Mu Zhongding": [
+      ["Xiting", "sister of x"], 
+      ["Mu Boxuan", "brother of x"], 
+      ["Mu Shuyi", "brother of x"], 
+      ["Mu Cun", "father of x"], 
+      ["Ms. Lin", "mother of x"]
+    ],
+    "Mu Shuyi": [
+      ["Xiting", "sister of x"], 
+      ["Mu Boxuan", "brother of x"], 
+      ["Mu Zhongding", "brother of x"], 
+      ["Mu Cun", "father of x"], 
+      ["Ms. Lin", "mother of x"]
+    ],
+    "Mu Cun": [
+      ["Xiting", "daughter of x"], 
+      ["Mu Boxuan", "son of x"], 
+      ["Mu Zhongding", "son of x"], 
+      ["Mu Shuyi", "son of x"], 
+      ["Ms. Lin", "wife of x"]
+    ],
+    "Ms. Lin": [
+      ["Mu Cun", "husband of x"], 
+      ["Mu Xiting", "daughter of x"], 
+      ["Mu Boxuan", "son of x"], 
+      ["Mu Zhongding", "son of x"], 
+      ["Mu Shuyi", "son of x"]
+    ]
+}

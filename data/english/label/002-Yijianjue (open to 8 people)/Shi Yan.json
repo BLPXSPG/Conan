@@ -1,0 +1,62 @@
+{
+    "Shi Yan": [
+        [
+            "Lady Safflower",
+            "Mentor of X, Manipulator of X, Superior of X"
+        ],
+        [
+            "Du Zhong",
+            "Victim of X, Adversary of X"
+        ],
+        [
+            "Feng",
+            "Messenger of X"
+        ],
+        [
+            "Martial Alliance's Investigator",
+            "Same person as X (different identity)"
+        ]
+    ],
+    "Martial Alliance's Investigator": [
+        [
+            "Shi Yan",
+            "Same person as X (different identity)"
+        ],
+        [
+            "Lu Ying",
+            "Host of X"
+        ]
+    ],
+    "Feng": [
+        [
+            "Shi Yan",
+            "Customer of X"
+        ]
+    ],
+    "Lady Safflower": [
+        [
+            "Shi Yan",
+            "Student of X, Manipulated by X, Subordinate of X"
+        ],
+        [
+            "Du Zhong",
+            "Ex-romantic relationships with X, Adversary of X"
+        ]
+    ],
+    "Du Zhong": [
+        [
+            "Shi Yan",
+            "Murderer of X"
+        ],
+        [
+            "Lady Safflower",
+            "Ex-romantic relationships with X"
+        ]
+    ],
+    "Lu Ying": [
+        [
+            "Martial Alliance's Investigator",
+            "Guest of X"
+        ]
+    ]
+}

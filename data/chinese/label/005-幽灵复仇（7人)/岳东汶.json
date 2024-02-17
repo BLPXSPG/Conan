@@ -1,0 +1,54 @@
+{
+    "岳东汶": [
+      ["孟老爷", "employer of X"],
+      ["吴百安", "Schoolmate of X, Friend of X, Employee of X"],
+      ["岳客沙", "Son of X"],
+      ["白常恭", "Customer of X, Acquaintance of X"],
+      ["夏三虎", "Debtor of X, Dislike of X"],
+      ["夏叔娥", "Employer of X"],
+      ["阿伦", "Employer of X"],
+      ["李子材", "Schoolmate of X"],
+      ["李骆明", "Helped by X, Employee of X"],
+      ["岳古", "Same person as X (different reference)"]
+    ],
+    "岳古": [
+      ["岳东汶", "Same person as X (different reference)"]
+    ],
+    "吴百安": [
+      ["岳东汶", "Schoolmate of X, employer of X"],
+      ["夏三虎", "Customer of X"],
+      ["岳客沙", "Dislike of X"]
+    ],
+    "岳客沙": [
+      ["岳东汶", "Father of X"],
+      ["夏三虎", "Mentor of X"],
+      ["吴百安", "Dislike of X"]
+    ],
+    "夏三虎": [
+      ["岳东汶", "creditor of X"],
+      ["夏仲鹏", "Brother of X, murderer of X"],
+      ["夏叔娥", "Niece of X"],
+      ["吴百安", "Product provider of X"],
+      ["岳客沙", "Student of X"]
+    ],
+    "夏仲鹏": [
+      ["夏三虎", "Brother of X"],
+      ["夏叔娥", "Niece of X"]
+    ],
+    "夏叔娥": [
+      ["夏三虎", "uncle of X"],
+      ["夏仲鹏", "uncle of X"]
+    ],
+    "李骆明": [
+      ["岳东汶", "Helper of X, Employer of X"],
+      ["阿明", "Same person as X (different reference)"]
+    ],
+    "阿明": [
+      ["李骆明", "Same person as X (different reference)"]
+    ],
+    "李子材": [
+      ["岳东汶", "Schoolmate of X, Quest Companion of X"],
+      ["李骆明", "Son of X"]
+    ]
+  }
+  

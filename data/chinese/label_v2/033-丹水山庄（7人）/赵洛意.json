@@ -1,0 +1,43 @@
+{
+    "赵洛意": [
+      ["赵万雷", "father of x"], 
+      ["赵门李氏", "mother of x"], 
+      ["冯双骥", "servant of x"], 
+      ["齐岳", "servant of x"], 
+      ["尹少鸣", "helper of x"], 
+      ["赵安", "servant of x"], 
+      ["赵卫", "brother of x"], 
+      ["赵秋儿", "friend of x, servant of x"]
+    ],
+    "赵万雷": [
+      ["赵洛意", "daughter of x"], 
+      ["赵门李氏", "wife of x"], 
+      ["赵卫", "son of x"]
+    ],
+    "赵卫": [
+      ["赵洛意", "sister of x"], 
+      ["赵门李氏", "mother of x"], 
+      ["赵万雷", "father of x"]
+    ],
+    "冯双骥": [
+      ["赵洛意", "master of x"], 
+      ["冯竹", "daughter of x"], 
+      ["尹少鸣", "relative of x"], 
+      ["齐岳", "colleague of x"]
+    ],
+    "冯竹": [
+      ["冯双骥", "father of x"], 
+      ["赵洛意", "acquaintance of x"]
+    ],
+    "齐岳": [
+      ["赵洛意", "master of x"], 
+      ["冯双骥", "superior of x"]
+    ],
+    "尹少鸣": [
+      ["赵洛意", "helped by x"], 
+      ["冯双骥", "servant of x, mentor of x"]
+    ],
+    "赵秋儿": [
+      ["赵洛意", "master of x, friend of x"]
+    ]
+}

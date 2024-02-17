@@ -1,0 +1,26 @@
+{
+    "Chief Wang": [
+      ["Zhang Villager", "acquaintance of x"], 
+      ["Officer Li", "acquaintance of x"], 
+      ["Hu Investigate", "acquaintance of x"], 
+      ["Zhao Cishan", "hate of x, victim of x"]
+    ],
+    "Zhang Villager": [
+      ["Chief Wang", "acquaintance of x"]
+    ],
+    "Officer Li": [
+      ["Chief Wang", "acquaintance of x"], 
+      ["Hu Investigate", "colleague of x"], 
+      ["Zhao Cishan", "acquaintance of x"]
+    ],
+    "Hu Investigate": [
+      ["Chief Wang", "acquaintance of x"], 
+      ["Officer Li", "colleague of x"], 
+      ["Zhao Cishan", "acquaintance of x"]
+    ],
+    "Zhao Cishan": [
+      ["Chief Wang", "hate of x, murderer of x"], 
+      ["Officer Li", "dislike of x"], 
+      ["Hu Investigate", "dislike of x"]
+    ]
+}

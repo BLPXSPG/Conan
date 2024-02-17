@@ -1,0 +1,60 @@
+{
+    "罗明纱": [
+      ["罗亨理", "Brother of x"], 
+      ["谭仁昌", "Husband of x"], 
+      ["欣雅", "Servant of x"], 
+      ["采茜", "Friend of x"], 
+      ["吕名然", "Extramarital Affair with X"], 
+      ["海悠", "Adoptive Daughter of x"], 
+      ["尚致", "relative of x"], 
+      ["承格", "Adoptive Son of x"], 
+      ["阿萍", "Servant of x"],
+      ["Rosa", "Same person as X (different reference)"],
+      ["谭太太", "Same person as X (different reference)"]
+    ],
+    "Rosa": [
+      ["谭太太", "Same person as X (different reference)"],
+      ["Rosa", "Same person as X (different reference)"]
+    ],
+    "谭太太": [
+      ["罗明纱", "Same person as X (different reference)"],
+      ["Rosa", "Same person as X (different reference)"]
+    ],
+    "罗亨理": [
+      ["罗明纱", "Sister of x"]
+    ],
+    "谭仁昌": [
+      ["罗明纱", "Wife of x"], 
+      ["尚致", "Nephew of x"], 
+      ["承格", "Adoptive Son of x"]
+    ],
+    "欣雅": [
+      ["罗明纱", "master of x"]
+    ],
+    "采茜": [
+      ["罗明纱", "Friend of x"], 
+      ["韦太太", "Same person as X (different reference)"],
+      ["吕名然", "Brother of x"]
+    ],
+    "韦太太": [
+      ["采茜", "Same person as X (different reference)"]
+    ],
+    "吕名然": [
+      ["罗明纱", "Extramarital Affair with X, hate of x"], 
+      ["采茜", "Sister of x"]
+    ],
+    "海悠": [
+      ["罗明纱", "Adoptive Mother of x"]
+    ],
+    "尚致": [
+      ["谭仁昌", "Uncle of x"], 
+      ["罗明纱", "Aunt of x"]
+    ],
+    "承格": [
+      ["谭仁昌", "Adoptive Father of x"], 
+      ["罗明纱", "Adoptive Mother of x"]
+    ],
+    "阿萍": [
+      ["罗明纱", "master of x"]
+    ]
+}

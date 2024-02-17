@@ -1,0 +1,52 @@
+{
+    "Zhang Hongsheng": [
+      ["Hong Sanmei", "same person as x (different reference)"]
+    ],
+    "Meng Sanchun": [
+      ["Zhang Hongsheng", "wife of x, enemy of x"], 
+      ["Cai Siniang", "enemy of x"], 
+      ["Zhang Jinyin", "friend of x, deceived by x, murderer of x"], 
+      ["Zhang Jinshan", "friend of x, deceived by x"]
+    ],
+    "Hong Jiangshui": [
+      ["Zhang Hongsheng", "employer of x"], 
+      ["Cai Siniang", "colleague of x"]
+    ],
+    "Cai Siniang": [
+      ["Zhang Hongsheng", "employer of x"], 
+      ["Meng Sanchun", "acquaintance of x"], 
+      ["Hong Jiangshui", "colleague of x"]
+    ],
+    "Hong Changlie": [
+      ["Zhang Hongsheng", "daughter of x"], 
+      ["Hong Erlang", "daughter of x"], 
+      ["Hong Sanmei", "daughter of x"]
+    ],
+    "Zhang Jinyin": [
+      ["Hong Erlang", "enemy of x"], 
+      ["Zhang Hongsheng", "enemy of x"], 
+      ["Meng Sanchun", "victim of x, friend of x, deceiver of x"], 
+      ["Zhang Jinshan", "brother of x"]
+    ],
+    "Zhang Jinshan": [
+      ["Hong Erlang", "enemy of x"], 
+      ["Zhang Hongsheng", "enemy of x"], 
+      ["Meng Sanchun", "friend of x, deceiver of x"], 
+      ["Zhang Jinyin", "brother of x"]
+    ],
+    "Hong Sanmei": [
+      ["Hong Changlie", "father of x"], 
+      ["Meng Sanchun", "husband of x"], 
+      ["Hong Erlang", "same person as x (different identity)"], 
+      ["Hong Jiangshui", "employee of x"], 
+      ["Cai Siniang", "employee of x, fondness of x"], 
+      ["Zhang Hongsheng", "same person as x (different reference)"]
+    ],
+    "Hong Erlang": [
+      ["Zhang Hongsheng", "same person as x (different identity)"], 
+      ["Meng Sanchun", "enemy of x"], 
+      ["Zhang Jinyin", "enemy of x"], 
+      ["Hong Changlie", "father of x"], 
+      ["Zhang Jinshan", "enemy of x"]
+    ]
+}

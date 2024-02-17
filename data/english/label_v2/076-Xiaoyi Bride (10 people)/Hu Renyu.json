@@ -1,0 +1,68 @@
+{
+    "Hu Renyu": [
+      ["Fan Jinkui", "same person as x (different reference)"]
+    ],
+    "Fan Jinkui": [
+      ["Tian Hongjiao", "fiancee of x"], 
+      ["Li Kuansheng", "colleague of x, friend of x"], 
+      ["Li Guangsheng", "colleague of x, friend of x"], 
+      ["Steward Du", "employer of x"], 
+      ["Yao Changshou", "rival in love of x"], 
+      ["Yu Beichen", "superior of x"], 
+      ["Fang Chengshan", "employer of x"], 
+      ["Golden Beard", "same person as x (different identity)"], 
+      ["Tian Hongjiao", "buyer of x"], 
+      ["Suzhou Girl", "helper of x"], 
+      ["Short-haired Woman", "stranger to x"], 
+      ["Long-haired Girl", "helper of x"], 
+      ["Fair-skinned Youth", "stranger to x"], 
+      ["Hu Renyu", "same person as x (different reference)"]
+    ],
+    "Golden Beard": [
+      ["Fan Jinkui", "same person as x (different identity)"], 
+      ["Hu Renyu", "same person as x (different identity)"], 
+      ["Yao Changshou", "rival in love of x"], 
+      ["White-headed Snake", "business partner of x"]
+    ],
+    "Tian Hongjiao": [
+      ["Hu Renyu", "seller of x"], 
+      ["Fan Jinkui", "fiance of x"], 
+      ["Yao Changshou", "husband of x"], 
+      ["Fang Chengshan", "uncle of x"]
+    ],
+    "Yao Changshou": [
+      ["Tian Hongjiao", "wife of x"], 
+      ["Hu Renyu", "rival in love of x"], 
+      ["Fang Chengshan", "perpetrator of x"]
+    ],
+    "Fang Chengshan": [
+      ["Tian Hongjiao", "niece of x"], 
+      ["Hu Renyu", "employee of x"], 
+      ["Yu Beichen", "acquaintance of x"], 
+      ["Steward Du", "colleague of x"], 
+      ["Yao Changshou", "victim of x"]
+    ],
+    "Steward Du": [
+      ["Fang Chengshan", "colleague of x"]
+    ],
+    "Li Kuansheng": [
+      ["Fan Jinkui", "colleague of x, friend of x"]
+    ],
+    "Li Guangsheng": [
+      ["Fan Jinkui", "colleague of x, friend of x"]
+    ],
+    "Yu Beichen": [
+      ["Fan Jinkui", "subordinate of x"], 
+      ["Fang Chengshan", "subordinate of x"]
+    ],
+    "Long-haired Girl": [
+      ["Fan Jinkui", "seeker of help from x"], 
+      ["Suzhou Girl", "same person as x (different reference)"]
+    ],
+    "Suzhou Girl": [
+      ["Long-haired Girl", "same person as x (different reference)"]
+    ],
+    "White-headed Snake": [
+      ["Golden Beard", "business partner of x"]
+    ]
+}

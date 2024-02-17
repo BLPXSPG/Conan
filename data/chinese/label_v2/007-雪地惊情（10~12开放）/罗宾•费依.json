@@ -1,0 +1,69 @@
+{
+    "罗宾•费依": [
+      ["丹尼尔•佩里", "friend of x"], 
+      ["玛丽娜•哈里森", "acquaintance of x"], 
+      ["杰奎琳•佩里", "acquaintance of x"], 
+      ["乔纳森•佩里", "acquaintance of x"], 
+      ["戴维斯•佩里", "acquaintance of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["哈罗德•哈里森", "acquaintance of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["麦克斯•派克", "acquaintance of x"]
+    ],
+    "丹尼尔•佩里": [
+      ["杰奎琳•佩里", "wife of x"], 
+      ["乔纳森•佩里", "son of x"], 
+      ["戴维斯•佩里", "brother of x"], 
+      ["玛丽娜•哈里森", "sister in law of x, secret lover of x"], 
+      ["露西•哈里森", "niece of x"], 
+      ["哈罗德•哈里森", "brother in law of x"], 
+      ["罗宾•费依", "acquaintance of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["丹尼尔•佩里", "husband of x"], 
+      ["乔纳森•佩里", "son of x"], 
+      ["戴维斯•佩里", "brother in law of x"], 
+      ["玛丽娜•哈里森", "sister of x, hate of x"], 
+      ["露西•哈里森", "niece of x"], 
+      ["哈罗德•哈里森", "brother in law of x"], 
+      ["罗宾•费依", "acquaintance of x"]
+    ],
+    "乔纳森•佩里": [
+      ["丹尼尔•佩里", "father of x"], 
+      ["杰奎琳•佩里", "mother of x"], 
+      ["戴维斯•佩里", "uncle of x"], 
+      ["玛丽娜•哈里森", "aunt of x"], 
+      ["露西•哈里森", "cousin of x"], 
+      ["哈罗德•哈里森", "uncle of x"], 
+      ["罗宾•费依", "acquaintance of x"]
+    ],
+    "戴维斯•佩里": [
+      ["丹尼尔•佩里", "brother of x"], 
+      ["乔纳森•佩里", "nephew of x"], 
+      ["杰奎琳•佩里", "sister in law of x"], 
+      ["玛丽娜•哈里森", "sister in law of x, secret lover of x"], 
+      ["罗宾•费依", "acquaintance of x"]
+    ],
+    "露西•哈里森": [
+      ["丹尼尔•佩里", "uncle of x"], 
+      ["杰奎琳•佩里", "aunt of x"], 
+      ["玛丽娜•哈里森", "mother of x"], 
+      ["乔纳森•佩里", "cousin of x"], 
+      ["哈罗德•哈里森", "father of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["杰奎琳•佩里", "sister of x"], 
+      ["哈罗德•哈里森", "husband of x"], 
+      ["丹尼尔•佩里", "brother in law of x, secret lover of x"], 
+      ["露西•哈里森", "daughter of x"], 
+      ["乔纳森•佩里", "nephew of x"], 
+      ["罗宾•费依", "acquaintance of x"]
+    ],
+    "艾米•摩根": [
+      ["麦克斯•派克", "acquaintance of x"], 
+      ["罗宾•费依", "acquaintance of x"]
+    ],
+    "麦克斯•派克": [
+      ["罗宾•费依", "acquaintance of x"]
+    ]
+}

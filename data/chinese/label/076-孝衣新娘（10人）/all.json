@@ -1,0 +1,339 @@
+{
+    "云凌": [
+      ["廖一乔", "Father of X"], 
+      ["唐婉枫", "Mother of X"], 
+      ["唐茂光", "Uncle of X"], 
+      ["任仲远", "Acquaintance of X"], 
+      ["徐伯清", "Secret admirer of X"], 
+      ["姚仲义", "Acquaintance of X"], 
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"], 
+      ["短发女人", "Same person as X (different reference)"]
+    ],
+    "短发女人": [
+      ["云凌", "Same person as X (different reference)"]
+    ],
+    "廖一乔": [
+      ["云凌", "Daughter of X"], 
+      ["唐婉枫", "Wife of X"], 
+      ["任仲远", "Employee of X, Master of X"]
+    ],
+    "唐婉枫": [
+      ["云凌", "Daughter of X"], 
+      ["廖一乔", "Husband of X"], 
+      ["唐茂光", "Brother of X"]
+    ],
+    "唐茂光": [
+      ["云凌", "Niece of X"], 
+      ["唐婉枫", "Sister of X"]
+    ],
+    "徐伯清": [
+      ["云凌", "Fondness of X"], 
+      ["廖一乔", "Guest of X"], 
+      ["姚仲义", "Perpetrator of X, Half brother of X"], 
+      ["姚孟仁", "Same person as X (different identity)"]
+    ],
+    "任仲远": [
+      ["云凌", "Master of X"], 
+      ["廖一乔", "Employer of X"], 
+      ["虞君鸿", "Grandson of X"], 
+      ["任", "Daughter of X"], 
+      ["虞北辰", "Son in law of X"]
+    ],
+    "姚仲义": [
+      ["徐伯清", "Victim of X, Half brother of X"], 
+      ["红夫人", "Adoptive mother of X"], 
+      ["陈均梦", "Sister in law of X"], 
+      ["虞医师", "Employee of X"], 
+      ["姚长寿", "Father of X"], 
+      ["张雅娣", "Mother of X"], 
+      ["徐夫人", "Adoptive Mother of X"], 
+      ["姚孟仁", "Victim of X, Half brother of X"], 
+      ["敏月姐", "Acquaintance of X, Friend of X"], 
+      ["张得采", "Cousin of X, Acquaintance of X"], 
+      ["虞君鸿", "Friend of X"],
+      ["贵叔", "Stranger to X"], 
+      ["方敏月", "Teacher of X"], 
+      ["田红娇", "Adoptive mother of X"], 
+      ["杜贵成", "Acquaintance of X"], 
+      ["陈安巧", "Servant of X"]
+    ],
+    "红夫人": [
+      ["姚仲义", "Adoptive son of X"], 
+      ["方医生", "Employee of X"], 
+      ["姚长寿", "Husband of X"], 
+      ["朱迪", "Relative of X"], 
+      ["姚孟仁", "Adoptive son of X"], 
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"], 
+      ["陈均梦", "Child of X"], 
+      ["陈安巧", "Servant of X"]
+    ],
+    "虞医师": [
+      ["姚仲义", "Employer of X"], 
+      ["陈均梦", "Sister in law of X, Doctor of X"], 
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"]
+    ],
+    "姚长寿": [
+      ["方医生", "Doctor of X"], 
+      ["姚仲义", "Son of X"], 
+      ["张雅娣", "Concubine of X"], 
+      ["徐夫人", "Wife of X"], 
+      ["红夫人", "Wife of X"], 
+      ["姚孟仁", "Son of X"], 
+      ["方乘山", "Colleague of X, Perpetrator of X"], 
+      ["田红娇", "Wife of X"], 
+      ["张得采", "Acquaintance of X"], 
+      ["陈均梦", "Daughter in law of X"], 
+      ["方敏月", "Relative of X, Doctor of X"], 
+      ["虞医师", "Doctor of X"], 
+      ["朱迪", "Relative of X"], 
+      ["胡人玉", "Rival in love of X"], 
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"], 
+      ["孟老爷", "Employer of X"], 
+      ["陈安巧", "Servant of X"]
+    ],
+    "张雅娣": [
+      ["姚仲义", "Son of X"], 
+      ["姚长寿", "Lover of X"], 
+      ["张得采", "Nephew of X"], 
+      ["徐夫人", "Rival in love of X, Co-wives of X, Rival of X"]
+    ],
+    "徐夫人": [
+      ["姚仲义", "Adoptive son of X"], 
+      ["姚孟仁", "Son of X"], 
+      ["张雅娣", "Rival in love of X, Co-wives of X, Rival of X"], 
+      ["姚长寿", "Husband of X"]
+    ],
+    "姚孟仁": [
+      ["姚仲义", "Murderer of X, Half brother of X"], 
+      ["陈均梦", "Wife of X"], 
+      ["姚长寿", "Father of X"], 
+      ["方敏月", "Teacher of X"], 
+      ["徐夫人", "Mother of X"], 
+      ["张得采", "Acquaintance of X"], 
+      ["田红娇", "Adoptive mother of X"], 
+      ["红夫人", "Adoptive mother of X"], 
+      ["陈安巧", "Servant of X"]
+    ],
+    "敏月姐": [
+      ["姚仲义", "Acquaintance of X, Friend of X"]
+    ],
+    "张得采": [
+      ["姚仲义", "Cousin of X, Acquaintance of X"], 
+      ["方敏月", "Romantic relationships with X"], 
+      ["张雅娣", "Aunt of X"], 
+      ["姚长寿", "Acquaintance of X"], 
+      ["姚孟仁", "Acquaintance of X"], 
+      ["红夫人", "Acquaintance of X"], 
+      ["白头蛇", "Acquaintance of X"]
+    ],
+    "虞君鸿": [
+      ["姚仲义", "Friend of X"], 
+      ["虞北辰", "Father of X"], 
+      ["任", "Mother of X"], 
+      ["任仲远", "Grandfather of X"], 
+      ["孟深", "Acquaintance of X"], 
+      ["方乘山", "Acquaintance of X"], 
+      ["范", "Acquaintance of X"]
+    ],
+    "陈均梦": [
+      ["姚仲义", "Brother in law of X"], 
+      ["姚孟仁", "Husband of X"], 
+      ["田红娇", "Mother in law of X"], 
+      ["姚长寿", "Father in law of X"], 
+      ["贵叔", "Doctor of X, Acquaintance of X"], 
+      ["陈安巧", "Cousin of X, Servant of X"], 
+      ["杜贵成", "Acquaintance of X"], 
+      ["虞医师", "Brother in law of X"], 
+      ["长发姑娘", "Same person as X (different reference)"], 
+      ["陈轻梧", "Father of X"], 
+      ["陈市田", "Servant of X"], 
+      ["红夫人", "mother of x"]
+    ],
+    "贵叔": [
+      ["姚仲义", "Acquaintance of X"], 
+      ["陈均梦", "Acquaintance of X, Patient of X"], 
+      ["杜贵成", "Same person as X (different reference)"], 
+      ["杜辉信", "Father of X"], 
+      ["孟老爷", "Employer of X"], 
+      ["虞医师", "Acquaintance of X"], 
+      ["云凌", "Acquaintance of X"], 
+      ["红夫人", "Acquaintance of X"], 
+      ["姚长寿", "Acquaintance of X"]
+    ],
+    "方敏月": [
+      ["方乘山", "Father of X"], 
+      ["张得采", "Romantic relationships with X"], 
+      ["姚孟仁", "Teacher of X"], 
+      ["姚仲义", "Teacher of X"], 
+      ["宋医生", "Schoolmate of X, Helper of X"], 
+      ["田红娇", "Cousin of X"], 
+      ["方医生", "Same person as X (different reference)"]
+    ],
+    "方乘山": [
+      ["方敏月", "Daughter of X"], 
+      ["孟老爷", "Employer of X"], 
+      ["杜老总管", "Colleague of X"], 
+      ["姚长寿", "Colleague of X, Victim of X"], 
+      ["范金魁", "Employer of X, Relative of X"], 
+      ["田红娇", "Niece of X"], 
+      ["胡人玉", "Employee of X"], 
+      ["虞北辰", "Acquaintance of X"], 
+      ["孟深", "Employer of X"], 
+      ["范", "Colleague of X, Superior of X"]
+    ],
+    "田红娇": [
+      ["姚长寿", "Husband of X"], 
+      ["方敏月", "Cousin of X"], 
+      ["范金魁", "Fiance of X"], 
+      ["姚孟仁", "Adoptive son of X"], 
+      ["姚仲义", "Adoptive son of X"], 
+      ["陈均梦", "Daughter in law of X"], 
+      ["陈安巧", "Master of X"], 
+      ["胡人玉", "Seller of X, Guest of X"], 
+      ["大眼阿坤", "Acquaintance of X"], 
+      ["贵叔", "Helper of X"], 
+      ["郭立柱", "Acquaintance of X"], 
+      ["方乘山", "Uncle of X"]
+    ],
+    "孟老爷": [
+      ["方乘山", "Employee of X"], 
+      ["贵叔", "Employee of X"], 
+      ["杜贵成", "Employee of X"], 
+      ["杜辉信", "Employee of X"],
+      ["陈轻梧", "Employee of X"], 
+      ["姚长寿", "Employee of X"]
+    ],
+    "方医生": [
+      ["姚长寿", "Patient of X"], 
+      ["方敏月", "Same person as X (different reference)"], 
+      ["田红娇", "Cousin of X"]
+    ],
+    "朱迪": [
+      ["张雅娣", "Same person as X (different reference)"], 
+      ["田红娇", "Relative of X"], 
+      ["姚长寿", "Relative of X"]
+    ],
+    "白头蛇": [
+      ["张得采", "Acquaintance of X"], 
+      ["金胡子", "Business Partner of X"]
+    ],
+    "范金魁": [
+      ["方乘山", "Relative of X, Employer of X"], 
+      ["田红娇", "Fiancee of X"], 
+      ["李宽生", "Colleague of X, Friend of X"], 
+      ["李广生", "Colleague of X, Friend of X"], 
+      ["杜老总管", "Employer of X"], 
+      ["姚长寿", "Rival in love of X"], 
+      ["虞北辰", "Superior of X"], 
+      ["胡人玉", "Same person as X (different reference)"], 
+      ["金胡子", "Same person as X (different identity)"]
+    ],
+    "陈安巧": [
+      ["田红娇", "Master of X"], 
+      ["陈均梦", "Cousin of X, Master of X"], 
+      ["陈轻梧", "Uncle of X, Employer of X"], 
+      ["陈市田", "Father of X"], 
+      ["姚长寿", "Employer of X"], 
+      ["姚孟仁", "Relative of X"],
+      ["红夫人", "Employer of X"]
+    ],
+    "李宽生": [
+      ["范金魁", "Colleague of X, Friend of X"], 
+      ["李广生", "Brother of X"]
+    ],
+    "李广生": [
+      ["范金魁", "Colleague of X, Friend of X"], 
+      ["李宽生", "Brother of X"]
+    ],
+    "大眼阿坤": [
+      ["田红娇", "Fondness of X"]
+    ],
+    "郭立柱": [
+      ["田红娇", "Fondness of X"]
+    ],
+    "胡人玉": [
+      ["田红娇", "Buyer of X"], 
+      ["苏州女孩", "Helper of X"], 
+      ["胡人玉", "Same person as X (different reference)"], 
+      ["金胡子", "Same person as X (different identity)"], 
+      ["姚长寿", "Rival in love of X"], 
+      ["短发女人", "Stranger to X"], 
+      ["长发姑娘", "Helper of X"], 
+      ["白净青年", "Stranger to X"]
+    ],
+    "金胡子": [
+      ["范金魁", "Same person as X (different identity)"], 
+      ["胡人玉", "Same person as X (different identity)"], 
+      ["姚长寿", "Rival in love of X"], 
+      ["白头蛇", "Business Partner of X"]
+    ],
+    "杜老总管": [
+      ["方乘山", "Colleague of X"]
+    ],
+    "虞北辰": [
+      ["范金魁", "Subordinate of X"], 
+      ["方乘山", "Subordinate of X"], 
+      ["虞君鸿", "Son of X"], 
+      ["任", "Wife of X"], 
+      ["孟深", "Friend of X"], 
+      ["范", "Acquaintance of X"], 
+      ["任仲远", "Father in law of X"]
+    ],
+    "长发姑娘": [
+      ["苏州女孩", "Same person as X (different reference)"], 
+      ["范金魁", "Seeker of Help from X"], 
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"], 
+      ["陈均梦", "Same person as X (different reference)"]
+    ],
+    "苏州女孩": [
+      ["长发姑娘", "Same person as X (different reference)"], 
+      ["范金魁", "Seeker of Help from X"]
+    ],
+    "任": [
+      ["虞君鸿", "Son of X"], 
+      ["虞北辰", "Husband of X"], 
+      ["任仲远", "Father of X"]
+    ],
+    "孟深": [
+      ["虞北辰", "Friend of X"], 
+      ["姚长寿", "Employee of X"], 
+      ["方乘山", "Employee of X"], 
+      ["范", "Employee of X"]
+    ],
+    "范": [
+      ["孟深", "Employer of X"], 
+      ["方乘山", "Subordinate of X"]
+    ],
+    "杜贵成": [
+      ["贵叔", "Same person as X (different reference)"], 
+      ["杜辉信", "Father of X"], 
+      ["孟老爷", "Employer of X"], 
+      ["虞医师", "Acquaintance of X"], 
+      ["云凌", "Acquaintance of X"], 
+      ["姚仲义", "Acquaintance of X"], 
+      ["陈均梦", "Acquaintance of X"], 
+      ["红夫人", "Acquaintance of X"], 
+      ["姚长寿", "Acquaintance of X"]
+    ],
+    "杜辉信": [
+      ["贵叔", "Son of X"], 
+      ["杜贵成", "Son of X"], 
+      ["孟老爷", "Employer of X"]
+    ],
+    "陈轻梧": [
+      ["陈均梦", "Daughter of X"], 
+      ["孟老爷", "Employer of X"], 
+      ["陈市田", "Servant of X"], 
+      ["陈安巧", "Employee of X, Niece of X"]
+    ],
+    "陈市田": [
+      ["陈均梦", "Master of X"], 
+      ["陈轻梧", "Master of X"], 
+      ["陈安巧", "Daughter of X"] 
+    ]
+}

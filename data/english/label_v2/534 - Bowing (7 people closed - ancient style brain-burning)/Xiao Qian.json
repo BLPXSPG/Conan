@@ -1,0 +1,80 @@
+{
+    "Xiao Qian": [
+      ["Chen Qian", "same person as x (different reference)"], 
+      ["Fang Liu", "same person as x (different reference)"]
+    ],
+    "Fang Liu": [
+      ["Chen Qian", "same person as x (different reference)"], 
+      ["Xiao Qian", "same person as x (different reference)"]
+    ],
+    "Fang Ye": [
+      ["Xiao Qian", "daughter of x"], 
+      ["Grandma", "mother of x"], 
+      ["Fang Xu", "younger sister of x"], 
+      ["Fang Mian", "younger sister of x"], 
+      ["Fang Zhu", "brother of x"]
+    ],
+    "Grandma": [
+      ["Xiao Qian", "granddaughter of x"], 
+      ["Fang Ye", "son of x"], 
+      ["Fang Xu", "daughter of x"], 
+      ["Fang Mian", "daughter of x"], 
+      ["Fang Zhu", "adoptive son of x"]
+    ],
+    "Fang Xu": [
+      ["Xiao Qian", "niece of x"], 
+      ["Fang Ye", "brother of x"], 
+      ["Fang Mian", "sister of x"], 
+      ["Fang Zhu", "nephew of x"], 
+      ["Li Wangye (Lord Li)", "father in law of x"]
+    ],
+    "Li Wangye (Lord Li)": [
+      ["Li Qinren", "same person as x (different reference)"]
+    ],
+    "Li Qinren": [
+      ["Li Wangye (Lord Li)", "same person as x (different reference)"]
+    ],
+    "Fang Mian": [
+      ["Xiao Qian", "niece of x"], 
+      ["Fang Ye", "brother of x"], 
+      ["Fang Xu", "sister of x"], 
+      ["Fang Zhu", "nephew of x"]
+    ],
+    "Fang Zhu": [
+      ["Xiao Qian", "cousin of x"], 
+      ["Fang Ye", "adoptive father of x"], 
+      ["Fang Xu", "aunt of x"], 
+      ["Fang Mian", "aunt of x"]
+    ],
+    "Caoteng Jushi (lay Buddhist practitioner)": [
+      ["Xiao Qian", "adoptive daughter of x"], 
+      ["Chen Qian", "daughter of x"]
+    ],
+    "Chen Qian": [
+      ["Xiao Qian", "adoptive sister of x"], 
+      ["Caoteng Jushi (lay Buddhist practitioner)", "father of x"], 
+      ["Li Yan", "admirer of x"], 
+      ["Li Zhong", "admirer of x"], 
+      ["Fang Ye", "father of x"], 
+      ["Grandma", "grandmother of x"], 
+      ["Fang Xu", "aunt of x"], 
+      ["Fang Mian", "aunt of x"], 
+      ["Fang Zhu", "uncle of x"], 
+      ["Caoteng Jushi (lay Buddhist practitioner)", "adoptive father of x"], 
+      ["Li Yan", "saviour of x, deceived by x"], 
+      ["Li Zhong", "friend of x, deceived by x"], 
+      ["Li Qinren", "rival of x"], 
+      ["Fang Liu", "same person as x (different reference)"], 
+      ["Xiao Qian", "same person as x (different reference)"]
+    ],
+    "Li Yan": [
+      ["Xiao Qian", "saved by x, admirer of x"], 
+      ["Li Zhong", "friend of x"], 
+      ["Chen Qian", "friend of x"]
+    ],
+    "Li Zhong": [
+      ["Xiao Qian", "acquaintance of x"], 
+      ["Li Yan", "brother of x"], 
+      ["Chen Qian", "fiancee of x"]
+    ]
+}

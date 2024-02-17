@@ -1,0 +1,64 @@
+{
+    "Zhang Villager": [
+        [
+            "Father of Zhang Villager",
+            "Son of X"
+        ],
+        [
+            "Chief Wang",
+            "Acquaintance of X"
+        ],
+        [
+            "Hu Research",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhao Cishan",
+            "Hate of X"
+        ],
+        [
+            "Murderer",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Father of Zhang Villager": [
+        [
+            "Zhang Villager",
+            "Father of X"
+        ]
+    ],
+    "Chief Wang": [
+        [
+            "Zhang Villager",
+            "Acquaintance of X"
+        ]
+    ],
+    "Hu Research": [
+        [
+            "Zhang Villager",
+            "Acquaintance of X"
+        ],
+        [
+            "Officer Li",
+            "Colleague of X"
+        ]
+    ],
+    "Zhao Cishan": [
+        [
+            "Zhang Villager",
+            "Attempted Murderer of X"
+        ]
+    ],
+    "Officer Li": [
+        [
+            "Hu Research",
+            "Colleague of X"
+        ]
+    ],
+    "Murderer": [
+        [
+            "Zhang Villager",
+            "Same person as X (different reference)"
+        ]
+    ]
+}

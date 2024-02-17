@@ -1,0 +1,28 @@
+{
+    "Zhang Jie": [
+      ["Li Guofu", "crime partner of x, superior of x, victim of x"], 
+      ["He Laoliu", "crime partner of x, colleague of x"], 
+      ["Mu Bei", "colleague of x"], 
+      ["Neighbor Wang", "acquaintance of x"]
+    ],
+    "Li Guofu": [
+      ["Zhang Jie", "crime partner of x, subordinate of x, dislike of x, rival in love of x, murderer of x"], 
+      ["He Laoliu", "subordinate of x, crime partner of x"], 
+      ["Mu Bei", "subordinate of x, romantic relationships with x"], 
+      ["Neighbor Wang", "acquaintance of x"]
+    ],
+    "He Laoliu": [
+      ["Zhang Jie", "crime partner of x, colleague of x"], 
+      ["Li Guofu", "superior of x, crime partner of x"], 
+      ["Mu Bei", "colleague of x"]
+    ],
+    "Mu Bei": [
+      ["Zhang Jie", "colleague of x, fondness of x"], 
+      ["Li Guofu", "superior of x, romantic relationships with x"], 
+      ["He Laoliu", "colleague of x"]
+    ],
+    "Neighbor Wang": [
+      ["Li Guofu", "acquaintance of x"], 
+      ["Zhang Jie", "acquaintance of x"]
+    ]
+}

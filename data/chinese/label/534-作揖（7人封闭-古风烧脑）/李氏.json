@@ -1,0 +1,130 @@
+{
+    "李氏": [
+        [
+            "方叶",
+            "older brother of X"
+        ],
+        [
+            "方眠",
+            "younger sister of X"
+        ],
+        [
+            "收养的男孩",
+            "adoptive brother of X, lover of X"
+        ],
+        [
+            "李钦仁",
+            "husband of X"
+        ],
+        [
+            "李仲",
+            "son of X"
+        ],
+        [
+            "李延",
+            "son of X"
+        ],
+        [
+            "陈倩",
+            "daughter in law of x"
+        ]
+    ],
+    "方絮": [
+      [
+        "李氏",
+        "Same person as X (different reference)"
+      ]
+    ],
+    "方竹": [
+      [
+        "收养的男孩",
+        "Same person as X (different reference)"
+      ],
+      [
+        "李延",
+        "son of X"
+      ],
+      [
+        "李仲",
+        "son of X"
+      ]
+    ],
+    "方叶": [
+        [
+            "方絮",
+            "younger sister of X"
+        ]
+    ],
+    "方眠": [
+        [
+            "方絮",
+            "older sister of X"
+        ]
+    ],
+    "收养的男孩": [
+        [
+            "方絮",
+            "adoptive sister of X, lover of X"
+        ]
+    ],
+    "李钦仁": [
+        [
+            "方絮",
+            "wife of X"
+        ],
+        [
+            "李仲",
+            "son of X"
+        ],
+        [
+            "李延",
+            "son of X"
+        ]
+    ],
+    "李仲": [
+        [
+            "方絮",
+            "mother of X"
+        ],
+        [
+            "李钦仁",
+            "father of X"
+        ],
+        [
+            "陈倩",
+            "fiancee of X"
+        ],
+        [
+            "李延",
+            "brother of X"
+        ]
+    ],
+    "李延": [
+        [
+            "方絮",
+            "mother of X"
+        ],
+        [
+            "李钦仁",
+            "father of X"
+        ],
+        [
+            "方竹",
+            "biological father of X"
+        ],
+        [
+            "李仲",
+            "brother of X, rival in love of X"
+        ]
+    ],
+    "陈倩": [
+        [
+            "李仲",
+            "fiance of X"
+        ],
+        [
+            "李延",
+            "lover of X"
+        ]
+    ]
+}

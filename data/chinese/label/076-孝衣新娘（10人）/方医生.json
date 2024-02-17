@@ -1,0 +1,53 @@
+{
+  "方敏月": [
+    ["方乘山", "Father of X"],
+    ["张得采", "Romantic relationships with X"],
+    ["姚孟仁", "Teacher of X"],
+    ["姚仲义", "Teacher of X"],
+    ["宋医生", "Schoolmate of X, Helper of X"],
+    ["田红娇", "Cousin of X"],
+    ["方医生", "Same person as X (different reference)"]
+
+  ],
+  "方乘山": [
+    ["方敏月", "Daughter of X"],
+    ["孟老爷", "Employer of X"],
+    ["杜老总管", "Colleague of X"],
+    ["姚长寿", "Colleague of X"]
+  ],
+  "姚长寿": [
+    ["方乘山", "Colleague of X"],
+    ["方医生", "Doctor of X"],
+    ["田红娇", "Wife of X"],
+    ["姚孟仁", "Son of X"],
+    ["张雅娣", "Concubine of X"],
+    ["姚仲义", "Son of X"]
+  ],
+  "田红娇": [
+    ["姚长寿", "Husband of X"],
+    ["方敏月", "Cousin of X"]
+  ],
+  "张得采": [
+    ["方敏月", "Romantic relationships with X"]
+  ],
+  "姚孟仁": [
+    ["姚长寿", "Father of X"],
+    ["方敏月", "Teacher of X"]
+  ],
+  "姚仲义": [
+    ["姚长寿", "Father of X"],
+    ["方敏月", "Teacher of X"]
+  ],
+  "孟老爷": [
+    ["方乘山", "Employee of X"]
+  ] ,
+  "张雅娣": [
+    ["姚长寿", "Lover of X"],
+    ["张得采", "Nephew of X"]
+  ],
+  "方医生": [
+    ["姚长寿", "Patient of X"],
+    ["方敏月", "Same person as X (different reference)"],
+    ["田红娇", "Cousin of X"]
+  ]
+}

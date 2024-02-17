@@ -1,0 +1,94 @@
+{
+    "Ship Doctor Ling": [
+        [
+            "Boss Yang",
+            "Employer of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Employer of X"
+        ],
+        [
+            "Worker Wang",
+            "Fiance of X"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Father of X"
+        ],
+        [
+            "Secretary Wen",
+            "Informant of X, Information Receiver from X"
+        ]
+    ],
+    "Boss Yang": [
+        [
+            "Ship Doctor Ling",
+            "Business Partner of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Business Partner of X"
+        ],
+        [
+            "Secretary Wen",
+            "Employee of X"
+        ]
+    ],
+    "First Mate Zhang": [
+        [
+            "Ship Doctor Ling",
+            "Employee of X"
+        ],
+        [
+            "Boss Yang",
+            "Business Partner of X"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Subordinate of X"
+        ]
+    ],
+    "Worker Wang": [
+        [
+            "Ship Doctor Ling",
+            "Romantic relationships with X"
+        ],
+        [
+            "Shipyard Worker Wang",
+            "Father of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Suspicious of X"
+        ]
+    ],
+    "Shipyard Worker Wang": [
+        [
+            "Ship Doctor Ling",
+            "Child of X"
+        ],
+        [
+            "Worker Wang",
+            "Son of X"
+        ],
+        [
+            "First Mate Zhang",
+            "Superior of X"
+        ],
+        [
+            "Boss Yang",
+            "Acquaintance of X"
+        ]
+    ],
+    "Secretary Wen": [
+        [
+            "Ship Doctor Ling",
+            "Informant of X, Information Receiver from X"
+        ],
+        [
+            "Boss Yang",
+            "Employer of X"
+        ]
+    ]
+}

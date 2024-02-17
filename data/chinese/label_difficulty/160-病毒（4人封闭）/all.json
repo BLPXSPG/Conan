@@ -1,0 +1,15 @@
+{
+    "田助理": [
+      ["孙清洁", "hate of x, victim of x"], 
+      ["李保安", "hate of x, victim of x"], 
+      ["贾教授", "hate of x, perpetrator of x, superior of x"], 
+      ["秦鸥", "romantic relationships with x"]
+    ],
+    "李保安": [
+      ["田助理", "perpetrator of x"], 
+      ["秦鸥", "helper of x"]
+    ],
+    "贾教授": [
+      ["田助理", "hate of x, subordinate of x"]
+    ]
+}

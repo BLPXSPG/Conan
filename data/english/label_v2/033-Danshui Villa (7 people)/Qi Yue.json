@@ -1,0 +1,51 @@
+{
+    "Qi Yue": [
+      ["Shuang Mian Hu", "manipulator of x, adversary of x, employer of x"], 
+      ["Zhao Qiuer", "possibly family of x"], 
+      ["Feng Shuangji", "colleague of x, adversary of x"], 
+      ["Feng Zhu", "acquaintance of x"], 
+      ["Zhao Wanlei", "employer of x, master of x"], 
+      ["Zhao Luoyi", "master of x"], 
+      ["Zhao Wei", "master of x"], 
+      ["Guo Wangshan", "manipulator of x, adversary of x"]
+    ],
+    "Shuang Mian Hu": [
+      ["Guo Wangshan", "same person as x (different identity)"], 
+      ["Qi Yue", "manipulated by x, employee of x"]
+    ],
+    "Guo Wangshan": [
+      ["Shuang Mian Hu", "same person as x (different identity)"], 
+      ["Qi Yue", "manipulated by x, employee of x"]
+    ],
+    "Zhao Qiuer": [
+      ["Qi Yue", "possibly family of x"], 
+      ["Zhao Luoyi", "master of x, friend of x"], 
+      ["Feng Zhu", "acquaintance of x"]
+    ],
+    "Feng Shuangji": [
+      ["Qi Yue", "colleague of x"], 
+      ["Zhao Qiuer", "subordinate of x"], 
+      ["Feng Zhu", "daughter of x"]
+    ],
+    "Feng Zhu": [
+      ["Qi Yue", "acquaintance of x"], 
+      ["Zhao Qiuer", "acquaintance of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Qi Yue", "employee of x"], 
+      ["Zhao Luoyi", "daughter of x"], 
+      ["Zhao Wei", "son of x"]
+    ],
+    "Zhao Luoyi": [
+      ["Qi Yue", "servant of x"], 
+      ["Zhao Qiuer", "friend of x, servant of x"], 
+      ["Zhao Wanlei", "father of x"]
+    ],
+    "Zhao Wei": [
+      ["Zhao Wanlei", "father of x"], 
+      ["Qi Yue", "servant of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "relative of x"]
+    ]
+}

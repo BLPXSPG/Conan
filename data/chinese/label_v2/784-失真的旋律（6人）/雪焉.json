@@ -1,0 +1,58 @@
+{
+    "罗雪嫣": [
+      ["罗万利", "father of x"], 
+      ["罗有诺", "brother of x"], 
+      ["阮太太", "landlord of x"], 
+      ["王子摩", "admired by x, dislike of x"], 
+      ["贵郎", "adoptive brother of x"], 
+      ["黑莉", "acquaintance of x"], 
+      ["齐故飞", "acquaintance of x"]
+    ],
+    "罗万利": [
+      ["罗雪嫣", "daughter of x"], 
+      ["罗有诺", "son of x"], 
+      ["阮太太", "landlord of x"]
+    ],
+    "阮太太": [
+      ["罗雪嫣", "tenant of x, adoptive daughter of x"], 
+      ["罗万利", "tenant of x, adoptive son of x"], 
+      ["望娣", "daughter of x"], 
+      ["招楠", "daughter of x"], 
+      ["贵郎", "son of x"]
+    ],
+    "王子摩": [
+      ["罗雪嫣", "admirer of x"], 
+      ["招楠", "wife of x"], 
+      ["黑莉", "acquaintance of x"]
+    ],
+    "招楠": [
+      ["阮太太", "mother of x"], 
+      ["望娣", "sister of x"], 
+      ["贵郎", "brother of x"], 
+      ["王子摩", "husband of x"]
+    ],
+    "望娣": [
+      ["阮太太", "mother of x"], 
+      ["招楠", "sister of x"], 
+      ["贵郎", "brother of x"]
+    ],
+    "贵郎": [
+      ["阮太太", "mother of x"], 
+      ["招楠", "sister of x"], 
+      ["望娣", "sister of x"], 
+      ["罗雪嫣", "adoptive sister of x"]
+    ],
+    "黑莉": [
+      ["齐故飞", "adoptive brother of x"], 
+      ["王子摩", "acquaintance of x"], 
+      ["罗雪嫣", "acquaintance of x"]
+    ],
+    "齐故飞": [
+      ["黑莉", "adoptive sister of x"], 
+      ["罗雪嫣", "acquaintance of x"]
+    ],
+    "罗有诺": [
+      ["罗万利", "father of x"], 
+      ["罗雪嫣", "sister of x"]
+    ]
+}

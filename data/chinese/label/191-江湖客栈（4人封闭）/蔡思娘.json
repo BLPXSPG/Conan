@@ -1,0 +1,32 @@
+{
+  "蔡思娘": [
+    ["张红生", "Employer of X, Admired by X"],
+    ["孟三春", "Employer of X"],
+    ["洪江水", "Colleague of x, admirer of x"],
+    ["张金银", "Employer of X"]
+  ],
+  "张红生": [
+    ["蔡思娘", "admirer of x, Employee of X"],
+    ["孟三春", "Husband of X"],
+    ["洪江水", "Colleague of X"],
+    ["张金银", "Employer of X"]
+  ],
+  "孟三春": [
+    ["蔡思娘", "Employee of X, Dislike of X"],
+    ["张红生", "Wife of X"],
+    ["洪江水", "Employee of X"],
+    ["张金银", "Business Partner of X"]
+  ],
+  "洪江水": [
+    ["蔡思娘", "Colleague of X, Admired by X"],
+    ["张红生", "Colleague of X"],
+    ["孟三春", "Employer of X"],
+    ["张金银", "Employer of X"]
+  ],
+  "张金银": [
+    ["蔡思娘", "Employee of X"],
+    ["张红生", "Employee of X"],
+    ["孟三春", "Business Partner of X"],
+    ["洪江水", "Employee of X"]
+  ]
+}

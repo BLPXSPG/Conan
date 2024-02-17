@@ -1,0 +1,25 @@
+{
+    "Lu Ying": [
+      ["Xuan Can", "mentor of x, subordinate of x"], 
+      ["Suspicious Person", "suspected by x"], 
+      ["Du Zhong", "mentor of x, subordinate of x"], 
+      ["Ling Xiao", "schoolmate of x"], 
+      ["Zi Su", "schoolmate of x"], 
+      ["Lover", "romantic relationships with x"]
+    ],
+    "Lover": [
+      ["Lu Ying", "romantic relationships with x"]
+    ],
+    "Du Zhong": [
+      ["Lu Ying", "student of x, superior of x"]
+    ],
+    "Ling Xiao": [
+      ["Lu Ying", "schoolmate of x"]
+    ],
+    "Zi Su": [
+      ["Lu Ying", "schoolmate of x"]
+    ],
+    "Xuan Can": [
+      ["Lu Ying", "mentor of x, subordinate of x"]
+    ]
+}

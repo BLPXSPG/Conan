@@ -1,0 +1,52 @@
+{
+    "宇祖成木": [
+      ["李子材", "brother of X"],
+      ["段和君", "Ex-romantic relationships with X"],
+      ["夏伯龙", "Rival in love of X"],
+      ["夏三虎", "Schoolmate of x, friend of x, Deceived by X, Debtor of X"],
+      ["田吉秀一", "Superior of X, Manipulator of X"],
+      ["李骆明", "Nephew of X, Quest Companion of X"],
+      ["安琪", "Admirer of X, Creditor of X, friend of X"],
+      ["段约同", "information receiver from x"],
+      ["李子俊", "Same person as X (different identity)"]
+    ],
+    "李子俊": [
+      ["宇祖成木", "Same person as X (different identity)"]
+    ],
+    "李子材": [
+      ["宇祖成木", "Brother of X"],
+      ["吴百安", "Schoolmate of X, Quest Companion of X"]
+    ],
+    "段和君": [
+      ["宇祖成木", "Ex-romantic relationships with X, betrayed by X"],
+      ["夏伯龙", "Extramarital Affair with X"]
+    ],
+    "夏伯龙": [
+      ["宇祖成木", "Rival in love of X"],
+      ["夏三虎", "brother of X"]
+    ],
+    "夏三虎": [
+      ["夏伯龙", "Brother of X, Victim of X"],
+      ["宇祖成木", "Deceiver of X"],
+      ["李骆明", "Deceiver of X, Subordinate of X"]
+    ],
+    "吴百安": [
+      ["李子材", "Schoolmate of X, Quest Companion of X"]
+    ],
+    "李骆明": [
+      ["宇祖成木", "Uncle of X, Quest Companion of X"],
+      ["夏三虎", "Superior of X, Deceived by X"],
+      ["李子材", "father of X"],
+      ["阿明", "Same person as X (different reference)"]
+    ],
+    "阿明": [
+      ["李骆明", "Same person as X (different reference)"]
+    ],
+    "安琪": [
+      ["宇祖成木", "Admirer of X, Debtor of X, friend of X"]
+    ],
+    "段约同": [
+      ["宇祖成木", "Informant of X"]
+    ]
+  }
+  

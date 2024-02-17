@@ -1,0 +1,200 @@
+{
+    "Sylvia Costa": [
+        [
+            "Hans Li Morette",
+            "Colleague of X, Manipulated by X, Deceived by X"
+        ],
+        [
+            "Mother",
+            "Mother of X"
+        ],
+        [
+            "Gale Li Morette",
+            "Lawyer of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Andrew Paloski",
+            "Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X"
+        ],
+        [
+            "Richard Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "James Lai Li",
+            "Creditor of X, Manipulator of X"
+        ],
+        [
+            "Jim Mason",
+            "Victim of X"
+        ],
+        [
+            "Head Nurse Costa",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Head Nurse Costa": [
+        [
+            "Sylvia Costa",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Mother": [
+        [
+            "Sylvia Costa",
+            "Daughter of X"
+        ]
+    ],
+    "Jim Mason": [
+        [
+            "Sylvia Costa",
+            "Perpetrator of X"
+        ],
+        [
+            "Hans Li Morette",
+            "perpetrator of x"
+        ]
+    ],
+    "James Lai Li": [
+        [
+            "Sylvia Costa",
+            "Manipulated by X, Debtor of X"
+        ]
+    ],
+    "Hans Li Morette": [
+        [
+            "Sylvia Costa",
+            "Colleague of X, Manipulator of X, Deceiver of X"
+        ],
+        [
+            "Richard Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Gale Li Morette",
+            "Wife of X"
+        ],
+        [
+            "Jim Mason",
+            "Victim of X, Patient of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Brother of X, Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X"
+        ],
+        [
+            "Andrew Paloski",
+            "Colleague of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague of X"
+        ]
+    ],
+    "Gale Li Morette": [
+        [
+            "Sylvia Costa",
+            "Customer of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Husband of X"
+        ]
+    ],
+    "Drake Li Morette": [
+        [
+            "Richard Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Brother of X, Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X"
+        ],
+        [
+            "Andrew Paloski",
+            "Colleague of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague of X"
+        ]
+    ],
+    "Andrew Paloski": [
+        [
+            "Richard Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Colleague of X, Student of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague of X"
+        ]
+    ],
+    "Elaine Carter": [
+        [
+            "Richard Berkeley",
+            "Superior of X, Colleague of X"
+        ],
+        [
+            "Andrew Paloski",
+            "Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Colleague of X"
+        ],
+        [
+            "Sylvia Costa",
+            "Colleague of X"
+        ]
+    ],
+    "Richard Berkeley": [
+        [
+            "Sylvia Costa",
+            "Subordinate of X, Colleague of X"
+        ],
+        [
+            "Drake Li Morette",
+            "Subordinate of X, Colleague of X"
+        ],
+        [
+            "Hans Li Morette",
+            "Subordinate of X, Colleague of X"
+        ],
+        [
+            "Elaine Carter",
+            "Subordinate of X, Colleague of X"
+        ]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "Cai Siniang": [
+        [
+            "Zhang Hongsheng",
+            "Employer of X, Admired by X"
+        ],
+        [
+            "Meng Sanchun",
+            "Employer of X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Colleague of x, admirer of x"
+        ],
+        [
+            "Zhang Jinyin",
+            "Employer of X"
+        ]
+    ],
+    "Zhang Hongsheng": [
+        [
+            "Cai Siniang",
+            "admirer of x, Employee of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Husband of X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Colleague of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Employer of X"
+        ]
+    ],
+    "Meng Sanchun": [
+        [
+            "Cai Siniang",
+            "Employee of X, Dislike of X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Wife of X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Employee of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Business Partner of X"
+        ]
+    ],
+    "Hong Jiangshui": [
+        [
+            "Cai Siniang",
+            "Colleague of X, Admired by X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Colleague of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Employer of X"
+        ],
+        [
+            "Zhang Jinyin",
+            "Employer of X"
+        ]
+    ],
+    "Zhang Jinyin": [
+        [
+            "Cai Siniang",
+            "Employee of X"
+        ],
+        [
+            "Zhang Hongsheng",
+            "Employee of X"
+        ],
+        [
+            "Meng Sanchun",
+            "Business Partner of X"
+        ],
+        [
+            "Hong Jiangshui",
+            "Employee of X"
+        ]
+    ]
+}

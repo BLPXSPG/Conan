@@ -1,0 +1,84 @@
+{
+    "巴隼": [
+      ["巴府山", "father of x"], 
+      ["苗氏", "mother of x"], 
+      ["苗纳", "uncle of x, superior of x"], 
+      ["山灵", "superior of x, rival of x"], 
+      ["娟歌", "older sister of x"], 
+      ["李高柏", "classmate of x"], 
+      ["忱纱", "friend of x"], 
+      ["成年男人", "killed by x"]
+    ],
+    "巴府山": [
+      ["巴隼", "son of x"], 
+      ["苗氏", "wife of x"], 
+      ["山灵", "superior of x, rival of x"], 
+      ["苗纳", "brother in law of x, superior of x"], 
+      ["娟歌", "daughter of x"], 
+      ["周教授", "guest of x"], 
+      ["忱纱", "guest of x"], 
+      ["实习生", "guest of x"], 
+      ["鬼印", "friend of x, son in law of x"]
+    ],
+    "山灵": [
+      ["巴隼", "subordinate of x, rival of x"], 
+      ["巴府山", "subordinate of x, rival of x"], 
+      ["苗纳", "subordinate of x"], 
+      ["苗氏", "subordinate of x"], 
+      ["娟歌", "subordinate of x"], 
+      ["鬼印", "subordinate of x"]
+    ],
+    "苗纳": [
+      ["巴隼", "nephew of x"], 
+      ["巴府山", "brother in law of x"], 
+      ["苗氏", "sister of x"], 
+      ["鬼印", "student of x"], 
+      ["如娅", "daughter of x"], 
+      ["娟歌", "niece of x"], 
+      ["山灵", "superior of x"]
+    ],
+    "苗氏": [
+      ["巴隼", "son of x"], 
+      ["巴府山", "husband of x"], 
+      ["苗纳", "brother of x"], 
+      ["娟歌", "daughter of x"]
+    ],
+    "鬼印": [
+      ["苗纳", "master of x"], 
+      ["娟歌", "fiance of x"], 
+      ["巴府山", "father in law of x"], 
+      ["山灵", "superior of x"]
+    ],
+    "如娅": [
+      ["苗纳", "father of x"]
+    ],
+    "娟歌": [
+      ["巴隼", "younger brother of x"], 
+      ["巴府山", "father of x"], 
+      ["苗纳", "uncle of x"], 
+      ["苗氏", "mother of x"], 
+      ["鬼印", "fiance of x"]
+    ],
+    "李高柏": [
+      ["巴隼", "classmate of x"]
+    ],
+    "周教授": [
+      ["忱纱", "daughter of x"], 
+      ["巴府山", "host of x"], 
+      ["实习生", "employee of x"]
+    ],
+    "忱纱": [
+      ["周教授", "father of x"], 
+      ["巴隼", "friend of x, secret admirer of x"], 
+      ["实习生", "colleague of x"], 
+      ["巴府山", "host of x"]
+    ],
+    "实习生": [
+      ["周教授", "employer of x"], 
+      ["忱纱", "colleague of x"], 
+      ["巴府山", "host of x"]
+    ],
+    "成年男人": [
+      ["巴隼", "murderer of x"]
+    ]
+}

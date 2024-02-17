@@ -1,0 +1,80 @@
+{
+    "贵叔": [
+      ["杜贵成", "Same person as X (different reference)"], 
+      ["杜辉信", "Father of X"], 
+      ["孟老爷", "Employer of X"], 
+      ["虞医师", "Acquaintance of X"], 
+      ["云凌", "Acquaintance of X"], 
+      ["姚仲义", "Acquaintance of X"], 
+      ["陈均梦", "Acquaintance of X"], 
+      ["红夫人", "Acquaintance of X"], 
+      ["姚长寿", "Acquaintance of X"]
+    ],
+    "杜贵成": [
+      ["贵叔", "Same person as X (different reference)"], 
+      ["杜辉信", "Father of X"], 
+      ["孟老爷", "Employer of X"], 
+      ["虞医师", "Acquaintance of X"], 
+      ["云凌", "Acquaintance of X"], 
+      ["姚仲义", "Acquaintance of X"], 
+      ["陈均梦", "Acquaintance of X"], 
+      ["红夫人", "Acquaintance of X"], 
+      ["姚长寿", "Acquaintance of X"]
+    ],
+    "杜辉信": [
+      ["贵叔", "Son of X"], 
+      ["杜贵成", "Son of X"], 
+      ["孟老爷", "Employer of X"]
+    ],
+    "孟老爷": [
+      ["贵叔", "Employee of X"], 
+      ["杜贵成", "Employee of X"], 
+      ["杜辉信", "Employee of X"]
+    ],
+    "虞医师": [
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"], 
+      ["陈均梦", "Sister in law of X"], 
+      ["姚仲义", "Employer of X"]
+    ],
+    "云凌": [
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"],
+      ["短发女人", "Same person as X (different reference)"]
+    ],
+    "姚仲义": [
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"], 
+      ["虞医师", "Employee of X"], 
+      ["陈均梦", "Sister in law of X"], 
+      ["红夫人", "Adoptive mother of X"], 
+      ["姚长寿", "Father of X"]
+    ],
+    "陈均梦": [
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"], 
+      ["虞医师", "Brother in law of X"], 
+      ["姚仲义", "Brother in law of X"],
+      ["长发姑娘", "Same person as X (different reference)"]
+    ],
+    "红夫人": [
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"], 
+      ["姚仲义", "Adoptive son of X"], 
+      ["姚长寿", "Husband of X"]
+    ],
+    "姚长寿": [
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"], 
+      ["姚仲义", "Son of X"], 
+      ["红夫人", "Wife of X"]
+    ],
+    "长发姑娘": [
+      ["贵叔", "Acquaintance of X"], 
+      ["杜贵成", "Acquaintance of X"],
+      ["陈均梦", "Same person as X (different reference)"]
+    ],
+    "短发女人": [
+      ["云凌", "Same person as X (different reference)"]
+    ]
+}

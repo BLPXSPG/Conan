@@ -1,0 +1,14 @@
+{
+    "紫苏": [
+        ["杜仲", "Jealous of X, Mentor of X, Superior of X"],
+        ["玄冰教神曲使", "Acquaintance of X, Superior of X"]
+    ],
+    "杜仲": [
+      ["紫苏", "Student of X"],
+      ["玄冰教神曲使", "Adversary of X"]
+    ],
+    "玄冰教神曲使": [
+      ["紫苏", "Acquaintance of X, Subordinate of X"]
+    ]
+  }
+  

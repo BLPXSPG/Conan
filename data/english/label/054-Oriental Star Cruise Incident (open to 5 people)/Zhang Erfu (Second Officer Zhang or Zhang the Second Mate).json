@@ -1,0 +1,64 @@
+{
+    "Zhang Wenyuan": [
+        [
+            "Liu Qi",
+            "dislike of X, Superior of X"
+        ],
+        [
+            "Hong Zilian",
+            "Dislike of X"
+        ],
+        [
+            "Han Yimu",
+            "Acquaintance of X"
+        ],
+        [
+            "Xiu Renjie",
+            "Acquaintance of X"
+        ],
+        [
+            "Lin Ruotong",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)",
+            "same person as x (different reference)"
+        ]
+    ],
+    "Liu Qi": [
+        [
+            "Zhang Wenyuan",
+            "Bully of X, Subordinate of X, dislike of X"
+        ]
+    ],
+    "Hong Zilian": [
+        [
+            "Zhang Wenyuan",
+            "Dislike of X"
+        ]
+    ],
+    "Han Yimu": [
+        [
+            "Zhang Wenyuan",
+            "Acquaintance of X"
+        ]
+    ],
+    "Xiu Renjie": [
+        [
+            "Zhang Wenyuan",
+            "Acquaintance of X"
+        ]
+    ],
+    "Lin Ruotong": [
+        [
+            "Zhang Wenyuan",
+            "Acquaintance of X"
+        ]
+    ],
+    "Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)": [
+        [
+            "Zhang Wenyuan",
+            "same person as x (different reference)"
+        ]
+    ]
+}

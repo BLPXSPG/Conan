@@ -1,0 +1,28 @@
+{
+    "Lin Ruotong": [
+      ["Liu Qi", "fondness of x, helper of x"], 
+      ["Hong Zilian", "romantic relationships with x"], 
+      ["Zhang Wenyuan", "acquaintance of x"], 
+      ["Han Yimu", "dislike of x"], 
+      ["Xiu Renjie", "superior of x"], 
+      ["Singer Lin", "same person as x (different reference)"]
+    ],
+    "Liu Qi": [
+      ["Lin Ruotong", "fondness of x, secret admirer of x"]
+    ],
+    "Hong Zilian": [
+      ["Lin Ruotong", "romantic relationships with x"]
+    ],
+    "Zhang Wenyuan": [
+      ["Lin Ruotong", "acquaintance of x"]
+    ],
+    "Han Yimu": [
+      ["Lin Ruotong", "dislike of x"]
+    ],
+    "Xiu Renjie": [
+      ["Lin Ruotong", "subordinate of x"]
+    ],
+    "Singer Lin": [
+      ["Lin Ruotong", "same person as x (different reference)"]
+    ]
+}

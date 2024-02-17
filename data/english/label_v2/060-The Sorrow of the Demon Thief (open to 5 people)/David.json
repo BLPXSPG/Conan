@@ -1,0 +1,54 @@
+{
+    "Theatrical Work David": [
+      ["David", "same person as x (different reference)"]
+    ],
+    "Magician Gust": [
+      ["Gust", "same person as x (different reference)"]
+    ],
+    "Publicity Rowling": [
+      ["Theatrical Work David", "quest companion of x"], 
+      ["Magician Gust", "quest companion of x, victim of x"], 
+      ["Assistant Ella", "friend of x"], 
+      ["Rowling", "same person as x (different reference)"]
+    ],
+    "Assistant Ella": [
+      ["Magician Gust", "fondness of x"], 
+      ["Publicity Rowling", "friend of x"], 
+      ["Theatrical Work David", "acquaintance of x"], 
+      ["Ella", "same person as x (different reference)"]
+    ],
+    "Security Kevin": [
+      ["Kevin", "same person as x (different reference)"]
+    ],
+    "Logistics Griff": [
+      ["Griff", "same person as x (different reference)"]
+    ],
+    "Ella": [
+      ["Assistant Ella", "same person as x (different reference)"]
+    ],
+    "Gust": [
+      ["Theatrical Work David", "quest companion of x"], 
+      ["Publicity Rowling", "quest companion of x"], 
+      ["Assistant Ella", "acquaintance of x, admired by x"], 
+      ["Magician Gust", "same person as x (different reference)"]
+    ],
+    "Kevin": [
+      ["Theatrical Work David", "dislike of x"], 
+      ["Security Kevin", "same person as x (different reference)"]
+    ],
+    "Griff": [
+      ["Theatrical Work David", "dislike of x"], 
+      ["Logistics Griff", "same person as x (different reference)"]
+    ],
+    "Rowling": [
+      ["Publicity Rowling", "same person as x (different reference)"]
+    ],
+    "David": [
+      ["Magician Gust", "quest companion of x, murderer of x"], 
+      ["Publicity Rowling", "hate of x, quest companion of x"], 
+      ["Assistant Ella", "acquaintance of x"], 
+      ["Security Kevin", "hate of x"], 
+      ["Logistics Griff", "dislike of x"], 
+      ["Theatrical Work David", "same person as x (different reference)"]
+    ]
+}

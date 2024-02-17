@@ -1,0 +1,42 @@
+{
+    "何老六": [
+      ["李国富", "Superior of X, Crime Partner of X"], 
+      ["张洁", "Crime Partner of X, Colleague of X"], 
+      ["慕北", "Suspicious of X, Colleague of X"], 
+      ["王大哥", "Acquaintance of X"], 
+      ["王邻居", "Acquaintance of X"]
+    ],
+    "李国富": [
+      ["何老六", "Subordinate of X, Crime Partner of X"], 
+      ["张洁", "Subordinate of X, Dislike of X, Rival in love of X, Crime Partner of X, Colleague of X, murderer of x"], 
+      ["慕北", "Subordinate of X, Suspicious of X, Romantic relationships with X"], 
+      ["王邻居", "Acquaintance of X, Creditor of X"], 
+      ["王大哥", "Creditor of X"]
+    ],
+    "张洁": [
+      ["何老六", "Crime Partner of X, Colleague of X"], 
+      ["李国富", "Superior of X, Victim of X, Crime Partner of X"], 
+      ["慕北", "Suspicious of X, Colleague of X"], 
+      ["王邻居", "Acquaintance of X"]
+    ],
+    "慕北": [
+      ["何老六", "Dislike of X, Colleague of X"], 
+      ["李国富", "Romantic relationships with X, Superior of X"], 
+      ["张洁", "Fondness of X, Colleague of X"], 
+      ["警察", "Same person as X (different reference)"]
+    ],
+    "王大哥": [
+      ["何老六", "Acquaintance of X"], 
+      ["李国富", "Debtor of X"], 
+      ["王邻居", "Same person as X (different reference)"]
+    ],
+    "王邻居": [
+      ["李国富", "Debtor of X, Acquaintance of X"], 
+      ["何老六", "Acquaintance of X"], 
+      ["王大哥", "Same person as X (different reference)"], 
+      ["张洁", "Acquaintance of X"]
+    ],
+    "警察": [
+      ["慕北", "Same person as X (different reference)"]
+    ]
+}

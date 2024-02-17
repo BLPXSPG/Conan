@@ -1,0 +1,102 @@
+{
+    "Lin Xiaohua": [
+        [
+            "Zhang Eba",
+            "Fiance of X, Victim of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Secret admirer of X"
+        ],
+        [
+            "Hao Guimi",
+            "Friend of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Zhang Eba": [
+        [
+            "Lin Xiaohua",
+            "Fiance of X, Murderer of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Friend of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Zhao Shuaige": [
+        [
+            "Lin Xiaohua",
+            "Friend of X"
+        ],
+        [
+            "Zhang Eba",
+            "Friend of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ]
+    ],
+    "Hao Guimi": [
+        [
+            "Lin Xiaohua",
+            "Friend of X"
+        ]
+    ],
+    "Li Xiaodi": [
+        [
+            "Lin Xiaohua",
+            "Acquaintance of X"
+        ],
+        [
+            "Wang Xuexi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Acquaintance of X"
+        ]
+    ],
+    "Wang Xuexi": [
+        [
+            "Lin Xiaohua",
+            "Acquaintance of X"
+        ],
+        [
+            "Li Xiaodi",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhang Eba",
+            "Acquaintance of X"
+        ],
+        [
+            "Zhao Shuaige",
+            "Acquaintance of X"
+        ]
+    ]
+}

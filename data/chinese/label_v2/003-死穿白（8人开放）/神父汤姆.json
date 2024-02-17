@@ -1,0 +1,20 @@
+{
+    "神父汤姆": [
+      ["德雷克·里莫瑞特", "doctor of x"], 
+      ["托尼", "manipulated by x, deceived by x"], 
+      ["弗兰克", "employee of x"], 
+      ["帕洛斯基医生", "seeker of help from x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["神父汤姆", "patient of x"]
+    ],
+    "托尼": [
+      ["神父汤姆", "manipulator of x"]
+    ],
+    "弗兰克": [
+      ["神父汤姆", "employer of x"]
+    ],
+    "帕洛斯基医生": [
+      ["神父汤姆", "helper of x"]
+    ]
+}

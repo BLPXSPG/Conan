@@ -1,0 +1,184 @@
+{
+    "Cheng Ge": [
+        [
+            "Dr. Zhang",
+            "helper of x"
+        ],
+        [
+            "Liao Gongzi",
+            "stranger to x"
+        ],
+        [
+            "Lv Mingran",
+            "employer of x, victim of x"
+        ],
+        [
+            "Xinya",
+            "adoptive mother of x"
+        ],
+        [
+            "Tan Renchang",
+            "adoptive father of x, Deceived by X"
+        ],
+        [
+            "Hai You",
+            "Adoptive Sister of X"
+        ],
+        [
+            "Shang Zhi",
+            "acquaintance of x"
+        ],
+        [
+            "Hong Er",
+            "victim of x"
+        ],
+        [
+            "Mrs. Tan",
+            "adoptive mother of x"
+        ],
+        [
+            "A Fu",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "A Fu": [
+        [
+            "Cheng Ge",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Dr. Zhang": [
+        [
+            "Cheng Ge",
+            "helped by x"
+        ]
+    ],
+    "Liao Gongzi": [
+        [
+            "Cheng Ge",
+            "stranger to x"
+        ]
+    ],
+    "Lv Mingran": [
+        [
+            "Cheng Ge",
+            "employee of x, murderer of x"
+        ],
+        [
+            "Xinya",
+            "acquaintance of x"
+        ],
+        [
+            "Mrs. Wei",
+            "sister of x"
+        ],
+        [
+            "Hong Er",
+            "acquaintance of x"
+        ],
+        [
+            "Tan Renchang",
+            "acquaintance of x"
+        ]
+    ],
+    "Xinya": [
+        [
+            "Cheng Ge",
+            "adoptive son of x"
+        ],
+        [
+            "Lv Mingran",
+            "helper of x"
+        ],
+        [
+            "Tan Renchang",
+            "secret lover of x"
+        ],
+        [
+            "Hong Er",
+            "daughter of x"
+        ]
+    ],
+    "Luo Mingsha": [
+        [
+            "Tan Renchang",
+            "husband of x"
+        ]
+    ],
+    "Tan Renchang": [
+        [
+            "Cheng Ge",
+            "adoptive son of x, Deceiver of X"
+        ],
+        [
+            "Xinya",
+            "secret lover of x"
+        ],
+        [
+            "Hai You",
+            "adoptive daughter of x"
+        ],
+        [
+            "Shang Zhi",
+            "nephew of x"
+        ],
+        [
+            "Luo Mingsha",
+            "wife of x"
+        ]
+    ],
+    "Hai You": [
+        [
+            "Cheng Ge",
+            "Adoptive brother of X"
+        ],
+        [
+            "Tan Renchang",
+            "adoptive father of x"
+        ]
+    ],
+    "Shang Zhi": [
+        [
+            "Cheng Ge",
+            "acquaintance of x"
+        ],
+        [
+            "Tan Renchang",
+            "uncle of x"
+        ]
+    ],
+    "Hong Er": [
+        [
+            "Cheng Ge",
+            "murderer of x"
+        ],
+        [
+            "Xinya",
+            "mother of x"
+        ]
+    ],
+    "Mrs. Wei": [
+        [
+            "Lv Mingran",
+            "brother of x"
+        ],
+        [
+            "Mrs. Tan",
+            "friend of x"
+        ]
+    ],
+    "Mrs. Tan": [
+        [
+            "Tan Renchang",
+            "husband of x"
+        ],
+        [
+            "Cheng Ge",
+            "adoptive son of x"
+        ],
+        [
+            "Mrs. Wei",
+            "friend of x"
+        ]
+    ]
+}

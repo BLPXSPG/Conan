@@ -1,0 +1,47 @@
+{
+    "Guo Wangshan": [
+      ["Xiao Hunhun or Little Rascal", "manipulated by x, employee of x"], 
+      ["Zhao Wanlei", "victim of x, business partner of x"], 
+      ["Ren Shifu", "acquaintance of x"], 
+      ["Liao Laoban", "employer of x"], 
+      ["Huazi Li or Skunk", "informant of x, acquaintance of x"]
+    ],
+    "Xiao Hunhun or Little Rascal": [
+      ["Guo Wangshan", "manipulator of x, employer of x"]
+    ],
+    "Zhao Wanlei": [
+      ["Guo Wangshan", "business partner of x, attempted murderer of x"], 
+      ["Liao Laoban", "rival of x"], 
+      ["Feng Shuangji", "employee of x, servant of x"], 
+      ["Qi Yue", "employee of x, servant of x"]
+    ],
+    "Ren Shifu": [
+      ["Guo Wangshan", "acquaintance of x, student of x"], 
+      ["Liao Laoban", "student of x, employer of x"], 
+      ["Nuer or Daughter", "daughter of x"], 
+      ["Yu Yichen", "son in law of x"], 
+      ["Yin Shaoming", "grandson of x"]
+    ],
+    "Liao Laoban": [
+      ["Guo Wangshan", "employee of x"], 
+      ["Zhao Wanlei", "rival of x"], 
+      ["Ren Shifu", "master of x, employee of x, servant of x"]
+    ],
+    "Feng Shuangji": [
+      ["Zhao Wanlei", "employer of x"], 
+      ["Qi Yue", "colleague of x"], 
+      ["Yin Shaoming", "relative of x"], 
+      ["Guo Wangshan", "guest of x"]
+    ],
+    "Qi Yue": [
+      ["Zhao Wanlei", "colleague of x"], 
+      ["Feng Shuangji", "colleague of x"]
+    ],
+    "Yin Shaoming": [
+      ["Feng Shuangji", "relative of x"], 
+      ["Ren Shifu", "grandfather of x"]
+    ],
+    "Huazi Li or Skunk": [
+      ["Guo Wangshan", "acquaintance of x, information receiver from x"]
+    ]
+}

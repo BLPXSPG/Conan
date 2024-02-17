@@ -1,0 +1,134 @@
+{
+    "Davis Perry": [
+        [
+            "Marina Harrison",
+            "Secret lover of X, Sister in law of X"
+        ],
+        [
+            "Daniel Perry",
+            "Brother of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Sister in law of X"
+        ],
+        [
+            "John Morgan",
+            "Customer of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Niece of X"
+        ],
+        [
+            "Harold Harrison",
+            "Acquaintance of X"
+        ],
+        [
+            "Amy Morgan",
+            "Acquaintance of X"
+        ]
+    ],
+    "Daniel Perry": [
+        [
+            "Davis Perry",
+            "Brother of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Wife of X"
+        ]
+    ],
+    "Jacqueline Perry": [
+        [
+            "Daniel Perry",
+            "Husband of X"
+        ],
+        [
+            "Davis Perry",
+            "Brother in law of X"
+        ]
+    ],
+    "John Morgan": [
+        [
+            "Davis Perry",
+            "Lawyer of X, Murderer of X"
+        ],
+        [
+            "Amy Morgan",
+            "Wife of X"
+        ]
+    ],
+    "Marina Harrison": [
+        [
+            "Davis Perry",
+            "Secret lover of X, Brother in law of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Daughter of X"
+        ],
+        [
+            "Harold Harrison",
+            "Husband of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Sister of X"
+        ]
+    ],
+    "Lucy Harrison": [
+        [
+            "Davis Perry",
+            "Acquaintance of X"
+        ],
+        [
+            "Marina Harrison",
+            "Mother of X"
+        ],
+        [
+            "Harold Harrison",
+            "Father of X"
+        ]
+    ],
+    "Harold Harrison": [
+        [
+            "Davis Perry",
+            "Brother in law of X"
+        ],
+        [
+            "Marina Harrison",
+            "Wife of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Daughter of X"
+        ],
+        [
+            "Daniel Perry",
+            "Brother in law of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Sister in law of X"
+        ],
+        [
+            "Amy Morgan",
+            "Sister of X"
+        ]
+    ],
+    "Amy Morgan": [
+        [
+            "Davis Perry",
+            "Acquaintance of X"
+        ],
+        [
+            "John Morgan",
+            "Husband of X"
+        ],
+        [
+            "Harold Harrison",
+            "Brother of X"
+        ]
+    ]
+}

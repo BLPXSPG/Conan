@@ -1,0 +1,29 @@
+{
+    "王船工": [
+      ["张大副", "superior of x"], 
+      ["王小工", "son of x"], 
+      ["玲船医", "child of x"], 
+      ["杨老板", "hate of x"]
+    ],
+    "张大副": [
+      ["王船工", "subordinate of x"], 
+      ["王小工", "victim of x"], 
+      ["杨老板", "business partner of x"]
+    ],
+    "王小工": [
+      ["王船工", "father of x"], 
+      ["玲船医", "fiancee of x"], 
+      ["杨老板", "murderer of x"], 
+      ["张大副", "murderer of x"]
+    ],
+    "玲船医": [
+      ["王小工", "fiance of x"], 
+      ["王船工", "father of x"], 
+      ["杨老板", "creditor of x"]
+    ],
+    "杨老板": [
+      ["王小工", "victim of x"], 
+      ["张大副", "business partner of x"], 
+      ["玲船医", "debtor of x"]
+    ]
+}

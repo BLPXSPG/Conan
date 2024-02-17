@@ -1,0 +1,154 @@
+{
+    "Chen Junmeng": [
+        [
+            "Yao Mengren",
+            "Husband of X"
+        ],
+        [
+            "Chen Qingwu",
+            "Father of X"
+        ],
+        [
+            "Yao Changshou",
+            "Father in law of X"
+        ],
+        [
+            "Chen Shitian",
+            "Servant of X"
+        ],
+        [
+            "Lady Hong",
+            "mother of x"
+        ],
+        [
+            "Yao Zhongyi",
+            "Brother in law of X"
+        ],
+        [
+            "Uncle Gui",
+            "Doctor of X"
+        ],
+        [
+            "Chen Anqiao",
+            "Cousin of X, Servant of X"
+        ]
+    ],
+    "Yao Mengren": [
+        [
+            "Chen Junmeng",
+            "Wife of X"
+        ],
+        [
+            "Yao Changshou",
+            "Father of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Half brother of X"
+        ],
+        [
+            "Lady Hong",
+            "Adoptive mother of X"
+        ]
+    ],
+    "Chen Qingwu": [
+        [
+            "Chen Junmeng",
+            "Daughter of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ],
+        [
+            "Chen Shitian",
+            "Servant of X"
+        ]
+    ],
+    "Yao Changshou": [
+        [
+            "Yao Mengren",
+            "Son of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Daughter in law of X"
+        ],
+        [
+            "Master Meng",
+            "Employer of X"
+        ],
+        [
+            "Lady Hong",
+            "Wife of X"
+        ],
+        [
+            "Yao Zhongyi",
+            "Son of X"
+        ]
+    ],
+    "Master Meng": [
+        [
+            "Chen Qingwu",
+            "Employee of X"
+        ],
+        [
+            "Yao Changshou",
+            "Employee of X"
+        ]
+    ],
+    "Chen Shitian": [
+        [
+            "Chen Junmeng",
+            "Master of X"
+        ],
+        [
+            "Chen Qingwu",
+            "Brother of X"
+        ]
+    ],
+    "Lady Hong": [
+        [
+            "Yao Mengren",
+            "Adoptive son of X"
+        ],
+        [
+            "Yao Changshou",
+            "Husband of X"
+        ],
+        [
+            "Chen Junmeng",
+            "daughter of X"
+        ]
+    ],
+    "Yao Zhongyi": [
+        [
+            "Yao Mengren",
+            "Half brother of X"
+        ],
+        [
+            "Chen Junmeng",
+            "Sister in law of X"
+        ],
+        [
+            "Yao Changshou",
+            "Father of X"
+        ],
+        [
+            "Lady Hong",
+            "Adoptive mother of X"
+        ]
+    ],
+    "Uncle Gui": [
+        [
+            "Chen Junmeng",
+            "Patient of X"
+        ]
+    ],
+    "Chen Anqiao": [
+        [
+            "Chen Junmeng",
+            "Cousin of X, Master of X"
+        ]
+    ]
+}

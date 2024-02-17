@@ -1,0 +1,75 @@
+{
+    "周琏逸": [
+      ["周蒙当", "father of x"], 
+      ["于氏", "mother of x"], 
+      ["周持同", "uncle of x"], 
+      ["宿年", "uncle of x, friend of x"],  
+      ["嫣楠", "friend of x, Secret Crush of x"]
+    ],
+    "周蒙当": [
+      ["周琏逸", "son of x"], 
+      ["于氏", "wife of x"], 
+      ["周持同", "brother of x"], 
+      ["宿年", "brother in law of x"]
+    ],
+    "于氏": [
+      ["周琏逸", "son of x"], 
+      ["周蒙当", "husband of x"], 
+      ["周持同", "brother in law of x"], 
+      ["宿年", "brother of x"], 
+      ["汪氏", "Helper of X, master of x"],
+      ["崔寿亨", "master of x"]
+    ],
+    "汪氏":[
+      ["周琏逸", "Helped by X"],
+      ["于氏", "Helped by X, servant of x"],
+      ["嫣楠", "daughter of x"],
+      ["崔寿亨", "husband of X"],
+      ["昔颜", "sister of x"]
+    ],
+    "周持同": [
+      ["周琏逸", "nephew of x, friend of x"], 
+      ["周蒙当", "brother of x"], 
+      ["于宿年", "relative of X"], 
+      ["于氏", "sister in law of x"]
+    ],
+    "宿年": [
+      ["周琏逸", "nephew of x, friend of x"], 
+      ["周蒙当", "brother in law of x"], 
+      ["于氏", "sister of x"], 
+      ["周持同", "Relative of X"],
+      ["崔嫣楠", "friend of X"]
+    ],
+    "崔寿亨": [
+      ["于氏", "servant of x"],
+      ["于宿年", "business partner of X"], 
+      ["汪氏", "wife of x"], 
+      ["周蒙当", "business partner of x"], 
+      ["昔颜", "wife of x, sister in law of x"], 
+      ["嫣楠", "daughter of x"],
+      ["河嫂", "servant of x"],
+      ["宝柑", "servant of X"]
+    ],
+    "昔颜": [
+      ["崔寿亨", "husband of x, brother in law of x"],
+      ["汪氏", "sister of x"],
+      ["崔嫣楠", "step-daughter of X"]
+    ],
+    "嫣楠": [
+      ["崔寿亨", "father of x"], 
+      ["汪氏", "mother of x"],
+      ["周琏逸", "friend of x, Secret admirer of X"],
+      ["宿年", "friend of x"],  
+      ["崔嫣楠", "Same person as X (different reference)"],
+      ["昔颜", "step-mother of X, aunt of x"],
+      ["宝柑", "Servant of x"]
+    ],
+    "崔嫣楠": [
+      ["嫣楠", "Same person as X (different reference)"]
+    ],
+    "宝柑": [
+      ["崔寿亨", "master of x"], 
+      ["嫣楠", "master of x"], 
+      ["汪氏", "master of x"]
+    ]
+}

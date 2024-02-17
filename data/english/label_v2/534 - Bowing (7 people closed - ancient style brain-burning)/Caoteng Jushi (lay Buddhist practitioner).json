@@ -1,0 +1,37 @@
+{
+    "Caoteng Jushi (lay Buddhist practitioner)": [
+      ["Madam Fang", "adoptive mother of x, enemy of x"], 
+      ["Fang Xu", "older sister of x, lover of x"], 
+      ["Fang Ye", "brother of x, adversary of x"], 
+      ["Fang Mian", "sister of x, adversary of x"], 
+      ["Chen Zijing", "quest companion of x, friend of x"], 
+      ["Xiao Qian", "adoptive daughter of x, student of x"], 
+      ["Li Qinren", "rival of x"], 
+      ["Li Zhong", "biological son of x"], 
+      ["Li Yan", "biological son of x"], 
+      ["Daughter of Fang Ye", "saved by x, niece of x"], 
+      ["Er Yisi Bada", "same person as x (different reference)"]
+    ],
+    "Xiao Qian": [
+      ["Daughter of Fang Ye", "same person as x (different reference)"]
+    ],
+    "Daughter of Fang Ye": [
+      ["Chen Qian", "friend of x"], 
+      ["Xiao Qian", "same person as x (different reference)"]
+    ],
+    "Fang Zhu": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "same person as x (different reference)"]
+    ],
+    "Er Yisi Bada": [
+      ["Caoteng Jushi (lay Buddhist practitioner)", "same person as x (different reference)"]
+    ],
+    "Chen Qian": [
+      ["Xiao Qian", "friend of x"], 
+      ["Chen Zijing", "father of x"]
+    ],
+    "Chen Zijing": [
+      ["Chen Qian", "father of x"], 
+      ["Caoteng Jushi (lay Buddhist practitioner)", "quest companion of x, friend of x"], 
+      ["Li Qinren", "rival of x"]
+    ]
+}

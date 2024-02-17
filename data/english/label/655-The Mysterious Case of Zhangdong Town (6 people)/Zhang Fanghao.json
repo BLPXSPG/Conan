@@ -1,0 +1,164 @@
+{
+    "Zhang Fanghao": [
+        [
+            "Zhang Datong",
+            "father of X"
+        ],
+        [
+            "Cao Zonglei",
+            "teacher of X"
+        ],
+        [
+            "Yang Shuixun",
+            "friend of X"
+        ],
+        [
+            "Huan Ling",
+            "helped by X, wife of X"
+        ],
+        [
+            "Lan Rui",
+            "daughter of X"
+        ],
+        [
+            "Caiya",
+            "helped by X, lover of X"
+        ],
+        [
+            "Li Xiaoqi",
+            "employee of X"
+        ],
+        [
+            "Zhang Bailang",
+            "friend of X"
+        ]
+    ],
+    "Zhang Bailang": [
+        [
+            "Zhang Fanghao",
+            "friend of X"
+        ]
+    ],
+    "Li Xiaoqi": [
+        [
+            "Zhang Fanghao",
+            "employer of X"
+        ]
+    ],
+    "Caiya": [
+        [
+            "Zhang Fanghao",
+            "helper of X, secret admirer of X, lover of X"
+        ]
+    ],
+    "Wang Caiya": [
+        [
+            "Caiya",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Sai Chenyu": [
+        [
+            "Zhang Fanghao",
+            "admirer of X, helper of X, husband of X"
+        ],
+        [
+            "Yao Huanling",
+            "same person as X (different reference)"
+        ],
+        [
+            "Huan Ling",
+            "same person as X (different reference)"
+        ],
+        [
+            "Lan Rui",
+            "daughter of X"
+        ]
+    ],
+    "Yao Huanling": [
+        [
+            "Sai Chenyu",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Huan Ling": [
+        [
+            "Sai Chenyu",
+            "same person as X (different reference)"
+        ]
+    ],
+    "Lan Rui": [
+        [
+            "Zhang Fanghao",
+            "father of X"
+        ],
+        [
+            "Sai Chenyu",
+            "mother of X"
+        ],
+        [
+            "Minxi",
+            "classmate of X"
+        ],
+        [
+            "Xiting",
+            "classmate of X, friend of X"
+        ]
+    ],
+    "Man": [
+        [
+            "Zhang Fanghao",
+            "Murderer of X"
+        ],
+        [
+            "Sai Chenyu",
+            "adversary of X"
+        ]
+    ],
+    "Cao Zonglei": [
+        [
+            "Zhang Fanghao",
+            "student of X"
+        ]
+    ],
+    "Zhang Datong": [
+        [
+            "Zhang Fanghao",
+            "son of X"
+        ]
+    ],
+    "Yang Shuixun": [
+        [
+            "Zhang Fanghao",
+            "friend of X"
+        ],
+        [
+            "Minxi",
+            "daughter of X"
+        ]
+    ],
+    "Minxi": [
+        [
+            "Yang Shuixun",
+            "father of X"
+        ],
+        [
+            "Lan Rui",
+            "classmate of X"
+        ],
+        [
+            "Xiting",
+            "classmate of X"
+        ]
+    ],
+    "Xiting": [
+        [
+            "Minxi",
+            "classmate of X"
+        ],
+        [
+            "Lan Rui",
+            "classmate of X, friend of X"
+        ]
+    ]
+}

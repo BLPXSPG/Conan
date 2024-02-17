@@ -1,0 +1,42 @@
+{
+    "Wei Xiaodi": [
+      ["Wei Xiaodi's Father", "son of x"], 
+      ["Wei Xiaodi's Mother", "son of x"], 
+      ["Qin Expert", "adversary of x"], 
+      ["Qin Laoda", "schoolmate of x, victim of x"], 
+      ["Zhuang Qingchun", "schoolmate of x"], 
+      ["Jia Meili", "schoolmate of x"], 
+      ["Zheng Youhao", "schoolmate of x"]
+    ],
+    "Wei Xiaodi's Father": [
+      ["Wei Xiaodi", "father of x"], 
+      ["Qin Expert", "deceiver of x"]
+    ],
+    "Wei Xiaodi's Mother": [
+      ["Wei Xiaodi", "mother of x"]
+    ],
+    "Qin Expert": [
+      ["Wei Xiaodi's Father", "hate of x, deceived by x"], 
+      ["Qin Laoda", "son of x, hate of x"]
+    ],
+    "Qin Laoda": [
+      ["Wei Xiaodi", "schoolmate of x, hate of x, murderer of x"], 
+      ["Zhuang Qingchun", "schoolmate of x"], 
+      ["Jia Meili", "schoolmate of x"], 
+      ["Zheng Youhao", "schoolmate of x"]
+    ],
+    "Zhuang Qingchun": [
+      ["Wei Xiaodi", "schoolmate of x"], 
+      ["Qin Laoda", "schoolmate of x"], 
+      ["Jia Meili", "friend of x"]
+    ],
+    "Jia Meili": [
+      ["Wei Xiaodi", "schoolmate of x"], 
+      ["Qin Laoda", "schoolmate of x"], 
+      ["Zhuang Qingchun", "friend of x"]
+    ],
+    "Zheng Youhao": [
+      ["Wei Xiaodi", "schoolmate of x"], 
+      ["Qin Laoda", "schoolmate of x"]
+    ]
+}

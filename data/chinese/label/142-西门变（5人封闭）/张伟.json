@@ -1,0 +1,33 @@
+{
+    "张伟": [
+        ["赵中杨", "Victim of X, Master of X"], 
+        ["赵中正", "Acquaintance of X"], 
+        ["陈媚儿", "Acquaintance of X"], 
+        ["李成", "Colleague of X"], 
+        ["赵三", "Business Partner of X"], 
+        ["马老板", "Business Partner of X"]
+    ], 
+    "赵中杨": [
+        ["张伟", "Murderer of X, Servant of X"], 
+        ["陈媚儿", "Romantic relationships with X"], 
+        ["李成", "Colleague of X"]
+    ], 
+    "陈媚儿": [
+        ["赵中杨", "Romantic relationships with X"], 
+        ["张伟", "Acquaintance of X"]
+    ], 
+    "李成": [
+        ["赵中杨", "Master of X"], 
+        ["张伟", "Colleague of X"]
+    ],
+    "赵中正": [
+        ["赵三", "Employee of X"]
+    ],
+    "赵三": [
+        ["张伟", "Business Partner of X"],
+        ["赵中正", "Master of X"]
+    ], 
+    "马老板": [
+        ["张伟", "Business Partner of X"]
+    ]
+}

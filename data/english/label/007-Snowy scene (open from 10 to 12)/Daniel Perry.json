@@ -1,0 +1,184 @@
+{
+    "Daniel Perry": [
+        [
+            "Jacqueline Perry",
+            "Wife of X"
+        ],
+        [
+            "Marina Harrison",
+            "Sister in law of X, Lover of X"
+        ],
+        [
+            "Harold Harrison",
+            "Brother in law of X"
+        ],
+        [
+            "Lucy Harrison",
+            "biological daughter of x"
+        ],
+        [
+            "Davis Perry",
+            "Brother of X"
+        ],
+        [
+            "Robin Fey",
+            "Colleague of X"
+        ],
+        [
+            "Amy",
+            "Acquaintance of X"
+        ],
+        [
+            "John Morgan",
+            "Acquaintance of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Son of X"
+        ],
+        [
+            "Joe Robertson",
+            "Acquaintance of X"
+        ]
+    ],
+    "Davis Perry": [
+        [
+            "Daniel Perry",
+            "Brother of X"
+        ],
+        [
+            "Jonathan",
+            "Cousin of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Sister in law of X"
+        ]
+    ],
+    "Jacqueline Perry": [
+        [
+            "Marina Harrison",
+            "Sister of X"
+        ],
+        [
+            "Daniel Perry",
+            "Husband of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Son of X"
+        ]
+    ],
+    "Marina Harrison": [
+        [
+            "Daniel Perry",
+            "Brother in law of X, Lover of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Daughter of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Sister of X"
+        ],
+        [
+            "Harold Harrison",
+            "Husband of X"
+        ]
+    ],
+    "Harold Harrison": [
+        [
+            "Marina Harrison",
+            "Wife of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Daughter of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Sister in law of X"
+        ],
+        [
+            "Daniel Perry",
+            "Brother in law of X"
+        ]
+    ],
+    "Lucy Harrison": [
+        [
+            "Marina Harrison",
+            "Mother of X"
+        ],
+        [
+            "Harold Harrison",
+            "Father of X"
+        ],
+        [
+            "Daniel Perry",
+            "Uncle of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Aunt of X"
+        ],
+        [
+            "Jonathan Perry",
+            "Cousin of X"
+        ]
+    ],
+    "Jonathan Perry": [
+        [
+            "Daniel Perry",
+            "Father of X"
+        ],
+        [
+            "Jacqueline Perry",
+            "Mother of X"
+        ],
+        [
+            "Marina Harrison",
+            "Aunt of X"
+        ],
+        [
+            "Harold Harrison",
+            "Uncle of X"
+        ],
+        [
+            "Lucy Harrison",
+            "Cousin of X"
+        ]
+    ],
+    "Amy Morgan": [
+        [
+            "Daniel Perry",
+            "Acquaintance of X"
+        ],
+        [
+            "John Morgan",
+            "Husband of X"
+        ]
+    ],
+    "John Morgan": [
+        [
+            "Amy Morgan",
+            "Wife of X"
+        ],
+        [
+            "Daniel Perry",
+            "Acquaintance of X"
+        ]
+    ],
+    "Robin Fey": [
+        [
+            "Daniel Perry",
+            "Colleague of X"
+        ]
+    ],
+    "Joe Robertson": [
+        [
+            "Daniel Perry",
+            "Acquaintance of X"
+        ]
+    ]
+}

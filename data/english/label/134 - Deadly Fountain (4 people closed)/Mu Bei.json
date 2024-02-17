@@ -1,0 +1,60 @@
+{
+    "Mu Bei": [
+        [
+            "Li Guofu",
+            "Superior of X"
+        ],
+        [
+            "He Laoliu",
+            "Colleague of X"
+        ],
+        [
+            "Zhang Jie",
+            "Colleague of X"
+        ],
+        [
+            "Police",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "Li Guofu": [
+        [
+            "Mu Bei",
+            "Subordinate of X, Suspicious of X"
+        ],
+        [
+            "He Laoliu",
+            "Subordinate of X"
+        ],
+        [
+            "Zhang Jie",
+            "Subordinate of X"
+        ]
+    ],
+    "He Laoliu": [
+        [
+            "Mu Bei",
+            "Colleague of X, Suspicious of X"
+        ],
+        [
+            "Li Guofu",
+            "Superior of X"
+        ]
+    ],
+    "Zhang Jie": [
+        [
+            "Mu Bei",
+            "Colleague of X, Suspicious of X"
+        ],
+        [
+            "Li Guofu",
+            "Superior of X"
+        ]
+    ],
+    "Police": [
+        [
+            "Mu Bei",
+            "Same person as X (different reference)"
+        ]
+    ]
+}

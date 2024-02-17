@@ -1,0 +1,140 @@
+{
+    "陈府主": [
+        [
+            "特尔特拉福德",
+            "Same person as X (different reference)"
+        ],
+        [
+            "陈孜靖",
+            "Same person as X (different reference)"
+        ],
+        [
+            "李王爷",
+            "friend of X, quest companion of X, future relative of X"
+        ],
+        [
+            "尔矢斯芭嗒",
+            "superior of X"
+        ],
+        [
+            "陈倩",
+            "daughter of X"
+        ],
+        [
+            "李仲",
+            "son in law of x"
+        ]
+    ],
+    "特尔特拉福德": [
+        [
+            "陈府主",
+            "Same person as X (different reference)"
+        ],
+        [
+            "陈孜靖",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "陈孜靖": [
+        [
+            "陈府主",
+            "Same person as X (different reference)"
+        ],
+        [
+            "特尔特拉福德",
+            "Same person as X (different reference)"
+        ]
+    ],
+    "李王爷": [
+        [
+            "陈府主",
+            "friend of X"
+        ],
+        [
+            "方絮",
+            "wife of X"
+        ],
+        [
+            "李仲",
+            "son of X"
+        ],
+        [
+            "李延",
+            "son of X"
+        ]
+    ],
+    "尔矢斯芭嗒": [
+        [
+            "陈府主",
+            "friend of X"
+        ],
+        [
+            "小茜",
+            "adoptive daughter of X"
+        ]
+    ],
+    "李仲": [
+        [
+            "陈府主",
+            "father in law of X"
+        ],
+        [
+            "陈倩",
+            "fiance of X"
+        ],
+        [
+            "李王爷",
+            "father of X"
+        ],
+        [
+            "李延",
+            "younger brother of X"
+        ]
+    ],
+    "陈倩": [
+        [
+            "陈府主",
+            "father of X"
+        ],
+        [
+            "李王爷",
+            "father in law of X"
+        ],
+        [
+            "李仲",
+            "fiance of X"
+        ],
+        [
+            "小茜",
+            "friend of X"
+        ]
+    ],
+    "李延": [
+        [
+            "李王爷",
+            "father of X"
+        ],
+        [
+            "李仲",
+            "older brother of X"
+        ]
+    ],
+    "方絮": [
+        [
+            "陈府主",
+            "friend of X"
+        ],
+        [
+            "李王爷",
+            "husband of X"
+        ],
+        [
+            "李仲",
+            "son of X"
+        ],
+        [
+            "李延",
+            "son of X"
+        ]
+    ]
+}

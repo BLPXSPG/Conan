@@ -1,0 +1,53 @@
+{
+    "Ge Jixian": [
+      ["Ge Yueluo", "daughter of x"], 
+      ["Ge Yueman", "daughter of x"]
+    ],
+    "Ge Yueluo": [
+      ["Ge Jixian", "father of x"], 
+      ["Zhu Lingshan", "husband of x, manipulated by x, bully of x"], 
+      ["Ge Yueman", "sister of x, same person as x (different identity)"], 
+      ["Mrs. Zhang", "friend of x, victim of x, saviour of x"], 
+      ["Le Wan", "acquaintance of x"], 
+      ["Xue Dacai", "acquaintance of x, victim of x"], 
+      ["Xue Yufan", "acquaintance of x"], 
+      ["Yu Shangyong", "information receiver from x, suspect of x, victim of x"], 
+      ["Zhang Junshi", "extramarital affair with x"], 
+      ["Ge Jixian", "child of x"], 
+      ["Mrs. Zhang", "same person as x (different identity)"], 
+      ["Ge Yueman", "same person as x (different reference)"]
+    ],
+    "Ge Yueman": [
+      ["Ge Yueluo", "same person as x (different reference)"]
+    ],
+    "Mrs. Zhang": [
+      ["Ge Yueluo", "friend of x,  victim of x"], 
+      ["Ge Yueman", "same person as x (different identity)"], 
+      ["Zhang Junshi", "extramarital affair with x"], 
+      ["Zhi Jun", "acquaintance of x"], 
+      ["Le Wan", "acquaintance of x"]
+    ],
+    "Zhu Lingshan": [
+      ["Ge Yueluo", "wife of x, manipulated by x, suspect of x"], 
+      ["Xue Dacai", "acquaintance of x"]
+    ],
+    "Xue Dacai": [
+      ["Ge Yueluo", "victim of x"], 
+      ["Zhu Lingshan", "acquaintance of x"]
+    ],
+    "Le Wan": [
+      ["Ge Yueluo", "acquaintance of x"], 
+      ["Mrs. Zhang", "acquaintance of x"]
+    ],
+    "Zhang Junshi": [
+      ["Ge Yueman", "extramarital affair with x"], 
+      ["Mrs. Zhang", "same person as x (different identity)"]
+    ],
+    "Zhi Jun": [
+      ["Mrs. Zhang", "acquaintance of x"]
+    ],
+    "Yu Shangyong": [
+      ["Ge Yueluo", "victim of x"], 
+      ["Ge Yueman", "suspect of x"]
+    ]
+}

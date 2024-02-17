@@ -1,0 +1,34 @@
+{
+    "护士长科斯塔": [
+      ["汉斯·里莫瑞特", "deceived by x, manipulated by x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["西尔维娅·科斯塔", "deceiver of x, manipulator of x"], 
+      ["盖尔·里莫瑞特", "attempted murderer of x, betrayer of x, wife of x"], 
+      ["德雷克·里莫瑞特", "brother of x, rival in love of x"], 
+      ["安德鲁·帕洛斯基", "jealous of x, mentor of x, rival of x"], 
+      ["吉姆梅森", "in the lawsuit against x, patient of x, victim of x"]
+    ],
+    "吉姆·梅森": [
+      ["汉斯·里莫瑞特", "doctor of x, in the lawsuit against x, perpetrator of x"]
+    ],
+    "盖尔·里莫瑞特": [
+      ["汉斯·里莫瑞特", "betrayed by x, husband of x"], 
+      ["德雷克·里莫瑞特", "brother in law of x, extramarital affair with x, victim of x"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["汉斯·里莫瑞特", "brother of x, rival in love of x"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["理查德·伯克利", "quest companion of x"]
+    ],
+    "理查德·伯克利": [
+      ["德雷克·里莫瑞特", "subordinate of x"], 
+      ["汉斯·里莫瑞特", "subordinate of x"], 
+      ["伊莱恩·卡特尔", "quest companion of x"]
+    ],
+    "安德鲁·帕洛斯基": [
+      ["汉斯·里莫瑞特", "rival of x, unsuccessful helper of x"], 
+      ["神父汤姆", "helper of x"]
+    ]
+}

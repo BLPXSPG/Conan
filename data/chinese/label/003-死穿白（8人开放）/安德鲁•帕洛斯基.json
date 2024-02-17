@@ -1,0 +1,57 @@
+{
+    "安德鲁·帕洛斯基": [
+      ["院长伯克利", "Superior of X, Colleague of X"],
+      ["安德鲁·帕洛斯基的妻子", "Wife of X"],
+      ["斯科特", "Son of X"],
+      ["汉斯·里莫瑞特", "Colleague of X, Student of X, Rival of X, unsuccessful helper of x"],
+      ["德雷克·里莫瑞特", "Colleague of X"],
+      ["伊莱恩·卡特尔", "Colleague of X, Student of X"],
+      ["西尔维娅·科斯塔", "Colleague of X"],
+      ["神父汤姆", "Seeker of Help from X"]
+    ],
+    "斯科特": [
+      ["安德鲁·帕洛斯基", "Father of X"],
+      ["安德鲁·帕洛斯基的妻子", "Mother of X"],
+      ["汉斯·里莫瑞特", "Doctor of X, Unsuccessful helper of x"]
+    ],
+    "汉斯·里莫瑞特": [
+      ["院长伯克利", "Superior of X, Colleague of X"],
+      ["安德鲁·帕洛斯基", "Colleague of X, Mentor of X"],
+      ["盖尔·里莫瑞特", "Wife of X"],
+      ["德雷克·里莫瑞特", "Brother of X"],
+      ["斯科特", "Patient of X"]
+    ],
+    "德雷克·里莫瑞特": [
+      ["院长伯克利", "Superior of X, Colleague of X"],
+      ["安德鲁·帕洛斯基", "Colleague of X"],
+      ["汉斯·里莫瑞特", "Brother of X, Colleague of X"],
+      ["护士长科斯塔", "Colleague of X"],
+      ["伊莱恩·卡特尔", "Colleague of X"]
+    ],
+    "伊莱恩·卡特尔": [
+      ["院长伯克利", "Superior of X, Colleague of X"],
+      ["安德鲁·帕洛斯基", "Colleague of X"],
+      ["德雷克·里莫瑞特", "Colleague of X"],
+      ["护士长科斯塔", "Colleague of X"],
+      ["汉斯·里莫瑞特", "Colleague of X"]
+    ],
+    "院长伯克利": [
+      ["安德鲁·帕洛斯基", "Employee of X"],
+      ["伊莱恩·卡特尔", "Subordinate of X, Colleague of X"],
+      ["德雷克·里莫瑞特", "Subordinate of X, Colleague of X"],
+      ["汉斯·里莫瑞特", "Subordinate of X, Colleague of X"],
+      ["护士长科斯塔", "Subordinate of X, Colleague of X"]
+    ],
+    "护士长科斯塔": [
+      ["院长伯克利", "Superior of X, Colleague of X"],
+      ["安德鲁·帕洛斯基", "Colleague of X"],
+      ["伊莱恩·卡特尔", "Colleague of X"],
+      ["德雷克·里莫瑞特", "Colleague of X"],
+      ["汉斯·里莫瑞特", "Colleague of X"]
+      
+    ],
+    "神父汤姆": [
+      ["安德鲁·帕洛斯基", "Seeker of Help from X"]
+    ]
+  }
+  

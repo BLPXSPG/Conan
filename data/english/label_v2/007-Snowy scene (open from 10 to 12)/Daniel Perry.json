@@ -1,0 +1,64 @@
+{
+    "Daniel Perry": [
+      ["Jacqueline Perry", "wife of x"], 
+      ["Marina Harrison", "sister in law of x, lover of x"], 
+      ["Harold Harrison", "brother in law of x"], 
+      ["Lucy Harrison", "biological daughter of x"], 
+      ["Davis Perry", "brother of x"], 
+      ["Robin Fey", "colleague of x"], 
+      ["Amy", "acquaintance of x"], 
+      ["John Morgan", "acquaintance of x"], 
+      ["Jonathan Perry", "son of x"], 
+      ["Joe Robertson", "acquaintance of x"]
+    ],
+    "Davis Perry": [
+      ["Daniel Perry", "brother of x"], 
+      ["Jonathan", "cousin of x"], 
+      ["Jacqueline Perry", "sister in law of x"]
+    ],
+    "Jacqueline Perry": [
+      ["Marina Harrison", "sister of x"], 
+      ["Daniel Perry", "husband of x"], 
+      ["Jonathan Perry", "son of x"]
+    ],
+    "Marina Harrison": [
+      ["Daniel Perry", "brother in law of x, lover of x"], 
+      ["Lucy Harrison", "daughter of x"], 
+      ["Jacqueline Perry", "sister of x"], 
+      ["Harold Harrison", "husband of x"]
+    ],
+    "Harold Harrison": [
+      ["Marina Harrison", "wife of x"], 
+      ["Lucy Harrison", "daughter of x"], 
+      ["Jacqueline Perry", "sister in law of x"], 
+      ["Daniel Perry", "brother in law of x"]
+    ],
+    "Lucy Harrison": [
+      ["Marina Harrison", "mother of x"], 
+      ["Harold Harrison", "father of x"], 
+      ["Daniel Perry", "uncle of x"], 
+      ["Jacqueline Perry", "aunt of x"], 
+      ["Jonathan Perry", "cousin of x"]
+    ],
+    "Jonathan Perry": [
+      ["Daniel Perry", "father of x"], 
+      ["Jacqueline Perry", "mother of x"], 
+      ["Marina Harrison", "aunt of x"], 
+      ["Harold Harrison", "uncle of x"], 
+      ["Lucy Harrison", "cousin of x"]
+    ],
+    "Amy Morgan": [
+      ["Daniel Perry", "acquaintance of x"], 
+      ["John Morgan", "husband of x"]
+    ],
+    "John Morgan": [
+      ["Amy Morgan", "wife of x"], 
+      ["Daniel Perry", "acquaintance of x"]
+    ],
+    "Robin Fey": [
+      ["Daniel Perry", "colleague of x"]
+    ],
+    "Joe Robertson": [
+      ["Daniel Perry", "acquaintance of x"]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "凌霄": [
+      ["师父", "Mentor of X, Victim of X, Subordinate of X, Superior of X"],
+      ["大师兄", "Schoolmate of X"],
+      ["二师叔", "Mentor of X, Subordinate of X, Superior of X"],
+      ["蜂", "Messenger of X"]
+    ],
+    "师父": [
+      ["凌霄", "Student of X, Attempted Murderer of X, Subordinate of X, Subordinate of X"]
+    ],
+    "蜂": [
+      ["凌霄", "Customer of X"]
+    ],
+    "大师兄": [
+      ["凌霄", "Schoolmate of X"]
+    ]
+  }
+  
