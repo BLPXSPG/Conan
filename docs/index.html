@@ -1,232 +1,206 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <title>King's College London NLP</title>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="./styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Paper Title</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        body,
-        h1,
-        h2,
-        h3,
-        h4,
-        h5,
-        h6 {
-            font-family: "Lato", sans-serif
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #EFECEC; /* Light gray background */
+            color: #0C2D57; /* Dark blue text */
         }
-
-        .w3-bar,
-        h1,
-        button {
-            font-family: "Montserrat", sans-serif
+        .title-container {
+            max-width: 80vw;
+            margin: auto;
+            padding: 20px;
+            background: #000B2C;
         }
-
-        .fa-anchor,
-        .fa-coffee {
-            font-size: 200px
+        .container {
+            max-width: 960px;
+            margin: auto;
+            padding: 20px;
+            background: #EFECEC;
         }
-
-        .homebackground {
-            background-image: url('./pictures/background/home.webp');
-            overflow: hidden;
-        }
-
-        .maintopic {
-            margin-top: 150px;
-            color: white;
-            font-size: 65px;
-            text-align: left;
-        }
-
-        .topic {
-            margin-top: 10px;
-            color: white;
-            font-size: 35px;
-            text-align: left;
-        }
-
-        .jumpbutton {
-            background-color: rgba(43, 43, 43, 0);
-            border: none;
-            color: white;
+        header, footer {
+            background: #000B2C; /* Dark blue background */
+            color: #F5E8C7;
             text-align: center;
+            padding: 10px 0;
+        }
+        .image-container {
+            display: flex; /* Enables flexbox */
+            justify-content: center; /* Centers content horizontally */
+            align-items: center; /* Centers content vertically */
+            
+        }
+        img {
+            width: 30%; /* Sets the image width to 50% of its container */
+            max-width: 100%; /* Ensures the image is not larger than its container */
+            max-height: auto; /* Maintains the aspect ratio */
+        }
+        h1{
+            color: #F5E8C7; /* Bright orange for headings */
+        }
+        h2 {
+            color: #C70039
+        }
+        .links {
+            margin-top: 10px;
+            padding: 5px;
             font-size: 20px;
-            margin: 0 auto;
-            cursor: pointer;
-            padding-right: 6px;
-            border: none;
-            outline: none;
+            border-radius: 5px;
         }
-
-        .jumpbutton:hover {
-            color: rgb(140, 211, 252);
+        .links ul {
+            list-style-type: none;
+            padding: 0;
         }
-
-        .maintitle {
-            margin-top: 10px;
-            color: rgba(98, 73, 31, 0.691);
-            font-size: 35px;
-            text-align: left;
-            padding-bottom: 20px;
-            background-color: white;
-        }
-
-        .maintitle:after {
-            background-color: grey;
-            content: '';
-            display: block;
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            right: 10px;
-            bottom: 10px;
-            z-index: -1;
-        }
-
-        .maintext {
-            color: rgb(107, 107, 107);
-            font-size: 17px;
-            text-align: left;
-        }
-
-        .background1 {
-            background-color: rgba(76, 83, 82, 0.2)
-        }
-
-        .toptopic {
-            width: 100%;
-            background-color: rgb(49, 49, 49);
-        }
-
-        .navbarbutton {
-            background-color: black;
-            border: none;
-            color: white;
-            padding: 15px 32px;
-            text-align: center;
-            text-decoration: none;
+        .links ul li {
             display: inline-block;
+            margin: 0 10px;
+        }
+        .links a {
+            color: #FF6969; /* Bright orange for links */
+            text-decoration: none;
+        }
+        .abstract {
+            margin-top: 20px;
+            background-color: #EFECEC; /* Soft pink background for sections */
+            padding: 10px;
+            border-radius: 5px;
+        }
+        pre {
+            background-color: #f5f5f5;
+            border: 1px solid #ddd;
+            border-left: 3px solid #f36d33;
+            color: #666;
+            page-break-inside: avoid;
+            font-family: monospace;
+            font-size: 12px;
+            line-height: 1.6;
+            margin-bottom: 1.6em;
+            max-width: 100%;
+            overflow: auto;
+            padding: 1em 1.5em;
+            display: block;
+            word-wrap: break-word;
+        }
+        .highlight {
+            background-color: #FFF5E0;
+            font-weight: bold;
+        }
+        .important {
+            font-weight: bold;
+        }
+        ul {
+            list-style-type: none; /* Removes default bullet points */
+        }
+        li::before {
+            content: "•"; /* Custom bullet point */
+            color: #FF6969; /* Bullet point color */
+            font-weight: bold; /* Make bullet points bold */
+            display: inline-block; 
+            width: 1em; /* Space between bullet point and text */
+            margin-left: -1em; /* Align with the rest of the text */
+        }
+        .sub-list li::before {
+            content: "◦"; /* Sub bullet point, less pronounced */
+            color: orange;
+            margin-left: -1em;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 5px;
+            background-color: #333;
+            color: #EFECEC;
+            border: none;
+            border-radius: 20px;
+            font-family: Arial, sans-serif;
+            text-decoration: none; /* Remove underline from anchors */
             font-size: 16px;
-            margin: 4px 2px;
-            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        
+        .button:hover {
+            background-color: #555; /* Slightly lighter on hover */
         }
 
-        .logo {
-            margin: 10px;
-            display: table-cell;
-            vertical-align: middle;
-            text-align: center
+        .button .icon {
+            margin-right: 8px;
         }
 
-        .backgroundlayer {
-            margin-left: 15%;
-            width: 70%;
-        }
-
-        li.space {
-            margin: 10px 0;
-        }
     </style>
 </head>
-
-
 <body>
-
-    <!-- Navbar -->
-
-    <div class="w3-top toptopic">
-        <div class="col-xs-3">
-            <div style="height: 10px;"></div>
-            <b style="color: rgb(219, 219, 219); font-size: 25px; height: 40px; margin-left: 10px;">
-                King's College London NLP </b>
-            <div style="height: 2px;"></div>
-        </div>
-        <div class="col-xs-9">
-
-            <ul class="nav nav-pills">
-                <li class="nav-item active font-weight-bold">
-                    <a class="nav-link" aria-current="page" href="./about.html">About</a>
-                </li>
-                <li class="nav-item ">
-                    <a class="nav-link" aria-current="page" href="./research.html">Research</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="./projects.html">Projects</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="./activities.html">Activities</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="./team.html">Team</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="./publications.html">Publications</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="./resource.html">Resource</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="./contact.html">Contact</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-
-
-    <!-- Header -->
-    <div class="backgroundlayer  col-xs-12"  style="margin-top: 120px;">
-        <div class="col-xs-8 maintitle">
-            <b>About</b>
-            <div class="maintext">
-                <p>
-                    test
-                </p>
-                <div id="challenges" class="col-xs-3" style="height: 20px; width: 100%;"></div>
+    <header>
+        <div class="title-container">
+            <b style="font-size: 50px;">Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives</b>
+            <div> Runcong Zhao<sup>1*</sup>, Qinglin Zhu<sup>1*</sup>, Hainiu Xu<sup>1</sup>, Jiazheng Li<sup>1</sup>, Yuxiang Zhou<sup>1</sup>, Yulan He<sup>1,2</sup>, Lin Gui<sup>1</sup></div>
+            <sup>1</sup>King's College London, <sup>2</sup>Alan Turing Institute</div>
+            <div class="image-container">
+                <img src="./pictures/logo/conan.webp" alt="Conan">
+            </div>
+            <div>
+                <a href="http://www.arxiv.org/abs/2402.11051" class="button">
+                    <i class="icon fas fa-file-alt"></i> Paper
+                </a>
+                <a href="https://github.com/BLPXSPG/Conan" class="button">
+                    <i class="icon fas fa-code"></i> Code
+                </a>
+                <a href="https://github.com/BLPXSPG/Conan" class="button">
+                    <i class="icon fas fa-database"></i> Data
+                </a>
             </div>
         </div>
-        <div class="col-xs-4">
-            <div class="col-xs-12 logo">
-                <img src="./pictures/logo/KCLNLP.png" alt="Challenges" style="width:100px">
-            </div>
-            <div class="col-xs-12 logo">
-                <img src="./pictures/logo/KCL.png" alt="Challenges" style="width:150px">
-            </div>
+
+    </header>
+
+    <div class="container">
+        <p>Existing datasets for narrative understanding often fail to represent the <span class="highlight">complexity</span> and <span class="highlight">uncertainty</span> of relationships in real-life social scenarios.</p>
+        <ul>
+            <li>To address this gap, we introduce a new benchmark, <span class="highlight">Conan</span>, to evaluate and understand the inference capacity of LLMs in complicated relationships.</li>
+            <li>It includes role-oriented relationships from the perspectives of <span class="important">various characters</span>, incorporating
+                <ul class="sub-list">
+                    <li><span class="important" style="color: grey">Public Relations</span> known to most characters,</li>
+                    <li><span class="important" style="color: orange">Secret Relations</span> known to only a few,</li>
+                    <li><span class="important" style="color: #C70039">Inferred Relations</span> that are not explicitly stated in any character’s story but can be deduced by synthesising information from all characters collectively.</li>
+                </ul>
+            </li>
+        </ul>
+        <div class="image-container">
+            <img src="./pictures/paper/example.png" alt="Example"  style="width: 60%">
         </div>
+        <p class="abstract"> 
+            Our experiments with advanced Large Language Models (LLMs) like GPT-3.5, GPT-4, and Llama2 
+            reveal their limitations in <span class="highlight">inferencing complex relationships</span> and 
+            <span class="highlight">handling longer narratives</span>. The combination of the Conan dataset and our pipeline strategy is geared towards understanding the ability of LLMs to comprehend nuanced relational dynamics in narrative contexts. </p>
+        <div class="image-container">
+            <img src="./pictures/paper/setting-short.png" alt="Example"  style="width: 60%">
+        </div>
+        <h3>BibTeX</h1>
+        <pre>
+            @article{xu2024opentom,
+            title={Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives},
+            author={Zhao, Runcong and Zhu, Qinglin and Xu, Hainiu and Li, Jiazheng and Zhou, Yuxiang and He, Yulan and Gui, Lin},
+            journal={arXiv preprint arXiv:2402.11051},
+            year={2024}
+            }
+        </pre>
+
     </div>
 
-
-
-    <div id="projectaims" class="col-xs-3" style="height: 200px; width: 100%;"></div>
-
-
-
-
-
-    <div class="w3-bottom w3-container w3-grey w3-center w3-opacity">
-        <h5 class="w3-margin">© 2024 Copyright: KCL NLP Group </h5>
-    </div>
-
-    <script type="text/javascript">
-        function scrollto(element) {
-            console.log(3);
-            // get the element on the page related to the button
-            var scrollToId = element.getAttribute("data-scroll");
-            document.getElementById(scrollToId).scrollIntoView({ block: "end", behavior: "smooth" });
-            console.log(scrollToId);
-        }
-    </script>
-
+    <footer>
+        <div class="image-container">
+            <p>© 2024 Copyright: KCL NLP Group </p>
+            <img src="./pictures/logo/KCLNLP.png" alt="Example"  style="width: 30px; padding: 5px;">
+        </div>
+        
+    </footer>
 </body>
-
 </html>
