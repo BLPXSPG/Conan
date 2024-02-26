@@ -1,0 +1,7 @@
+azure_api_base: https://your-user-name.openai.azure.com/
+azure_api_version: 2023-05-15
+azure_api_key: your-key
+azure_model_map:
+    fast_llm_model_deployment_id: gpt3.5-model-name
+    smart_llm_model_deployment_id: gpt4-model-name
+    embedding_model_deployment_id: embedding-model-name

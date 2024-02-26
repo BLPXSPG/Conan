@@ -1,4 +1,4 @@
-from extract import CharExtraction, SaveEmbedding, Evaluation
+from extract import CharExtraction, Evaluation
 from config import Config
 import openai
 
