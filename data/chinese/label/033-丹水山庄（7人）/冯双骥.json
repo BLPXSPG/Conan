@@ -2,7 +2,7 @@
     "冯双骥": [
       ["任师父", "Mentor of X, Adoptive Father of X"],
       ["李郁", "Extramarital Affair with X"],
-      ["赵万雷", "Schoolmate of X, Employer of X"],
+      ["赵万雷", "victim of x, Schoolmate of X, Employer of X"],
       ["赵卫", "Helped by X, Master of X"],
       ["赵洛意", "Daughter of X"],
       ["冯竹", "Daughter of X"]
@@ -18,7 +18,7 @@
       ["赵卫", "Son of X"]
     ],
     "赵万雷": [
-      ["冯双骥", "Schoolmate of X, Employee of X"],
+      ["冯双骥", "Schoolmate of X, Employee of X, murderer of x"],
       ["李郁", "Wife of X"],
       ["赵洛意", "Daughter of X"],
       ["赵卫", "Son of X"],
