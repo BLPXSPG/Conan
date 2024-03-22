@@ -1,7 +1,8 @@
 {
   "郭望山": [
     ["小混混", "Manipulated by X, Employee of X"],
-    ["赵万雷", "Victim of X, Business Partner of X"],
+    ["赵万雷", "x's victim's family, Business Partner of X"],
+    ["冯双骥", "x's victim's family, host of x"],
     ["任师父", "Acquaintance of X"],
     ["廖老板", "Employer of X"],
     ["花子狸", "Informant of X, Acquaintance of X"]
@@ -10,7 +11,7 @@
     ["郭望山", "Manipulator of X, Employer of X"]
   ],
   "赵万雷": [
-    ["郭望山", "Business Partner of X, Attempted Murderer of X"],
+    ["郭望山", "Business Partner of X, Attempted Murderer of X, Perpetrator of X's family"],
     ["廖老板", "Rival of X"],
     ["冯双骥", "Employee of X, Servant of X"],
     ["齐岳", "Employee of X, Servant of X"]
@@ -31,7 +32,7 @@
     ["赵万雷", "Employer of X"],
     ["齐岳", "Colleague of X"],
     ["尹少鸣", "Relative of X"],
-    ["郭望山", "Guest of X"]
+    ["郭望山", "Guest of X, Perpetrator of X's family"]
   ],
   "齐岳": [
     ["赵万雷", "Colleague of X"],

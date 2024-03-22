@@ -6,10 +6,11 @@
       ["赵卫", "helped by x, master of x"], 
       ["赵洛意", "daughter of x"], 
       ["冯竹", "daughter of x"], 
-      ["齐岳", "colleague of x"], 
+      ["齐岳", "colleague of x, Perpetrator of X's family"], 
       ["马百", "colleague of x, minion of x"], 
       ["赵安", "colleague of x, minion of x"], 
-      ["于强", "colleague of x, minion of x"]
+      ["于强", "colleague of x, minion of x"],
+      ["郭望山", "Guest of X, Perpetrator of X's family"]
     ],
     "任师父": [
       ["冯双骥", "mentor of x, adoptive son of x"], 
@@ -34,14 +35,14 @@
     ],
     "赵万雷": [
       ["赵秋儿", "secret admirer of x"], 
-      ["郭望山", "business partner of x"], 
+      ["郭望山", "Business Partner of X, Attempted Murderer of X, Perpetrator of X's family"], 
       ["廖老板", "rival of x"], 
       ["冯双骥", "schoolmate of x, servant of x, employee of x, murderer of x"], 
       ["李郁", "wife of x"], 
       ["赵洛意", "daughter of x"], 
       ["赵卫", "son of x"], 
       ["任师父", "mentor of x"], 
-      ["齐岳", "employee of x, servant of x"], 
+      ["齐岳", "employee of x, servant of x, Perpetrator of X's family"], 
       ["赵安", "employee of x, servant of x"]
     ],
     "赵卫": [
@@ -61,7 +62,7 @@
       ["赵万雷", "father of x"], 
       ["赵卫", "brother of x"], 
       ["赵秋儿", "master of x"], 
-      ["齐岳", "servant of x"], 
+      ["齐岳", "servant of x, x's victim's family"], 
       ["尹少鸣", "helper of x"], 
       ["冯竹", "acquaintance of x"], 
       ["赵安", "servant of x"], 
@@ -96,11 +97,11 @@
       ["花子狸", "informant of x, acquaintance of x"], 
       ["齐岳", "manipulated by x, employee of x"],
       ["李郁", "victim of x"],
+      ["冯双骥", "x's victim's family, host of x"],
       ["双面虎", "same person as x (different identity)"]
     ],
     "双面虎": [
       ["郭望山", "same person as x (different identity)"], 
-      ["齐岳", "manipulated by x, employee of x"]
     ],
     "赵秋儿": [
       ["赵洛意", "master of x, friend of x, jealous by x"], 
@@ -119,11 +120,15 @@
       ["赵洛意", "master of x, x's victim's family"], 
       ["赵卫", "master of x, x's victim's family"], 
       ["赵安", "colleague of x"], 
+      ["李郁", "victim of x"],
       ["小混混", "same person as x (different identity)"],
-      ["李郁", "victim of x"]
+      ["鲁泰", "same person as x (different identity)"]
     ],
     "小混混": [
       ["齐岳", "same person as x (different identity)"]
+    ],
+    "鲁泰": [
+        ["齐岳", "same person as x (different identity)"]
     ],
     "廖老板": [
       ["郭望山", "employee of x"], 
