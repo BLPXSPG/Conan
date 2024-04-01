@@ -10,3 +10,4 @@ The preprocessed data included in `[data/]` is available in two languages, Engli
 
 Each narrative features descriptions from various characters' perspectives, located in `[data/language/data_final/narrative_name/txt/character_name]`. The corresponding labels of relationships from a single character's perspective can be found in `[data/language/label/narrative_name/txt/character_name]`, and the relationships combining information from all characters are in `[data/language/label/narrative_name/txt/all]`.
 
+![Input-Output Format and Benchmark Relation Detection Strategies](conan-setting.pdf)
