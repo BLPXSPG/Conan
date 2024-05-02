@@ -27,6 +27,8 @@ class Config(metaclass=Singleton):
         # self.max_tokens = 128000
         self.model_llama_13b_path='/scratch/prj/inf_llmcache/hf_cache/models--meta-llama--Llama-2-13b-chat-hf/snapshots/c2f3ec81aac798ae26dcc57799a994dfbf521496'
         self.model_llama_70b_path="/scratch/prj/lmrep/llama2_model/Llama-2-70b-chat-hf"
+        self.model_llama_3_70b_path="/scratch/prj/inf_llmcache/hf_cache/models--meta-llama--Meta-Llama-3-70B-Instruct/snapshots/0cac6d727e4cdf117e1bde11e4c7badd8b963919"
+
         # self.model="llama-chat-70b"
         self.model="llama-chat-13b"
         # self.model="gpt-3.5-turbo"
