@@ -1,12 +1,14 @@
 import sys
+import sys
+sys.path.append('./')
 import os
 import openai
 from time import sleep
 import json
 import yaml
+from config import Config
 from config.utils.token_counter import count_string_tokens
 from model.chat_completion import llama_predict
-from config import Config
 import torch
 from transformers import LlamaForCausalLM, LlamaConfig
 import re
@@ -37,8 +39,7 @@ class CharExtraction():
         with open(prompt_path, 'r') as f:
             self.prompts = yaml.load(f, Loader=yaml.FullLoader)
             f.close()
-
-        category_path = os.path.join(os.getcwd(), "equivalent_relation.json")
+        category_path = os.path.join(os.getcwd(), "data", "equivalent_relation.json")
         with open(category_path, 'r') as f:
             self.equivalent_relation = json.load(f)
             # print(self.equivalent_relation)
@@ -74,12 +75,12 @@ class CharExtraction():
         )
         return model
 
-    def extract_all(self, label_list, extract_type):
-        prefix = 'english'
-        label_list = os.listdir(os.path.join(os.getcwd(), prefix, "data_final"))
+    def extract_all(self, language, extract_type):
+        prefix = os.path.join("data",language)
+        label_list = os.listdir(os.path.join(os.getcwd(), prefix, "label"))
         label_list = sorted(label_list)
 
-        label_list.reverse()
+        # label_list.reverse()
         if extract_type == 'correct_relation':
             self.correct_relation()
 
@@ -94,41 +95,41 @@ class CharExtraction():
             # # 单个抽取
 
             if extract_type == 'one_step_for_one':
-                self.extract_story(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_category",  story_folder), self.output_type)
+                self.extract_story(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "extract_whole_graph",  story_folder), self.output_type)
             # # 不断update
             elif extract_type == 'one_step_for_all':
-                self.extract_updatestory(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_category", story_folder), self.output_type)
+                self.extract_updatestory(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "extract_whole_graph", story_folder), self.output_type)
+
+            elif extract_type == 'extract_character':
+                self.extract_character(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_character", story_folder), self.output_type)
+
+            elif extract_type == 'two_step_for_one':
+                self.character2story(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_extract_directly", story_folder,"extract"), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "relation_character", story_folder),)
+            # # two step for all
+            elif extract_type == 'two_step_for_all':
+                self.character2story_all(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_extract_directly", story_folder,"extract"), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "relation_character", story_folder),)
+
             # # pair
             elif extract_type == 'two_step_pairwise_for_one':
                 # self.extract_pairwise(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_pairwise_category", story_folder), self.output_type)
-                self.extract_pairwise_given(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_pairwise_category", story_folder), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "relation_character", story_folder))
+                self.extract_pairwise_given(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_extract_pairwisely", story_folder,"extract"), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "relation_character", story_folder))
 
-        # # pair for all
             elif extract_type == 'two_step_pairwise_for_all':
                 # self.extract_pairwise_combinedstory(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_pairwise_category", story_folder), self.output_type)
-                self.extract_pairwise_combinedstory_given(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_pairwise_category", story_folder), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "relation_character", story_folder))
+                self.extract_pairwise_combinedstory_given(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_extract_pairwisely", story_folder,"extract"), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "relation_character", story_folder))
 
-            # # two step for one
-            elif extract_type == 'extract_character':
-                self.extract_character(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_character", story_folder), self.output_type)
-            # # two step for one
-            elif extract_type == 'two_step_for_one':
-                self.character2story(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_two_step_category", story_folder), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "relation_character", story_folder))
-            # # two step for all
-            elif extract_type == 'two_step_for_all':
-                self.character2story_all(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_two_step_category", story_folder), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "relation_character", story_folder))
 
             elif extract_type == 'two_step_for_one_truth':
-                self.character2story(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_two_step_category_given", story_folder), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "character", story_folder))
+                self.character2story(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_extract_directly", story_folder, "given"), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "character", story_folder))
             # # two step for all
             elif extract_type == 'two_step_for_all_truth':
-                self.character2story_all(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_two_step_category_given", story_folder), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "character", story_folder))
+                self.character2story_all(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_extract_directly", story_folder, "given"), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "character", story_folder))
             # # pair
             elif extract_type == 'two_step_pairwise_for_one_truth':
-                self.extract_pairwise_given(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_pairwise_category_given", story_folder), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "character", story_folder))
+                self.extract_pairwise_given(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_extract_pairwisely", story_folder, "given"), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "character", story_folder))
             # # pair for all
             elif extract_type == 'two_step_pairwise_for_all_truth':
-                self.extract_pairwise_combinedstory_given(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_pairwise_category_given", story_folder), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "character", story_folder))
+                self.extract_pairwise_combinedstory_given(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_extract_pairwisely", story_folder, "given"), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "character", story_folder))
     def correct_relation(self):
         prompt = '''You are working on a relationship classification task, but the output includes some categories that are not defined in the relationships. 
 
@@ -592,6 +593,31 @@ Please modify your output categories to the The relationship list and return the
                 f.close()
     def extract_character(self, story_path, save_dir, output_type):
         print(story_path)
+        sys = ""
+        if not os.path.isdir(save_dir):
+            os.makedirs(save_dir)
+        for background_file in os.listdir(story_path):
+            relationships_graph = {}
+            if background_file == ".DS_Store":
+                continue
+            character_name = background_file[:-4]
+            save_path = os.path.join(save_dir, character_name+".json")
+            if os.path.exists(save_path):
+                print(save_path, "exists")
+                continue
+            with open(os.path.join(story_path, background_file), 'r') as f:
+                character_background_text = f.readlines()
+                f.close()
+            character_background_text = " ".join(character_background_text)
+            # extract characters first
+            response = self.prompt_length_check(self.prompts['ext_character_list_prompt'], {"{character_name}": character_name}, self.prompts['update_character_list_prompt'], {"{character_name}": character_name}, "{character_list}", character_background_text)
+            print(response)
+            charactor_list = self.process_response(response)
+            with open(save_path, 'w') as f:
+                json.dump(charactor_list, f, ensure_ascii=False, indent=4)
+                f.close()
+
+
 
         if not os.path.isdir(save_dir):
             os.makedirs(save_dir)
@@ -607,6 +633,7 @@ Please modify your output categories to the The relationship list and return the
         with open(os.path.join(save_dir, 'all.json'), 'w') as f:
             json.dump(all_list, f, ensure_ascii=False, indent=4)
             f.close()
+
 
 
     def extract_pairwise_combinedstory(self, story_path, save_dir, output_type):
@@ -940,6 +967,7 @@ if __name__ == "__main__":
     parser.add_argument("--model_type", type=str, help="Description for param1")
     parser.add_argument("--extract_type", type=str, help="Description for param2")
     parser.add_argument("--max_gene_len", type=int, help="Description for param2")
+    parser.add_argument("--language", type=str, help="[chinese, english]")
     #['one_step_for_one','one_step_for_all','two_step_pairwise_for_one','two_step_pairwise_for_all']
     # 解析命令行参数
     args = parser.parse_args()
@@ -999,5 +1027,5 @@ if __name__ == "__main__":
     cfg = Config()
     ext = CharExtraction(cfg, args.model_type, args.max_gene_len)
 
-    ext.extract_all(label_list, args.extract_type)
+    ext.extract_all(args.language, args.extract_type)
 

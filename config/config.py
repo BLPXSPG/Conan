@@ -23,10 +23,14 @@ class Config(metaclass=Singleton):
         """Initialize the Config class"""
         self.workspace_path: str = None
         self.file_logger_path: str = None
-        self.max_tokens = 8000
-        #self.max_tokens = 120000
-        self.model="gpt-3.5-turbo"
-        #self.model = "gpt-4"
+        self.max_tokens = 4096-1000
+        # self.max_tokens = 128000
+        self.model_llama_13b_path='/scratch/prj/inf_llmcache/hf_cache/models--meta-llama--Llama-2-13b-chat-hf/snapshots/c2f3ec81aac798ae26dcc57799a994dfbf521496'
+        self.model_llama_70b_path="/scratch/prj/inf_llmcache/hf_cache/models--meta-llama--Llama-2-70b-chat-hf/snapshots/e1ce257bd76895e0864f3b4d6c7ed3c4cdec93e2/"
+        # self.model="llama-chat-70b"
+        self.model="llama-chat-13b"
+        # self.model="gpt-3.5-turbo"
+        # self.model = "gpt-4"
 
         self.debug_mode = False
         self.continuous_mode = False
@@ -68,7 +72,7 @@ class Config(metaclass=Singleton):
         self.smart_token_limit = int(os.getenv("SMART_TOKEN_LIMIT", 8000))
         self.embedding_model = os.getenv("EMBEDDING_MODEL", "text-embedding-ada-002")
         self.browse_spacy_language_model = os.getenv(
-            "BROWSE_SPACY_LANGUAGE_MODEL", "en_core_web_sm"
+            "BROWSE_SPACY_LANGUAGE_MODEL", "zh_core_web_sm"
         )
 
         self.openai_api_key = os.getenv("OPENAI_API_KEY")

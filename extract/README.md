@@ -5,7 +5,7 @@ For the llama model, run the following command:
 1. Extract character relationship graph from a single person's perspective.
 
 ```
-CUDA_VISIBLE_DEVICES=0,2 python extract_llama.py --model_type llama-chat-70b --extract_type one_step_for_one --max_gene_len 1200
+CUDA_VISIBLE_DEVICES=0,1 python extract_llama.py --model_type llama-chat-70b --extract_type one_step_for_one --max_gene_len 1200
 ```
 2. Extract character relationship graph from all characters' perspectives.
 
