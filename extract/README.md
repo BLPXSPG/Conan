@@ -1,7 +1,8 @@
 ## Usage
 
 --model_type: The model type, which can be selected from `llama2_13b`, `llama3_70b`, `llama2_70b`
---language `chinese`, `english`
+
+--language: The language of the script, which can be selected from `chinese`, `english`
 
 For the llama model, run the following command:
 
