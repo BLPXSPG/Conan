@@ -137,15 +137,15 @@ from pathlib import Path
 
 if __name__ == '__main__':
     language = 'english'
-    folder_path = r'../data/'+language+'/llama-70b_v2'
+    folder_path = r'../data/'+language+'/gpt-3.5-turbo_v2'
 
 
-    if folder_path.split('\\')[-1] == 'gpt-3.5-turbo_v3':
-        origin = 'gpt-3.5-turbo_v3'
-        replace = 'gpt-3.5-turbo_v4'
-    elif folder_path.split('\\')[-1] == 'gpt-4_v3':
-        origin = 'gpt-4_v3'
-        replace = 'gpt-4_v4'
+    if folder_path.split('\\')[-1] == 'gpt-3.5-turbo_v2':
+        origin = 'gpt-3.5-turbo_v2'
+        replace = 'gpt-3.5-turbo_v3'
+    elif folder_path.split('\\')[-1] == 'gpt-4_v2':
+        origin = 'gpt-4_v2'
+        replace = 'gpt-4_v3'
 
     label_list = os.listdir('../data/'+language+'/label')
     folder_path_detail = [os.path.join(folder_path, i) for i in os.listdir(folder_path) if i != 'character']
