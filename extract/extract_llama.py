@@ -24,10 +24,14 @@ class CharExtraction():
     def __init__(self, config, model_type, max_gene_len):
         # openai.api_key = config.openai_api_key
         self.config = config
+        self.config.model = model_type
         self.retry = True
         self.output_type = "category"
         self.config.max_tokens = 4096-max_gene_len
+        if "llama3" in model_type:
+            self.config.max_tokens =  8000-max_gene_len
         self.max_gene_len = max_gene_len
+
         try:
             with open(os.path.join(os.getcwd(), "data", self.config.model, "record.json"), 'r') as f:
                 self.record_dic = json.load(f)
@@ -54,7 +58,7 @@ class CharExtraction():
             combined_list.append(key)
             combined_list.extend(values)
         self.category_list = combined_list
-        self.config.model = model_type
+
         if 'llama' in self.config.model:
             if 'llama2_13b' in self.config.model:
                 self.llama_model,self.tokenizer = load_llama_2(self.config.model_llama_13b_path)
