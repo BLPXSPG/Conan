@@ -117,58 +117,70 @@ def postprocessing(character_data, replace_chinese):
     filtered_data = format_json(filtered_data)
     return filtered_data
 
-language = 'english'
-folder_path = r'../data/'+language+'/gpt-3.5-turbo'
+if __name__ == '__main__':
+
+    language = 'chinese'
+    folder_path = r'../data/'+language+'/llama3_70b'
 
 
-if folder_path.split('/')[-1] == 'gpt-3.5-turbo':
-    origin = 'gpt-3.5-turbo'
-    replace = 'gpt-3.5-turbo_v2'
-elif folder_path.split('/')[-1] == 'llama-70b':
-    origin = 'llama-70b'
-    replace = 'llama-70b_v2'
-elif folder_path.split('/')[-1] == 'gpt-4':
-    origin = 'gpt-4'
-    replace = 'gpt-4_v2'
+    if folder_path.split('/')[-1] == 'gpt-3.5-turbo':
+        origin = 'gpt-3.5-turbo'
+        replace = 'gpt-3.5-turbo_v2'
+    elif folder_path.split('/')[-1] == 'llama-70b':
+        origin = 'llama-70b'
+        replace = 'llama-70b_v2'
+    elif folder_path.split('/')[-1] == 'gpt-4':
+        origin = 'gpt-4'
+        replace = 'gpt-4_v2'
+    elif folder_path.split(os.path.sep)[-1] == 'llama3_70b':
+        origin = 'llama3_70b'
+        replace = 'llama3_70b_v2'
+    else:
+        print("wrong")
+        exit()
 
 
 
-label_list = os.listdir('../data/'+language+'/label')
-folder_path_detail = [os.path.join(folder_path, i) for i in os.listdir(folder_path) if i != 'character']
 
-for folder in folder_path_detail:
-    for root, dirs, files in os.walk(folder):
-        for file in files:
-            if file.endswith('.json'):
-                full_path = str(Path(root) / file)
-                flag = False
-                for item in label_list:
-                    if item in full_path:
-                        flag = True
-                if not flag:
-                    continue
-                print(full_path)
-                with open(full_path, 'r', encoding='utf-8') as file:
-                    predict_truth = json.load(file)
-                new_dict = postprocessing(predict_truth,False)
+    label_list = os.listdir('../data/'+language+'/label')
+    folder_path_detail = [os.path.join(folder_path, i) for i in os.listdir(folder_path) if i != 'character']
 
-                desired_path = full_path.rsplit(os.sep, 1)[0] + os.sepd
-                desired_path = desired_path.replace(origin,replace)
+    for folder in folder_path_detail:
+        for root, dirs, files in os.walk(folder):
+            for file in files:
+                if file.endswith('.json'):
+                    full_path = str(Path(root) / file)
+                    flag = False
+                    for item in label_list:
+                        if item in full_path:
+                            flag = True
+                    if not flag:
+                        continue
+                    if 'relation_character' in full_path:
+                        continue
 
-                if not os.path.isdir(desired_path):
-                    os.makedirs(os.path.join(desired_path))
+                    print(full_path)
+                    with open(full_path, 'r', encoding='utf-8') as file:
+                        predict_truth = json.load(file)
+                    new_dict = postprocessing(predict_truth,False)
 
-                full_file_name = full_path.replace(origin,replace).replace('update_all','all')
+                    desired_path = full_path.rsplit(os.path.sep, 1)[0] + os.path.sep
+                    desired_path = desired_path.replace(origin,replace)
 
-                with open(full_file_name, 'w', encoding='utf-8') as file:
-                    if new_dict is None:
-                        new_dict = "{}"
-                    file.write(new_dict)
+                    if not os.path.isdir(desired_path):
+                        os.makedirs(os.path.join(desired_path))
 
-print(len(all_relation))
-frequency_count = Counter(all_relation)
-sorted_frequency = dict(sorted(frequency_count.items(), key=lambda item: item[1], reverse=True))
+                    full_file_name = full_path.replace(origin,replace).replace('update_all','all')
+
+                    with open(full_file_name, 'w', encoding='utf-8') as file:
+                        if new_dict is None:
+                            new_dict = "{}"
+                        file.write(new_dict)
+
+    print(len(all_relation))
+    frequency_count = Counter(all_relation)
+    sorted_frequency = dict(sorted(frequency_count.items(), key=lambda item: item[1], reverse=True))
 
 
-with open('./need_clean_llama.json', 'w',encoding='utf-8') as f:
-    json.dump(list(set(all_relation)), f, ensure_ascii=False, indent=4)
+    with open('./need_clean_'+folder_path.split('/')[-1]+'.json', 'w',encoding='utf-8') as f:
+        json.dump(list(set(all_relation)), f, ensure_ascii=False, indent=4)

@@ -69,9 +69,9 @@ class CharExtraction():
 
     def llama_predict(self, prompt):
         if 'llama2' in self.config.model:
-            return llama2_predict(self.model, self.tokenizer, prompt, self.max_new_token)
+            return llama2_predict(self.llama_model, self.tokenizer, prompt, self.config.max_tokens)
         else:
-            return llama3_predict(self.model, self.tokenizer, prompt, self.max_new_token)
+            return llama3_predict(self.llama_model, self.tokenizer, prompt, self.config.max_tokens)
 
     def extract_all(self, language, extract_type):
         prefix = os.path.join("data",language)
@@ -89,8 +89,6 @@ class CharExtraction():
             if story_folder == ".DS_Store":
                 continue
             story_dir = os.path.join(stories_dir, story_folder, "txt")
-
-            # # 单个抽取
 
             if extract_type == 'one_step_for_one':
                 self.extract_story(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "extract_whole_graph",  story_folder), self.output_type)
