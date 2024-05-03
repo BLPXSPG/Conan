@@ -8,9 +8,10 @@ import json
 import yaml
 from config import Config
 from config.utils.token_counter import count_string_tokens
-from model.chat_completion import llama_predict
+from model.chat_completion_llama2 import llama2_predict,load_llama_2
+from model.chat_completion_llama3 import llama3_predict,load_llama_3
 import torch
-from transformers import LlamaForCausalLM, LlamaConfig
+from transformers import LlamaForCausalLM, LlamaConfig, AutoModelForCausalLM
 import re
 from math import ceil
 from tqdm import tqdm
@@ -55,25 +56,22 @@ class CharExtraction():
         self.category_list = combined_list
         self.config.model = model_type
         if 'llama' in self.config.model:
-            if '13' in self.config.model:
-                self.llama_model = self.load_model(self.config.model_llama_13b_path)
+            if 'llama2_13b' in self.config.model:
+                self.llama_model,self.tokenizer = load_llama_2(self.config.model_llama_13b_path)
+            elif 'llama3_70b' in self.config.model:
+                self.llama_model,self.tokenizer = load_llama_3(self.config.model_llama_3_70b_path)
             else:
                 # self.llama_model = self.load_model(self.config.model_llama_70b_path)
-                self.llama_model = self.load_model(self.config.model_llama_70b_path)
+                self.llama_model,self.tokenizer = load_llama_2(self.config.model_llama_70b_path)
         self.json_response = '"character name": [["linked character", "relationship 1, relationship 2"], ["linked character", "relationship 1, relationship 2"]], "character name": [["linked character", "relationship 1, relationship 2"]]'
         # self.category_list = self.prompts['relation_list'].split("\n")
         # self.category_list = [item.lower().strip() for item in self.category_list]
 
-    def load_model(self, model_name, quantization=False):
-        model = LlamaForCausalLM.from_pretrained(
-            model_name,
-            return_dict=True,
-            load_in_8bit=quantization,
-            device_map="auto",
-            low_cpu_mem_usage=True,
-            torch_dtype=torch.float16
-        )
-        return model
+    def llama_predict(self, prompt):
+        if 'llama2' in self.config.model:
+            return llama2_predict(self.model, self.tokenizer, prompt, self.max_new_token)
+        else:
+            return llama3_predict(self.model, self.tokenizer, prompt, self.max_new_token)
 
     def extract_all(self, language, extract_type):
         prefix = os.path.join("data",language)
@@ -118,7 +116,6 @@ class CharExtraction():
                 # self.extract_pairwise_combinedstory(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_pairwise_category", story_folder), self.output_type)
                 self.extract_pairwise_combinedstory_given(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_extract_pairwisely", story_folder,"extract"), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "relation_character", story_folder))
 
-
             elif extract_type == 'two_step_for_one_truth':
                 self.character2story(story_dir, os.path.join(os.getcwd(), prefix, self.config.model, "relation_extract_directly", story_folder, "given"), self.output_type, os.path.join(os.getcwd(), prefix, self.config.model, "character", story_folder))
             # # two step for all
@@ -147,10 +144,10 @@ Please modify your output categories to the The relationship list and return the
         n = 60  # 每组的元素数量
         split_data = [data[i:i + n] for i in range(0, len(data), n)]
         for output_list in tqdm(split_data, desc="Processing"):
-            input_prompt = prompt.replace('{output_relation}', str(output_list))
+            prompt = prompt.replace('{output_relation}', str(output_list))
             count = 0
             while count < 2:
-                response =  llama_predict(self.llama_model, input_prompt, self.max_gene_len)
+                response =  self.llama_predict(prompt)
                 repair_response = self.repair_json(response)
                 print(repair_response)
                 if repair_response is not None:
@@ -185,7 +182,7 @@ Please modify your output categories to the The relationship list and return the
             # prompt = self.prompts['extract_relationships_category_llama'].replace("{character_background_text}", character_background_text).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
             prompt = self.prompts['extract_relationships_category'].replace("{character_background_text}", character_background_text).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
             if count_string_tokens(prompt) < self.config.max_tokens:
-                response =  llama_predict(self.llama_model, prompt, self.max_gene_len)
+                response =  self.llama_predict(prompt)
                 print(response)
                 print('-------------------------')
                 with open(save_path, 'w') as f:
@@ -201,7 +198,7 @@ Please modify your output categories to the The relationship list and return the
                 max_len = self.config.max_tokens - promt_len
                 first, character_background_text = self.split_text_once(character_background_text, max_len)
                 prompt = self.prompts['extract_relationships_category'].replace("{character_background_text}", first).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                relationships_graph = self.llama_predict(prompt)
 
                 while True:
                     # 计算当前能填充多少文本
@@ -211,11 +208,11 @@ Please modify your output categories to the The relationship list and return the
                     if count_string_tokens(character_background_text) >  max_len:
                         chunks = self.split_text(character_background_text, max_len)
                         prompt = self.prompts['update_relationships_category'].replace("{character_background_text}", chunks[0]).replace("{relationships_graph}", str(relationships_graph)).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                        relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                        relationships_graph = self.llama_predict(prompt)
                         character_background_text = ''.join(chunks[1:])
                     else:
                         prompt = self.prompts['update_relationships_category'].replace("{character_background_text}", character_background_text).replace("{relationships_graph}", str(relationships_graph)).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                        relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                        relationships_graph = self.llama_predict(prompt)
                         print(relationships_graph)
                         print('-------------------')
                         break
@@ -255,7 +252,7 @@ Please modify your output categories to the The relationship list and return the
             # prompt = self.prompts['extract_relationships_category_llama'].replace("{character_background_text}", character_background_text).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
             prompt = self.prompts['e_r_c_given_character'].replace("{character_list}", character_list).replace("{character_background_text}", character_background_text).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
             if count_string_tokens(prompt) < self.config.max_tokens:
-                response =  llama_predict(self.llama_model, prompt, self.max_gene_len)
+                response =  self.llama_predict(prompt)
                 print(response)
                 print('-------------------------')
                 with open(save_path, 'w') as f:
@@ -271,7 +268,7 @@ Please modify your output categories to the The relationship list and return the
                 max_len = self.config.max_tokens - promt_len
                 first, character_background_text = self.split_text_once(character_background_text, max_len)
                 prompt = self.prompts['e_r_c_given_character'].replace("{character_list}", character_list).replace("{character_background_text}", first).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                relationships_graph = self.llama_predict(prompt)
 
                 while True:
                     promt_len = count_string_tokens(self.prompts['u_r_c_given_character'].replace("{character_list}", character_list).replace("{relationships_graph}", str(relationships_graph)).replace("{character_name}", character_name).replace("{categories}", str(self.category_list)))
@@ -279,11 +276,11 @@ Please modify your output categories to the The relationship list and return the
                     if count_string_tokens(character_background_text) >  max_len:
                         chunks = self.split_text(character_background_text, max_len)
                         prompt = self.prompts['u_r_c_given_character'].replace("{character_list}", character_list).replace("{character_background_text}", chunks[0]).replace("{relationships_graph}", str(relationships_graph)).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                        relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                        relationships_graph = self.llama_predict(prompt)
                         character_background_text = ''.join(chunks[1:])
                     else:
                         prompt = self.prompts['u_r_c_given_character'].replace("{character_list}", character_list).replace("{character_background_text}", character_background_text).replace("{relationships_graph}", str(relationships_graph)).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                        relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                        relationships_graph = self.llama_predict(prompt)
                         print(relationships_graph)
                         print('-------------------')
                         break
@@ -375,7 +372,7 @@ Please modify your output categories to the The relationship list and return the
             else:
                 prompt = self.prompts["update_relationships_category"].replace("{character_background_text}", character_background_text).replace("{relationships_graph}", str(relationships_graph)).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
             if count_string_tokens(prompt) < self.config.max_tokens:
-                response = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                response = self.llama_predict(prompt)
                 print(response)
                 relationships_graph = response
             else:
@@ -386,7 +383,7 @@ Please modify your output categories to the The relationship list and return the
                     max_len = self.config.max_tokens - promt_len
                     first, character_background_text = self.split_text_once(character_background_text, max_len)
                     prompt = self.prompts['extract_relationships_category'].replace("{character_background_text}", first).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                    relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                    relationships_graph = self.llama_predict(prompt)
                     print(relationships_graph)
 
 
@@ -397,14 +394,14 @@ Please modify your output categories to the The relationship list and return the
                     if count_string_tokens(character_background_text) >  max_len:
                         chunks = self.split_text(character_background_text, max_len)
                         prompt = self.prompts['update_relationships_category'].replace("{character_background_text}", chunks[0]).replace("{relationships_graph}", str(relationships_graph)).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                        relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                        relationships_graph = self.llama_predict(prompt)
                         character_background_text = ''.join(chunks[1:])
                         print('########updata------------------')
                         print(relationships_graph)
 
                     else:
                         prompt = self.prompts['update_relationships_category'].replace("{character_background_text}", character_background_text).replace("{relationships_graph}", str(relationships_graph)).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                        relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                        relationships_graph = self.llama_predict(prompt)
                         print('*******final-------------------')
                         print(relationships_graph)
                         break
@@ -447,7 +444,7 @@ Please modify your output categories to the The relationship list and return the
             else:
                 prompt = self.prompts["u_r_c_given_character"].replace("{character_list}", character_list).replace("{character_background_text}", character_background_text).replace("{relationships_graph}", str(relationships_graph)).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
             if count_string_tokens(prompt) < self.config.max_tokens:
-                response = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                response = self.llama_predict(prompt)
                 print(response)
                 relationships_graph = response
             else:
@@ -458,7 +455,7 @@ Please modify your output categories to the The relationship list and return the
                     max_len = self.config.max_tokens - promt_len
                     first, character_background_text = self.split_text_once(character_background_text, max_len)
                     prompt = self.prompts['e_r_c_given_character'].replace("{character_list}", character_list).replace("{character_background_text}", first).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                    relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                    relationships_graph = self.llama_predict(prompt)
                     print(relationships_graph)
 
 
@@ -470,14 +467,14 @@ Please modify your output categories to the The relationship list and return the
                     if count_string_tokens(character_background_text) >  max_len:
                         chunks = self.split_text(character_background_text, max_len)
                         prompt = self.prompts['u_r_c_given_character'].replace("{character_list}", character_list).replace("{character_background_text}", chunks[0]).replace("{relationships_graph}", str(relationships_graph)).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                        relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                        relationships_graph = self.llama_predict(prompt)
                         character_background_text = ''.join(chunks[1:])
                         print('########updata------------------')
                         print(relationships_graph)
 
                     else:
                         prompt = self.prompts['u_r_c_given_character'].replace("{character_list}", character_list).replace("{character_background_text}", character_background_text).replace("{relationships_graph}", str(relationships_graph)).replace("{character_name}", character_name).replace("{categories}", str(self.category_list))
-                        relationships_graph = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                        relationships_graph = self.llama_predict(prompt)
                         print('*******final-------------------')
                         print(relationships_graph)
                         break
@@ -766,7 +763,7 @@ Please modify your output categories to the The relationship list and return the
         prompt = prompt_fix.replace(flex_input_key, character_background_text)
 
         if count_string_tokens(prompt) < self.config.max_tokens:
-            output_need = llama_predict(self.llama_model, prompt, self.max_gene_len)
+            output_need = self.llama_predict(prompt)
             if output_type == 'relation':
                 output_need = self.extract_json(output_need)
             return output_need
@@ -781,7 +778,7 @@ Please modify your output categories to the The relationship list and return the
                 prompt = prompt_fix.replace(flex_input_key, chunks[0]).replace(output_need_to_update, output_initial)
             else:
                 prompt = prompt_fix.replace(flex_input_key, chunks[0])
-            output_need = llama_predict(self.llama_model, prompt, self.max_gene_len)
+            output_need = self.llama_predict(prompt)
             if output_type == 'relation':
                 output_need = self.extract_json(output_need)
             print(output_need)
@@ -801,7 +798,7 @@ Please modify your output categories to the The relationship list and return the
                 if count_string_tokens(character_background_text) >  max_len:
                     chunks = self.split_text(character_background_text, max_len)
                     prompt = prompt_fix.replace(flex_input_key, chunks[0]).replace(output_need_to_update, str(output_need))
-                    output_need = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                    output_need = self.llama_predict(prompt)
                     if output_type == 'relation':
                         output_need = self.extract_json(output_need)
                     if self.is_json(output_need):
@@ -812,7 +809,7 @@ Please modify your output categories to the The relationship list and return the
                     print(output_need)
                 else:
                     prompt = prompt_fix.replace(flex_input_key, character_background_text).replace(output_need_to_update, str(output_need))
-                    output_need = llama_predict(self.llama_model, prompt, self.max_gene_len)
+                    output_need = self.llama_predict(prompt)
                     if output_type == 'relation':
                         output_need = self.extract_json(output_need)
                     print('*******final-------------------')

@@ -12,8 +12,7 @@ CUDA_VISIBLE_DEVICES=0,1 python extract_llama.py --model_type llama-chat-70b --e
 ```
 CUDA_VISIBLE_DEVICES=0,2 python extract_llama.py --model_type llama-chat-70b --extract_type one_step_for_all --max_gene_len 1200
 ```
-3. Extract the character relationship graph from a single person's perspective in two steps: 
-4. 
+3. Extract the character relationship graph from a single person's perspective in two steps:
     1. Extract all characters
     2. Perform a Cartesian product to obtain pairwise characters, and inquire about the character relationships.
 
