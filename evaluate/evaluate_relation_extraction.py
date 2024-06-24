@@ -111,7 +111,7 @@ def get_predict2groundtruth(predict_file_list,ground_truth_file_list):
                 return file
 
     for file in predict_file_list:
-        file_split = file.split('\\')
+        file_split = file.split(os.path.sep)
         json_name = file_split[-1]
         if '-' not in file_split[-2]:
             sub_method = file_split[-2]
@@ -279,13 +279,13 @@ if __name__ == '__main__':
 
     # for dir_name in ['gpt-4_bef','gpt-3.5-turbo_bef','llama-70b_bef', 'llama-70b_v3','gpt-4_v4','gpt-3.5-turbo_v4',]:
     # for dir_name in ['gpt-4_bef', 'llama-70b_v3','gpt-3.5-turbo_v4',]:
-    for dir_name in ['gpt-4_bef', 'gpt-3.5-turbo_v4','llama-70b_v3',]:
+    # for dir_name in ['gpt-4_bef', 'gpt-3.5-turbo_v4','llama-70b_v3',]:
+    language = 'chinese'
+    for dir_name in ['llama3_70b_v3',]:
     # for dir_name in ['gpt-4_bef']:
-        ground_truth_dir = '..\\data\\chinese\\label_v2'
-        # ground_truth_dir = 'E:\Pycharm\MurderMysteryGame\data\english\label_v2'
+        ground_truth_dir = r'../data/'+language+'/label_v2'
         ground_truth_file_list = find_json_files(ground_truth_dir)
-        # predict_dir = 'E:\Pycharm\MurderMysteryGame\data\english\\' + dir_name
-        predict_dir = '..\\data\\chinese\\' + dir_name
+        predict_dir = r'../data/'+language+'/'+dir_name
         predict_file_list = find_json_files(predict_dir)
         predict2groundtruth, predict2detail = get_predict2groundtruth(predict_file_list,ground_truth_file_list)
         groundtruth2result = defaultdict(list)
@@ -335,7 +335,9 @@ if __name__ == '__main__':
             else:
                 result_list_one.append(result_dict)
 
-        data = pd.DataFrame(result_list_all)
+        # for one person's view
+        data = pd.DataFrame(result_list_one)
+        data = data.fillna(0)
         mean_values = data.drop('name', axis=1).mean()
         new_row = pd.Series(data={'name': 'Average'}, name='Average').append(mean_values)
         data = data.append(new_row, ignore_index=True)
@@ -343,10 +345,40 @@ if __name__ == '__main__':
         all_values = data[data['name'] != 'Average'].drop('name', axis=1).sum()
         all_values_row = pd.Series(data={'name': 'sum'}, name='sum').append(all_values)
 
-
         new_row_triple = pd.Series(data={'name': 'triple'}, name='triple').append(mean_values)
         for method in full2abbr.values():
             for type in ['_v1', '_v2', '_v3']:
+                if method+type+'_tn' in all_values.keys():
+                    precision = all_values[method+type+'_tn'] / all_values[method+'_pn']
+                    recall = all_values[method+type+'_tn'] / all_values[method+'_gn']
+                    f1 = 2*precision*recall / (precision + recall)
+                    new_row_triple[method+type+'_p'] = precision
+                    new_row_triple[method+type+'_r'] = recall
+                    new_row_triple[method+type+'_f1'] = f1
+        data = data.append(new_row_triple, ignore_index=True)
+        print(data.columns)
+        # data = data.append(all_values_row, ignore_index=True)
+        data = data[[item for item in data.columns if ('n' not in item) or (item == 'name')]]
+        # data = data[['name',  'w_v2_f1',  'd_e_v2_f1',  'p_e_v2_f1' ]]
+        # data = data[['name','w_v2_p', 'w_v2_r', 'w_v2_f1', 'd_e_v2_p', 'd_e_v2_r', 'd_e_v2_f1',  'p_e_v2_p', 'p_e_v2_r', 'p_e_v2_f1']]
+        # data = data[['name', 'd_g_v2_p', 'd_g_v2_r', 'd_g_v2_f1',  'p_g_v2_p', 'p_g_v2_r', 'p_g_v2_f1']]
+        data = data[['name','w_v1_p', 'w_v1_r', 'w_v1_f1', 'w_v2_p', 'w_v2_r', 'w_v2_f1', 'w_v3_p', 'w_v3_r', 'w_v3_f1', 'd_e_v1_p', 'd_e_v1_r', 'd_e_v1_f1', 'd_e_v2_p', 'd_e_v2_r', 'd_e_v2_f1', 'd_e_v3_p', 'd_e_v3_r', 'd_e_v3_f1',  'p_e_v1_p', 'p_e_v1_r', 'p_e_v1_f1', 'p_e_v2_p', 'p_e_v2_r', 'p_e_v2_f1', 'p_e_v3_p', 'p_e_v3_r', 'p_e_v3_f1']]
+        csv_file_path = r'./result/'+dir_name +'_one.xlsx'
+        data.round(3).to_excel(csv_file_path, index=False,  encoding='utf-8-sig')
+
+    # for all person's view
+
+        data = pd.DataFrame(result_list_all)
+        data = data.fillna(0)
+        mean_values = data.drop('name', axis=1).mean()
+        new_row = pd.Series(data={'name': 'Average'}, name='Average').append(mean_values)
+        data = data.append(new_row, ignore_index=True)
+        all_values = data[data['name'] != 'Average'].drop('name', axis=1).sum()
+        all_values_row = pd.Series(data={'name': 'sum'}, name='sum').append(all_values)
+        new_row_triple = pd.Series(data={'name': 'triple'}, name='triple').append(mean_values)
+    for method in full2abbr.values():
+        for type in ['_v1', '_v2', '_v3']:
+            if method+type+'_tn' in all_values.keys():
                 precision = all_values[method+type+'_tn'] / all_values[method+'_pn']
                 recall = all_values[method+type+'_tn'] / all_values[method+'_gn']
                 f1 = 2*precision*recall / (precision + recall)
@@ -361,35 +393,6 @@ if __name__ == '__main__':
         data = data[['name','w_v1_p', 'w_v1_r', 'w_v1_f1', 'w_v2_p', 'w_v2_r', 'w_v2_f1', 'w_v3_p', 'w_v3_r', 'w_v3_f1', 'd_e_v1_p', 'd_e_v1_r', 'd_e_v1_f1', 'd_e_v2_p', 'd_e_v2_r', 'd_e_v2_f1', 'd_e_v3_p', 'd_e_v3_r', 'd_e_v3_f1',  'p_e_v1_p', 'p_e_v1_r', 'p_e_v1_f1', 'p_e_v2_p', 'p_e_v2_r', 'p_e_v2_f1', 'p_e_v3_p', 'p_e_v3_r', 'p_e_v3_f1']]
         # data = data[['name', 'd_g_v2_p', 'd_g_v2_r', 'd_g_v2_f1',  'p_g_v2_p', 'p_g_v2_r', 'p_g_v2_f1']]
 
-        csv_file_path = r'.\\result\\'+dir_name+'_all.xlsx'
-        data.round(3).to_excel(csv_file_path, index=False,  encoding='utf-8-sig')
-
-        data = pd.DataFrame(result_list_one)
-        mean_values = data.drop('name', axis=1).mean()
-        new_row = pd.Series(data={'name': 'Average'}, name='Average').append(mean_values)
-        data = data.append(new_row, ignore_index=True)
-
-        all_values = data[data['name'] != 'Average'].drop('name', axis=1).sum()
-        all_values_row = pd.Series(data={'name': 'sum'}, name='sum').append(all_values)
-
-        new_row_triple = pd.Series(data={'name': 'triple'}, name='triple').append(mean_values)
-        for method in full2abbr.values():
-            for type in ['_v1', '_v2', '_v3']:
-                precision = all_values[method+type+'_tn'] / all_values[method+'_pn']
-                recall = all_values[method+type+'_tn'] / all_values[method+'_gn']
-                f1 = 2*precision*recall / (precision + recall)
-                new_row_triple[method+type+'_p'] = precision
-                new_row_triple[method+type+'_r'] = recall
-                new_row_triple[method+type+'_f1'] = f1
-        data = data.append(new_row_triple, ignore_index=True)
-        print(data.columns)
-        # data = data.append(all_values_row, ignore_index=True)
-        data = data[[item for item in data.columns if ('n' not in item) or (item == 'name')]]
-        # data = data[['name',  'w_v2_f1',  'd_e_v2_f1',  'p_e_v2_f1' ]]
-        # data = data[['name','w_v2_p', 'w_v2_r', 'w_v2_f1', 'd_e_v2_p', 'd_e_v2_r', 'd_e_v2_f1',  'p_e_v2_p', 'p_e_v2_r', 'p_e_v2_f1']]
-        # data = data[['name', 'd_g_v2_p', 'd_g_v2_r', 'd_g_v2_f1',  'p_g_v2_p', 'p_g_v2_r', 'p_g_v2_f1']]
-        data = data[['name','w_v1_p', 'w_v1_r', 'w_v1_f1', 'w_v2_p', 'w_v2_r', 'w_v2_f1', 'w_v3_p', 'w_v3_r', 'w_v3_f1', 'd_e_v1_p', 'd_e_v1_r', 'd_e_v1_f1', 'd_e_v2_p', 'd_e_v2_r', 'd_e_v2_f1', 'd_e_v3_p', 'd_e_v3_r', 'd_e_v3_f1',  'p_e_v1_p', 'p_e_v1_r', 'p_e_v1_f1', 'p_e_v2_p', 'p_e_v2_r', 'p_e_v2_f1', 'p_e_v3_p', 'p_e_v3_r', 'p_e_v3_f1']]
-
-        csv_file_path = r'.\\result\\'+dir_name +'_one.xlsx'
+        csv_file_path = r'./result/'+dir_name+'_all.xlsx'
         data.round(3).to_excel(csv_file_path, index=False,  encoding='utf-8-sig')
 

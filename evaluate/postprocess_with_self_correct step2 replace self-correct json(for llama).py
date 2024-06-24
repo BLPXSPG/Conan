@@ -136,48 +136,59 @@ def postprocessing(character_data, replace_chinese,mathod_type):
 
 import os
 from pathlib import Path
-language = 'english'
-folder_path = r'../data/'+language+'/llama-70b_v2'
 
-if folder_path.split('/')[-1] == 'llama-70b_v2':
-    origin = 'llama-70b_v2'
-    replace = 'llama-70b_v3'
+if __name__ == '__main__':
 
-folder_path_detail = [os.path.join(folder_path, i) for i in os.listdir(folder_path) if i != 'character']
+    language = 'chinese'
+    folder_path = r'../data/'+language+'/llama3_70b_v2'
 
-for folder in folder_path_detail:
-    for root, dirs, files in os.walk(folder):
-        for file in files:
-            if file.endswith('.json'):
-                full_path = str(Path(root) / file)
+    if folder_path.split('/')[-1] == 'llama-70b_v2':
+        origin = 'llama-70b_v2'
+        replace = 'llama-70b_v3'
+    elif folder_path.split(os.path.sep)[-1] == 'llama3_70b_v2':
+        origin = 'llama3_70b_v2'
+        replace = 'llama3_70b_v3'
+    else:
+        print("wrong")
+        exit()
 
-                print(full_path)
-                with open(full_path, 'r', encoding='utf-8') as file:
-                    predict_truth = json.load(file)
-                if 'extract_whole_graph' in full_path:
-                    mathod_type = 0
-                elif 'relation_extract_directly' in full_path:
-                    mathod_type = 1
-                else:
-                    mathod_type = 2
+    folder_path_detail = [os.path.join(folder_path, i) for i in os.listdir(folder_path) if i != 'character']
 
-                new_dict = postprocessing(predict_truth,False, mathod_type)
+    for folder in folder_path_detail:
+        for root, dirs, files in os.walk(folder):
+            for file in files:
+                if file.endswith('.json'):
+                    full_path = str(Path(root) / file)
+                    if 'relation_character' in full_path:
+                        continue
 
-                desired_path = full_path.rsplit(os.sep, 1)[0] + os.sep
-                desired_path = desired_path.replace(origin,replace)
+                    print(full_path)
+                    with open(full_path, 'r', encoding='utf-8') as file:
+                        predict_truth = json.load(file)
+                    if 'extract_whole_graph' in full_path:
+                        mathod_type = 0
+                    elif 'relation_extract_directly' in full_path:
+                        mathod_type = 1
+                    else:
+                        mathod_type = 2
 
-                if not os.path.isdir(desired_path):
-                    os.makedirs(os.path.join(desired_path))
+                    new_dict = postprocessing(predict_truth,False, mathod_type)
 
-                full_file_name = full_path.replace(origin,replace).replace('update_all','all')
+                    desired_path = full_path.rsplit(os.path.sep, 1)[0] + os.path.sep
+                    desired_path = desired_path.replace(origin,replace)
 
-                # Saving the formatted and cleaned combined relationships to a new JSON file
-                with open(full_file_name, 'w', encoding='utf-8') as file:
-                    if new_dict is None:
-                        new_dict = "{}"
-                    file.write(new_dict)
+                    if not os.path.isdir(desired_path):
+                        os.makedirs(os.path.join(desired_path))
+
+                    full_file_name = full_path.replace(origin,replace).replace('update_all','all')
+
+                    # Saving the formatted and cleaned combined relationships to a new JSON file
+                    with open(full_file_name, 'w', encoding='utf-8') as file:
+                        if new_dict is None:
+                            new_dict = "{}"
+                        file.write(new_dict)
 
 
-print(1-len(after_list[0])/len(before_list[0]))
-print(1-len(after_list[1])/len(before_list[1]))
-print(1-len(after_list[2])/len(before_list[2]))
+    print(1-len(after_list[0])/len(before_list[0]))
+    print(1-len(after_list[1])/len(before_list[1]))
+    print(1-len(after_list[2])/len(before_list[2]))

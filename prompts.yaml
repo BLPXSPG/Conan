@@ -6,6 +6,58 @@ extract_relationships: |-
 
   Response in JSON format ONLY: {"character name": [["linked character", "relationship"], ["linked character", "relationship"]], "character name": [["linked character", "relationship"], ["linked character", "relationship"]]}
 
+extract_relationships_category: |-
+  From the categories: {categories}
+  Classify the character relationships based on the character background. Multiple selections are possible.
+  Character Background - You are {character_name}:
+  {character_background_text}
+
+  Response in JSON format only: {"character name": [["linked character", "relationship 1, relationship 2"], ["linked character", "relationship 1, relationship 2"]], "character name": [["linked character", "relationship 1, relationship 2"]]}
+# extract characters from the given narrative
+ext_character_list_sys: |-
+  List characters in the given story, return in JSON format.
+e_r_c_given_character: |-
+  From the categories: {categories}
+  
+  The character list: {character_list}
+  Classify the character relationships based on the character background and character list. Multiple selections are possible.
+  Character Background - You are {character_name}:
+  {character_background_text}
+
+  Response in JSON format only: {"character name": [["linked character", "relationship 1, relationship 2"], ["linked character", "relationship 1, relationship 2"]], "character name": [["linked character", "relationship 1, relationship 2"]]}
+
+u_r_c_given_character: |-
+  From the categories: {categories}
+  
+  The character list: {character_list}
+  Classify the character relationships, here is the known relationships:
+  {relationships_graph}
+
+  Update character relationships based on the character background below: 
+  Character Background - You are {character_name}:
+  {character_background_text}
+
+  Response in JSON format only: {"character name": [["linked character", "relationship 1, relationship 2"], ["linked character", "relationship 1, relationship 2"]], "character name": [["linked character", "relationship 1, relationship 2"]]}
+
+update_relationships_category: |-
+  Here is the known relationships:
+  {relationships_graph}
+
+  From the categories: {categories}
+  Update character relationships based on the character background below: 
+  Character Background - You are {character_name}:
+  {character_background_text}
+
+  Response in JSON format only: {"character name": [["linked character", "relationship 1, relationship 2"], ["linked character", "relationship 1, relationship 2"]], "character name": [["linked character", "relationship 1, relationship 2"]]}
+
+extract_relationships_category_llama: |-
+  From the categories: {categories}
+  Classify the character relationships based on the character background. Multiple selections are possible.
+  Character Background - You are {character_name}:
+  {character_background_text}
+
+  Response in JSON format only: {json_response}
+
 extract_relation_and_character: |-
   Please classify the relationships between the characters using the given relationship categories {categories}. Note that multiple relationships categories can be applied to each character pair.
 
