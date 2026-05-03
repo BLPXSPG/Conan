@@ -28,8 +28,6 @@ Each narrative features descriptions from various characters' perspectives, loca
 ## Citation
 If you use the Conan dataset or benchmark in your research, please cite our paper:
 
-Runcong Zhao, Qinglin Zhu, Hainiu Xu, Jiazheng Li, Yuxiang Zhou, Yulan He, and Lin Gui. 2024. [Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives](https://aclanthology.org/2024.findings-acl.454/). In *Findings of the Association for Computational Linguistics: ACL 2024*, pages 7618-7638, Bangkok, Thailand. Association for Computational Linguistics.
-
 ```bibtex
 @inproceedings{zhao-2024-conan,
   title = {Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives},
